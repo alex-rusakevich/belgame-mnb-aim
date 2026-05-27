@@ -1,4 +1,5 @@
 from pathlib import Path
+import shutil
 from invoke import task
 from pick import pick
 import polib
@@ -11,6 +12,7 @@ now = datetime.now().strftime("%Y-%m-%d %H:%M%z")
 ID_COL = 0
 MSG_COL = 1
 PO_FILE = "translation.po"
+TRANSLATION_DIR = "translation"
 PO_FILE_METADATA = {
     "Project-Id-Version": "1.0",
     "Report-Msgid-Bugs-To": "mr.alexander.rusakevich@gmail.com",
@@ -39,18 +41,18 @@ def fetch_entries(csv_file_path: str) -> list[polib.POEntry]:
                 continue
 
             msgid = row[ID_COL].strip()
-            msgstr = row[MSG_COL].strip()
+            msgstr = row[MSG_COL]
 
             if msgid:  # Skip empty keys
                 entry = polib.POEntry(msgid=msgid, msgstr=msgstr)
+                entry.flags.append("fuzzy")
                 entries.append(entry)
     return entries
 
 
 @task
 def csv_to_po(c):
-    input_dir = Path("translation")
-
+    input_dir = Path(TRANSLATION_DIR)
     csv_files = list(input_dir.rglob("*.csv"))
 
     if not csv_files:
@@ -96,4 +98,71 @@ def csv_to_po(c):
 
 @task
 def po_to_csv(c):
-    pass
+    input_dir = Path(TRANSLATION_DIR)
+    po_file = polib.pofile(PO_FILE)
+    csv_files = list(input_dir.rglob("*.csv"))
+
+    if not csv_files:
+        print(f"No CSV files found in {input_dir}")
+        return
+
+    print(f"Found {len(csv_files)} CSV file(s)")
+
+    for csv_file_path in csv_files:
+        msg_ids = []
+        encoding = "utf8"
+
+        if Path(csv_file_path).stem == "uimain":
+            encoding = "cp1251"
+
+        with open(csv_file_path, encoding=encoding) as csv_file:
+            reader = csv.reader(csv_file, delimiter="|")
+
+            for row in reader:
+                if row == []:
+                    continue
+
+                msg_id = row[ID_COL]
+
+                if msg_id not in msg_ids:
+                    msg_ids.append(msg_id)
+
+        with open(csv_file_path, "w", encoding=encoding, newline="") as csv_file:
+            writer = csv.writer(csv_file, delimiter="|")
+
+            for msg_id in list(msg_ids):
+                translation = po_file.find(msg_id)
+                writer.writerow([translation.msgid, translation.msgstr])
+
+        print(f"Checked and updated {csv_file_path}")
+
+
+@task(pre=[po_to_csv])
+def install(c):
+    game_folder = input("Game folder: ")
+
+    game_settings_folder = (
+        Path.home() / "Documents"
+    ) / "Mount&Blade With Fire and Sword"
+
+    (game_settings_folder / "language.txt").write_text("be")
+
+    PATHS = [
+        "Data/languages/be",
+        "languages/be",
+        "Modules/Ogniem i Mieczem/languages/be",
+        "Textures/languages/be",
+    ]
+
+    for path in PATHS:
+        src = (Path(TRANSLATION_DIR) / path).resolve()
+        dest = (Path(game_folder) / path).resolve()
+
+        print(f"Copying {src} -> {dest}")
+
+        if dest.exists():
+            shutil.rmtree(dest)
+            print(f"Deleted {dest}")
+
+        # Копируем исходную папку
+        shutil.copytree(src, dest)
