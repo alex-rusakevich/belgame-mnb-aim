@@ -1,0 +1,99 @@
+from pathlib import Path
+from invoke import task
+from pick import pick
+import polib
+import csv
+from datetime import datetime
+
+
+now = datetime.now().strftime("%Y-%m-%d %H:%M%z")
+
+ID_COL = 0
+MSG_COL = 1
+PO_FILE = "translation.po"
+PO_FILE_METADATA = {
+    "Project-Id-Version": "1.0",
+    "Report-Msgid-Bugs-To": "mr.alexander.rusakevich@gmail.com",
+    "POT-Creation-Date": now,
+    "PO-Revision-Date": now,
+    "Last-Translator": "Alexander Rusakevich <mr.alexander.rusakevich@gmail.com>",
+    "MIME-Version": "1.0",
+    "Content-Type": "text/plain; charset=UTF-8",
+    "Content-Transfer-Encoding": "8bit",
+    "Language": "be",
+}
+
+
+def fetch_entries(csv_file_path: str) -> list[polib.POEntry]:
+    entries = []
+    encoding = "utf8"
+
+    if Path(csv_file_path).stem == "uimain":
+        encoding = "cp1251"
+
+    with open(csv_file_path, encoding=encoding) as csv_file:
+        reader = csv.reader(csv_file, delimiter="|")
+
+        for row in reader:
+            if row == []:
+                continue
+
+            msgid = row[ID_COL].strip()
+            msgstr = row[MSG_COL].strip()
+
+            if msgid:  # Skip empty keys
+                entry = polib.POEntry(msgid=msgid, msgstr=msgstr)
+                entries.append(entry)
+    return entries
+
+
+@task
+def csv_to_po(c):
+    input_dir = Path("translation")
+
+    csv_files = list(input_dir.rglob("*.csv"))
+
+    if not csv_files:
+        print(f"No CSV files found in {input_dir}")
+        return
+
+    print(f"Found {len(csv_files)} CSV file(s)")
+
+    all_entries = []  # type: list[polib.POEntry]
+
+    for csv_file in csv_files:
+        file_entries = fetch_entries(csv_file)
+
+        for new_entry in file_entries:
+            is_entry_fresh = True
+
+            for i, old_entry in enumerate(all_entries):
+                if new_entry.msgid == old_entry.msgid:
+                    is_entry_fresh = False
+
+                    if new_entry.msgstr != old_entry.msgstr:
+                        option, _ = pick(
+                            [new_entry.msgstr, old_entry.msgstr],
+                            title=f"ID conflict: {new_entry.msgid}",
+                        )
+                        all_entries[i].msgstr = option
+
+            if is_entry_fresh:
+                all_entries.append(new_entry)
+
+        print(f"Fetched {len(file_entries)} entries from {csv_file}")
+
+    po_file = polib.POFile()
+    po_file.metadata = PO_FILE_METADATA
+
+    for entry in all_entries:
+        po_file.append(entry)
+
+    po_file.save(PO_FILE)
+
+    print(f"Done! Fetched {len(all_entries)} entries")
+
+
+@task
+def po_to_csv(c):
+    pass

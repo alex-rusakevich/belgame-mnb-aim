@@ -1,0 +1,19 @@
+[project]
+name = "belgame-mnb-aim"
+version = "1.0"
+description = ""
+authors = [
+    {name = "Alexander Rusakevich",email = "mr.alexander.rusakevich@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "invoke (>=3.0.3,<4.0.0)",
+    "polib (>=1.2.0,<2.0.0)",
+    "pick (>=2.6.0,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
