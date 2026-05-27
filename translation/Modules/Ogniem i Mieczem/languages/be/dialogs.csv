@@ -302,7 +302,7 @@ dlga_player_siege_ask_leave_unmolested_accept:close_window|Хорошо. Тог�
 dlga_player_siege_ask_leave_unmolested:player_siege_ask_leave_unmolested_reject|Не пойдет. Мне нужны пленные.
 dlga_player_siege_ask_leave_unmolested_reject:close_window|Тогда мы будем защищать эту крепость до последней капли крови. Нам больше не о чем говорить.
 dlga_start:freed_lord_answer|Спасибо, что освободил меня, друг мой! Я перед тобой в долгу!
-dlga_freed_lord_answer:freed_lord_answer_1|Никто тебя не освобождал, "друг мой". Теперь ты мой пленник.
+dlga_freed_lord_answer:freed_lord_answer_1|"Никто тебя не освобождал, ""друг мой"". Теперь ты мой пленник."
 dlga_freed_lord_answer_1:close_window|Мерзавец! Ты за это еще поплатишься, помяни мое слово!
 dlga_freed_lord_answer:freed_lord_answer_2|Ты волен идти куда вздумается.
 dlga_freed_lord_answer_2:close_window|Благодарю, {добрый господин/милая леди}. Я никогда не забываю тех, кто делал мне добро.
@@ -899,16 +899,16 @@ dlga_lord_mission_told_kill_local_merchant:lord_mission_rejected|Я не нае�
 dlga_lord_mission_accepted_kill_local_merchant:close_window|Отлично. Я доверяю тебе, {playername}. Не разочаруй меня. Жди весточку - я сообщу, когда и где ты сможешь застать торговца. Разберись с ним, и я щедро тебя награжу.
 dlga_lord_tell_mission:lord_mission_told_meet_spy_in_enemy_town|У меня есть одно деликатное дельце, {playername}, и нет доверенных лиц, чтобы с ним разобраться. Дело в том, что в городе {s13} у меня есть соглядатай. Он следит за тем, что творится в городе, и сообщает мне обо всем, что могло бы привлечь мое внимание. Каждую неделю я посылаю туда кого-нибудь, чтобы забрать у лазутчика донесения и привезти их мне. Я могу поручить тебе это дело, ежели возьмешься.
 dlga_lord_mission_told_meet_spy_in_enemy_town:quest_meet_spy_in_enemy_town_accepted|Да, я не прочь поразвлечься. Все сделаю, не волнуйся.
-dlga_lord_mission_told_meet_spy_in_enemy_town:quest_meet_spy_in_enemy_town_rejected|Мне придется отклонить это предложение. Дело "плаща и кинжала" - не для меня.
+dlga_lord_mission_told_meet_spy_in_enemy_town:quest_meet_spy_in_enemy_town_rejected|"Мне придется отклонить это предложение. Дело ""плаща и кинжала"" - не для меня."
 dlga_quest_meet_spy_in_enemy_town_accepted:quest_meet_spy_in_enemy_town_accepted_response|Отлично! Отправляйся поскорее в {s13}, мой шпион будет ждать.
 dlga_quest_meet_spy_in_enemy_town_accepted_response:quest_meet_spy_in_enemy_town_accepted_2|{s13} - опасное место. Как мне добраться туда так, чтобы меня не заметили?
 dlga_quest_meet_spy_in_enemy_town_accepted_2:quest_meet_spy_in_enemy_town_accepted_response|Тебе придется скрываться. Избегай вражеских крепостей, деревень и патрулей - и не бери с собой слишком много людей. Если не удастся проникнуть с первого раза, подожди, пока гарнизон успокоится и вновь потеряет бдительность. Не торопись, иначе придется туго.
 dlga_quest_meet_spy_in_enemy_town_accepted_response:quest_meet_spy_in_enemy_town_accepted_3|Как я узнаю твоего шпиона?
-dlga_quest_meet_spy_in_enemy_town_accepted_3:quest_meet_spy_in_enemy_town_accepted_response|Когда доберешься до {s13}, поговори с местными, шпион будет одним из них. Если решишь, что это он, произнеси: "{s11}". Мой лазутчик ответит  фразой: "{s12}". Так ты и узнаешь, что это нужный человек. {reg7?Она:Он} передаст тебе все собранные для меня сведения.{reg7? : }
+dlga_quest_meet_spy_in_enemy_town_accepted_3:quest_meet_spy_in_enemy_town_accepted_response|"Когда доберешься до {s13}, поговори с местными, шпион будет одним из них. Если решишь, что это он, произнеси: ""{s11}"". Мой лазутчик ответит  фразой: ""{s12}"". Так ты и узнаешь, что это нужный человек. {reg7?Она:Он} передаст тебе все собранные для меня сведения.{reg7? : }"
 dlga_quest_meet_spy_in_enemy_town_accepted_response:quest_meet_spy_in_enemy_town_accepted_4|Ты заплатишь мне за работу?
 dlga_quest_meet_spy_in_enemy_town_accepted_4:quest_meet_spy_in_enemy_town_accepted_response|Конечно, у меня в сундуках полно серебра для верных людей. Делай мне добро, {playername}, а уж я в долгу не останусь.
 dlga_quest_meet_spy_in_enemy_town_accepted_response:quest_meet_spy_in_enemy_town_accepted_end|Мне ясно, что делать. Прощай, господин.
-dlga_quest_meet_spy_in_enemy_town_accepted_end:lord_pretalk|Удачи, {playername}. Помни, пароль: "{s11}". Отзыв: "{s12}". Привези донесения мне, и уж я тебя отблагодарю.
+dlga_quest_meet_spy_in_enemy_town_accepted_end:lord_pretalk|"Удачи, {playername}. Помни, пароль: ""{s11}"". Отзыв: ""{s12}"". Привези донесения мне, и уж я тебя отблагодарю."
 dlga_quest_meet_spy_in_enemy_town_rejected:lord_pretalk|Как хочешь, {playername}, но я тебе советую забыть все, что я говорил о каких-то там шпионах. Их не существует, никогда не существовало, а если что - никто их никогда не найдет. Помни об этом.
 dlga_lord_tell_mission:lord_mission_told_raid_caravan_to_start_war|{s13} - подлый народец, и все это знают. Мир с ними раздражает меня, {playername}. Мы слишком долго закрывали глаза на их козни. Теперь они становятся все сильнее, а их высокомерие перешло всякие границы. Мы должны объявить им войну, пока не поздно! К сожалению, некоторые мои подданные по-прежнему цепляются за мир. Хм. Бабы и безмозглые трусы.
 dlga_lord_mission_told_raid_caravan_to_start_war:lord_mission_tell_raid_caravan_to_start_war_2|Ты прав, {s65}, но что мы можем поделать?
@@ -1764,7 +1764,7 @@ dlga_oim_talk_to_monfor_intro_19:oim_talk_to_monfor_intro_20|О чем же?
 dlga_oim_talk_to_monfor_intro_20:oim_talk_to_monfor_intro_21|Можешь рассказать мне о Войске Запорожском?
 dlga_oim_talk_to_monfor_intro_21:oim_talk_to_monfor_intro_19|Казаки сражаются за вольности и мечтают создать собственную державу на манер Речи Посполитой. Только шляхтой там будут не католики-поляки (ляхи, как они говорят), а православная казацкая верхушка. Несколько лет назад Войско Запорожское в кровопролитных боях добилось частичной независимости от польской короны, но теперь времена изменились. Нынче украинский гетман пошел под руку московского царя и воюет на его стороне.
 dlga_oim_talk_to_monfor_intro_20:oim_talk_to_monfor_intro_22|Можешь рассказать мне о Речи Посполитой?
-dlga_oim_talk_to_monfor_intro_22:oim_talk_to_monfor_intro_19|Это самое удивительное государство из всех, что я видел - "феодальная республика". Ее составляют три больших народа: поляки, литвины и русичи-украинцы, почти вся знать - польского происхождения. Короля они избирают на сейме, там же принимаются и все важные решения. Но вольнолюбивая польская шляхта находится в постоянных раздорах, которые приводят к военным неудачам. Если они не одумаются и не выступят единой силой, то в ближайшее время соседи, где на тронах сидят единовластные правители, смогут их завоевать.
+dlga_oim_talk_to_monfor_intro_22:oim_talk_to_monfor_intro_19|"Это самое удивительное государство из всех, что я видел - ""феодальная республика"". Ее составляют три больших народа: поляки, литвины и русичи-украинцы, почти вся знать - польского происхождения. Короля они избирают на сейме, там же принимаются и все важные решения. Но вольнолюбивая польская шляхта находится в постоянных раздорах, которые приводят к военным неудачам. Если они не одумаются и не выступят единой силой, то в ближайшее время соседи, где на тронах сидят единовластные правители, смогут их завоевать."
 dlga_oim_talk_to_monfor_intro_20:oim_talk_to_monfor_intro_23|Можешь рассказать мне о Московском царстве?
 dlga_oim_talk_to_monfor_intro_23:oim_talk_to_monfor_intro_19|Смутные времена на Руси давно закончились. Теперь новая царская династия Романовых стремится возвратить земли, отторгнутые в свое время Польшей, и прирастить державу на западе за счет земель с православным населением. Алексей Михайлович решил собрать все русские земли, которые сейчас принадлежат Речи Посполитой в едином государстве. У царя огромная армия, и он со дня на день выступит в поход.
 dlga_oim_talk_to_monfor_intro_20:oim_talk_to_monfor_intro_24|Можешь рассказать мне о Королевстве Швеция?
@@ -1942,7 +1942,7 @@ dlga_oim_tatarin_first_talk_13:oim_tatarin_first_talk_14|С чего ты взя
 dlga_oim_tatarin_first_talk_14:oim_tatarin_first_talk_15|Прикинувшись купцом, я привел обоз в Брянск. Там в трактире подкупил гонца, который вез письмо от Хмельницкого к царю. В этом-то письме и было сказано, что задумали казаки с московитами.
 dlga_oim_tatarin_first_talk_15:oim_tatarin_first_talk_16|Письмо у тебя с собой?
 dlga_oim_tatarin_first_talk_16:oim_tatarin_first_talk_17|Я сделал с него точный список. Вот прочти.
-dlga_oim_tatarin_first_talk_17:oim_tatarin_first_talk_18|Хм. Интересные вещи здесь написаны: "...а потом, твое величество царь, соберемся вместе и пойдем на Крым. Ты забирай себе Бахчисарай, Кафу и Азов, а мне отдай Аккерман и Сугдею. Татар повоюем, а потом уж в Стамбул, к султану турецкому в гости заявимся..." Складно написано, да только веры тебе особой нет. Будь эта грамота с печатью самого гетмана - другое дело. А так, может, ты все сам сочинил.
+dlga_oim_tatarin_first_talk_17:oim_tatarin_first_talk_18|"Хм. Интересные вещи здесь написаны: ""...а потом, твое величество царь, соберемся вместе и пойдем на Крым. Ты забирай себе Бахчисарай, Кафу и Азов, а мне отдай Аккерман и Сугдею. Татар повоюем, а потом уж в Стамбул, к султану турецкому в гости заявимся..."" Складно написано, да только веры тебе особой нет. Будь эта грамота с печатью самого гетмана - другое дело. А так, может, ты все сам сочинил."
 dlga_oim_tatarin_first_talk_18:oim_tatarin_first_talk_19|Поверь мне, {playername}-бей!!! Аллахом клянусь, это правда. Отпусти меня на свободу, а лучше доставь в Перекоп. Мурза тебя щедро наградит. А казакам не верь, обманут они тебя.
 dlga_oim_tatarin_first_talk_19:oim_tatarin_first_talk_19_neg|Не верить басурманину.
 dlga_oim_tatarin_first_talk_19_neg:close_window|Эй, казаки! А ну-ка дайте этому нехристю батогов, свяжите покрепче да суньте в рот шмат сала, чтобы он своим поганым языком черных речей не разводил.
@@ -2182,7 +2182,7 @@ dlga_potop_deliver_swedish_troops_positive:close_window|Да и чуть не з
 dlga_potop_deliver_swedish_troops_1:potop_deliver_swedish_troops_2|Ну, и где же швед?
 dlga_potop_deliver_swedish_troops_2:lord_pretalk|Сбежал, государь. В следующий раз не уйдет!
 dlga_potop_deliver_swedish_troops_reward:potop_deliver_swedish_troops_reward_1|Крепки еретические заблуждения у шведа. Заплечных дел мастер уже два раза рубашку выкручивал, а тот все талдычит: 'forstar inte!'
-dlga_potop_deliver_swedish_troops_reward_1:lord_pretalk|Так это ж, вроде бы, "не понимаю" по-ихнему. Может, толмача позвали бы... 
+dlga_potop_deliver_swedish_troops_reward_1:lord_pretalk|"Так это ж, вроде бы, ""не понимаю"" по-ихнему. Может, толмача позвали бы... "
 dlga_potop_deliver_swedish_troops_reward:oim_potop_defend_church_start|Ну вот, наконец-то склонили к католичеству еретика-протестанта... 
 dlga_oim_potop_defend_church_start:oim_potop_defend_church_start_1|У меня к тебе новое дело. Пленный швед рассказал на допросе, что шведский король отправил сильный отряд в Ченстохову под видом разбойников. В Ченстохове находится Ясногорский монастырь. Они хотят разграбить его и осквернить нашу святыню.
 dlga_oim_potop_defend_church_start_1:oim_potop_defend_church_start_2|Что за святыня?
@@ -2665,7 +2665,7 @@ dlga_oim_getman_knyaz_boryat_dlg_generik_end_2:oim_getman_knyaz_boryat_dlg_gener
 dlga_oim_getman_knyaz_boryat_dlg_generik_end_3:oim_getman_knyaz_boryat_dlg_generik_end_4|Да. Я выяснил, что Черный Гетман в руках Януша Радзивилла. Осталось узнать, зачем он ему.
 dlga_oim_getman_knyaz_boryat_dlg_generik_end_4:oim_getman_knyaz_boryat_dlg_generik_end_5|Я сам в этой легенде не больно-то сведущ... Мне с детства твердили, дескать, мы, Борятинские, потомки князей Ольговичей. У нас в роду и предание есть, будто мы наследники некоего Черного Гетмана... Отец верил, что раскрыв сию тайну, он принесет славу и уважение нашему роду. Он отправился на поиски в Киев, а оттуда в Несвиж. Да видно, все напрасно... 
 dlga_oim_getman_knyaz_boryat_dlg_generik_end_5:oim_getman_knyaz_boryat_dlg_generik_end_6|А не осталось ли у тебя каких отцовских записей?
-dlga_oim_getman_knyaz_boryat_dlg_generik_end_6:oim_getman_knyaz_boryat_dlg_generik_end_7|Была у нас в имении какая-то "Воронова книга". Отец ее часто перечитывал. Да только я ее продал... Большие деньги мне за нее предложили.
+dlga_oim_getman_knyaz_boryat_dlg_generik_end_6:oim_getman_knyaz_boryat_dlg_generik_end_7|"Была у нас в имении какая-то ""Воронова книга"". Отец ее часто перечитывал. Да только я ее продал... Большие деньги мне за нее предложили."
 dlga_oim_getman_knyaz_boryat_dlg_generik_end_7:oim_getman_knyaz_boryat_dlg_generik_end_8|Продал? Кому?
 dlga_oim_getman_knyaz_boryat_dlg_generik_end_8:oim_getman_knyaz_boryat_dlg_generik_end_9|Книготорговцу, кому ж еще.
 dlga_oim_getman_knyaz_boryat_dlg_generik_end_9:oim_getman_knyaz_boryat_dlg_generik_end_10|А как его звали?
@@ -2763,7 +2763,7 @@ dlga_oim_getman_radzivil_npc2_dlg_3:oim_getman_radzivil_npc2_dlg_4|Именно 
 dlga_oim_getman_radzivil_npc2_dlg_4:oim_getman_radzivil_npc2_dlg_5|А Черный Гетман? Тебе удалось его заполучить?
 dlga_oim_getman_radzivil_npc2_dlg_5:close_window|Вот он, у меня на поясе. Давай-ка заканчивать с разговорами. Поскакали скорее отсюда, пока не выслали погоню. Впрочем, там, скорее всего не до нас...
 dlga_oim_getman_radzivil_died:oim_getman_radzivil_died_1|Дозволь доложить, {playername}! Мы приставлены были пленного князя охранять. Утром пришли его будить, а он того...
-dlga_oim_getman_radzivil_died_1:oim_getman_radzivil_died_2|Чего "того"?
+dlga_oim_getman_radzivil_died_1:oim_getman_radzivil_died_2|"Чего ""того""?"
 dlga_oim_getman_radzivil_died_2:oim_getman_radzivil_died_3|Ну, как бы это по-ученому сказать... холодный. Гикнулся, значит. Весь вечер ныл, что сердце болит, спать мешал. Не врал, выходит. Так что с ним делать?
 dlga_oim_getman_radzivil_died_3:close_window|Похороним со всеми почестями и продолжим путь.
 dlga_oim_getman_barabash_pernach_taken:oim_getman_barabash_pernach_taken_1|Не может быть! Тот самый пернач из казацкой легенды. Я, честно говоря, и не думал, что он существует на самом деле... Ну что же, {playername}, становись под мой бунчук, и давай начнем собирать казацкую старшину, чтобы вернуть казацкой державе былую честь и славу.
@@ -2926,7 +2926,7 @@ dlga_oim_start_quest_trakay_icon:oim_start_quest_trakay_icon_1|Селение н
 dlga_oim_start_quest_trakay_icon_1:oim_start_quest_trakay_icon_2|Вот что, почтенный, не морочь мне голову. Если знаешь, где его найти, но хочешь получить мзду, так и скажи.
 dlga_oim_start_quest_trakay_icon_2:oim_start_quest_trakay_icon_3|Ну, мзда еще никому не мешала. Однако сейчас Тракаю не деньги нужны, а помощь.
 dlga_oim_start_quest_trakay_icon_3:oim_start_quest_trakay_icon_4|И что же за помощь?
-dlga_oim_start_quest_trakay_icon_4:oim_start_quest_trakay_icon_5|Несчастье нас постигло, {господин/госпожа}... Была у нас в сельской часовенке чудотворная икона. Какая-никакая да своя, православная. Ее еще сам великий князь Ярослав Мудрый здесь оставил, когда город Юрьев заложил. Это уж потом мы стали Тракаем зваться, на литовский манер. Но на прошлой неделе приехал из Вильно ксендз с жолнерами и пограбил часовню - увез все "для нужд костела".
+dlga_oim_start_quest_trakay_icon_4:oim_start_quest_trakay_icon_5|"Несчастье нас постигло, {господин/госпожа}... Была у нас в сельской часовенке чудотворная икона. Какая-никакая да своя, православная. Ее еще сам великий князь Ярослав Мудрый здесь оставил, когда город Юрьев заложил. Это уж потом мы стали Тракаем зваться, на литовский манер. Но на прошлой неделе приехал из Вильно ксендз с жолнерами и пограбил часовню - увез все ""для нужд костела""."
 dlga_oim_start_quest_trakay_icon_5:oim_start_quest_trakay_icon_6|Ну и что же ты хочешь от меня?
 dlga_oim_start_quest_trakay_icon_6:oim_start_quest_trakay_icon_7|Найди ксендза и верни нашу святыню. Ну а я тебя за это отблагодарю. Разузнаю, где Герасима искать.
 dlga_oim_start_quest_trakay_icon_7:oim_start_quest_trakay_icon_8|Нужно подумать, отче. Я ведь в здешних местах человек новый... Где вот мне твоего ксендза искать?
@@ -3048,7 +3048,7 @@ dlga_oim_biyars_specnaz_init_dlg_13:oim_biyars_specnaz_init_dlg_14|Где мне
 dlga_oim_biyars_specnaz_init_dlg_14:close_window|В Кафе главный невольничий рынок. Поезжай туда, попробуй разузнать о ней.
 dlga_oim_dmitriy_nikita_auto_responce:close_window|Я смотрю, Алевтины при тебе нет, так что не трать мое время...
 dlga_oim_dmitriy_ransom_brok_dlg:oim_dmitriy_ransom_brok_dlg_1|Мала-мала слышал, однак. Ясырь с Руси привезли, там был девушк, шибко красив, но шибко злой.
-dlga_oim_dmitriy_ransom_brok_dlg_1:oim_dmitriy_ransom_brok_dlg_2|И где сейчас этот "шибко злой девушк"?
+dlga_oim_dmitriy_ransom_brok_dlg_1:oim_dmitriy_ransom_brok_dlg_2|"И где сейчас этот ""шибко злой девушк""?"
 dlga_oim_dmitriy_ransom_brok_dlg_2:oim_dmitriy_ransom_brok_dlg_3|Совсем плохо слышать, однако. По-русски ничего не понимать...
 dlga_oim_dmitriy_ransom_brok_dlg_3:oim_dmitriy_ransom_brok_dlg_4|Сочувствую. Какая сумма поможет тебе излечиться от глухоты?
 dlga_oim_dmitriy_ransom_brok_dlg_4:oim_dmitriy_ransom_brok_dlg_5|Однако, не шибко большой сумма. Всего 3000 талеров.

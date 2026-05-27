@@ -425,7 +425,7 @@ ui_unlimited|Неограничено
 ui_anisotropic_filtering|Анизотропная фильтрация
 ui_fast_water_reflection|Быстрые отражения на воде
 ui_maximum_framerate|Макс. частота кадров:
-ui_show_framerate|Показать частоту кадров:
+ui_show_framerate|Отображение частоты кадров:
 ui_estimated_performance|Примерная производительность: %d%%
 ui_change_graphics_settings_explanation|Некоторые произведенные вами изменения вступят в силу только после перехода в новую местность.
 ui_start_tutorial|Обучение
@@ -585,7 +585,7 @@ ui_quick|Низкое качество
 ui_none|Нет
 ui_change|Изменить
 ui_how_to_change|Как это изменить?
-ui_change_directx_explanation|Вы можете выбрать DirectX 7 или DirectX 9, нажав кнопку "Настройки" в меню запуска, которое открывается при первом запуске игры.
+ui_change_directx_explanation|"Вы можете выбрать DirectX 7 или DirectX 9, нажав кнопку ""Настройки"" в меню запуска, которое открывается при первом запуске игры."
 ui_dropping_picking_up|Брошено: %s. Поднято: %s.
 ui_dropping|Выброшено: %s.
 ui_picking_up|Поднято: %s.
@@ -636,7 +636,7 @@ ui_gender|Пол игрока:
 ui_edit_profile|Редактировать профиль
 ui_new_profile|Новый профиль
 ui_enter_username|Имя игрока:
-ui_invalid_username|В имени пользователя можно использовать только буквы латинского алфавита, цифры и символ "_".
+ui_invalid_username|"В имени пользователя можно использовать только буквы латинского алфавита, цифры и символ ""_""."
 ui_confirmation|Вы уверены?
 ui_multiplayer|Сетевая игра
 ui_server_name|Сервер
