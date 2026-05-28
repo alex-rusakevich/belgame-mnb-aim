@@ -8,6 +8,7 @@ AppendDefaultDirName=no
 DisableDirPage=auto
 OutputBaseFilename=Беларусіфікатар_Mount_&_Blade_Агнём_і_мячом
 DirExistsWarning=no
+LicenseFile=LICENSE.txt
 
 [Languages]
 Name: "be"; MessagesFile: "Belarusian.isl"
