@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: mr.alexander.rusakevich@gmail.com\n"
 "POT-Creation-Date: 2026-05-27 16:28\n"
-"PO-Revision-Date: 2026-05-28 14:30+0300\n"
+"PO-Revision-Date: 2026-05-28 16:01+0300\n"
 "Last-Translator: Alexander Rusakevich <mr.alexander.rusakevich@gmail.com>\n"
 "Language-Team: \n"
 "Language: be\n"
@@ -23633,9 +23633,8 @@ msgstr "Выберите класс войск:"
 msgid "str_choose_items"
 msgstr "Выбор снаряжения"
 
-#, fuzzy
 msgid "str_options"
-msgstr "Настройки"
+msgstr "Налады"
 
 #, fuzzy
 msgid "str_redefine_keys"
@@ -50446,9 +50445,8 @@ msgstr "Нажмите клавишу"
 msgid "ui_return_to_game"
 msgstr "Вернуться к игре"
 
-#, fuzzy
 msgid "ui_options"
-msgstr "Настройки"
+msgstr "Налады"
 
 #, fuzzy
 msgid "ui_save_and_exit"
@@ -50576,25 +50574,20 @@ msgstr "Некоторые произведенные вами изменени�
 msgid "ui_start_tutorial"
 msgstr "Обучение"
 
-#, fuzzy
 msgid "ui_start_a_new_game"
-msgstr "Новая игра"
+msgstr "Новая гульня"
 
-#, fuzzy
 msgid "ui_restore_a_saved_game"
-msgstr "Загрузить игру"
+msgstr "Загрузіць гульню"
 
-#, fuzzy
 msgid "ui_exit_to_windows"
-msgstr "Выход в Windows"
+msgstr "Выхад у Windows"
 
-#, fuzzy
 msgid "ui_credits"
-msgstr "Авторы"
+msgstr "Аўтары"
 
-#, fuzzy
 msgid "ui_version_value"
-msgstr "Версия: %s"
+msgstr "Версія: %s"
 
 #, fuzzy
 msgid "ui_active_quests"
@@ -50832,33 +50825,26 @@ msgstr "Осада"
 msgid "ui_troops"
 msgstr "Отряды:"
 
-#, fuzzy
 msgid "ui_loading_module_info_file"
-msgstr "Загрузка информации о модуле..."
+msgstr "Загрузка інфармацыі аб модулі..."
 
-#, fuzzy
 msgid "ui_processing_ini_file"
-msgstr "Обработка INI-файла..."
+msgstr "Апрацоўка INI-файла..."
 
-#, fuzzy
 msgid "ui_loading_music"
-msgstr "Загрузка музыки..."
+msgstr "Загрузка музыкі..."
 
-#, fuzzy
 msgid "ui_loading_data"
-msgstr "Загрузка данных..."
+msgstr "Загрузка дадзеных..."
 
-#, fuzzy
 msgid "ui_loading_setting_data"
-msgstr "Загрузка настроек..."
+msgstr "Загрузка налад..."
 
-#, fuzzy
 msgid "ui_loading_textures"
-msgstr "Загрузка текстур..."
+msgstr "Загрузка тэкстур..."
 
-#, fuzzy
 msgid "ui_finished"
-msgstr "Готово"
+msgstr "Гатова"
 
 #, fuzzy
 msgid "ui_creating_game"
@@ -51104,9 +51090,8 @@ msgstr "Летопись"
 msgid "ui_recent_messages"
 msgstr "Сообщения"
 
-#, fuzzy
 msgid "ui_custom_battle"
-msgstr "Быстрый бой"
+msgstr "Хуткі бой"
 
 #, fuzzy
 msgid "ui_player"
@@ -51413,9 +51398,8 @@ msgstr "В имени пользователя можно использоват
 msgid "ui_confirmation"
 msgstr "Вы уверены?"
 
-#, fuzzy
 msgid "ui_multiplayer"
-msgstr "Сетевая игра"
+msgstr "Сеткавая гульня"
 
 #, fuzzy
 msgid "ui_server_name"

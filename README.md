@@ -3,7 +3,7 @@
 
 Беларусіфікатар для гульні https://store.steampowered.com/app/48720/Mount__Blade_With_Fire__Sword/
 
-Заснаваны на русіфікатары https://rusmnb.ru/index.php?topic=10747.0
+Заснаваны на русіфікатары https://rusmnb.ru/index.php?topic=10747.0 і на шрыфце GNU/FreeSerif.
 
 # Увага
 

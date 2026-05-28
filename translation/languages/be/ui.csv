@@ -2,7 +2,7 @@
 ui_sound_volume|Громкость звука:
 ui_mouse_sensitivity|Чувствительность мыши:
 ui_invert_mouse_y_axis|Инвертирование мыши
-ui_enabled|Вкл.
+ui_enabled|Укл.
 ui_disabled|Выкл.
 ui_damage_to_player|Урон игроку:
 ui_reduced_to_1_over_4_easiest|Снижен до 1/4 (легче всего)
@@ -396,7 +396,7 @@ ui_set_default_keys|По умолчанию
 ui_undo_changes|Сброс
 ui_press_a_key|Нажмите клавишу
 ui_return_to_game|Вернуться к игре
-ui_options|Настройки
+ui_options|Налады
 ui_save_and_exit|Сохранение и выход
 ui_save|Сохранение
 ui_save_as|Сохранить как
@@ -414,7 +414,7 @@ ui_gamma|Гамма монитора:
 ui_character_detail|Уровень детализации героя:
 ui_character_shadow_detail|Уровень детализации тени героя:
 ui_blood_stains|Отображение крови:
-ui_on|Вкл.
+ui_on|Укл.
 ui_off|Выкл.
 ui_near_player_only|Только около игрока
 ui_default|По умолчанию
@@ -429,11 +429,11 @@ ui_show_framerate|Отображение частоты кадров
 ui_estimated_performance|Примерная производительность: %d%%
 ui_change_graphics_settings_explanation|Некоторые произведенные вами изменения вступят в силу только после перехода в новую местность.
 ui_start_tutorial|Обучение
-ui_start_a_new_game|Новая игра
-ui_restore_a_saved_game|Загрузить игру
-ui_exit_to_windows|Выход в Windows
-ui_credits|Авторы
-ui_version_value|Версия: %s
+ui_start_a_new_game|Новая гульня
+ui_restore_a_saved_game|Загрузіць гульню
+ui_exit_to_windows|Выхад у Windows
+ui_credits|Аўтары
+ui_version_value|Версія: %s
 ui_active_quests|Текущие задания
 ui_finished_quests|Законченные задания
 ui_given_on_date|Выдано: %s
@@ -493,13 +493,13 @@ ui_blunt_short|д
 ui_battle|Битва
 ui_siege|Осада
 ui_troops|Отряды:
-ui_loading_module_info_file|Загрузка информации о модуле...
-ui_processing_ini_file|Обработка INI-файла...
-ui_loading_music|Загрузка музыки...
-ui_loading_data|Загрузка данных...
-ui_loading_setting_data|Загрузка настроек...
-ui_loading_textures|Загрузка текстур...
-ui_finished|Готово
+ui_loading_module_info_file|Загрузка інфармацыі аб модулі...
+ui_processing_ini_file|Апрацоўка INI-файла...
+ui_loading_music|Загрузка музыкі...
+ui_loading_data|Загрузка дадзеных...
+ui_loading_setting_data|Загрузка налад...
+ui_loading_textures|Загрузка тэкстур...
+ui_finished|Гатова
 ui_creating_game|Создание игры...
 ui_loading_savegame_file|Загрузка сохраненной игры...
 ui_loading_map_file|Загрузка файла с картой...
@@ -561,7 +561,7 @@ ui_str_comma_str|%s, %s
 ui_need_to_learn_prisoner_management|Для того чтобы брать пленных, вам сначала нужно научиться их содержать.
 ui_game_log|Летопись
 ui_recent_messages|Сообщения
-ui_custom_battle|Быстрый бой
+ui_custom_battle|Хуткі бой
 ui_player|Игрок
 ui_value_denars|%d талеров
 ui_back|Назад
@@ -638,7 +638,7 @@ ui_new_profile|Новый профиль
 ui_enter_username|Имя игрока:
 ui_invalid_username|"В имени пользователя можно использовать только буквы латинского алфавита, цифры и символ ""_""."
 ui_confirmation|Вы уверены?
-ui_multiplayer|Сетевая игра
+ui_multiplayer|Сеткавая гульня
 ui_server_name|Сервер
 ui_module_name|Модуль
 ui_game_type|Тип игры

@@ -1343,7 +1343,7 @@ str_choose_a_faction|Выберите фракцию:
 str_choose_troop|Выбор класса войск
 str_choose_a_troop|Выберите класс войск:
 str_choose_items|Выбор снаряжения
-str_options|Настройки
+str_options|Налады
 str_redefine_keys|Изменение управления
 str_submit_a_poll|Создание голосования
 str_administrator_panel|Панель администратора
@@ -1351,7 +1351,7 @@ str_kick_player|Удаление игрока
 str_ban_player|Изгнание игрока
 str_mute_player|Лишение голоса
 str_unmute_player|Наделение голосом
-str_quit|Выход
+str_quit|Выхад
 str_poll_for_changing_the_map|Другая карта
 str_poll_for_changing_the_map_and_factions|Другая карта и фракции
 str_poll_for_changing_number_of_bots|Другое число ботов в командах

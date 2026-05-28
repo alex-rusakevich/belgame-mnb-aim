@@ -31,7 +31,7 @@ ui_manual_activation|Активировать вручную
 ui_offline_activation|Активация без интернета
 ui_manual_activation_caption|Активация вручную
 ui_offline_activation_caption|Активация без интернета
-ui_cancel2|Выход
+ui_cancel2|Выхад
 ui_close|Закрыть
 ui_ok2|ОК
 ui_activation_successful|Активация выполнена!
@@ -46,7 +46,7 @@ ui_incorrect_activation_code|Неверный код активации!
 ui_cant_write_to_registry|Невозможно зарегистрировать!
 ui_video|Графика
 ui_audio|Звук
-ui_game|Игра
+ui_game|Гульня
 ui_advanced|Дополнительно
 ui_mount_and_blade_is_ready|"Игра ""Mount&Blade. Огнем и мечом. Великие битвы"" готова к запуску."
 ui_notification_trial_mode|"Вы играете в пробную версию игры ""Mount&Blade. Огнем и мечом. Великие битвы"". Вы можете играть до тех пор, пока ваш персонаж не достигнет 6 уровня. Для того чтобы продолжить игру, вам нужно будет купить лицензию. Покупка лицензии через интернет и переход на полную версию игры займет всего несколько минут."
@@ -65,9 +65,9 @@ ui_auto_adjust|Автонастройка
 ui_screen_size|Разрешение экрана:
 ui_antialiasing|Сглаживание:
 ui_use_desktop_resolution|Разрешение раб.стола
-ui_play|Игра
+ui_play|Гуляць
 ui_check_for_new_version|Проверка обновлений
-ui_configure|Настройки
+ui_configure|Налады
 ui_configure_caption|  
 ui_mountandblade_website|Сайт игры
 ui_current_setting|                               Модуль:
