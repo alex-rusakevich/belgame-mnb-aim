@@ -1,0 +1,178 @@
+p_zendar|Зендар
+p_town_1|Кенигсберг
+p_town_2|Ревель
+p_town_3|Киев
+p_town_4|Вильно
+p_town_5|Сечь
+p_town_6|Варшава
+p_town_7|Львов
+p_town_8|Москва
+p_town_9|Псков
+p_town_10|Азак-кале
+p_town_11|Черкасск
+p_town_12|Рига
+p_town_13|Смоленск
+p_town_14|Бахчисарай
+p_town_15|Чернигов
+p_town_16|Краков
+p_town_17|Аккерман
+p_town_18|Казикермен
+p_castle_1|Крепость Збараж
+p_castle_2|Крепость Гезлев
+p_castle_3|Полоцк
+p_castle_4|Выборг
+p_castle_5|Замок Дзвинск
+p_castle_6|Новгород
+p_castle_7|Крепость Кильбурун
+p_castle_8|Тверь
+p_castle_9|Полтава
+p_castle_10|Крепость Ковно
+p_castle_11|Мядзельский замок
+p_castle_12|Нарва
+p_castle_13|Слуцк
+p_castle_14|Брацлав
+p_castle_15|Черкассы
+p_castle_16|Корсунь
+p_castle_17|Перекоп
+p_castle_18|Ржевская крепость
+p_castle_19|Курск
+p_castle_20|Лодзинский замок
+p_castle_21|Переяслав
+p_castle_22|Кафа
+p_castle_23|Дубенский замок
+p_castle_24|Каменец
+p_castle_25|Люблин
+p_castle_26|Минск
+p_castle_27|Крепость Берестье
+p_castle_28|Крепость Бар
+p_castle_29|Крепость Брянск
+p_castle_30|Крепость Измаил
+p_castle_31|Рязань
+p_castle_32|Алленштейнский замок
+p_castle_33|Крепость Ладыжин
+p_castle_34|Крепость Дорпат
+p_castle_35|Лидский замок
+p_castle_36|Крепость Динабург
+p_castle_37|Тула
+p_castle_38|Крепость Каланчак
+p_castle_39|Изюмская крепость
+p_castle_40|Крепость Кызыл-яр
+p_village_1|Плоцк
+p_village_2|Водовице
+p_village_3|Овруч
+p_village_4|Дунаевцы
+p_village_5|Эльблонг
+p_village_6|Видава
+p_village_7|Марксбург
+p_village_8|Везенберг
+p_village_9|Погребище
+p_village_10|Редькино
+p_village_11|Ордаш
+p_village_12|Богуслав
+p_village_13|Стрий
+p_village_14|Сланцы
+p_village_15|Барановичи
+p_village_16|Таруса
+p_village_17|Кривичи
+p_village_18|Поныри
+p_village_19|Покровское
+p_village_20|Ефремово
+p_village_21|Обоянь
+p_village_22|Льгов
+p_village_23|Магдалиновка
+p_village_24|Синельниково
+p_village_25|Джанкой
+p_village_26|Сновск
+p_village_27|Славута
+p_village_28|Сиваш
+p_village_29|Зигвольд
+p_village_30|Салис
+p_village_31|Пильве
+p_village_32|Староновице
+p_village_33|Радзилов
+p_village_34|Молодечно
+p_village_35|Снечко
+p_village_36|Нидрица
+p_village_37|Буджак
+p_village_38|Солечники
+p_village_39|Островец
+p_village_40|Крылив
+p_village_41|Тумнек
+p_village_42|Пологи
+p_village_43|Ак-Мечеть
+p_village_44|Есак
+p_village_45|Инкерман
+p_village_46|Ильинцы
+p_village_47|Золотоноша
+p_village_48|Потоки
+p_village_49|Нугай
+p_village_50|Софоново
+p_village_51|Вейбенштейн
+p_village_52|Хорол
+p_village_53|Несвиж
+p_village_54|Ченстохова
+p_village_55|Луга
+p_village_56|Торма
+p_village_57|Бабице
+p_village_58|Ярцы
+p_village_59|Лоев
+p_village_60|Добруш
+p_village_61|Леал
+p_village_62|Старица
+p_village_63|Остролека
+p_village_64|Кобеляки
+p_village_65|Дубечня
+p_village_66|Замошье
+p_village_67|Рудня
+p_village_68|Лубенец
+p_village_69|Тапиау
+p_village_70|Люботин
+p_village_71|Самбир
+p_village_72|Видзы
+p_village_73|Козелец
+p_village_74|Клин
+p_village_75|Людиново
+p_village_76|Чапле
+p_village_77|Поневеж
+p_village_78|Паволоч
+p_village_79|Борисполь
+p_village_80|Вендау
+p_village_81|Шауляй
+p_village_82|Тракай
+p_village_83|Лисянка
+p_village_84|Маслов брод
+p_village_85|Локня
+p_village_86|Валуйки
+p_village_87|Плунге
+p_village_88|Килия
+p_village_89|Лещиновка
+p_village_90|Коломак
+p_salt_mine|Соляная шахта
+p_four_ways_inn|"Трактир ""На семи ветрах"
+p_test_scene|тестовая сцена
+p_battlefields|поля боя
+p_dhorak_keep|Крепость Калькари
+p_training_ground|Лагерь наемников
+p_training_ground_1|Лагерь наемников
+p_training_ground_2|Лагерь наемников
+p_training_ground_3|Лагерь наемников
+p_training_ground_4|Лагерь наемников
+p_training_ground_5|Лагерь наемников
+p_temp_party_3|temp party 3
+p_bridge_1|1
+p_bridge_2|2
+p_bridge_3|3
+p_bridge_4|4
+p_bridge_5|5
+p_bridge_6|6
+p_bridge_7|7
+p_bridge_8|8
+p_bridge_9|9
+p_bridge_10|10
+p_bridge_11|11
+p_bridge_12|12
+p_bridge_13|13
+p_bridge_14|14
+p_bridge_15|15
+p_sea_raider_spawn_point_1|точка появления морского разбойника
+p_sea_raider_spawn_point_2|точка появления морского разбойника

@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 import shutil
-from invoke import task
+from invoke import run, task
 from pick import pick
 import polib
 import csv
@@ -189,3 +189,8 @@ def symbols_to_translate(c):
     print(
         f"Untranslated symbols number: {untr_symbol_num} ({untr_symbol_num / total_symbol_num * 100:.2f}%)"
     )
+
+
+@task(pre=[po_to_csv])
+def build(c):
+    run("iscc setup.iss")
