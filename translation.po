@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: mr.alexander.rusakevich@gmail.com\n"
 "POT-Creation-Date: 2026-05-27 16:28\n"
-"PO-Revision-Date: 2026-05-28 17:58+0300\n"
+"PO-Revision-Date: 2026-05-28 22:15+0300\n"
 "Last-Translator: Alexander Rusakevich <mr.alexander.rusakevich@gmail.com>\n"
 "Language-Team: \n"
 "Language: be\n"
@@ -589,9 +589,8 @@ msgstr "Это место мне очень дорого... Но если так
 msgid "dlga_member_castellan_join:member_castellan_pretalk"
 msgstr "А где мы будем ночевать? Ты ведешь с собой целую армию, {playername}, для всех не хватит места."
 
-#, fuzzy
 msgid "dlga_member_castellan_talk:close_window"
-msgstr "Уйти..."
+msgstr "Выйсці..."
 
 #, fuzzy
 msgid "dlga_member_chat:kidnapped_girl_chat_1"
@@ -4922,9 +4921,8 @@ msgstr "Не так быстро. Сначала вы отдадите все д
 msgid "dlga_talk_caravan_enemy_2:close_window"
 msgstr "Никогда! Мы должны защищать этот товар, так что тебе, подлое отродье, придется за него побороться!"
 
-#, fuzzy
 msgid "dlga_merchant_talk:close_window"
-msgstr "Уйти..."
+msgstr "Выйсці..."
 
 #, fuzzy
 msgid "dlga_start:prison_guard_players"
@@ -5016,9 +5014,8 @@ msgstr "Убирайся и не испытывай мое терпение, п�
 msgid "dlga_castle_guard_sneaked_intro_1:castle_guard_sneaked_intro_2"
 msgstr "Я хочу войти и поговорить с господином."
 
-#, fuzzy
 msgid "dlga_castle_guard_sneaked_intro_1:close_window"
-msgstr "Уйти..."
+msgstr "Выйсці..."
 
 #, fuzzy
 msgid "dlga_castle_guard_sneaked_intro_2:close_window"
@@ -5072,9 +5069,8 @@ msgstr "Я хочу поговорить с владельцем крепост�
 msgid "dlga_castle_gate_guard_talk:request_meeting_other"
 msgstr "Я хочу поговорить с кем-нибудь из крепости."
 
-#, fuzzy
 msgid "dlga_castle_gate_guard_talk:close_window"
-msgstr "Уйти..."
+msgstr "Выйсці..."
 
 #, fuzzy
 msgid "dlga_request_meeting_castle_lord:close_window"
@@ -6477,9 +6473,8 @@ msgstr "Касательно той работы, что ты мне предл�
 msgid "dlga_mayor_talk:merchant_quest_about_job"
 msgstr "Что касается работы, которую ты мне дал..."
 
-#, fuzzy
 msgid "dlga_mayor_talk:close_window"
-msgstr "Уйти..."
+msgstr "Выйсці..."
 
 #, fuzzy
 msgid "dlga_mayor_info_begin:mayor_info_talk"
@@ -7247,9 +7242,8 @@ msgstr "К сожалению, у тебя недостаточно {s1}. Из-�
 msgid "dlga_oim_get_feast_supplies_succeeded:village_elder_pretalk"
 msgstr "Спасибо за награду. Хорошо, что мне удалось помочь вам."
 
-#, fuzzy
 msgid "dlga_village_elder_talk:close_window"
-msgstr "Уйти..."
+msgstr "Выйсці..."
 
 #, fuzzy
 msgid "dlga_village_elder_buy_cattle:village_elder_buy_cattle_2"
@@ -7774,9 +7768,8 @@ msgstr "Убедить смоленского воеводу снизить по
 msgid "dlga_oim_intro_zamoshie_elder_5:oim_bring_goods_in_zamoshie_intro"
 msgstr "Привезти товары"
 
-#, fuzzy
 msgid "dlga_oim_intro_zamoshie_elder_5:close_window"
-msgstr "Уйти..."
+msgstr "Выйсці..."
 
 #, fuzzy
 msgid "dlga_oim_intro_kill_bandits_start:oim_intro_kill_bandits_dialog"
@@ -7923,9 +7916,8 @@ msgstr "Заплатить недоимку за селян ({reg8} талеро
 msgid "dlga_oim_convince_options:oim_convince_persuade_begin"
 msgstr "Попробовать убедить воеводу"
 
-#, fuzzy
 msgid "dlga_oim_convince_options:lord_pretalk"
-msgstr "Уйти..."
+msgstr "Выйсці..."
 
 #, fuzzy
 msgid "dlga_oim_convince_bribe:oim_convince_bribe_verify"
@@ -13834,21 +13826,17 @@ msgstr "Меня ждет мой отряд..."
 msgid "dlga_oim_tavern_visitor_simple_fight:oim_tavern_simple_fight_bet"
 msgstr "Какой мне резон просто так тебе ребра ломать? Вот если бы на пару серебряных поспорить..."
 
-#, fuzzy
 msgid "dlga_oim_tavern_simple_fight_bet:oim_tavern_simple_fight_goon"
-msgstr "5 талеров "
+msgstr "5 талераў "
 
-#, fuzzy
 msgid "dlga_oim_tavern_simple_fight_bet:oim_tavern_simple_fight_goon.1"
-msgstr "10 талеров "
+msgstr "10 талераў "
 
-#, fuzzy
 msgid "dlga_oim_tavern_simple_fight_bet:oim_tavern_simple_fight_goon.2"
-msgstr "15 талеров "
+msgstr "15 талераў "
 
-#, fuzzy
 msgid "dlga_oim_tavern_simple_fight_bet:oim_tavern_simple_fight_goon.3"
-msgstr "25 талеров "
+msgstr "25 талераў "
 
 #, fuzzy
 msgid "dlga_oim_tavern_simple_fight_bet:oim_tavern_visitor_dlg"
@@ -13865,25 +13853,20 @@ msgstr "{s2}"
 msgid "dlga_oim_tavern_ranged_goon:oim_tavern_ranged_bet"
 msgstr "Посостязаться-то можно... Да только какой мне с того интерес? Давай на деньги постреляем."
 
-#, fuzzy
 msgid "dlga_oim_tavern_ranged_bet:oim_tavern_ranged_bet_goon2"
-msgstr "5 талеров "
+msgstr "5 талераў "
 
-#, fuzzy
 msgid "dlga_oim_tavern_ranged_bet:oim_tavern_ranged_bet_goon2.1"
-msgstr "10 талеров "
+msgstr "10 талераў "
 
-#, fuzzy
 msgid "dlga_oim_tavern_ranged_bet:oim_tavern_ranged_bet_goon2.2"
-msgstr "15 талеров "
+msgstr "15 талераў "
 
-#, fuzzy
 msgid "dlga_oim_tavern_ranged_bet:oim_tavern_ranged_bet_goon2.3"
-msgstr "25 талеров "
+msgstr "25 талераў "
 
-#, fuzzy
 msgid "dlga_oim_tavern_ranged_bet:oim_tavern_ranged_bet_goon2.4"
-msgstr "50 талеров "
+msgstr "50 талераў "
 
 #, fuzzy
 msgid "dlga_oim_tavern_ranged_bet:oim_tavern_visitor_dlg"
@@ -14403,7 +14386,6 @@ msgstr "Расскажи мне об этой деревне."
 msgid "dlga_town_dweller_talk:town_dweller_ask_info.1"
 msgstr "Расскажи мне об этом городе."
 
-#, fuzzy
 msgid "dlga_town_dweller_ask_info:close_window"
 msgstr "{s10} {s11}"
 
@@ -14470,9 +14452,8 @@ msgstr "{s61}"
 msgid "dlga_town_dweller_ask_rumor:town_dweller_talk.2"
 msgstr "Ничего интересного в последнее время не слышно."
 
-#, fuzzy
 msgid "dlga_town_dweller_talk:close_window"
-msgstr "Уйти..."
+msgstr "Выйсці..."
 
 #, fuzzy
 msgid "dlga_start:player_castle_guard_talk"
@@ -14619,15 +14600,12 @@ msgstr "Мне ничего не нужно..."
 msgid "dlga_merch_captain_vibor1:merch_captain_count"
 msgstr "{s20}"
 
-#, fuzzy
 msgid "dlga_merch_captain_count:start"
 msgstr "1 {s20}"
 
-#, fuzzy
 msgid "dlga_merch_captain_count:start.1"
 msgstr "3 {s20}"
 
-#, fuzzy
 msgid "dlga_merch_captain_count:start.2"
 msgstr "5 {s20}"
 
@@ -14639,7 +14617,6 @@ msgstr "Мне ничего не нужно..."
 msgid "dlga_merch_captain_eqvip_type_selection:merch_captain_type_selection_menu"
 msgstr "Я хочу нанять солдат."
 
-#, fuzzy
 msgid "dlga_merch_captain_type_selection_menu:merch_captain_eqvip"
 msgstr "{s19} ({reg7} {s20})"
 
@@ -14739,9 +14716,8 @@ msgstr "Ну уж нет, так просто ты нас не возьмешь!
 msgid "dlga_free:close_window"
 msgstr "До свидания."
 
-#, fuzzy
 msgid "dlga_free:close_window.1"
-msgstr "Уйти..."
+msgstr "Выйсці..."
 
 #, fuzzy
 msgid "fac_no_faction"
@@ -14767,23 +14743,18 @@ msgstr "Невинные"
 msgid "fac_merchants"
 msgstr "Купцы"
 
-#, fuzzy
 msgid "fac_culture_1"
 msgstr "культура 1"
 
-#, fuzzy
 msgid "fac_culture_2"
 msgstr "культура 2"
 
-#, fuzzy
 msgid "fac_culture_3"
 msgstr "культура 3"
 
-#, fuzzy
 msgid "fac_culture_4"
 msgstr "культура 4"
 
-#, fuzzy
 msgid "fac_culture_5"
 msgstr "культура 5"
 
@@ -15180,31 +15151,24 @@ msgstr "У вас нет пленников для вербовки."
 msgid "menu_camp_action_read_book"
 msgstr "Выберите книгу для чтения."
 
-#, fuzzy
 msgid "mno_action_read_book_1"
 msgstr "{s1}."
 
-#, fuzzy
 msgid "mno_action_read_book_2"
 msgstr "{s1}."
 
-#, fuzzy
 msgid "mno_action_read_book_3"
 msgstr "{s1}."
 
-#, fuzzy
 msgid "mno_action_read_book_4"
 msgstr "{s1}."
 
-#, fuzzy
 msgid "mno_action_read_book_5"
 msgstr "{s1}."
 
-#, fuzzy
 msgid "mno_action_read_book_6"
 msgstr "{s1}."
 
-#, fuzzy
 msgid "mno_action_read_book_7"
 msgstr "{s1}."
 
@@ -15253,9 +15217,8 @@ msgstr "Остановить стадо."
 msgid "mno_cattle_kill"
 msgstr "Забить несколько животных."
 
-#, fuzzy
 msgid "mno_leave"
-msgstr "Уйти..."
+msgstr "Выйсці..."
 
 #, fuzzy
 msgid "menu_cattle_herd_kill"
@@ -15309,9 +15272,8 @@ msgstr "Атаковать пешим."
 msgid "mno_encounter_order_attack"
 msgstr "Приказать войскам атаковать без вас."
 
-#, fuzzy
 msgid "mno_encounter_leave"
-msgstr "Уйти..."
+msgstr "Выйсці..."
 
 #, fuzzy
 msgid "mno_encounter_retreat"
@@ -15398,9 +15360,8 @@ msgstr "{s1}"
 msgid "mno_pre_join_talk"
 msgstr "Поговорить с нападающими."
 
-#, fuzzy
 msgid "mno_pre_join_leave"
-msgstr "Уйти..."
+msgstr "Выйсці..."
 
 #, fuzzy
 msgid "menu_join_battle"
@@ -15473,29 +15434,23 @@ msgstr "Вы прибываете в кабак Четырех Дорог."
 msgid "menu_test_scene"
 msgstr "Вы входите на тренировочную площадку."
 
-#, fuzzy
 msgid "menu_battlefields"
-msgstr "Выберите площадку"
+msgstr "Выберыце пляцоўку"
 
-#, fuzzy
 msgid "mno_enter_f1"
-msgstr "Площадка 1"
+msgstr "Пяцоўка 1"
 
-#, fuzzy
 msgid "mno_enter_f2"
-msgstr "Площадка 2"
+msgstr "Пяцоўка 2"
 
-#, fuzzy
 msgid "mno_enter_f3"
-msgstr "Площадка 3"
+msgstr "Пяцоўка 3"
 
-#, fuzzy
 msgid "mno_enter_f4"
-msgstr "Площадка 4"
+msgstr "Пяцоўка 4"
 
-#, fuzzy
 msgid "mno_enter_f5"
-msgstr "Площадка 5"
+msgstr "Пяцоўка 5"
 
 #, fuzzy
 msgid "menu_dhorak_keep"
@@ -15573,9 +15528,8 @@ msgstr "Поговорить с Пафнутием."
 msgid "mno_talk_to_pafnutiy_dlg_door"
 msgstr "Поговорить с Пафнутием."
 
-#, fuzzy
 msgid "mno_castle_leave"
-msgstr "Уйти..."
+msgstr "Выйсці..."
 
 #, fuzzy
 msgid "menu_castle_guard"
@@ -15589,9 +15543,8 @@ msgstr "Попросить разрешения въехать в крепост
 msgid "mno_request_meeting_commander"
 msgstr "Попросить о встрече."
 
-#, fuzzy
 msgid "mno_guard_leave"
-msgstr "Уйти..."
+msgstr "Выйсці..."
 
 #, fuzzy
 msgid "menu_castle_entry_granted"
@@ -15610,7 +15563,6 @@ msgstr "С кем бы вы хотели встретиться?"
 msgid "mno_guard_meet_s5"
 msgstr "{s5}"
 
-#, fuzzy
 msgid "mno_forget_it"
 msgstr "Назад"
 
@@ -15662,9 +15614,8 @@ msgstr "Построить осадную башню."
 msgid "mno_cheat_castle_lead_attack"
 msgstr "ЧИТ: Мгновенное снаряжение войска."
 
-#, fuzzy
 msgid "mno_wait_24_hours"
-msgstr "Подождать до завтра."
+msgstr "Пачакаць да заўтра."
 
 #, fuzzy
 msgid "mno_lift_siege"
@@ -15695,9 +15646,8 @@ msgstr ""
 "Будучи лучшим инженером в отряде ({reg2} очков инженерии), {reg3?вы подсчитываете:{s3} подсчитывает}, что на строительство "
 "осадной башни потребуется около {reg4} часов."
 
-#, fuzzy
 msgid "mno_build_siege_tower_cont"
-msgstr "Начать строительство."
+msgstr "Пачаць будаўніцтва."
 
 #, fuzzy
 msgid "menu_castle_attack_walls_simulate"
@@ -15829,7 +15779,6 @@ msgstr "{s4}^^Ваши потери:^ {s8}^^Потери союзников:^ {s
 msgid "menu_enter_your_own_castle"
 msgstr "Ваше приближение замечают стражи крепости. Они приветствуют вас и открывают ворота {своему господину/своей госпоже}."
 
-#, fuzzy
 msgid "menu_village"
 msgstr "{s10}{s11}{s6}{s7}{s20}{s21}"
 
@@ -15901,9 +15850,8 @@ msgstr "Поговорить с Евангеликом."
 msgid "mno_talk_to_yavangelik_door"
 msgstr "Поговорить с Евангеликом."
 
-#, fuzzy
 msgid "mno_village_leave"
-msgstr "Уйти..."
+msgstr "Выйсці..."
 
 #, fuzzy
 msgid "menu_village_hostile_action"
@@ -16069,13 +16017,11 @@ msgstr "Сражаясь смело и решительно, деревенск�
 msgid "menu_village_loot_continue"
 msgstr "Продолжить разграбление деревни?"
 
-#, fuzzy
 msgid "mno_disembark_yes"
-msgstr "Да"
+msgstr "Так"
 
-#, fuzzy
 msgid "mno_disembark_no"
-msgstr "Нет"
+msgstr "Не"
 
 #, fuzzy
 msgid "menu_close"
@@ -16085,7 +16031,6 @@ msgstr "Ничего."
 msgid "menu_center_tax"
 msgstr "Вы получаете земельную ренту и налоги с этого владения в размере {reg1} талеров."
 
-#, fuzzy
 msgid "menu_town"
 msgstr "{s10}{s11}{s12}{s13} {s20} {s21}"
 
@@ -16209,9 +16154,8 @@ msgstr "Сдать Татарина."
 msgid "mno_zdat_tatarina_door"
 msgstr "Сдать Татарина."
 
-#, fuzzy
 msgid "mno_town_leave"
-msgstr "Уйти..."
+msgstr "Выйсці..."
 
 #, fuzzy
 msgid "mno_town_leave_door"
@@ -16283,25 +16227,20 @@ msgstr ""
 "Ставки против вас: {reg5} к {reg6}.{reg1? Вы уже поставили {reg1} талеров на себя. Если вы одержите победу, то получите {reg2} "
 "талеров.:} Сколько вы хотите поставить?"
 
-#, fuzzy
 msgid "mno_bet_100_denars"
-msgstr "100 талеров"
+msgstr "100 талераў"
 
-#, fuzzy
 msgid "mno_bet_50_denars"
-msgstr "50 талеров"
+msgstr "50 талераў"
 
-#, fuzzy
 msgid "mno_bet_20_denars"
-msgstr "20 талеров"
+msgstr "20 талераў"
 
-#, fuzzy
 msgid "mno_bet_10_denars"
-msgstr "10 талеров"
+msgstr "10 талераў"
 
-#, fuzzy
 msgid "mno_bet_5_denars"
-msgstr "5 талеров"
+msgstr "5 талераў"
 
 #, fuzzy
 msgid "menu_tournament_bet_confirm"
@@ -16621,42 +16560,33 @@ msgstr "Метательные ножи"
 msgid "menu_training_ground_selection_details_ranged_2"
 msgstr "C какого расстояния вы хотите вести стрельбу?"
 
-#, fuzzy
 msgid "mno_camp_train_ranged_details_1"
-msgstr "10 шагов"
+msgstr "10 шагоў"
 
-#, fuzzy
 msgid "mno_camp_train_ranged_details_2"
-msgstr "20 шагов"
+msgstr "20 шагоў"
 
-#, fuzzy
 msgid "mno_camp_train_ranged_details_3"
-msgstr "30 шагов"
+msgstr "30 шагоў"
 
-#, fuzzy
 msgid "mno_camp_train_ranged_details_4"
-msgstr "40 шагов"
+msgstr "40 шагоў"
 
-#, fuzzy
 msgid "mno_camp_train_ranged_details_5"
-msgstr "50 шагов"
+msgstr "50 шагоў"
 
-#, fuzzy
 msgid "mno_camp_train_ranged_details_6"
-msgstr "60 шагов"
+msgstr "60 шагоў"
 
-#, fuzzy
 msgid "mno_camp_train_ranged_details_7"
-msgstr "70 шагов"
+msgstr "70 шагоў"
 
 msgid "menu_training_ground_description"
 msgstr "{s0}"
 
-#, fuzzy
 msgid "mno_s2_dot"
 msgstr "{s2}..."
 
-#, fuzzy
 msgid "menu_training_ground_training_result"
 msgstr "{s7}{s2}"
 
@@ -16679,25 +16609,21 @@ msgstr ""
 "враги, должно быть, сочли вас мертвым и оставили лежать на поле боя. Впрочем, ни одна из ваших ран не смертельна, и ходить вы "
 "можете, хотя чувствуете себя ужасно. Вы поднимаетесь на ноги и пытаетесь найти остальных выживших из отряда."
 
-#, fuzzy
 msgid "menu_captivity_start_wilderness"
-msgstr "заполнитель"
+msgstr "Запаўняльнік"
 
-#, fuzzy
 msgid "menu_captivity_start_wilderness_surrender"
-msgstr "заполнитель"
+msgstr "Запаўняльнік"
 
 #, fuzzy
 msgid "menu_captivity_start_wilderness_defeat"
 msgstr "Вы попадаете в плен."
 
-#, fuzzy
 msgid "menu_captivity_start_castle_surrender"
-msgstr "заполнитель"
+msgstr "Запаўняльнік"
 
-#, fuzzy
 msgid "menu_captivity_start_castle_defeat"
-msgstr "заполнитель"
+msgstr "Запаўняльнік"
 
 #, fuzzy
 msgid "menu_captivity_start_under_siege_defeat"
@@ -16709,7 +16635,7 @@ msgstr "Вы попадаете в плен."
 
 #, fuzzy
 msgid "menu_captivity_wilderness_check"
-msgstr "заполнитель"
+msgstr "Запаўняльнік"
 
 #, fuzzy
 msgid "menu_captivity_end_wilderness_escape"
@@ -16729,7 +16655,7 @@ msgstr ""
 
 #, fuzzy
 msgid "menu_captivity_castle_check"
-msgstr "заполнитель"
+msgstr "Запаўняльнік"
 
 #, fuzzy
 msgid "menu_captivity_end_exchanged_with_prisoner"
@@ -16890,17 +16816,15 @@ msgstr ""
 
 #, fuzzy
 msgid "menu_auto_return_to_map"
-msgstr "заполнитель"
+msgstr "Запаўняльнік"
 
-#, fuzzy
 msgid "menu_monfor_talk"
 msgstr ""
-"Welcome, adventurer, to Mount&Blade. Before you can start playing the game you must create a character. To begin, select your "
-"character's gender."
+"Сардэчна запрашаем, шукальнік прыгод, у Mount & Blade. Перш чым вы зможаце пачаць гуляць у гульню, вам неабходна стварыць "
+"персанажа. Для пачатку абярыце пол вашага персанажа."
 
-#, fuzzy
 msgid "mno_start_male"
-msgstr "Мужской"
+msgstr "Мужчынскі"
 
 #, fuzzy
 msgid "menu_oim_training_ground_selection_details_ranged"
@@ -16909,7 +16833,6 @@ msgstr "C какого расстояния вы хотите вести стр�
 msgid "menu_oim_training_ground_description"
 msgstr "{s0}"
 
-#, fuzzy
 msgid "menu_oim_training_ground_training_result"
 msgstr "{s7}{s2}"
 
@@ -17003,9 +16926,8 @@ msgstr "Поговорить с капитаном шведских наемни
 msgid "mno_merch_moskov"
 msgstr "Поговорить с капитаном московских наемников."
 
-#, fuzzy
 msgid "mno_Back_1"
-msgstr "Уйти..."
+msgstr "Выйсці..."
 
 msgid "menu_oim_potop_kshetuskiy"
 msgstr "{s2}"
@@ -17144,37 +17066,29 @@ msgstr "{s3}"
 msgid "menu_oim_cheats_and_solving_quests_menu"
 msgstr "Не используется"
 
-#, fuzzy
 msgid "mno_money_menu"
-msgstr "чит деньги"
+msgstr "Чыт на грошы"
 
-#, fuzzy
 msgid "mno_exp_menu"
-msgstr "чит опыт"
+msgstr "Чыт на вопыт"
 
-#, fuzzy
 msgid "mno_exp_renown"
-msgstr "чит слава"
+msgstr "Чыт на славу"
 
-#, fuzzy
 msgid "mno_add_relation_to_all"
-msgstr "чит репутация"
+msgstr "Чыт на рэпутацыю"
 
-#, fuzzy
 msgid "mno_add_zagloba"
-msgstr "чит добавить заглобу"
+msgstr "Чыт на дабаўленне Заглобы"
 
-#, fuzzy
 msgid "mno_fac_kingdom_4"
-msgstr "чит минус со шведами"
+msgstr "Чыт на мінус са шведамі"
 
-#, fuzzy
 msgid "mno_swedish_prisoner"
-msgstr "чит пленник"
+msgstr "Чыт на палонных"
 
-#, fuzzy
 msgid "mno_exit_menu"
-msgstr "выход"
+msgstr "Выхад"
 
 msgid "menu_oim_getman_reading_book"
 msgstr "{s3}"
@@ -17469,37 +17383,29 @@ msgstr "Погасить кредит ({reg0} талеров)"
 msgid "menu_ms_guild_get_value"
 msgstr "Выберите сумму {s0}. Сейчас сумма {s0} равна: {reg5}."
 
-#, fuzzy
 msgid "mno_ms_guild_500_minus"
-msgstr "-500 талеров"
+msgstr "-500 талераў"
 
-#, fuzzy
 msgid "mno_ms_guild_500_plus"
-msgstr "+500 талеров"
+msgstr "+500 талераў"
 
-#, fuzzy
 msgid "mno_ms_guild_1000_minus"
-msgstr "-1000 талеров"
+msgstr "-1000 талераў"
 
-#, fuzzy
 msgid "mno_ms_guild_1000_plus"
-msgstr "+1000 талеров"
+msgstr "+1000 талераў"
 
-#, fuzzy
 msgid "mno_ms_guild_1500_minus"
-msgstr "-1500 талеров"
+msgstr "-1500 талераў"
 
-#, fuzzy
 msgid "mno_ms_guild_1500_plus"
-msgstr "+1500 талеров"
+msgstr "+1500 талераў"
 
-#, fuzzy
 msgid "mno_ms_guild_2000_minus"
-msgstr "-2000 талеров"
+msgstr "-2000 талераў"
 
-#, fuzzy
 msgid "mno_ms_guild_2000_plus"
-msgstr "+2000 талеров"
+msgstr "+2000 талераў"
 
 #, fuzzy
 msgid "mno_ms_continue"
@@ -17640,7 +17546,6 @@ msgstr "{s0}"
 msgid "str_reg1"
 msgstr "{reg1}"
 
-#, fuzzy
 msgid "str_s50_comma_s51"
 msgstr "{s50}, {s51}"
 
@@ -17700,61 +17605,47 @@ msgstr "На арене пользоваться вещами нельзя."
 msgid "str_cant_use_inventory_disguised"
 msgstr "Вы не можете пользоваться вещами, когда на вас маскировка."
 
-#, fuzzy
 msgid "str_1_denar"
 msgstr "1 талер"
 
-#, fuzzy
 msgid "str_reg1_denars"
-msgstr "{reg1} талеров"
+msgstr "{reg1} талераў"
 
-#, fuzzy
 msgid "str_january_reg1_reg2"
-msgstr "{reg1} января {reg2} г."
+msgstr "{reg1} студзеня {reg2} г."
 
-#, fuzzy
 msgid "str_february_reg1_reg2"
-msgstr "{reg1} февраля {reg2} г."
+msgstr "{reg1} лютага {reg2} г."
 
-#, fuzzy
 msgid "str_march_reg1_reg2"
-msgstr "{reg1} марта {reg2} г."
+msgstr "{reg1} сакавіка {reg2} г."
 
-#, fuzzy
 msgid "str_april_reg1_reg2"
-msgstr "{reg1} апреля {reg2} г."
+msgstr "{reg1} красавіка {reg2} г."
 
-#, fuzzy
 msgid "str_may_reg1_reg2"
 msgstr "{reg1} мая {reg2} г."
 
-#, fuzzy
 msgid "str_june_reg1_reg2"
-msgstr "{reg1} июня {reg2} г."
+msgstr "{reg1} чэрвеня {reg2} г."
 
-#, fuzzy
 msgid "str_july_reg1_reg2"
-msgstr "{reg1} июля {reg2} г."
+msgstr "{reg1} ліпеня {reg2} г."
 
-#, fuzzy
 msgid "str_august_reg1_reg2"
-msgstr "{reg1} августа {reg2} г."
+msgstr "{reg1} жніўня {reg2} г."
 
-#, fuzzy
 msgid "str_september_reg1_reg2"
-msgstr "{reg1} сентября {reg2} г."
+msgstr "{reg1} верасня {reg2} г."
 
-#, fuzzy
 msgid "str_october_reg1_reg2"
-msgstr "{reg1} октября {reg2} г."
+msgstr "{reg1} кастрычніка {reg2} г."
 
-#, fuzzy
 msgid "str_november_reg1_reg2"
-msgstr "{reg1} ноября {reg2} г."
+msgstr "{reg1} лістапада {reg2} г."
 
-#, fuzzy
 msgid "str_december_reg1_reg2"
-msgstr "{reg1} декабря {reg2} г."
+msgstr "{reg1} снежня {reg2} г."
 
 #, fuzzy
 msgid "str_town_nighttime"
@@ -30171,181 +30062,137 @@ msgstr "Черные латы"
 msgid "itm_black_dospeh_pl"
 msgstr "Черные латы"
 
-#, fuzzy
 msgid "itm_rich_baba_mosk_1"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_mosk_1_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_mosk_2"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_mosk_2_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_mosk_3"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_mosk_3_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_pure_baba_mosk_1"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_pure_baba_mosk_1_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_pure_baba_mosk_2"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_pure_baba_mosk_2_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_ttr_1"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_ttr_1_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_ttr_2"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_ttr_2_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_pure_baba_ttr_1"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_pure_baba_ttr_1_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_pure_baba_ttr_2"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_pure_baba_ttr_2_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_pol_1"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_pol_1_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_pol_2"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_pol_2_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_pol_3"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_pol_3_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_pol_4"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_pol_4_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_pure_baba_pol_1"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_pure_baba_pol_1_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_pure_baba_pol_2"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_pure_baba_pol_2_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_pure_baba_pol_3"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_pure_baba_pol_3_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_swd_1"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_swd_1_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_swd_2"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_swd_2_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_swd_3"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_swd_3_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_swd_4"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_rich_baba_swd_4_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_pure_baba_swd_1"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_pure_baba_swd_1_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_pure_baba_swd_2"
-msgstr "Женская одежда"
+msgstr "Жаночая вопратка"
 
-#, fuzzy
 msgid "itm_pure_baba_swd_2_pl"
-msgstr "Женские одежды"
+msgstr "Жаночая вопратка"
 
 #, fuzzy
 msgid "itm_heraldic_mail_with_surcoat"
@@ -30403,61 +30250,47 @@ msgstr "Сегментированный шлем"
 msgid "itm_segmented_helmet_pl"
 msgstr "Сегментированные шлемы"
 
-#, fuzzy
 msgid "itm_evropa_musket_shlapa"
-msgstr "Шляпа"
+msgstr "Капялюш"
 
-#, fuzzy
 msgid "itm_evropa_musket_shlapa_pl"
-msgstr "Шляпы"
+msgstr "Капялюшы"
 
-#, fuzzy
 msgid "itm_evropa_musket_shlapa_b"
-msgstr "Шляпа"
+msgstr "Капялюш"
 
-#, fuzzy
 msgid "itm_evropa_musket_shlapa_b_pl"
-msgstr "Шляпы"
+msgstr "Капялюшы"
 
-#, fuzzy
 msgid "itm_evropa_kava_shlapa"
-msgstr "Шляпа"
+msgstr "Капялюш"
 
-#, fuzzy
 msgid "itm_evropa_kava_shlapa_pl"
-msgstr "Шляпы"
+msgstr "Капялюшы"
 
-#, fuzzy
 msgid "itm_evropa_kava_shlapa_b"
-msgstr "Шляпа"
+msgstr "Капялюш"
 
-#, fuzzy
 msgid "itm_evropa_kava_shlapa_b_pl"
-msgstr "Шляпы"
+msgstr "Капялюшы"
 
-#, fuzzy
 msgid "itm_evropa_kava_shlapa_c"
-msgstr "Шляпа"
+msgstr "Капялюш"
 
-#, fuzzy
 msgid "itm_evropa_kava_shlapa_c_pl"
-msgstr "Шляпы"
+msgstr "Капялюшы"
 
-#, fuzzy
 msgid "itm_evropa_shlapa"
-msgstr "Шляпа"
+msgstr "Капялюш"
 
-#, fuzzy
 msgid "itm_evropa_shlapa_pl"
-msgstr "Шляпы"
+msgstr "Капялюшы"
 
-#, fuzzy
 msgid "itm_evropa_shlapa_b"
-msgstr "Шляпа"
+msgstr "Капялюш"
 
-#, fuzzy
 msgid "itm_evropa_shlapa_b_pl"
-msgstr "Шляпы"
+msgstr "Капялюшы"
 
 #, fuzzy
 msgid "itm_poland_army_hat_simple"
@@ -41849,165 +41682,125 @@ msgstr "Жительница деревни"
 msgid "trp_village_walker_2_pl"
 msgstr "Жительницы деревни"
 
-#, fuzzy
 msgid "trp_rich_baba_pol"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_rich_baba_pol_pl"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_pure_baba_pol"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_pure_baba_pol_pl"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_rich_mujik_pol"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_rich_mujik_pol_pl"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_pure_mujik_pol"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_pure_mujik_pol_pl"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_rich_baba_mosk"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_rich_baba_mosk_pl"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_pure_baba_mosk"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_pure_baba_mosk_pl"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_rich_mujik_mosk"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_rich_mujik_mosk_pl"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_pure_mujik_mosk"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_pure_mujik_mosk_pl"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_rich_baba_ttr"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_rich_baba_ttr_pl"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_pure_baba_ttr"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_pure_baba_ttr_pl"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_rich_mujik_ttr"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_rich_mujik_ttr_pl"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_pure_mujik_ttr"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_pure_mujik_ttr_pl"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_rich_baba_swd"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_rich_baba_swd_pl"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_pure_baba_swd"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_pure_baba_swd_pl"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_rich_mujik_swd"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_rich_mujik_swd_pl"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_pure_mujik_swd"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_pure_mujik_swd_pl"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_rich_baba_ukr"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_rich_baba_ukr_pl"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_pure_baba_ukr"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_pure_baba_ukr_pl"
-msgstr "Обывательница"
+msgstr "Жыхарка"
 
-#, fuzzy
 msgid "trp_rich_mujik_ukr"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_rich_mujik_ukr_pl"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_pure_mujik_ukr"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
-#, fuzzy
 msgid "trp_pure_mujik_ukr_pl"
-msgstr "Обыватель"
+msgstr "Жыхар"
 
 #, fuzzy
 msgid "trp_spy_walker_1"
@@ -49746,9 +49539,8 @@ msgstr "Оружие"
 msgid "ui_horse"
 msgstr "Лошадь"
 
-#, fuzzy
 msgid "ui_food"
-msgstr "Еда"
+msgstr "Ежа"
 
 #, fuzzy
 msgid "ui_reclaim_your_sold_goods"
@@ -50066,13 +49858,11 @@ msgstr "Нанять"
 msgid "ui_notification_cant_hire"
 msgstr "(Недостаточно денег для найма)"
 
-#, fuzzy
 msgid "ui_uncapture"
-msgstr "Отпустить"
+msgstr "Адпусціць"
 
-#, fuzzy
 msgid "ui_capture"
-msgstr "Захватить"
+msgstr "Захапіць"
 
 #, fuzzy
 msgid "ui_party_capcity_reached"
@@ -50314,9 +50104,8 @@ msgstr "Ваш навык содержания пленных слишком м�
 msgid "ui_party_morale_is_low"
 msgstr "Боевой дух отряда низок!"
 
-#, fuzzy
 msgid "ui_and_one_space"
-msgstr " и"
+msgstr " і"
 
 #, fuzzy
 msgid "ui_has_deserted_the_party"
@@ -50642,21 +50431,17 @@ msgstr "Защита"
 msgid "ui_kick"
 msgstr "Пинок"
 
-#, fuzzy
 msgid "ui_equip_weapon_1"
-msgstr "Предмет 1"
+msgstr "Прадмет 1"
 
-#, fuzzy
 msgid "ui_equip_weapon_2"
-msgstr "Предмет 2"
+msgstr "Прадмет 2"
 
-#, fuzzy
 msgid "ui_equip_weapon_3"
-msgstr "Предмет 3"
+msgstr "Прадмет 3"
 
-#, fuzzy
 msgid "ui_equip_weapon_4"
-msgstr "Предмет 4"
+msgstr "Прадмет 4"
 
 #, fuzzy
 msgid "ui_equip_next_weapon"
@@ -50867,27 +50652,21 @@ msgstr "Следы"
 msgid "ui_battleground"
 msgstr "Поле боя"
 
-#, fuzzy
 msgid "ui_order_1"
 msgstr "Строй 1"
 
-#, fuzzy
 msgid "ui_order_2"
 msgstr "Строй 2"
 
-#, fuzzy
 msgid "ui_order_3"
 msgstr "Строй 3"
 
-#, fuzzy
 msgid "ui_order_4"
 msgstr "Строй 4"
 
-#, fuzzy
 msgid "ui_order_5"
 msgstr "Строй 5"
 
-#, fuzzy
 msgid "ui_order_6"
 msgstr "Строй 6"
 
@@ -51059,7 +50838,6 @@ msgstr "%s, слушай меня!"
 msgid "ui_str_and_str"
 msgstr "%s и %s"
 
-#, fuzzy
 msgid "ui_str_comma_str"
 msgstr "%s, %s"
 
@@ -51067,9 +50845,8 @@ msgstr "%s, %s"
 msgid "ui_need_to_learn_prisoner_management"
 msgstr "Для того чтобы брать пленных, вам сначала нужно научиться их содержать."
 
-#, fuzzy
 msgid "ui_game_log"
-msgstr "Летопись"
+msgstr "Летапіс"
 
 #, fuzzy
 msgid "ui_recent_messages"
@@ -51078,21 +50855,18 @@ msgstr "Сообщения"
 msgid "ui_custom_battle"
 msgstr "Хуткі бой"
 
-#, fuzzy
 msgid "ui_player"
-msgstr "Игрок"
+msgstr "Гулец"
 
 #, fuzzy
 msgid "ui_value_denars"
 msgstr "%d талеров"
 
-#, fuzzy
 msgid "ui_back"
 msgstr "Назад"
 
-#, fuzzy
 msgid "ui_forward"
-msgstr "Вперед"
+msgstr "Уперад"
 
 #, fuzzy
 msgid "ui_display_on_map"
@@ -51158,9 +50932,8 @@ msgstr "Высокое качество"
 msgid "ui_quick"
 msgstr "Низкое качество"
 
-#, fuzzy
 msgid "ui_none"
-msgstr "Нет"
+msgstr "Не"
 
 #, fuzzy
 msgid "ui_change"
@@ -51251,29 +51024,23 @@ msgstr "Стрелки"
 msgid "ui_group_3"
 msgstr "Конница"
 
-#, fuzzy
 msgid "ui_group_4"
-msgstr "Без названия 1"
+msgstr "Без назвы 1"
 
-#, fuzzy
 msgid "ui_group_5"
-msgstr "Без названия 2"
+msgstr "Без назвы 2"
 
-#, fuzzy
 msgid "ui_group_6"
-msgstr "Без названия 3"
+msgstr "Без назвы 3"
 
-#, fuzzy
 msgid "ui_group_7"
-msgstr "Без названия 4"
+msgstr "Без назвы 4"
 
-#, fuzzy
 msgid "ui_group_8"
-msgstr "Без названия 5"
+msgstr "Без назвы 5"
 
-#, fuzzy
 msgid "ui_group_9"
-msgstr "Без названия 6"
+msgstr "Без назвы 6"
 
 #, fuzzy
 msgid "ui_group_close"
@@ -51708,9 +51475,8 @@ msgstr "Выкл. многоэкранного режима"
 msgid "ui_notification_cant_upgrade"
 msgstr "(Не удается повысить - недостаточно денег)"
 
-#, fuzzy
 msgid "ui_turn_never"
-msgstr "Никогда"
+msgstr "Ніколі"
 
 #, fuzzy
 msgid "ui_turn_ranged_only"
@@ -51720,9 +51486,8 @@ msgstr "Только оружие дальнего боя"
 msgid "ui_turn_melee_only"
 msgstr "Только оружие ближнего боя"
 
-#, fuzzy
 msgid "ui_turn_always"
-msgstr "Всегда"
+msgstr "Заўсёды"
 
 #, fuzzy
 msgid "ui_general_options"
@@ -51772,41 +51537,32 @@ msgstr "Лимит пинга"
 msgid "ui_filter_info"
 msgstr "%d игр и %d игроков отфильтровано"
 
-#, fuzzy
 msgid "ui_is_version_compatible"
-msgstr "Совместимо с версией"
+msgstr "Сумяшчальна з версіяй"
 
-#, fuzzy
 msgid "ui_ttnet_account"
-msgstr "Учетная запись Ttnet"
+msgstr "Уліковы запіс Ttnet"
 
-#, fuzzy
 msgid "ui_username"
-msgstr "Имя пользователя"
+msgstr "Імя карыстальніка"
 
-#, fuzzy
 msgid "ui_password"
 msgstr "Пароль"
 
-#, fuzzy
 msgid "ui_error_incorrect_username_or_password"
-msgstr "Неверное имя пользователя или пароль"
+msgstr "Няправільнае імя карыстальніка або пароль"
 
-#, fuzzy
 msgid "ui_validating_account"
-msgstr "Проверка учетной записи..."
+msgstr "Праверка ўліковага запісу..."
 
-#, fuzzy
 msgid "ui_plase_enter_your_serial_key"
-msgstr "Пожалуйста, введите ваш серийный номер."
+msgstr "Калі ласка, увядзіце ваш серыйны нумар."
 
-#, fuzzy
 msgid "ui_texture_detail2"
-msgstr "Детализация текстур:"
+msgstr "Дэталізацыя тэкстур:"
 
-#, fuzzy
 msgid "ui_antialiasing2"
-msgstr "Сглаживание:"
+msgstr "Згладжванне:"
 
 #, fuzzy
 msgid "ui_cut"
