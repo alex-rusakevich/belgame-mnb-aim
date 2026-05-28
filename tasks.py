@@ -1,3 +1,4 @@
+import re
 from pathlib import Path
 import shutil
 from invoke import task
@@ -166,3 +167,24 @@ def install(c):
 
         # Копируем исходную папку
         shutil.copytree(src, dest)
+
+
+@task
+def mark_service_str_non_fuzzy(c):
+    """Mark strings like {s} and " " in po file"""
+
+    po_file = polib.pofile(PO_FILE)
+    pattern = re.compile(r"^\{\w+\}\s*$")
+    blank_pattern = re.compile(r"^\s*$")
+
+    non_fuzzy_count = 0
+
+    for entry in po_file:
+        if (
+            pattern.match(entry.msgstr) or blank_pattern.match(entry.msgstr)
+        ) and "fuzzy" in entry.flags:
+            entry.flags.remove("fuzzy")
+            non_fuzzy_count += 1
+
+    print(f"Done! Removed {non_fuzzy_count} flag(s)")
+    po_file.save()

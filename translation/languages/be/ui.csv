@@ -425,7 +425,7 @@ ui_unlimited|Неограничено
 ui_anisotropic_filtering|Анизотропная фильтрация
 ui_fast_water_reflection|Быстрые отражения на воде
 ui_maximum_framerate|Макс. частота кадров:
-ui_show_framerate|Отображение частоты кадров:
+ui_show_framerate|Отображение частоты кадров
 ui_estimated_performance|Примерная производительность: %d%%
 ui_change_graphics_settings_explanation|Некоторые произведенные вами изменения вступят в силу только после перехода в новую местность.
 ui_start_tutorial|Обучение

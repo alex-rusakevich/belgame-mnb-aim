@@ -94,16 +94,16 @@ ui_trialmode2_online|После оплаты вы получите серийный номер.\nЧтобы получить по
 ui_trialmode3_online|Если вы не хотите покупать игру сейчас, вы можете...
 ui_trialmode4_online|Процесс покупки полностью безопасен. Мы уважаем право наших клиентов на безопасность, конфиденциальность, создание резервных копий и изменение конфигурации системы. Если вы хотите узнать подробнее о нашей политике продаж, взгляните сюда:
 ui_ondemand_textures|Загрузка текстур по требованию
-ui_language|Язык:
+ui_language|Мова:
 ui_steam_not_running|Не удается корректно запустить систему Steam. Чтобы играть в эту игру необходима система Steam.
 ui_switch_to_turkish_explanation|Хотите переключиться на турецкий язык?
-ui_switch_to_turkish_yes|Да
-ui_switch_to_turkish_no|Нет
+ui_switch_to_turkish_yes|Так
+ui_switch_to_turkish_no|Не
 ui_new_version_message|Доступна новая версия игры. Вы хотите перейти на страницу загрузки?
 ui_enable_version_check|Включить проверку обновлений
 ui_disable|Откл.
-ui_yes2|Да
-ui_no2|Нет
+ui_yes2|Так
+ui_no2|Не
 ui_new_version_message2|Доступна новая версия игры. Пожалуйста, скачайте обновление с сайта издателя.
 ui_buy_from_tw|Купить у TaleWorlds
 ui_buy_from_other|Купить в других онлайн-ресурсах
