@@ -167,3 +167,25 @@ def install(c):
         # Копируем исходную папку
         shutil.copytree(src, dest)
         print(f"Copied {src} -> {dest}")
+
+
+@task
+def symbols_to_translate(c):
+    total_symbol_num = 0
+    untr_symbol_num = 0
+
+    for entry in polib.pofile(PO_FILE):
+        total_symbol_num += len(entry.msgstr)
+
+        if "fuzzy" in entry.flags:
+            untr_symbol_num += len(entry.msgstr)
+
+    tr_symbol_num = total_symbol_num - untr_symbol_num
+
+    print(f"Total symbols: {total_symbol_num}")
+    print(
+        f"Translated symbols number: {tr_symbol_num} ({tr_symbol_num / total_symbol_num * 100:.2f}%)"
+    )
+    print(
+        f"Untranslated symbols number: {untr_symbol_num} ({untr_symbol_num / total_symbol_num * 100:.2f}%)"
+    )

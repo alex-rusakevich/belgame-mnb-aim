@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: mr.alexander.rusakevich@gmail.com\n"
 "POT-Creation-Date: 2026-05-27 16:28\n"
-"PO-Revision-Date: 2026-05-28 16:01+0300\n"
+"PO-Revision-Date: 2026-05-28 17:58+0300\n"
 "Last-Translator: Alexander Rusakevich <mr.alexander.rusakevich@gmail.com>\n"
 "Language-Team: \n"
 "Language: be\n"
@@ -35147,63 +35147,48 @@ msgstr "Лагерь наемников"
 msgid "p_temp_party_3"
 msgstr "temp party 3"
 
-#, fuzzy
 msgid "p_bridge_1"
 msgstr "1"
 
-#, fuzzy
 msgid "p_bridge_2"
 msgstr "2"
 
-#, fuzzy
 msgid "p_bridge_3"
 msgstr "3"
 
-#, fuzzy
 msgid "p_bridge_4"
 msgstr "4"
 
-#, fuzzy
 msgid "p_bridge_5"
 msgstr "5"
 
-#, fuzzy
 msgid "p_bridge_6"
 msgstr "6"
 
-#, fuzzy
 msgid "p_bridge_7"
 msgstr "7"
 
-#, fuzzy
 msgid "p_bridge_8"
 msgstr "8"
 
-#, fuzzy
 msgid "p_bridge_9"
 msgstr "9"
 
-#, fuzzy
 msgid "p_bridge_10"
 msgstr "10"
 
-#, fuzzy
 msgid "p_bridge_11"
 msgstr "11"
 
-#, fuzzy
 msgid "p_bridge_12"
 msgstr "12"
 
-#, fuzzy
 msgid "p_bridge_13"
 msgstr "13"
 
-#, fuzzy
 msgid "p_bridge_14"
 msgstr "14"
 
-#, fuzzy
 msgid "p_bridge_15"
 msgstr "15"
 
@@ -51955,53 +51940,41 @@ msgstr "Правый фланг, огонь"
 msgid "ui_crouch"
 msgstr "Присесть"
 
-#, fuzzy
 msgid "ui_texture_detail"
-msgstr "Texture Detail:"
+msgstr "Дэталізацыя тэкстур:"
 
-#, fuzzy
 msgid "ui_max_frame_rate"
-msgstr "Кадров в сек. (макс.):"
+msgstr "Кадраў у сек. (макс.):"
 
-#, fuzzy
 msgid "ui_enable_bumpmap"
-msgstr "Использовать бампмэппинг"
+msgstr "Выкарыстоўваць бампмэппінг"
 
-#, fuzzy
 msgid "ui_disable_blood"
-msgstr "Отключить кровь"
+msgstr "Адключыць кроў"
 
-#, fuzzy
 msgid "ui_disable_music"
-msgstr "Отключить музыку"
+msgstr "Адключыць музыку"
 
-#, fuzzy
 msgid "ui_disable_sound"
-msgstr "Отключить звуки"
+msgstr "Адключыць гукі"
 
-#, fuzzy
 msgid "ui_enable_cheats"
-msgstr "Включить чит-коды"
+msgstr "Ўключыць чыт-коды"
 
-#, fuzzy
 msgid "ui_enable_edit_mode"
-msgstr "Режим редактирования (может замедлить игру)."
+msgstr "Рэжым рэдагавання (можа запаволіць гульню)."
 
-#, fuzzy
 msgid "ui_enable_pixel_shaders"
-msgstr "Пиксельные шейдеры"
+msgstr "Піксельныя шэйдэры"
 
-#, fuzzy
 msgid "ui_enable_sound_variation"
-msgstr "Включить изменения звука"
+msgstr "Ўключыць змены гуку"
 
-#, fuzzy
 msgid "ui_enable_vertex_shaders"
-msgstr "Тип рендеринга:"
+msgstr "Тып рэндэрынгу:"
 
-#, fuzzy
 msgid "ui_shadow_quality"
-msgstr "Качество теней:"
+msgstr "Якасць ценяў:"
 
 msgid "ui_directx_7"
 msgstr "DirectX 7"
@@ -52009,225 +51982,178 @@ msgstr "DirectX 7"
 msgid "ui_directx_9"
 msgstr "DirectX 9"
 
-#, fuzzy
 msgid "ui_start_windowed"
-msgstr "Оконный режим"
+msgstr "Аконны рэжым"
 
-#, fuzzy
 msgid "ui_trialmode_caption"
-msgstr "Активация"
+msgstr "Актывацыя"
 
-#, fuzzy
 msgid "ui_trialmode"
 msgstr ""
-"Пожалуйста, зарегистрируйте вашу версию \"Mount&Blade. Огнем и мечом. Великие битвы\". Вы найдете уникальный ключ из 16 цифр "
-"внутри коробки с игрой.\\nЕсли по какой-то причине вы не хотите активировать игру сейчас, вы можете продолжить играть в пробную "
-"версию, однако вашему герою не удастся получить больше 8 уровня. "
+"Калі ласка, зарэгіструйце вашу версію \"Mount & Blade. Агнём і мячом. Вялікія бітвы\". Вы знойдзеце унікальны ключ з 16 лічбаў "
+"ўнутры скрынкі з гульнёй.\n"
+"Калі па нейкай прычыне вы не жадаеце актываваць гульню зараз, вы можаце працягнуць гуляць у пробную версію, аднак ваш герой не "
+"атрымае ўзровень вышэй за 8."
 
-#, fuzzy
 msgid "ui_launch_buy"
-msgstr "Купить лицензию у TaleWorlds.com"
+msgstr "Купіць ліцэнзію ў TaleWorlds.com"
 
-#, fuzzy
 msgid "ui_launch_faq"
-msgstr "Вопросы об активации игры"
+msgstr "Пытанні аб актывацыі гульні"
 
-#, fuzzy
 msgid "ui_trialmode2"
-msgstr "Чтобы активировать игру немедленно..."
+msgstr "Каб актываваць гульню неадкладна..."
 
-#, fuzzy
 msgid "ui_trialmode3"
-msgstr "Кроме того, вы можете..."
+msgstr "Акрамя таго, вы можаце..."
 
-#, fuzzy
 msgid "ui_trialmode4"
-msgstr "Если у вас есть вопросы по процедуре активации, вам следует прочесть..."
+msgstr "Калі ў вас ёсць пытанні па працэдуры актывацыі, вам варта прачытаць..."
 
-#, fuzzy
 msgid "ui_serial_key_caption"
-msgstr "Серийный номер"
+msgstr "Серыйны нумар"
 
-#, fuzzy
 msgid "ui_notification_serial_input"
-msgstr "Введите ваш серийный номер (вы можете скопировать и вставить его) и нажмите кнопку \"Активировать\""
+msgstr "Увядзіце ваш серыйны нумар (вы можаце скапіраваць і ўставіць яго) і націсніце кнопку \"Актываваць\""
 
-#, fuzzy
 msgid "ui_activate"
-msgstr "Активировать"
+msgstr "Актываваць"
 
-#, fuzzy
 msgid "ui_paste"
-msgstr "Вставить"
+msgstr "Уставіць"
 
-#, fuzzy
 msgid "ui_notification_serial_internet_connection"
-msgstr "Для активации игры необходимо соединение с интернетом!"
+msgstr "Для актывацыі гульні неабходна злучэнне з Інтэрнэтам!"
 
-#, fuzzy
 msgid "ui_notification_serial_offline"
-msgstr "Если ваш компьютер не подключен к интернету, то вы можете:"
+msgstr "Калі ваш камп’ютэр не падключаны да Інтэрнэту, то вы можаце:"
 
-#, fuzzy
 msgid "ui_manual_activation"
-msgstr "Активировать вручную"
+msgstr "Актываваць ўручную"
 
-#, fuzzy
 msgid "ui_offline_activation"
-msgstr "Активация без интернета"
+msgstr "Актываваць без Інтэрнэту"
 
-#, fuzzy
 msgid "ui_manual_activation_caption"
-msgstr "Активация вручную"
+msgstr "Актывацыя ўручную"
 
-#, fuzzy
 msgid "ui_offline_activation_caption"
-msgstr "Активация без интернета"
+msgstr "Актывацыя без Інтэрнэту"
 
 msgid "ui_cancel2"
 msgstr "Выхад"
 
-#, fuzzy
 msgid "ui_close"
-msgstr "Закрыть"
+msgstr "Зачыніць"
 
-#, fuzzy
 msgid "ui_ok2"
 msgstr "ОК"
 
-#, fuzzy
 msgid "ui_activation_successful"
-msgstr "Активация выполнена!"
+msgstr "Актывацыя выканана!"
 
-#, fuzzy
 msgid "ui_activation_successful2"
 msgstr ""
-"Пожалуйста, сохраните ваш серийный номер - он может еще понадобиться, если вы захотите установить игру \"Mount&Blade. Огнем и "
-"мечом. Великие битвы\" на новый компьютер."
+"Калі ласка, захавайце ваш серыйны нумар: ён можа яшчэ спатрэбіцца, калі вы захочаце ўсталяваць гульню \"Mount & Blade. Агнём і "
+"мячом. Вялікія бітвы\" на новы камп'ютэр."
 
-#, fuzzy
 msgid "ui_activation_denied"
-msgstr "Активация не выполнена!"
+msgstr "Актывацыя не выканана!"
 
-#, fuzzy
 msgid "ui_notification_serial_already_used"
 msgstr ""
-"Этот серийный номер уже используется на другом компьютере. Для того чтобы активировать его на новом, вам придется подождать "
-"несколько недель."
+"Гэты серыйны нумар ужо выкарыстоўваецца на іншым камп'ютары. Для таго, каб актываваць яго на новым, вам прыйдзецца пачакаць "
+"некалькі тыдняў."
 
-#, fuzzy
 msgid "ui_notification_unable_to_connect_to_activation_server"
-msgstr "Невозможно подключиться к серверу активации!"
+msgstr "Немагчыма падключыцца да сервера актывацыі!"
 
-#, fuzzy
 msgid "ui_notification_unable_to_connect_to_activation_server2"
 msgstr ""
-"Пожалуйста, убедитесь, что установлено подключение к интернету и настроены необходимые разрешения в брэндмауэре. В крайнем "
-"случае воспользуйтесь активацией вручную."
+"Калі ласка, пераканайцеся, што ўстаноўлена падключэнне да Інтэрнэту і настроены неабходныя дазволы ў брэндмаўэры. У крайнім "
+"выпадку скарыстайцеся актывацыяй ўручную."
 
-#, fuzzy
 msgid "ui_incorrect_serial_number"
-msgstr "Неверный серийный номер!"
+msgstr "Няправільны серыйны нумар!"
 
-#, fuzzy
 msgid "ui_incorrect_hardware_hash"
-msgstr "Неверные системные параметры!"
+msgstr "Няправільныя сістэмныя параметры!"
 
-#, fuzzy
 msgid "ui_incorrect_activation_code"
-msgstr "Неверный код активации!"
+msgstr "Няправільны код актывацыі!"
 
-#, fuzzy
 msgid "ui_cant_write_to_registry"
-msgstr "Невозможно зарегистрировать!"
+msgstr "Немагчыма зарэгістраваць!"
 
-#, fuzzy
 msgid "ui_video"
-msgstr "Графика"
+msgstr "Графіка"
 
-#, fuzzy
 msgid "ui_audio"
-msgstr "Звук"
+msgstr "Гук"
 
 msgid "ui_game"
 msgstr "Гульня"
 
-#, fuzzy
 msgid "ui_advanced"
-msgstr "Дополнительно"
+msgstr "Дадаткова"
 
-#, fuzzy
 msgid "ui_mount_and_blade_is_ready"
-msgstr "Игра \"Mount&Blade. Огнем и мечом. Великие битвы\" готова к запуску."
+msgstr "Гульня \"Mount & Blade. Агнём і мячом. Вялікія бітвы\" гатовая да запуску."
 
-#, fuzzy
 msgid "ui_notification_trial_mode"
 msgstr ""
-"Вы играете в пробную версию игры \"Mount&Blade. Огнем и мечом. Великие битвы\". Вы можете играть до тех пор, пока ваш персонаж "
-"не достигнет 6 уровня. Для того чтобы продолжить игру, вам нужно будет купить лицензию. Покупка лицензии через интернет и "
-"переход на полную версию игры займет всего несколько минут."
+"Вы гуляеце ў пробную версію гульні \"Mount & Blade. Агнём і мячом. Вялікія бітвы\". Вы можаце гуляць, пакуль ваш персанаж не "
+"дасягне 6 ўзроўню. Для таго, каб працягнуць гульню, вам трэба будзе купіць ліцэнзію. Купля ліцэнзіі праз Інтэрнэт і пераход на "
+"поўную версію гульні зойме ўсяго некалькі хвілін."
 
-#, fuzzy
 msgid "ui_there_are_no_modules_installed"
-msgstr "Никаких модулей не установлено!"
+msgstr "Ніякіх модуляў не ўстаноўлена!"
 
-#, fuzzy
 msgid "ui_notification_new_version"
 msgstr ""
-"Найдена новая версия игры \"Mount&Blade. Огнем и мечом. Великие битвы\".\\nУ вас сейчас установлена версия %d.%d%d%d."
-"\\nПоследняя версия игры \"Mount&Blade. Огнем и мечом. Великие битвы\" - %d.%d%d%d.\\nНовую версию можно скачать на странице "
-"www.taleworlds.com."
+"Знойдзена новая версія гульні \"Mount & Blade. Агнём і мячом. Вялікія бітвы\".\n"
+"У вас цяпер ўстаноўлена версія %d.%d%d%d.\n"
+"Апошняя версія гульні \"Mount&Blade. Агнём і мячом. Вялікія бітвы\" - %d.%d%d%d.\n"
+"Новую версію можна спампаваць на старонцы www.taleworlds.com."
 
-#, fuzzy
 msgid "ui_new_version_found"
-msgstr "Найдена новая версия!"
+msgstr "Знойдзена новая версія!"
 
-#, fuzzy
 msgid "ui_notification_unable_to_retreive_new_version"
-msgstr "Невозможно получить информацию о новой версии. Пожалуйста, попробуйте попозже."
+msgstr "Немагчыма атрымаць інфармацыю аб новай версіі. Калі ласка, паспрабуйце пазней."
 
-#, fuzzy
 msgid "ui_new_version"
-msgstr "Новая версия:"
+msgstr "Новая версія:"
 
-#, fuzzy
 msgid "ui_notification_latest_version"
-msgstr "У вас установлена самая последняя версия игры."
+msgstr "У вас ўстаноўлена самая апошняя версія гульні."
 
-#, fuzzy
 msgid "ui_mount_and_blade_is_up_to_date"
-msgstr "Игра \"Mount&Blade. Огнем и мечом. Великие битвы\" обновлена!"
+msgstr "Гульня \"Mount & Blade. Агнём і мячом. Вялікія бітвы\" абноўлена!"
 
-#, fuzzy
 msgid "ui_continue_playing_the_trial_mode"
-msgstr "Продолжить играть в пробную версию"
+msgstr "Працягнуць гуляць у пробную версію"
 
-#, fuzzy
 msgid "ui_faq_caption"
-msgstr "Вопросы и ответы."
+msgstr "Пытанні і адказы."
 
-#, fuzzy
 msgid "ui_faq_text"
-msgstr "Вопросы? Ответы!"
+msgstr "Пытанні? Адказы!"
 
-#, fuzzy
 msgid "ui_auto_adjust"
-msgstr "Автонастройка"
+msgstr "Аўтаналадка"
 
-#, fuzzy
 msgid "ui_screen_size"
-msgstr "Разрешение экрана:"
+msgstr "Раздзяленне экрана"
 
-#, fuzzy
 msgid "ui_use_desktop_resolution"
-msgstr "Разрешение раб.стола"
+msgstr "Раздзяленне працоўнага стала"
 
 msgid "ui_play"
 msgstr "Гуляць"
 
-#, fuzzy
 msgid "ui_check_for_new_version"
-msgstr "Проверка обновлений"
+msgstr "Праверка абнаўленняў"
 
 msgid "ui_configure"
 msgstr "Налады"
@@ -52235,122 +52161,99 @@ msgstr "Налады"
 msgid "ui_configure_caption"
 msgstr "  "
 
-#, fuzzy
 msgid "ui_mountandblade_website"
-msgstr "Сайт игры"
+msgstr "Сайт гульні"
 
-#, fuzzy
 msgid "ui_current_setting"
 msgstr "                               Модуль:"
 
-#, fuzzy
 msgid "ui_manual_activation_text1"
-msgstr "1) Наберите этот адрес в строке вашего браузера:"
+msgstr "1) Набярыце гэты адрас у пошукавым радку вашага браўзэра:"
 
-#, fuzzy
 msgid "ui_manual_activation_text2"
-msgstr "2) Введите ваш серийный номер на открывшейся странице..."
+msgstr "2) Увядзіце ваш серыйны нумар на старонцы, якая адкрылася..."
 
-#, fuzzy
 msgid "ui_manual_activation_text3"
-msgstr "3) И параметры вашей системы:"
+msgstr "3) І параметры вашай сістэмы:"
 
-#, fuzzy
 msgid "ui_manual_activation_text4"
-msgstr "4) На странице вы увидите код активации. Введите его или просто скопируйте и нажмите ОК."
+msgstr "4) На старонцы вы ўбачыце код актывацыі. Увядзіце яго або проста скапіюйце і націсніце ОК."
 
-#, fuzzy
 msgid "ui_activation_code"
-msgstr "Код активации:"
+msgstr "Код актывацыі:"
 
-#, fuzzy
 msgid "ui_force_vsync"
-msgstr "Вертикальная синхронизация"
+msgstr "Вертыкальная сінхранізацыя"
 
-#, fuzzy
 msgid "ui_m_low"
-msgstr "Низк."
+msgstr "Нізк."
 
-#, fuzzy
 msgid "ui_m_high"
 msgstr "Высок."
 
-#, fuzzy
 msgid "ui_m_ultra_high"
-msgstr "Очень высок."
+msgstr "Вельмі высок."
 
-#, fuzzy
 msgid "ui_force_single_threading"
-msgstr "Однопоточный режим"
+msgstr "Аднаструменны рэжым"
 
-#, fuzzy
 msgid "ui_not_enough_memory"
 msgstr ""
-"У вас осталось %d MB свободной физической и виртуальной памяти. Для нормальной работы \"Mount&Blade. Огнем и мечом. Великие "
-"битвы\" требуется как минимум 700 MB свободной памяти. Если у вас происходят частые сбои при игре, попробуйте закрыть несколько "
-"фоновых программ перед ее запуском, или увеличьте запас виртуальной памяти, перейдя в Панель управления, а оттуда - в системное "
-"меню."
+"У вас засталося %d MB свабоднай фізічнай і віртуальнай памяці. Для нармальнай працы \" Mount&Blade. Агнём і мячом. Вялікія "
+"бітвы \" патрабуецца як мінімум 700 MB свабоднай памяці. Калі ў вас адбываюцца частыя збоі пры гульні, паспрабуйце зачыніць "
+"некалькі фонавых праграм перад яе запускам, або павялічце запас віртуальнай памяці, перайшоўшы ў Панэль кіравання, а адтуль - у "
+"сістэмнае меню."
 
-#, fuzzy
 msgid "ui_install"
-msgstr "Установка игры"
+msgstr "Устаноўка гульні"
 
-#, fuzzy
 msgid "DirectXText"
 msgstr ""
-"Игре требуется пакет DirectX версии 9.0c или выше, который отсутствует на вашем компьютере. Пожалуйста, скачайте последнюю "
-"версию DirectX на сайте компании Microsoft и установите его."
+"Гульні патрабуецца пакет DirectX версіі 9.0c або вышэй, які адсутнічае на вашым кампутары. Калі ласка, запампуйце апошнюю "
+"версію DirectX на сайце кампаніі Microsoft і ўсталюйце яго."
 
-#, fuzzy
 msgid "NoMountAndBladeText"
 msgstr ""
-"Игра не была установлена на вашем компьютере. Пожалуйста, скачайте программу установки на сайте www.taleworlds.com и запустите "
-"ее."
+"Гульня не была ўсталяваная на вашым камп’ютары. Калі ласка, запампуйце праграму ўстаноўкі з сайта www.taleworlds.com і "
+"запусціце яе."
 
-#, fuzzy
 msgid "ui_SavegamesText"
-msgstr "Хотите оставить сохраненные игры?"
+msgstr "Жадаеце пакінуць захаваныя гульні?"
 
-#, fuzzy
 msgid "ui_trialmode_online"
 msgstr ""
-"Вы играете в пробную версию \"Mount&Blade. Огнем и мечом. Великие битвы\". Вы можете играть до тех пор, пока ваш персонаж не "
-"достигнет 7 уровня. Для того чтобы продолжить игру, вам нужно будет ввести серийный номер и зарегистрировать игру. Если вы уже "
-"купили игру, пожалуйста, введите серийный номер. Покупка лицензии через интернет и переход на полную версию игры займет всего "
-"несколько минут."
+"Вы гуляеце ў пробную версію \"Mount & Blade. Агнём і мячом. Вялікія бітвы\". Вы можаце гуляць, пакуль ваш персанаж не дасягне 7 "
+"ўзроўню. Для таго каб працягнуць гульню, вам трэба будзе ўвесці серыйны нумар і зарэгістраваць гульню. Калі вы ўжо купілі "
+"гульню, калі ласка, увядзіце серыйны нумар. Купля ліцэнзіі праз Інтэрнэт і пераход на поўную версію гульні зойме ўсяго некалькі "
+"хвілін."
 
-#, fuzzy
 msgid "ui_launch_activate"
-msgstr "Введите ваш серийный номер"
+msgstr "Увядзіце ваш серыйны нумар"
 
-#, fuzzy
 msgid "ui_trialmode2_online"
-msgstr "После оплаты вы получите серийный номер.\\nЧтобы получить полную версию игры, перейдите..."
+msgstr ""
+"Пасля аплаты вы атрымаеце серыйны нумар.\n"
+"Каб атрымаць поўную версію гульні, перайдзіце..."
 
-#, fuzzy
 msgid "ui_trialmode3_online"
-msgstr "Если вы не хотите покупать игру сейчас, вы можете..."
+msgstr "Калі вы не хочаце купляць гульню зараз, вы можаце..."
 
-#, fuzzy
 msgid "ui_trialmode4_online"
 msgstr ""
-"Процесс покупки полностью безопасен. Мы уважаем право наших клиентов на безопасность, конфиденциальность, создание резервных "
-"копий и изменение конфигурации системы. Если вы хотите узнать подробнее о нашей политике продаж, взгляните сюда:"
+"Працэс пакупкі цалкам бяспечны. Мы паважаем права нашых кліентаў на бяспеку, канфідэнцыяльнасць, стварэнне рэзервовых копій і "
+"змяненне канфігурацыі сістэмы. Калі вы хочаце даведацца больш падрабязна аб нашай палітыцы продажаў, зірніце сюды:"
 
-#, fuzzy
 msgid "ui_ondemand_textures"
-msgstr "Загрузка текстур по требованию"
+msgstr "Загрузка тэкстур па патрабаванні"
 
 msgid "ui_language"
 msgstr "Мова:"
 
-#, fuzzy
 msgid "ui_steam_not_running"
-msgstr "Не удается корректно запустить систему Steam. Чтобы играть в эту игру необходима система Steam."
+msgstr "Не ўдаецца карэктна запусціць сістэму Steam. Каб гуляць у гэтую гульню, неабходная сістэма Steam."
 
-#, fuzzy
 msgid "ui_switch_to_turkish_explanation"
-msgstr "Хотите переключиться на турецкий язык?"
+msgstr "Жадаеце пераключыцца на турэцкую мову?"
 
 msgid "ui_switch_to_turkish_yes"
 msgstr "Так"
@@ -52358,17 +52261,14 @@ msgstr "Так"
 msgid "ui_switch_to_turkish_no"
 msgstr "Не"
 
-#, fuzzy
 msgid "ui_new_version_message"
-msgstr "Доступна новая версия игры. Вы хотите перейти на страницу загрузки?"
+msgstr "Новая версія гульні даступная. Жадаеце перайсці на старонку загрузкі?"
 
-#, fuzzy
 msgid "ui_enable_version_check"
-msgstr "Включить проверку обновлений"
+msgstr "Уключыць праверку абнаўленняў"
 
-#, fuzzy
 msgid "ui_disable"
-msgstr "Откл."
+msgstr "Выкл."
 
 msgid "ui_yes2"
 msgstr "Так"
@@ -52376,14 +52276,11 @@ msgstr "Так"
 msgid "ui_no2"
 msgstr "Не"
 
-#, fuzzy
 msgid "ui_new_version_message2"
-msgstr "Доступна новая версия игры. Пожалуйста, скачайте обновление с сайта издателя."
+msgstr "Новая версія гульні даступная. Калі ласка, запампуйце абнаўленне з сайта выдаўца."
 
-#, fuzzy
 msgid "ui_buy_from_tw"
-msgstr "Купить у TaleWorlds"
+msgstr "Купіць у TaleWorlds"
 
-#, fuzzy
 msgid "ui_buy_from_other"
-msgstr "Купить в других онлайн-ресурсах"
+msgstr "Купіць у іншых анлайн-рэсурсах"
