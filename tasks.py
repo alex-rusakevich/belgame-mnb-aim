@@ -1,3 +1,4 @@
+from concurrent.futures import ThreadPoolExecutor
 import os
 from pathlib import Path
 import shutil
@@ -6,8 +7,10 @@ import polib
 import csv
 from datetime import datetime
 from dotenv import load_dotenv
+from ratelimit import limits, sleep_and_retry
+import requests
+from tqdm import tqdm
 
-load_dotenv()
 now = datetime.now().strftime("%Y-%m-%d %H:%M%z")
 
 ID_COL = 0
@@ -159,3 +162,59 @@ def stats(c):
 @task(pre=[po_to_csv])
 def build(c):
     run("iscc setup.iss")
+
+
+@task
+def yandex_translate(c):
+    load_dotenv()
+
+    API_KEY = os.environ.get("API_KEY")
+    FOLDER_ID = os.environ.get("API_FOLDER_ID")
+
+    if not API_KEY or not FOLDER_ID:
+        print("Missing API_KEY or API_FOLDER_ID")
+        return
+
+    po_file = polib.pofile(PO_FILE)
+
+    REQUESTS_PER_SEC = 20
+
+    @sleep_and_retry
+    @limits(calls=REQUESTS_PER_SEC, period=1)
+    def translate_one(entry):
+        body = {
+            "sourceLanguageCode": "ru",
+            "targetLanguageCode": "be",
+            "texts": [entry.msgstr],
+            "folderId": FOLDER_ID,
+        }
+
+        headers = {"Authorization": f"Api-Key {API_KEY}"}
+
+        # Use json parameter, not data + json.dumps
+        response = requests.post(
+            "https://translate.api.cloud.yandex.net/translate/v2/translate",
+            json=body,  # This is the fix - use json= instead of data=
+            headers=headers,
+        )
+        response.raise_for_status()
+
+        result = response.json()
+        entry.msgstr = result["translations"][0]["text"]
+        return entry
+
+    fuzzy_entries = [e for e in po_file if "fuzzy" in e.flags]
+
+    print(f"\nTranslating {len(fuzzy_entries)} fuzzy entries...")
+
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        list(
+            tqdm(
+                executor.map(translate_one, fuzzy_entries),
+                total=len(fuzzy_entries),
+                desc="Translating",
+            )
+        )
+
+    po_file.save()
+    print("Done!")
