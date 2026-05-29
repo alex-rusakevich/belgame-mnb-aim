@@ -225,7 +225,7 @@ ui_dump|Выбросить
 ui_outfit|Одежда
 ui_arms|Оружие
 ui_horse|Лошадь
-ui_food|Еда
+ui_food|Ежа
 ui_reclaim_your_sold_goods|Выкупите проданные товары, прежде чем покупать это!
 ui_return_your_bought_goods|Верните купленные товары, прежде чем покупать это!
 ui_polearm_no_shield|Древковое (двуручное)
@@ -305,8 +305,8 @@ ui_take|Взять в отряд
 ui_sell|Продать
 ui_hire|Нанять
 ui_notification_cant_hire|(Недостаточно денег для найма)
-ui_uncapture|Отпустить
-ui_capture|Захватить
+ui_uncapture|Адпусціць
+ui_capture|Захапіць
 ui_party_capcity_reached|(Отряд укомплектован)
 ui_all| все
 ui_joining_cost_weekly_wage|Цена вступления: %d, недельная плата: %d
@@ -367,7 +367,7 @@ ui_some_soldiers_are_ready_to_upgrade|Часть ваших солдат дос�
 ui_number_of_companions_exceeds_leadership_limit|Ваш навык лидерства слишком мал для такого числа спутников.
 ui_number_of_prisoners_exceeds_prisoner_management_limit|Ваш навык содержания пленных слишком мал для такого числа заключенных.
 ui_party_morale_is_low|Боевой дух отряда низок!
-ui_and_one_space| и
+ui_and_one_space| і
 ui_has_deserted_the_party| покидает отряд.
 ui_have_deserted_the_party| покидают отряд.
 ui_weekly_report|Еженедельный отчет
@@ -451,10 +451,10 @@ ui_attack|Атака
 ui_parry_then_attack|Контратака
 ui_defend|Защита
 ui_kick|Пинок
-ui_equip_weapon_1|Предмет 1
-ui_equip_weapon_2|Предмет 2
-ui_equip_weapon_3|Предмет 3
-ui_equip_weapon_4|Предмет 4
+ui_equip_weapon_1|Прадмет 1
+ui_equip_weapon_2|Прадмет 2
+ui_equip_weapon_3|Прадмет 3
+ui_equip_weapon_4|Прадмет 4
 ui_equip_next_weapon|Следующее оружие
 ui_equip_next_shield|Следующий щит
 ui_sheath_weapon|Оружие в ножны
@@ -559,13 +559,13 @@ ui_str_hear_me|%s, слушай меня!
 ui_str_and_str|%s и %s
 ui_str_comma_str|%s, %s
 ui_need_to_learn_prisoner_management|Для того чтобы брать пленных, вам сначала нужно научиться их содержать.
-ui_game_log|Летопись
+ui_game_log|Летапіс
 ui_recent_messages|Сообщения
 ui_custom_battle|Хуткі бой
-ui_player|Игрок
+ui_player|Гулец
 ui_value_denars|%d талеров
 ui_back|Назад
-ui_forward|Вперед
+ui_forward|Уперад
 ui_display_on_map|Показать на карте
 ui_info_pages|Суть игры
 ui_troops2|Персонажи
@@ -582,7 +582,7 @@ ui_button_party_member_hero_percentage|%s (%d%%)
 ui_percentage_value|%d%%
 ui_full|Высокое качество
 ui_quick|Низкое качество
-ui_none|Нет
+ui_none|Не
 ui_change|Изменить
 ui_how_to_change|Как это изменить?
 ui_change_directx_explanation|"Вы можете выбрать DirectX 7 или DirectX 9, нажав кнопку ""Настройки"" в меню запуска, которое открывается при первом запуске игры."
@@ -605,12 +605,12 @@ ui_group_rename|Переименовать группу
 ui_group_1|Пехота
 ui_group_2|Стрелки
 ui_group_3|Конница
-ui_group_4|Без названия 1
-ui_group_5|Без названия 2
-ui_group_6|Без названия 3
-ui_group_7|Без названия 4
-ui_group_8|Без названия 5
-ui_group_9|Без названия 6
+ui_group_4|Без назвы 1
+ui_group_5|Без назвы 2
+ui_group_6|Без назвы 3
+ui_group_7|Без назвы 4
+ui_group_8|Без назвы 5
+ui_group_9|Без назвы 6
 ui_group_close|Закрыть
 ui_party_b_group_information|%s относится к группе %s
 ui_thrown_or_s|Метательное / %s
@@ -717,10 +717,10 @@ ui_turn_camera_with_horse|Камера от первого лица - повор
 ui_widescreen_mode_on|Вкл. многоэкранного режима
 ui_widescreen_mode_off|Выкл. многоэкранного режима
 ui_notification_cant_upgrade|(Не удается повысить - недостаточно денег)
-ui_turn_never|Никогда
+ui_turn_never|Ніколі
 ui_turn_ranged_only|Только оружие дальнего боя
 ui_turn_melee_only|Только оружие ближнего боя
-ui_turn_always|Всегда
+ui_turn_always|Заўсёды
 ui_general_options|Общие настройки
 ui_vac_enabled|Режим Valve Anti Cheat включен
 ui_campaign_ai|ИИ кампании:
@@ -733,15 +733,15 @@ ui_is_password_free|Без пароля
 ui_native_only|Только для местных
 ui_ping_limit|Лимит пинга
 ui_filter_info|%d игр и %d игроков отфильтровано
-ui_is_version_compatible|Совместимо с версией
-ui_ttnet_account|Учетная запись Ttnet
-ui_username|Имя пользователя
+ui_is_version_compatible|Сумяшчальна з версіяй
+ui_ttnet_account|Уліковы запіс Ttnet
+ui_username|Імя карыстальніка
 ui_password|Пароль
-ui_error_incorrect_username_or_password|Неверное имя пользователя или пароль
-ui_validating_account|Проверка учетной записи...
-ui_plase_enter_your_serial_key|Пожалуйста, введите ваш серийный номер.
-ui_texture_detail2|Детализация текстур:
-ui_antialiasing2|Сглаживание:
+ui_error_incorrect_username_or_password|Няправільнае імя карыстальніка або пароль
+ui_validating_account|Праверка ўліковага запісу...
+ui_plase_enter_your_serial_key|Калі ласка, увядзіце ваш серыйны нумар.
+ui_texture_detail2|Дэталізацыя тэкстур:
+ui_antialiasing2|Згладжванне:
 ui_cut|Режущее
 ui_pierce|Колющее
 ui_blunt|Тупое

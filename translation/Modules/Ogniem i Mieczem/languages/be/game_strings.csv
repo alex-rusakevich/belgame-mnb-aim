@@ -23,19 +23,19 @@ str_cant_use_inventory_now|Вещи сейчас недоступны.
 str_cant_use_inventory_arena|На арене пользоваться вещами нельзя.
 str_cant_use_inventory_disguised|Вы не можете пользоваться вещами, когда на вас маскировка.
 str_1_denar|1 талер
-str_reg1_denars|{reg1} талеров
-str_january_reg1_reg2|{reg1} января {reg2} г.
-str_february_reg1_reg2|{reg1} февраля {reg2} г.
-str_march_reg1_reg2|{reg1} марта {reg2} г.
-str_april_reg1_reg2|{reg1} апреля {reg2} г.
+str_reg1_denars|{reg1} талераў
+str_january_reg1_reg2|{reg1} студзеня {reg2} г.
+str_february_reg1_reg2|{reg1} лютага {reg2} г.
+str_march_reg1_reg2|{reg1} сакавіка {reg2} г.
+str_april_reg1_reg2|{reg1} красавіка {reg2} г.
 str_may_reg1_reg2|{reg1} мая {reg2} г.
-str_june_reg1_reg2|{reg1} июня {reg2} г.
-str_july_reg1_reg2|{reg1} июля {reg2} г.
-str_august_reg1_reg2|{reg1} августа {reg2} г.
-str_september_reg1_reg2|{reg1} сентября {reg2} г.
-str_october_reg1_reg2|{reg1} октября {reg2} г.
-str_november_reg1_reg2|{reg1} ноября {reg2} г.
-str_december_reg1_reg2|{reg1} декабря {reg2} г.
+str_june_reg1_reg2|{reg1} чэрвеня {reg2} г.
+str_july_reg1_reg2|{reg1} ліпеня {reg2} г.
+str_august_reg1_reg2|{reg1} жніўня {reg2} г.
+str_september_reg1_reg2|{reg1} верасня {reg2} г.
+str_october_reg1_reg2|{reg1} кастрычніка {reg2} г.
+str_november_reg1_reg2|{reg1} лістапада {reg2} г.
+str_december_reg1_reg2|{reg1} снежня {reg2} г.
 str_town_nighttime| Сейчас поздняя ночь, и честных людей на улице не встретишь.
 str_door_locked|Дверь заперта.
 str_castle_is_abondened|Похоже, эта крепость никем не занята.
@@ -2104,22 +2104,22 @@ str_nesvizh_dungeon_descr|Вы выяснили, что гробница {s3} в
 str_time_left_forge|{s1}Осталось {reg0} дней. 
 str_tax_collected|В {s2} собрано {reg0} талеров налогов и доставлено вам. 
 str_troops_ready|Завершена подготовка: ^{s4}
-str_town_lord_allah|Аллах
-str_town_lord_god|Господь
+str_town_lord_allah|Алах
+str_town_lord_god|Гасподзь
 str_oim_give_up_fight|Завершить состязание?
 str_trakay_radz_descr|Староста посоветовал вам расспросить о монахе горожан в {s10}.
 str_cant_use_mounted|(нельзя использовать верхом)
 str_member_finished_studying|{s2} завершил обучение.
 str_no_soldiers_for_recruit|^ И пока не забыл. Сейчас у меня, к сожалению, нет свободных людей. 
 str_time_credit|Осталось {reg1} дней. 
-str_time_credit_zero|КРЕДИТ ПРОСРОЧЕН!
+str_time_credit_zero|КРЭДЫТ ПРАТЭРМІНАВАНЫ!
 str_credit_report|В {s3} долг по кредиту {reg1} талеров {s4}
 str_deposit|В {s3} {reg0} талеров отдано в рост. 
 str_no_deposit|У вас нет кредитов.
 str_no_credit|У вас нет депозитов.
 str_banks_full_report_str|Всего: ^{s6} ^{s8}
-str_name_kingdom_text|Как будут называть ваше королевство?
-str_default_kingdom_name|Королевство {s0}
+str_name_kingdom_text|Як будуць называць ваша каралеўства?
+str_default_kingdom_name|Каралеўства {s0}
 str_cannot_leave_now|Выйти сейчас невозможно. 
 str_party_with_commander_mismatch__check_log_for_details_|Несогласованность отряда с командиром - проверьте детали в логе
 str_s1_team|Отряд {s1} 
@@ -2261,8 +2261,8 @@ str_you_have_taken_all_cavalry|Ха-ха! {Господин/Госпожа}, в�
 str_price_there_known|{s1}, ({s2} тут продают по {reg1} талеров)
 str_price_there_unknown|{s1}
 str_your_troops_are_dying_because_of_illness|Ваши солдаты умирают от болезни!
-str_has_died_because_of_illness|умирает от {s4}.
-str_have_died_because_of_illness|умирает от {s4}.
+str_has_died_because_of_illness|памірае ад {s4}.
+str_have_died_because_of_illness|памірае ад {s4}.
 str_ccoop_wave_reg1_is_coming_in_reg0_seconds|{reg1}-я атака начнется через {reg0} сек.
 str_ccoop_veteran_wave_reg1_is_coming_in_reg0_seconds|{reg1}-я атака ветеранов начнется через {reg0} сек.
 str_ccoop_elite_wave_reg1_is_coming_in_reg0_seconds|{reg1}-я атака элиты начнется через {reg0} сек.

@@ -2,7 +2,6 @@ import os
 from pathlib import Path
 import shutil
 from invoke import run, task
-from pick import pick
 import polib
 import csv
 from datetime import datetime
@@ -52,50 +51,12 @@ def fetch_entries(csv_file_path: str) -> list[polib.POEntry]:
     return entries
 
 
-@task
-def csv_to_po(c):
-    input_dir = Path(TRANSLATION_DIR)
-    csv_files = list(input_dir.rglob("*.csv"))
+def find_by_ctxt(f: polib.POFile, ctxt: str) -> polib.POEntry | None:
+    for entry in f:
+        if entry.msgctxt == ctxt:
+            return entry
 
-    if not csv_files:
-        print(f"No CSV files found in {input_dir}")
-        return
-
-    print(f"Found {len(csv_files)} CSV file(s)")
-
-    all_entries = []  # type: list[polib.POEntry]
-
-    for csv_file in csv_files:
-        file_entries = fetch_entries(csv_file)
-
-        for new_entry in file_entries:
-            is_entry_fresh = True
-
-            for i, old_entry in enumerate(all_entries):
-                if new_entry.msgid == old_entry.msgid:
-                    is_entry_fresh = False
-
-                    if new_entry.msgstr != old_entry.msgstr:
-                        option, _ = pick(
-                            [new_entry.msgstr, old_entry.msgstr],
-                            title=f"ID conflict: {new_entry.msgid}",
-                        )
-                        all_entries[i].msgstr = option
-
-            if is_entry_fresh:
-                all_entries.append(new_entry)
-
-        print(f"Fetched {len(file_entries)} entries from {csv_file}")
-
-    po_file = polib.POFile()
-    po_file.metadata = PO_FILE_METADATA
-
-    for entry in all_entries:
-        po_file.append(entry)
-
-    po_file.save(PO_FILE)
-
-    print(f"Done! Fetched {len(all_entries)} entries")
+    return None
 
 
 @task
@@ -133,8 +94,12 @@ def po_to_csv(c):
             writer = csv.writer(csv_file, delimiter="|")
 
             for msg_id in list(msg_ids):
-                translation = po_file.find(msg_id)
-                writer.writerow([translation.msgid, translation.msgstr])
+                translation = find_by_ctxt(po_file, msg_id)
+
+                if not translation:
+                    print(f"No translation for {msg_id}")
+                else:
+                    writer.writerow([translation.msgctxt, translation.msgstr])
 
         print(f"Checked and updated {csv_file_path}")
 

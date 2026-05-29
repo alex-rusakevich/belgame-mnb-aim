@@ -1,6 +1,6 @@
-dlga_start:close_window|Внимание! Эта строка не отображается. Она предназначена для хранения переменных диалога.
-dlga_member_chat:close_window|Внимание! Эта строка не отображается. Она предназначена для хранения переменных диалога.
-dlga_event_triggered:close_window|Внимание! Эта строка не отображается. Она предназначена для хранения переменных диалога.
+dlga_start:close_window|Увага! Гэты радок не адлюстроўваецца. Ён патрэбны для захоўвання зменных дыялогу.
+dlga_member_chat:close_window|Увага! Гэты радок не адлюстроўваецца. Ён патрэбны для захоўвання зменных дыялогу.
+dlga_event_triggered:close_window|Увага! Гэты радок не адлюстроўваецца. Ён патрэбны для захоўвання зменных дыялогу.
 dlga_oim_tutorial_mission_dlg_x:oim_tutorial_mission_dlg_1_1|Спасибо за помощь! В нынешние времена это совсем не лишнее.
 dlga_oim_tutorial_mission_dlg_1_1:oim_tutorial_mission_dlg_1_2|Это было честью для меня.
 dlga_oim_tutorial_mission_dlg_1_2:close_window|Давай найдем лошадей и уедем отсюда, пока не появились еще бандиты.
@@ -53,17 +53,17 @@ dlga_ms_npc_list:ms_npc_variants|{s0}
 dlga_ms_npc_list:close_window|Я передумал.
 dlga_ms_npc_variants:ms_npc_dialog_start|Больше ничему его обучить не сможем!
 dlga_ms_npc_variants:ms_nps_variant_descr|Ну выбирай, какую науку ты хочешь изучить.
-dlga_ms_nps_variant_descr:ms_nps_variant_selected|Медицина
-dlga_ms_nps_variant_descr:ms_nps_variant_selected.1|Тактика
-dlga_ms_nps_variant_descr:ms_nps_variant_selected.2|Военная подготовка
+dlga_ms_nps_variant_descr:ms_nps_variant_selected|Медыцына
+dlga_ms_nps_variant_descr:ms_nps_variant_selected.1|Тактыка
+dlga_ms_nps_variant_descr:ms_nps_variant_selected.2|Ваенная падрыхтоўка
 dlga_ms_nps_variant_descr:ms_npc_dialog_start|Назад
-dlga_ms_nps_variant_selected:ms_npc_agree_disagree|Стоимость обучения составит всего {reg0} талеров.
-dlga_ms_npc_agree_disagree:close_window|Хорошо, вот деньги.
-dlga_ms_npc_agree_disagree:ms_npc_variants|Как-нибудь в другой раз.
-dlga_ms_extra_adviser:ms_extra_adviser_list|Ну, к кому пойдем?
+dlga_ms_nps_variant_selected:ms_npc_agree_disagree|Кошт навучання складзе ўсяго {reg0} талераў.
+dlga_ms_npc_agree_disagree:close_window|Добра, вось грошы.
+dlga_ms_npc_agree_disagree:ms_npc_variants|Як-небудзь у іншы раз.
+dlga_ms_extra_adviser:ms_extra_adviser_list|Ну, да каго пойдзем?
 dlga_ms_extra_adviser_list:ms_view_elements|{s0}
 dlga_ms_extra_adviser_list:close_window|Назад
-dlga_messenger_dialog_start:centres_list|Твоя столица захвачена, {господин/госпожа}! Где ты хочешь устроить новую?
+dlga_messenger_dialog_start:centres_list|Твая сталіца захоплена, {спадар / спадарыня}! Дзе ты хочаш зрабіць новую?
 dlga_centres_list:close_window|{s0}
 dlga_centres_list:close_window.1|Назад
 dlga_ambassador_start:ambassador_variants|Что тебе угодно, светлейший {playername}?
@@ -75,7 +75,7 @@ dlga_ambassador_peace:ambassador_peace_choose|{s0}
 dlga_ambassador_peace_choose:ambassador_start|Думаю, такие условия приемлемы.
 dlga_ambassador_peace_choose:ambassador_start.1|Наше государство никогда не пойдет на такие уступки!
 dlga_ambassador_trade_deal:ambassador_trade_chose|Что же, торговый договор обойдется тебе в 4000 талеров, а доход от его реализации, думаю, будет не меньше 2500 талеров в месяц... 
-dlga_ambassador_trade_chose:ambassador_start|Я согласен.
+dlga_ambassador_trade_chose:ambassador_start|Я згодны.
 dlga_ambassador_trade_chose:ambassador_start.1|Мне нужно еще подумать.
 dlga_oim_tracai_monk_talk_quest_ended:close_window|Ступай, не мешай пиво пить...
 dlga_start:close_window.1|Пошел прочь!
@@ -102,8 +102,8 @@ dlga_ramun_sell_prisoners_2:close_window|С тобой приятно иметь
 dlga_ramun_talk:ramun_ask_about_capturing|Посоветуй, как мне захватить пленника.
 dlga_ramun_talk:ramun_ask_about_capturing.1|Расскажи-ка мне еще раз о пленных.
 dlga_ramun_ask_about_capturing:ramun_have_blunt_weapon|Ты в этом деле новичок, да? Премудрость тут небольшая. Чтобы взять пленного, самое главное - сбить противника с ног тупым оружием, вроде палицы или дубинки. Не надо колоть его клинком, понимаешь? Тогда он на некоторое время потеряет сознание, но не изойдет кровью. Полагаю, у тебя имеется такое оружие...
-dlga_ramun_have_blunt_weapon:ramun_have_blunt_weapon_yes|Конечно.
-dlga_ramun_have_blunt_weapon:ramun_have_blunt_weapon_no|Боюсь, что нет.
+dlga_ramun_have_blunt_weapon:ramun_have_blunt_weapon_yes|Безумоўна.
+dlga_ramun_have_blunt_weapon:ramun_have_blunt_weapon_no|Баюся, што не.
 dlga_ramun_have_blunt_weapon_yes:ramun_ask_about_capturing_2|Отлично. Так вот, все что нужно сделать - это врезать подлецу так, чтобы он упал, а когда бой кончится, заковать его в кандалы. С благородными все проще, они обычно достаточно хорошо защищены, так что неважно, каким видом оружия ты воспользуешься. А вот из обычного головореза кровь хлынет, как из заколотого поросенка. Я не придирчив, но требую, чтобы они могли ходить, когда я их покупаю.
 dlga_ramun_have_blunt_weapon_no:ramun_have_blunt_weapon_no_2|Нет? Ну что же, считай, тебе исключительно повезло. У меня завалялась старая дубинка, я все равно собирался ее выкинуть. Вот, держи, ею вполне еще можно угостить кого-нибудь до потери сознания. 
 dlga_ramun_have_blunt_weapon_no_2:ramun_have_blunt_weapon_yes|Спасибо. Надо опробовать ее в деле.
@@ -122,7 +122,7 @@ dlga_manhunter_talk_b:manhunter_talk_b2|Нет, откуда им тут быт�
 dlga_manhunter_talk_b2:close_window|Чтоб им пусто было! Попрятались, как крысы в норы. Ну, ничего, рано или поздно мы их оттуда выкурим.
 dlga_start:looters_1|Внимание! Эта строка не отображается.
 dlga_looters_1:looters_2|{s4}
-dlga_looters_2:close_window|Испугал козла капустой. Придется для начала сразиться с нами.
+dlga_looters_2:close_window|Напалохаў казла капустай. Прыйдзецца для пачатку пазмагацца з намі.
 dlga_looters_2:close_window.1|На тебя, тварь, мне стали не жалко.
 dlga_looters_2:bandit_barter_2|Возьми {reg1} талеров и оставь меня в покое.
 dlga_bandit_barter_2:close_window|Ха! Отлично. А теперь уходи.
@@ -130,7 +130,7 @@ dlga_start:village_farmer_talk|{Милостивый господин/Милос
 dlga_village_farmer_talk:close_window|Вот и посмотрим, насколько вы бедны! Давайте, что есть.
 dlga_village_farmer_talk:close_window.1|Что же, идите с миром.
 dlga_start:member_castellan_talk|Да, {playername}? Чем подсобить?
-dlga_member_castellan_pretalk:member_castellan_talk|Что еще?
+dlga_member_castellan_pretalk:member_castellan_talk|Што яшчэ?
 dlga_member_castellan_talk:member_review_castle_garrison|Мне нужны сведения о гарнизоне крепости.
 dlga_member_review_castle_garrison:member_castellan_pretalk|Конечно, вот списки, {господин/госпожа}. Дай знать, если решишь что-то изменить.
 dlga_member_castellan_talk:member_review_castellan_equipment|Позволь мне посмотреть твое снаряжение.
@@ -138,10 +138,10 @@ dlga_member_review_castellan_equipment:member_castellan_pretalk|Пожалуйс
 dlga_member_castellan_talk:member_castellan_join|Предлагаю оставить крепость и присоединиться к моему отряду.
 dlga_member_castellan_join:close_window|Это место мне очень дорого... Но если таково твое желание, {playername}, я пойду с тобой.
 dlga_member_castellan_join:member_castellan_pretalk|А где мы будем ночевать? Ты ведешь с собой целую армию, {playername}, для всех не хватит места.
-dlga_member_castellan_talk:close_window|Уйти...
-dlga_member_chat:kidnapped_girl_chat_1|Мы уже приехали?
-dlga_kidnapped_girl_chat_1:kidnapped_girl_chat_2|Еще нет.
-dlga_kidnapped_girl_chat_2:close_window|Скорее бы уже... Я хочу к маменьке с папенькой.
+dlga_member_castellan_talk:close_window|Выйсці...
+dlga_member_chat:kidnapped_girl_chat_1|Мы ўжо прыехалі?
+dlga_kidnapped_girl_chat_1:kidnapped_girl_chat_2|Яшчэ не.
+dlga_kidnapped_girl_chat_2:close_window|Хутчэй бы ўжо... Я хачу да матулі з татулькай.
 dlga_member_chat:member_lady_1|{playername}, когда мы доберемся до места, как думаешь?
 dlga_member_lady_1:member_lady_2a|Еще ехать и ехать...
 dlga_member_lady_1:member_lady_2b|Скоро, потерпи еще немного.
@@ -267,7 +267,7 @@ dlga_companion_personalityclash_response:close_window.1|Скажи {s11}, что
 dlga_companion_personalityclash_response:close_window.2|У меня нет времени на ваши глупые препирательства. Разбирайтесь сами.
 dlga_event_triggered:companion_personalitymatch_b|{s5}
 dlga_companion_personalitymatch_b:companion_personalitymatch_response|{s5}
-dlga_companion_personalitymatch_response:close_window|Вот и хорошо.
+dlga_companion_personalitymatch_response:close_window|Вось і добра.
 dlga_event_triggered:companion_home_description|{s5}
 dlga_companion_home_description:companion_home_description_2|Расскажи подробнее.
 dlga_companion_home_description:close_window|Сейчас не время для праздной болтовни.
@@ -308,19 +308,19 @@ dlga_freed_lord_answer:freed_lord_answer_2|Ты волен идти куда в�
 dlga_freed_lord_answer_2:close_window|Благодарю, {добрый господин/милая леди}. Я никогда не забываю тех, кто делал мне добро.
 dlga_start:defeat_lord_answer|{s43}
 dlga_defeat_lord_answer:defeat_lord_answer_1|Теперь ты у меня в плену.
-dlga_defeat_lord_answer_1:oim_potop_volodievsky_shved_dlg|Я надеюсь на твое милосердие.
+dlga_defeat_lord_answer_1:oim_potop_volodievsky_shved_dlg|Спадзяюся на тваю міласэрнасць.
 dlga_defeat_lord_answer_1:oim_potop_capture_tzar_dlg_captured|Послушай меня, офицер... 
-dlga_defeat_lord_answer_1:close_window|Я надеюсь на твое милосердие.
-dlga_defeat_lord_answer_1:oim_getman_radzivill_captured|Я надеюсь на твое милосердие.
-dlga_defeat_lord_answer_1:oim_getman_knyaz_boryat_dlg_generik_end|Я надеюсь на твое милосердие.
-dlga_defeat_lord_answer:defeat_lord_answer_2|Ты славно бился. Я отпускаю тебя.
+dlga_defeat_lord_answer_1:close_window|Спадзяюся на тваю міласэрнасць.
+dlga_defeat_lord_answer_1:oim_getman_radzivill_captured|Спадзяюся на тваю міласэрнасць.
+dlga_defeat_lord_answer_1:oim_getman_knyaz_boryat_dlg_generik_end|Спадзяюся на тваю міласэрнасць.
+dlga_defeat_lord_answer:defeat_lord_answer_2|Ты слаўна біўся. Я адпускаю цябе.
 dlga_defeat_lord_answer_2:close_window|{s43}
 dlga_start:party_encounter_lord_hostile_attacker|{playername}!
-dlga_start:party_encounter_lord_hostile_attacker.1|Стойте!
+dlga_start:party_encounter_lord_hostile_attacker.1|Стойце!
 dlga_party_encounter_lord_hostile_attacker:party_encounter_lord_hostile_attacker|{s42}
 dlga_party_encounter_lord_hostile_attacker:party_encounter_lord_hostile_attacker_2|{s43}
 dlga_party_encounter_lord_hostile_attacker_2:party_encounter_offer_dont_fight|Нельзя ли как-то избежать этой битвы? У меня нет желания сражаться с тобой.
-dlga_party_encounter_lord_hostile_attacker_2:close_window|Не атакуйте! Мы сдаемся.
+dlga_party_encounter_lord_hostile_attacker_2:close_window|Не атакуйце! Мы здаемся.
 dlga_party_encounter_lord_hostile_attacker_2:close_window.1|Мы будем сражаться до конца!
 dlga_party_encounter_offer_dont_fight:close_window|В конце концов, я у тебя в долгу. Ну ладно. На сей раз я тебя отпущу.
 dlga_party_encounter_offer_dont_fight:close_window.1|Ха-ха! Зато у меня кулаки чешутся!
@@ -372,14 +372,14 @@ dlga_start:lord_invite_1|{playername}, я ждал тебя. Молва о тв�
 dlga_lord_invite_1:lord_invite_2|Благодарю, {s65}, для меня это большая честь.
 dlga_lord_invite_1:lord_invite_2.1|Очень приятно, что кто-то ценит мои заслуги по достоинству.
 dlga_lord_invite_2:lord_invite_3|Да. Давай побыстрее покончим с формальностями, {playername}. Ты готов принести мне клятву верности?
-dlga_lord_invite_3:lord_give_oath_2|Да, {s65}.
+dlga_lord_invite_3:lord_give_oath_2|Так, {s65}.
 dlga_lord_invite_3:lord_enter_service_reject|Нет, {s65}. Сейчас я не могу поступить на службу.
 dlga_start:lord_start|Да это же {playername}! Гроза врагов - герой сражений!
 dlga_start:lord_start.1|Приятно вновь видеть тебя, {playername}...
 dlga_start:lord_start.2|Рад снова видеть тебя, {playername}...
-dlga_start:lord_meet_neutral|Мы знакомы?
+dlga_start:lord_meet_neutral|Мы знаёмыя?
 dlga_lord_meet_neutral:lord_intro|Я {playername}.
-dlga_lord_meet_neutral:lord_intro.1|Меня зовут {playername}. К твоим услугам, господин.
+dlga_lord_meet_neutral:lord_intro.1|Мяне клічуць {playername}. Да тваіх паслуг, спадар.
 dlga_lord_intro:lord_start|{s11}
 dlga_start:lord_meet_enemy|{s43}
 dlga_lord_meet_enemy:lord_intro|Я {playername}, {s65}.
@@ -594,7 +594,7 @@ dlga_lord_give_order_details:lord_pretalk|Назад
 dlga_lord_give_order_stop:lord_pretalk|Хорошо. Я так и сделаю.
 dlga_lord_give_order_answer:lord_pretalk|Прости, но мне сейчас нужно заняться своими делами.
 dlga_lord_give_order_answer:lord_give_order_answer_2|.
-dlga_lord_give_order_answer_2:close_window|Я это сделаю.
+dlga_lord_give_order_answer_2:close_window|Я зраблю гэта.
 dlga_lord_give_order_answer_2:lord_pretalk|Мне очень жаль, но это невозможно.
 dlga_lord_talk:lord_give_order_call_to_arms_verify|Я собираюсь в новый поход. Давай соберем здесь армию.
 dlga_lord_give_order_call_to_arms_verify:lord_give_order_call_to_arms_verify_2|Ты хочешь собрать войска для новой кампании?
@@ -1146,7 +1146,7 @@ dlga_caravan_offer_protection_3:caravan_offer_protection_4b|Назад
 dlga_caravan_offer_protection_4b:close_window|Может, в другой раз.
 dlga_merchant_talk:talk_caravan_enemy_2|Не так быстро. Сначала вы отдадите все деньги и товары.
 dlga_talk_caravan_enemy_2:close_window|Никогда! Мы должны защищать этот товар, так что тебе, подлое отродье, придется за него побороться!
-dlga_merchant_talk:close_window|Уйти...
+dlga_merchant_talk:close_window|Выйсці...
 dlga_start:prison_guard_players|Здравствуй, {господин/госпожа}. Ты в тюрьму направляешься?
 dlga_prison_guard_players:close_window|Да. Отопри дверь.
 dlga_prison_guard_players:close_window.1|Нет, не сейчас.
@@ -1169,7 +1169,7 @@ dlga_castle_guard_players:close_window.1|Назад
 dlga_start:castle_guard_sneaked_intro_1|Прочь с дороги, мразь! От тебя воняет!
 dlga_start:close_window.5|Убирайся и не испытывай мое терпение, попрошайка!
 dlga_castle_guard_sneaked_intro_1:castle_guard_sneaked_intro_2|Я хочу войти и поговорить с господином.
-dlga_castle_guard_sneaked_intro_1:close_window|Уйти...
+dlga_castle_guard_sneaked_intro_1:close_window|Выйсці...
 dlga_castle_guard_sneaked_intro_2:close_window|Эй, {холоп/холопка}, с головой не в порядке? Нищим там не место. Пойди вон, а то изобью до полусмерти!
 dlga_start:castle_guard_intro_1|Чего надобно-то?
 dlga_castle_guard_intro_1:castle_guard_intro_2|Войти и поговорить с господином.
@@ -1183,7 +1183,7 @@ dlga_castle_gate_guard_pretalk:castle_gate_guard_talk|Да?
 dlga_castle_gate_guard_talk:castle_gate_open|Мы ищем ночлег. Не пустите ли нас?
 dlga_castle_gate_guard_talk:request_meeting_castle_lord|Я хочу поговорить с владельцем крепости.
 dlga_castle_gate_guard_talk:request_meeting_other|Я хочу поговорить с кем-нибудь из крепости.
-dlga_castle_gate_guard_talk:close_window|Уйти...
+dlga_castle_gate_guard_talk:close_window|Выйсці...
 dlga_request_meeting_castle_lord:close_window|Подожди. {s2} примет тебя.
 dlga_request_meeting_castle_lord:castle_gate_guard_pretalk|Господина сейчас нет.
 dlga_request_meeting_other:request_meeting_3|Кто это?
@@ -1504,7 +1504,7 @@ dlga_mayor_talk:oim_getman_riga_burgomistr_dlg_init|Я по поводу арх�
 dlga_mayor_talk:merchant_quest_requested|У тебя часом нет для меня никакой работы?
 dlga_mayor_talk:merchant_quest_last_offered_job|Касательно той работы, что ты мне предложил...
 dlga_mayor_talk:merchant_quest_about_job|Что касается работы, которую ты мне дал...
-dlga_mayor_talk:close_window|Уйти...
+dlga_mayor_talk:close_window|Выйсці...
 dlga_mayor_info_begin:mayor_info_talk|Я городской глава. Можно сказать, руковожу всем честным народом {s9}. Могу помочь с работенкой, если ты ищешь законный заработок.
 dlga_mayor_info_talk:mayor_info_lord|Кто правит этим городом?
 dlga_mayor_info_lord:mayor_info_talk|Наш город находится под защитой {s10}. От его имени мы собираем налоги и ведем суд. Однако большую часть вопросов мы решаем самостоятельно. У меня как у городского главы достаточно для этого полномочий. 
@@ -1680,7 +1680,7 @@ dlga_village_elder_talk:oim_get_feast_supplies_finish|Вот товары, ко�
 dlga_oim_get_feast_supplies_finish:oim_get_feast_supplies_succeeded|Прекрасно! Вижу, у тебя есть все, что необходимо для праздника. Теперь наши люди смогут отдохнуть и забыть на время о своих горестях и невзгодах. Вот, возьми это в качестве награды за свои труды.
 dlga_oim_get_feast_supplies_finish:village_elder_pretalk|К сожалению, у тебя недостаточно {s1}. Из-за этого мы не сможем начать праздник.
 dlga_oim_get_feast_supplies_succeeded:village_elder_pretalk|Спасибо за награду. Хорошо, что мне удалось помочь вам.
-dlga_village_elder_talk:close_window|Уйти...
+dlga_village_elder_talk:close_window|Выйсці...
 dlga_village_elder_buy_cattle:village_elder_buy_cattle_2|Больше {reg5} голов скота я тебе не продам. Одна голова обойдется в {reg6} талеров. Сколько будешь покупать?
 dlga_village_elder_buy_cattle:village_elder_buy_cattle_2.1|Боюсь, что скота у нас в деревне нет, {сударь/сударыня}.
 dlga_village_elder_buy_cattle_2:village_elder_buy_cattle_complete|1
@@ -1794,7 +1794,7 @@ dlga_oim_intro_zamoshie_elder_4:oim_intro_zamoshie_elder_5|А что ж, для 
 dlga_oim_intro_zamoshie_elder_5:oim_intro_kill_bandits_start|Найти и уничтожить разбойников
 dlga_oim_intro_zamoshie_elder_5:oim_intro_taxes_lower|Убедить смоленского воеводу снизить подати
 dlga_oim_intro_zamoshie_elder_5:oim_bring_goods_in_zamoshie_intro|Привезти товары
-dlga_oim_intro_zamoshie_elder_5:close_window|Уйти...
+dlga_oim_intro_zamoshie_elder_5:close_window|Выйсці...
 dlga_oim_intro_kill_bandits_start:oim_intro_kill_bandits_dialog|В соседнем лесу засели разбойники да грабят нас чуть не каждый день. Народу у них немного, да что с того? Мы-то, крестьяне, воевать не обучены...
 dlga_oim_intro_kill_bandits_dialog:oim_intro_kill_bandits_dialog_start_quest|Согласиться
 dlga_oim_intro_kill_bandits_dialog_start_quest:oim_intro_kill_bandits_dialog_start_quest_1|Разбойники? Дельце по мне. Рассказывай, как их найти.
@@ -1827,7 +1827,7 @@ dlga_oim_fedor_obuhovich_lower_taxes_2_a:oim_fedor_obuhovich_lower_taxes_2_b|Д�
 dlga_oim_fedor_obuhovich_lower_taxes_2_b:oim_convince_options|А тебе-то что за дело, {сударь/сударыня}? Война сейчас идет, ведаешь ведь. Вот придут завтра стрельцы да верных слуг польского короля из Смоленска и вытурят. Нужно средств собрать побольше да поскорее... на укрепление городских стен.
 dlga_oim_convince_options:oim_convince_bribe|Заплатить недоимку за селян ({reg8} талеров)
 dlga_oim_convince_options:oim_convince_persuade_begin|Попробовать убедить воеводу
-dlga_oim_convince_options:lord_pretalk|Уйти...
+dlga_oim_convince_options:lord_pretalk|Выйсці...
 dlga_oim_convince_bribe:oim_convince_bribe_verify|Что же... в мирное время я б отказался... Да нынче не выбирают. Давай деньги и скажи селянам, что все недоимки за прошлый год я им простил.
 dlga_oim_convince_bribe_verify:oim_convince_bribe_cant_afford|Боюсь, что я не могу заплатить такую сумму.
 dlga_oim_convince_bribe_verify:oim_convince_bribe_goon|Хорошо, вот тебе твои деньги.
@@ -3137,19 +3137,19 @@ dlga_oim_tavern_visitor_dlg_1:oim_tavern_ranged|Говорят, в здешни�
 dlga_oim_tavern_visitor_dlg_1:oim_drink|Давай поднимем бокалы за... 
 dlga_oim_tavern_visitor_dlg_1:close_window|Меня ждет мой отряд...
 dlga_oim_tavern_visitor_simple_fight:oim_tavern_simple_fight_bet|Какой мне резон просто так тебе ребра ломать? Вот если бы на пару серебряных поспорить...
-dlga_oim_tavern_simple_fight_bet:oim_tavern_simple_fight_goon|5 талеров 
-dlga_oim_tavern_simple_fight_bet:oim_tavern_simple_fight_goon.1|10 талеров 
-dlga_oim_tavern_simple_fight_bet:oim_tavern_simple_fight_goon.2|15 талеров 
-dlga_oim_tavern_simple_fight_bet:oim_tavern_simple_fight_goon.3|25 талеров 
+dlga_oim_tavern_simple_fight_bet:oim_tavern_simple_fight_goon|5 талераў 
+dlga_oim_tavern_simple_fight_bet:oim_tavern_simple_fight_goon.1|10 талераў 
+dlga_oim_tavern_simple_fight_bet:oim_tavern_simple_fight_goon.2|15 талераў 
+dlga_oim_tavern_simple_fight_bet:oim_tavern_simple_fight_goon.3|25 талераў 
 dlga_oim_tavern_simple_fight_bet:oim_tavern_visitor_dlg|Пожалуй, не сейчас... Знаешь ли, в последнем бою руку потянул...
 dlga_oim_tavern_simple_fight_goon:close_window|Вот это другое дело! Ну берегись, сударь, живого места на тебе не оставлю!
 dlga_oim_tavern_duel_goon:close_window|{s2}
 dlga_oim_tavern_ranged_goon:oim_tavern_ranged_bet|Посостязаться-то можно... Да только какой мне с того интерес? Давай на деньги постреляем.
-dlga_oim_tavern_ranged_bet:oim_tavern_ranged_bet_goon2|5 талеров 
-dlga_oim_tavern_ranged_bet:oim_tavern_ranged_bet_goon2.1|10 талеров 
-dlga_oim_tavern_ranged_bet:oim_tavern_ranged_bet_goon2.2|15 талеров 
-dlga_oim_tavern_ranged_bet:oim_tavern_ranged_bet_goon2.3|25 талеров 
-dlga_oim_tavern_ranged_bet:oim_tavern_ranged_bet_goon2.4|50 талеров 
+dlga_oim_tavern_ranged_bet:oim_tavern_ranged_bet_goon2|5 талераў 
+dlga_oim_tavern_ranged_bet:oim_tavern_ranged_bet_goon2.1|10 талераў 
+dlga_oim_tavern_ranged_bet:oim_tavern_ranged_bet_goon2.2|15 талераў 
+dlga_oim_tavern_ranged_bet:oim_tavern_ranged_bet_goon2.3|25 талераў 
+dlga_oim_tavern_ranged_bet:oim_tavern_ranged_bet_goon2.4|50 талераў 
 dlga_oim_tavern_ranged_bet:oim_tavern_visitor_dlg|Пожалуй, не сейчас... Знаешь ли, в последнем бою руку потянул...
 dlga_oim_tavern_ranged_bet_goon2:close_window|Ну, по рукам. Эх, давненько я не стрелял ради забавы...
 dlga_oim_drink:oim_drink_goon|Ну и за кого же?..
@@ -3296,7 +3296,7 @@ dlga_town_dweller_talk:town_dweller_ask_rumor|Какие слухи тут хо�
 dlga_town_dweller_ask_rumor:town_dweller_talk|Ничего такого, что могло бы тебя заинтересовать.
 dlga_town_dweller_ask_rumor:town_dweller_talk.1|{s61}
 dlga_town_dweller_ask_rumor:town_dweller_talk.2|Ничего интересного в последнее время не слышно.
-dlga_town_dweller_talk:close_window|Уйти...
+dlga_town_dweller_talk:close_window|Выйсці...
 dlga_start:player_castle_guard_talk|Да, {господин/госпожа}?
 dlga_player_castle_guard_talk:player_castle_guard_talk_2|Доложи о дежурстве.
 dlga_player_castle_guard_talk_2:player_castle_guard_talk_3|Все спокойно, {господин/госпожа}. Докладывать не о чем.
@@ -3365,4 +3365,4 @@ dlga_end:close_window|[Готово]
 dlga_start:threaten_1|Бросайте оружие и сдавайтесь, если хотите остаться в живых.
 dlga_threaten_1:end|Ну уж нет, так просто ты нас не возьмешь!
 dlga_free:close_window|До свидания.
-dlga_free:close_window.1|Уйти...
+dlga_free:close_window.1|Выйсці...

@@ -103,7 +103,7 @@ menu_cattle_herd|Вы натыкаетесь на стадо скота.
 mno_cattle_drive_away|Погнать стадо вперед.
 mno_cattle_stop|Остановить стадо.
 mno_cattle_kill|Забить несколько животных.
-mno_leave|Уйти...
+mno_leave|Выйсці...
 menu_cattle_herd_kill|Сколько животных вы хотите забить?
 mno_cattle_kill_1|Одно.
 mno_cattle_kill_2|Два.
@@ -117,7 +117,7 @@ mno_encounter_attack|Броситься на врага.
 mno_encounter_attack_wagenburg_mounted|Атаковать конным.
 mno_encounter_attack_wagenburg_unmounted|Атаковать пешим.
 mno_encounter_order_attack|Приказать войскам атаковать без вас.
-mno_encounter_leave|Уйти...
+mno_encounter_leave|Выйсці...
 mno_encounter_retreat|Отступить, оставив несколько солдат прикрывать тылы.
 mno_encounter_surrender|Сдаться.
 menu_encounter_retreat_confirm|Будучи лучшим тактиком в отряде ({reg2} очков тактики), {reg3?вы разрабатываете:{s3} разрабатывает} план, который позволит вам и вашим людям уйти невредимыми, но придется оставить {reg4} воинов, которые задержат врага.
@@ -140,7 +140,7 @@ menu_pre_join|Вы попадаете на поле боя. Вы видите, �
 mno_pre_join_help_attackers|{s2}
 mno_pre_join_help_defenders|{s1}
 mno_pre_join_talk|Поговорить с нападающими.
-mno_pre_join_leave|Уйти...
+mno_pre_join_leave|Выйсці...
 menu_join_battle|{s2} становятся вашими союзниками. {s1} готовятся атаковать вас. У вас {reg10} готовых к бою воинов, у врага - {reg11}.
 mno_join_attack|Атаковать противника.
 mno_join_order_attack|Приказать войскам атаковать с союзниками, но без вас.
@@ -160,12 +160,12 @@ menu_salt_mine|Вы входите на соляные копи.
 mno_enter|Войти.
 menu_four_ways_inn|Вы прибываете в кабак Четырех Дорог.
 menu_test_scene|Вы входите на тренировочную площадку.
-menu_battlefields|Выберите площадку
-mno_enter_f1|Площадка 1
-mno_enter_f2|Площадка 2
-mno_enter_f3|Площадка 3
-mno_enter_f4|Площадка 4
-mno_enter_f5|Площадка 5
+menu_battlefields|Выберыце пляцоўку
+mno_enter_f1|Пяцоўка 1
+mno_enter_f2|Пяцоўка 2
+mno_enter_f3|Пяцоўка 3
+mno_enter_f4|Пяцоўка 4
+mno_enter_f5|Пяцоўка 5
 menu_dhorak_keep|Вы въезжаете в крепость Дорак.
 menu_join_siege_outside|{s2} берут в осаду {s1}.
 mno_approach_besiegers|Приблизиться к осадному лагерю.
@@ -185,11 +185,11 @@ mno_talk_to_borzobogataya_door|Поговорить с Анусей.
 mno_talk_to_ransom_broker|Поговорить с работорговцем.
 mno_talk_to_pafnutiy_dlg|Поговорить с Пафнутием.
 mno_talk_to_pafnutiy_dlg_door|Поговорить с Пафнутием.
-mno_castle_leave|Уйти...
+mno_castle_leave|Выйсці...
 menu_castle_guard|Вы приближаетесь к воротам. Люди на стенах пристально наблюдают за вами.
 mno_request_shelter|Попросить разрешения въехать в крепость.
 mno_request_meeting_commander|Попросить о встрече.
-mno_guard_leave|Уйти...
+mno_guard_leave|Выйсці...
 menu_castle_entry_granted|Немного погодя стража отворяет ворота и впускает вас внутрь.
 menu_castle_entry_denied|Владелец этой крепости запретил вам входить за его стены. Сержант стражи предупреждает, что его воины будут стрелять, если вам вздумается подойти ближе.
 menu_castle_meeting|С кем бы вы хотели встретиться?
@@ -207,7 +207,7 @@ mno_castle_lead_attack_podkop|Начать штурм.
 mno_attack_stay_back|Приказать бойцам атаковать без вас.
 mno_build_siege_tower|Построить осадную башню.
 mno_cheat_castle_lead_attack|ЧИТ: Мгновенное снаряжение войска.
-mno_wait_24_hours|Подождать до завтра.
+mno_wait_24_hours|Пачакаць да заўтра.
 mno_lift_siege|Снять осаду.
 menu_siege_attack_meets_sally|Защитники делают вылазку и начинают контратаку.
 menu_castle_besiege_inner_battle|{s1}
@@ -215,7 +215,7 @@ menu_construct_ladders|Согласно вашим подсчетам, на из
 mno_build_ladders_cont|Изготовить штурмовые лестницы.
 mno_go_back_assault|Рассмотреть другие варианты штурма.
 menu_construct_siege_tower|Будучи лучшим инженером в отряде ({reg2} очков инженерии), {reg3?вы подсчитываете:{s3} подсчитывает}, что на строительство осадной башни потребуется около {reg4} часов.
-mno_build_siege_tower_cont|Начать строительство.
+mno_build_siege_tower_cont|Пачаць будаўніцтва.
 menu_castle_attack_walls_simulate|{s4}^^Ваши потери:^ {s8}^^Потери противника:^ {s9}
 menu_castle_attack_walls_with_allies_simulate|{s4}^^Ваши потери:^ {s8}^^Потери союзников:^ {s9}^^Потери противника:^ {s10}
 menu_castle_taken_by_friends|Здесь не на что смотреть.
@@ -262,7 +262,7 @@ mno_village_center_nesvz|Пройти к гробнице
 mno_village_center_nesvz_door|Пройти к гробнице
 mno_talk_to_yavangelik|Поговорить с Евангеликом.
 mno_talk_to_yavangelik_door|Поговорить с Евангеликом.
-mno_village_leave|Уйти...
+mno_village_leave|Выйсці...
 menu_village_hostile_action|Что вы хотите предпринять?
 mno_village_take_food|Заставить крестьян отдать вам припасы.
 mno_village_steal_cattle|Похитить скот.
@@ -301,8 +301,8 @@ menu_village_loot_no_resist|Жителей деревни мало, они на�
 menu_village_loot_complete|По вашему приказу воины опустошают деревню, захватывая все мало-мальски ценное, а затем поджигают дома. Из найденных денег и ценностей вы берете себе долю в размере {reg1} талеров.
 menu_village_loot_defeat|Сражаясь смело и решительно, деревенские жители смогли организовать серьезное сопротивление и отбросить ваши силы.
 menu_village_loot_continue|Продолжить разграбление деревни?
-mno_disembark_yes|Да
-mno_disembark_no|Нет
+mno_disembark_yes|Так
+mno_disembark_no|Не
 menu_close|Ничего.
 menu_center_tax|Вы получаете земельную ренту и налоги с этого владения в размере {reg1} талеров.
 menu_town|{s10}{s11}{s12}{s13} {s20} {s21}
@@ -336,7 +336,7 @@ mno_castle_tavern_door|Посетить кабак.
 mno_castle_trade_with_merchants|Пройти на рыночную площадь.
 mno_zdat_tatarina|Сдать Татарина.
 mno_zdat_tatarina_door|Сдать Татарина.
-mno_town_leave|Уйти...
+mno_town_leave|Выйсці...
 mno_town_leave_door|Покинуть местность.
 mno_cheat_town_start_siege|ЧИТ! Осадить {reg6?город:замок}...
 mno_center_reports|ЧИТ! Показать отчеты.
@@ -353,11 +353,11 @@ menu_tournament_withdraw_verify|Вы уверены, что хотите пок�
 mno_tournament_withdraw_yes|Да, это бессмысленная затея.
 mno_tournament_withdraw_no|Нет, пока остается надежда на победу!
 menu_tournament_bet|Ставки против вас: {reg5} к {reg6}.{reg1? Вы уже поставили {reg1} талеров на себя. Если вы одержите победу, то получите {reg2} талеров.:} Сколько вы хотите поставить?
-mno_bet_100_denars|100 талеров
-mno_bet_50_denars|50 талеров
-mno_bet_20_denars|20 талеров
-mno_bet_10_denars|10 талеров
-mno_bet_5_denars|5 талеров
+mno_bet_100_denars|100 талераў
+mno_bet_50_denars|50 талераў
+mno_bet_20_denars|20 талераў
+mno_bet_10_denars|10 талераў
+mno_bet_5_denars|5 талераў
 menu_tournament_bet_confirm|Если вы поставите {reg1} талеров, то получите {reg2} талеров в случае победы в турнире. Вы согласны?
 mno_tournament_bet_accept|Да.
 mno_tournament_bet_cancel|Нет.
@@ -432,13 +432,13 @@ mno_camp_train_ranged_weapon_crossbow|Арбалет
 mno_camp_train_ranged_weapon_mushket|Мушкет
 mno_camp_train_ranged_weapon_thrown|Метательные ножи
 menu_training_ground_selection_details_ranged_2|C какого расстояния вы хотите вести стрельбу?
-mno_camp_train_ranged_details_1|10 шагов
-mno_camp_train_ranged_details_2|20 шагов
-mno_camp_train_ranged_details_3|30 шагов
-mno_camp_train_ranged_details_4|40 шагов
-mno_camp_train_ranged_details_5|50 шагов
-mno_camp_train_ranged_details_6|60 шагов
-mno_camp_train_ranged_details_7|70 шагов
+mno_camp_train_ranged_details_1|10 шагоў
+mno_camp_train_ranged_details_2|20 шагоў
+mno_camp_train_ranged_details_3|30 шагоў
+mno_camp_train_ranged_details_4|40 шагоў
+mno_camp_train_ranged_details_5|50 шагоў
+mno_camp_train_ranged_details_6|60 шагоў
+mno_camp_train_ranged_details_7|70 шагоў
 menu_training_ground_description|{s0}
 mno_s2_dot|{s2}...
 menu_training_ground_training_result|{s7}{s2}
@@ -446,18 +446,18 @@ menu_marshall_selection_candidate_ask|В {s23} скоро пройдут выб�
 mno_marshall_candidate_accept|Выставить свою кандидатуру на выборах.
 mno_marshall_candidate_reject|Отказаться, так как в настоящее время вы слишком заняты.
 menu_captivity_avoid_wilderness|Внезапно у вас темнеет в глазах. Много часов спустя вы приходите в себя и понимаете, что до сих пор лежите там, где упали. Ваши враги, должно быть, сочли вас мертвым и оставили лежать на поле боя. Впрочем, ни одна из ваших ран не смертельна, и ходить вы можете, хотя чувствуете себя ужасно. Вы поднимаетесь на ноги и пытаетесь найти остальных выживших из отряда.
-menu_captivity_start_wilderness|заполнитель
-menu_captivity_start_wilderness_surrender|заполнитель
+menu_captivity_start_wilderness|Запаўняльнік
+menu_captivity_start_wilderness_surrender|Запаўняльнік
 menu_captivity_start_wilderness_defeat|Вы попадаете в плен.
-menu_captivity_start_castle_surrender|заполнитель
-menu_captivity_start_castle_defeat|заполнитель
+menu_captivity_start_castle_surrender|Запаўняльнік
+menu_captivity_start_castle_defeat|Запаўняльнік
 menu_captivity_start_under_siege_defeat|Вы попадаете в плен.
 menu_captivity_wilderness_taken_prisoner|Вы попадаете в плен.
-menu_captivity_wilderness_check|заполнитель
+menu_captivity_wilderness_check|Запаўняльнік
 menu_captivity_end_wilderness_escape|После долгих и тяжких дней заключения вы сбегаете из плена!
 menu_captivity_castle_taken_prisoner|Стража окружает вас и отбирает оружие. С проклятиями и обвинениями они бросают вас в темницу, где вам придется коротать печальные дни заточения.
 menu_captivity_rescue_lord_taken_prisoner|Вы не раскрываете себя, пока возможно. Стражники вне себя от ярости, они жестоко избивают вас, прежде чем снова бросить в камеру бог знает на сколько...
-menu_captivity_castle_check|заполнитель
+menu_captivity_castle_check|Запаўняльнік
 menu_captivity_end_exchanged_with_prisoner|После долгих дней заключения вас наконец освобождают: ваши тюремщики обменяли вас на другого пленника.
 menu_captivity_end_propose_ransom|Вы проводите долгие часы во влажном сумраке подземелья... Кажется, вы пробыли тут целую вечность. Внезапно один из ваших пленителей входит в камеру с предложением: он готов освободить вас за {reg5} талеров из ваших тайных сбережений. Вы решаете...
 mno_captivity_end_ransom_accept|Принять предложение.
@@ -490,9 +490,9 @@ menu_notification_peace_declared|Мирное соглашение.^^{s1} и {s2
 menu_notification_faction_defeated|Государство уничтожено.^^{s1} больше не существует!
 menu_notification_rebels_switched_to_faction|Успешный бунт^^ Ваш мятеж окончился победой! Теперь ваше государство - единственный претендент на титул {s11}, а {s12} - единственный законный правитель.
 menu_kill_local_merchant_begin|Вы замечаете свою жертву и начинаете преследование. Ничего не подозревая, человек сворачивает за угол. У вас появляется отличная возможность для нападения.
-menu_auto_return_to_map|заполнитель
-menu_monfor_talk|Welcome, adventurer, to Mount&Blade. Before you can start playing the game you must create a character. To begin, select your character's gender.
-mno_start_male|Мужской
+menu_auto_return_to_map|Запаўняльнік
+menu_monfor_talk|Сардэчна запрашаем, шукальнік прыгод, у Mount & Blade. Перш чым вы зможаце пачаць гуляць у гульню, вам неабходна стварыць персанажа. Для пачатку абярыце пол вашага персанажа.
+mno_start_male|Мужчынскі
 menu_oim_training_ground_selection_details_ranged|C какого расстояния вы хотите вести стрельбу?
 menu_oim_training_ground_description|{s0}
 menu_oim_training_ground_training_result|{s7}{s2}
@@ -521,7 +521,7 @@ mno_merch_kozak|Поговорить с капитаном казацких на
 mno_merch_polyak|Поговорить с капитаном польских наемников.
 mno_merch_shved|Поговорить с капитаном шведских наемников.
 mno_merch_moskov|Поговорить с капитаном московских наемников.
-mno_Back_1|Уйти...
+mno_Back_1|Выйсці...
 menu_oim_potop_kshetuskiy|{s2}
 mno_sneak_in|Працягнуць...
 menu_podkup_neg|Не успел ваш парламентер войти в ворота с белым флагом, как вы услышали выстрел, а вслед за тем увидели тело вашего посланника висящим на стене. ^^Боевой дух вашего отряда понизился. 
@@ -556,14 +556,14 @@ menu_oim_getman_letter_text|Дьяку тайного приказа лично 
 menu_oim_getman_tamplier_archives|{s2}
 menu_oim_potop_fight_with_king_result|{s3}
 menu_oim_cheats_and_solving_quests_menu|Не используется
-mno_money_menu|чит деньги
-mno_exp_menu|чит опыт
-mno_exp_renown|чит слава
-mno_add_relation_to_all|чит репутация
-mno_add_zagloba|чит добавить заглобу
-mno_fac_kingdom_4|чит минус со шведами
-mno_swedish_prisoner|чит пленник
-mno_exit_menu|выход
+mno_money_menu|Чыт на грошы
+mno_exp_menu|Чыт на вопыт
+mno_exp_renown|Чыт на славу
+mno_add_relation_to_all|Чыт на рэпутацыю
+mno_add_zagloba|Чыт на дабаўленне Заглобы
+mno_fac_kingdom_4|Чыт на мінус са шведамі
+mno_swedish_prisoner|Чыт на палонных
+mno_exit_menu|Выхад
 menu_oim_getman_reading_book|{s3}
 menu_getman_book_translated|{s3}
 menu_oim_dmitriy_yevangelik|{s3}
@@ -647,14 +647,14 @@ mno_ms_guild_credit|Взять кредит под {reg0}% сроком на м�
 mno_ms_guild_deposit_out|Забрать депозит ({reg0} талеров)
 mno_ms_guild_credit_out|Погасить кредит ({reg0} талеров)
 menu_ms_guild_get_value|Выберите сумму {s0}. Сейчас сумма {s0} равна: {reg5}.
-mno_ms_guild_500_minus|-500 талеров
-mno_ms_guild_500_plus|+500 талеров
-mno_ms_guild_1000_minus|-1000 талеров
-mno_ms_guild_1000_plus|+1000 талеров
-mno_ms_guild_1500_minus|-1500 талеров
-mno_ms_guild_1500_plus|+1500 талеров
-mno_ms_guild_2000_minus|-2000 талеров
-mno_ms_guild_2000_plus|+2000 талеров
+mno_ms_guild_500_minus|-500 талераў
+mno_ms_guild_500_plus|+500 талераў
+mno_ms_guild_1000_minus|-1000 талераў
+mno_ms_guild_1000_plus|+1000 талераў
+mno_ms_guild_1500_minus|-1500 талераў
+mno_ms_guild_1500_plus|+1500 талераў
+mno_ms_guild_2000_minus|-2000 талераў
+mno_ms_guild_2000_plus|+2000 талераў
 mno_ms_continue|Провести сделку
 menu_ms_guild_get_out|Вы действительно хотите совершить эту сделку?
 mno_ms_guild_break|Да

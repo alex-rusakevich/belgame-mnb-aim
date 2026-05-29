@@ -40,8 +40,8 @@ itm_practice_dagger|Учебный кинжал
 itm_practice_dagger_pl|Учебные кинжалы
 itm_practice_axe|Тренировочный топор
 itm_practice_axe_pl|Тренировочный топор
-itm_arena_axe|Топор
-itm_arena_axe_pl|Топор
+itm_arena_axe|Сякера
+itm_arena_axe_pl|Сякера
 itm_arena_sword|Меч
 itm_arena_sword_pl|Меч
 itm_arena_sword_two_handed|Двуручный меч
@@ -68,16 +68,16 @@ itm_practice_throwing_daggers_100_amount|Метательные кинжалы
 itm_practice_throwing_daggers_100_amount_pl|Метательные кинжалы
 itm_practice_horse|Племенной жеребец
 itm_practice_horse_pl|Племенные жеребцы
-itm_practice_arrows|Тренировочные стрелы
-itm_practice_arrows_pl|Тренировочные стрелы
-itm_practice_bolts|Тренировочные пули
-itm_practice_bolts_pl|Тренировочные пули
-itm_practice_arrows_10_amount|Тренировочные стрелы
-itm_practice_arrows_10_amount_pl|Тренировочные стрелы
-itm_practice_arrows_100_amount|Тренировочные стрелы
-itm_practice_arrows_100_amount_pl|Тренировочные стрелы
-itm_practice_bolts_9_amount|Тренировочные пули
-itm_practice_bolts_9_amount_pl|Тренировочные пули
+itm_practice_arrows|Трэніровачныя стрэлы
+itm_practice_arrows_pl|Трэніровачныя стрэлы
+itm_practice_bolts|Трэніровачныя кулі
+itm_practice_bolts_pl|Трэніровачныя кулі
+itm_practice_arrows_10_amount|Трэніровачныя стрэлы
+itm_practice_arrows_10_amount_pl|Трэніровачныя стрэлы
+itm_practice_arrows_100_amount|Трэніровачныя стрэлы
+itm_practice_arrows_100_amount_pl|Трэніровачныя стрэлы
+itm_practice_bolts_9_amount|Трэніровачныя кулі
+itm_practice_bolts_9_amount_pl|Трэніровачныя кулі
 itm_practice_boots|Тренировочные сапоги
 itm_practice_boots_pl|Тренировочные сапоги
 itm_red_tourney_armor|Красный турнирный доспех
@@ -180,90 +180,90 @@ itm_book_training_reference|Военное искусство' Никколо М
 itm_book_training_reference_pl|Военное искусство' Никколо Маккиавелли
 itm_book_surgery_reference|Трактат о хирургии и инструментах' Абу аль-Касима
 itm_book_surgery_reference_pl|Трактат о хирургии и инструментах' Абу аль-Касима
-itm_spice|Специи
-itm_spice_pl|Специи
+itm_spice|Спецыі
+itm_spice_pl|Спецыі
 itm_salt|Соль
 itm_salt_pl|Соль
-itm_oil|Растительное масло
-itm_oil_pl|Растительное масло
-itm_pottery|Глиняная утварь
-itm_pottery_pl|Глиняная утварь
-itm_raw_flax|Тюк льна
-itm_raw_flax_pl|Тюки льна
-itm_linen|Полотно
-itm_linen_pl|Полотна
-itm_wool|Шерсть
-itm_wool_pl|Шерсть
-itm_wool_cloth|Шерстяная одежда
-itm_wool_cloth_pl|Шерстяная одежда
-itm_raw_silk|Шелк-сырец
-itm_raw_silk_pl|Шелк-сырец
-itm_raw_dyes|Краска
-itm_raw_dyes_pl|Краска
-itm_velvet|Бархат
-itm_velvet_pl|Бархат
-itm_iron|Железо
-itm_iron_pl|Железо
-itm_tools|Инструменты
-itm_tools_pl|Инструменты
+itm_oil|Алей
+itm_oil_pl|Алей
+itm_pottery|Гліняны посуд
+itm_pottery_pl|Гліняны посуд
+itm_raw_flax|Цюк лёну
+itm_raw_flax_pl|Цюк лёну
+itm_linen|Палатно
+itm_linen_pl|Палотны
+itm_wool|Шэрсць
+itm_wool_pl|Шэрсць
+itm_wool_cloth|Ваўняная вопратка
+itm_wool_cloth_pl|Ваўняная вопратка
+itm_raw_silk|Шоўк-сырэц
+itm_raw_silk_pl|Шоўк-сырэц
+itm_raw_dyes|Фарба
+itm_raw_dyes_pl|Фарба
+itm_velvet|Аксаміт
+itm_velvet_pl|Аксаміт
+itm_iron|Жалеза
+itm_iron_pl|Жалеза
+itm_tools|Інструменты
+itm_tools_pl|Інструменты
 itm_raw_leather|Шкуры
 itm_raw_leather_pl|Шкуры
-itm_leatherwork|Изделия из кожи
-itm_leatherwork_pl|Изделия из кожи
-itm_raw_date_fruit|Финики
-itm_raw_date_fruit_pl|Финики
-itm_furs|Меха
-itm_furs_pl|Меха
-itm_oim_powder|Порох
-itm_oim_powder_pl|Порох
-itm_oim_alcohol|Водка
-itm_oim_alcohol_pl|Водка
-itm_oim_penka|Пенька
-itm_oim_penka_pl|Пенька
-itm_oim_tutun|Тютюн
-itm_oim_tutun_pl|Тютюн
-itm_wine|Вино
-itm_wine_pl|Вино
-itm_ale|Пиво
-itm_ale_pl|Пиво
-itm_smoked_fish|Копченая рыба
-itm_smoked_fish_pl|Копченая рыба
+itm_leatherwork|Вырабы са скуры
+itm_leatherwork_pl|Вырабы са скуры
+itm_raw_date_fruit|Фінікі
+itm_raw_date_fruit_pl|Фінікі
+itm_furs|Футра
+itm_furs_pl|Футра
+itm_oim_powder|Порах
+itm_oim_powder_pl|Порах
+itm_oim_alcohol|Гарэлка
+itm_oim_alcohol_pl|Гарэлка
+itm_oim_penka|Пянька
+itm_oim_penka_pl|Пянька
+itm_oim_tutun|Тытунь
+itm_oim_tutun_pl|Тытунь
+itm_wine|Віно
+itm_wine_pl|Віно
+itm_ale|Піва
+itm_ale_pl|Піва
+itm_smoked_fish|Вэнджаная рыба
+itm_smoked_fish_pl|Вэнджаная рыба
 itm_cheese|Сыр
 itm_cheese_pl|Сыр
-itm_honey|Мед
-itm_honey_pl|Мед
-itm_sausages|Колбаски
-itm_sausages_pl|Колбаски
+itm_honey|Мёд
+itm_honey_pl|Мёд
+itm_sausages|Каўбаскі
+itm_sausages_pl|Каўбаскі
 itm_cabbages|Капуста
 itm_cabbages_pl|Капуста
-itm_dried_meat|Вяленое мясо
-itm_dried_meat_pl|Вяленое мясо
-itm_apples|Яблоки
-itm_apples_pl|Яблоки
-itm_raw_grapes|Виноград
-itm_raw_grapes_pl|Виноград
-itm_raw_olives|Оливки
-itm_raw_olives_pl|Оливки
-itm_grain|Пшеница
-itm_grain_pl|Пшеница
+itm_dried_meat|Вяленае мяса
+itm_dried_meat_pl|Вяленае мяса
+itm_apples|Яблыкі
+itm_apples_pl|Яблыкі
+itm_raw_grapes|Вінаград
+itm_raw_grapes_pl|Вінаград
+itm_raw_olives|Алівы
+itm_raw_olives_pl|Алівы
+itm_grain|Пшаніца
+itm_grain_pl|Пшаніца
 itm_flour|Мука
 itm_flour_pl|Мука
-itm_cattle_meat|Говядина
-itm_cattle_meat_pl|Говядина
+itm_cattle_meat|Ялавічына
+itm_cattle_meat_pl|Ялавічына
 itm_bread|Хлеб
 itm_bread_pl|Хлеб
-itm_chicken|Курятина
-itm_chicken_pl|Курятина
-itm_pork|Свинина
-itm_pork_pl|Свинина
-itm_butter|Масло
-itm_butter_pl|Масло
-itm_siege_supply|Припасы
-itm_siege_supply_pl|Припасы
-itm_quest_wine|Вино
-itm_quest_wine_pl|Вино
-itm_quest_ale|Пиво
-itm_quest_ale_pl|Пиво
+itm_chicken|Кураціна
+itm_chicken_pl|Кураціна
+itm_pork|Свініна
+itm_pork_pl|Свініна
+itm_butter|Масла
+itm_butter_pl|Масла
+itm_siege_supply|Прыпасы
+itm_siege_supply_pl|Прыпасы
+itm_quest_wine|Віно
+itm_quest_wine_pl|Віно
+itm_quest_ale|Піва
+itm_quest_ale_pl|Піва
 itm_sumpter_horse|Вьючная лошадь
 itm_sumpter_horse_pl|Вьючные лошади
 itm_saddle_horse|Верховая лошадь
@@ -594,50 +594,50 @@ itm_dospeh|Полудоспех
 itm_dospeh_pl|Полудоспехи
 itm_black_dospeh|Черные латы
 itm_black_dospeh_pl|Черные латы
-itm_rich_baba_mosk_1|Женская одежда
-itm_rich_baba_mosk_1_pl|Женские одежды
-itm_rich_baba_mosk_2|Женская одежда
-itm_rich_baba_mosk_2_pl|Женские одежды
-itm_rich_baba_mosk_3|Женская одежда
-itm_rich_baba_mosk_3_pl|Женские одежды
-itm_pure_baba_mosk_1|Женская одежда
-itm_pure_baba_mosk_1_pl|Женские одежды
-itm_pure_baba_mosk_2|Женская одежда
-itm_pure_baba_mosk_2_pl|Женские одежды
-itm_rich_baba_ttr_1|Женская одежда
-itm_rich_baba_ttr_1_pl|Женские одежды
-itm_rich_baba_ttr_2|Женская одежда
-itm_rich_baba_ttr_2_pl|Женские одежды
-itm_pure_baba_ttr_1|Женская одежда
-itm_pure_baba_ttr_1_pl|Женские одежды
-itm_pure_baba_ttr_2|Женская одежда
-itm_pure_baba_ttr_2_pl|Женские одежды
-itm_rich_baba_pol_1|Женская одежда
-itm_rich_baba_pol_1_pl|Женские одежды
-itm_rich_baba_pol_2|Женская одежда
-itm_rich_baba_pol_2_pl|Женские одежды
-itm_rich_baba_pol_3|Женская одежда
-itm_rich_baba_pol_3_pl|Женские одежды
-itm_rich_baba_pol_4|Женская одежда
-itm_rich_baba_pol_4_pl|Женские одежды
-itm_pure_baba_pol_1|Женская одежда
-itm_pure_baba_pol_1_pl|Женские одежды
-itm_pure_baba_pol_2|Женская одежда
-itm_pure_baba_pol_2_pl|Женские одежды
-itm_pure_baba_pol_3|Женская одежда
-itm_pure_baba_pol_3_pl|Женские одежды
-itm_rich_baba_swd_1|Женская одежда
-itm_rich_baba_swd_1_pl|Женские одежды
-itm_rich_baba_swd_2|Женская одежда
-itm_rich_baba_swd_2_pl|Женские одежды
-itm_rich_baba_swd_3|Женская одежда
-itm_rich_baba_swd_3_pl|Женские одежды
-itm_rich_baba_swd_4|Женская одежда
-itm_rich_baba_swd_4_pl|Женские одежды
-itm_pure_baba_swd_1|Женская одежда
-itm_pure_baba_swd_1_pl|Женские одежды
-itm_pure_baba_swd_2|Женская одежда
-itm_pure_baba_swd_2_pl|Женские одежды
+itm_rich_baba_mosk_1|Жаночая вопратка
+itm_rich_baba_mosk_1_pl|Жаночая вопратка
+itm_rich_baba_mosk_2|Жаночая вопратка
+itm_rich_baba_mosk_2_pl|Жаночая вопратка
+itm_rich_baba_mosk_3|Жаночая вопратка
+itm_rich_baba_mosk_3_pl|Жаночая вопратка
+itm_pure_baba_mosk_1|Жаночая вопратка
+itm_pure_baba_mosk_1_pl|Жаночая вопратка
+itm_pure_baba_mosk_2|Жаночая вопратка
+itm_pure_baba_mosk_2_pl|Жаночая вопратка
+itm_rich_baba_ttr_1|Жаночая вопратка
+itm_rich_baba_ttr_1_pl|Жаночая вопратка
+itm_rich_baba_ttr_2|Жаночая вопратка
+itm_rich_baba_ttr_2_pl|Жаночая вопратка
+itm_pure_baba_ttr_1|Жаночая вопратка
+itm_pure_baba_ttr_1_pl|Жаночая вопратка
+itm_pure_baba_ttr_2|Жаночая вопратка
+itm_pure_baba_ttr_2_pl|Жаночая вопратка
+itm_rich_baba_pol_1|Жаночая вопратка
+itm_rich_baba_pol_1_pl|Жаночая вопратка
+itm_rich_baba_pol_2|Жаночая вопратка
+itm_rich_baba_pol_2_pl|Жаночая вопратка
+itm_rich_baba_pol_3|Жаночая вопратка
+itm_rich_baba_pol_3_pl|Жаночая вопратка
+itm_rich_baba_pol_4|Жаночая вопратка
+itm_rich_baba_pol_4_pl|Жаночая вопратка
+itm_pure_baba_pol_1|Жаночая вопратка
+itm_pure_baba_pol_1_pl|Жаночая вопратка
+itm_pure_baba_pol_2|Жаночая вопратка
+itm_pure_baba_pol_2_pl|Жаночая вопратка
+itm_pure_baba_pol_3|Жаночая вопратка
+itm_pure_baba_pol_3_pl|Жаночая вопратка
+itm_rich_baba_swd_1|Жаночая вопратка
+itm_rich_baba_swd_1_pl|Жаночая вопратка
+itm_rich_baba_swd_2|Жаночая вопратка
+itm_rich_baba_swd_2_pl|Жаночая вопратка
+itm_rich_baba_swd_3|Жаночая вопратка
+itm_rich_baba_swd_3_pl|Жаночая вопратка
+itm_rich_baba_swd_4|Жаночая вопратка
+itm_rich_baba_swd_4_pl|Жаночая вопратка
+itm_pure_baba_swd_1|Жаночая вопратка
+itm_pure_baba_swd_1_pl|Жаночая вопратка
+itm_pure_baba_swd_2|Жаночая вопратка
+itm_pure_baba_swd_2_pl|Жаночая вопратка
 itm_heraldic_mail_with_surcoat|Геральдическая кольчуга с сюрко
 itm_heraldic_mail_with_surcoat_pl|Геральдические кольчуги с сюрко
 itm_heraldic_mail_with_tunic|Геральдическая кольчуга
@@ -652,20 +652,20 @@ itm_fur_hat|Меховая шапка
 itm_fur_hat_pl|Меховые шапки
 itm_segmented_helmet|Сегментированный шлем
 itm_segmented_helmet_pl|Сегментированные шлемы
-itm_evropa_musket_shlapa|Шляпа
-itm_evropa_musket_shlapa_pl|Шляпы
-itm_evropa_musket_shlapa_b|Шляпа
-itm_evropa_musket_shlapa_b_pl|Шляпы
-itm_evropa_kava_shlapa|Шляпа
-itm_evropa_kava_shlapa_pl|Шляпы
-itm_evropa_kava_shlapa_b|Шляпа
-itm_evropa_kava_shlapa_b_pl|Шляпы
-itm_evropa_kava_shlapa_c|Шляпа
-itm_evropa_kava_shlapa_c_pl|Шляпы
-itm_evropa_shlapa|Шляпа
-itm_evropa_shlapa_pl|Шляпы
-itm_evropa_shlapa_b|Шляпа
-itm_evropa_shlapa_b_pl|Шляпы
+itm_evropa_musket_shlapa|Капялюш
+itm_evropa_musket_shlapa_pl|Капялюшы
+itm_evropa_musket_shlapa_b|Капялюш
+itm_evropa_musket_shlapa_b_pl|Капялюшы
+itm_evropa_kava_shlapa|Капялюш
+itm_evropa_kava_shlapa_pl|Капялюшы
+itm_evropa_kava_shlapa_b|Капялюш
+itm_evropa_kava_shlapa_b_pl|Капялюшы
+itm_evropa_kava_shlapa_c|Капялюш
+itm_evropa_kava_shlapa_c_pl|Капялюшы
+itm_evropa_shlapa|Капялюш
+itm_evropa_shlapa_pl|Капялюшы
+itm_evropa_shlapa_b|Капялюш
+itm_evropa_shlapa_b_pl|Капялюшы
 itm_poland_army_hat_simple|Польская униформенная шапка
 itm_poland_army_hat_simple_pl|Польские униформенные шапки
 itm_beret_a|Берет
@@ -1602,24 +1602,24 @@ itm_norm_boots_k|Высокие сапоги
 itm_norm_boots_k_pl|Высокие сапоги
 itm_good_boots_k|Богатые высокие сапоги
 itm_good_boots_k_pl|Богатые высокие сапоги
-itm_bad_boots_p|Старые сапоги
-itm_bad_boots_p_pl|Старые сапоги
-itm_norm_boots_p|Сапоги
-itm_norm_boots_p_pl|Сапоги
-itm_good_boots_p|Богатые сапоги
-itm_good_boots_p_pl|Богатые сапоги
-itm_bad_botforts|Старые ботфорты
-itm_bad_botforts_pl|Старые ботфорты
-itm_norm_botforts|Ботфорты
-itm_norm_botforts_pl|Ботфорты
-itm_good_botforts|Богатые ботфорты
-itm_good_botforts_pl|Богатые ботфорты
-itm_good_boots_ttr|Богатые сапоги
-itm_good_boots_ttr_pl|Богатые сапоги
-itm_noob_dubinka|Дубина
-itm_noob_dubinka_pl|Дубина
-itm_noob_toporik|Топорик
-itm_noob_toporik_pl|Топорик
+itm_bad_boots_p|Старыя боты
+itm_bad_boots_p_pl|Старыя боты
+itm_norm_boots_p|Боты
+itm_norm_boots_p_pl|Боты
+itm_good_boots_p|Багатыя боты
+itm_good_boots_p_pl|Багатыя боты
+itm_bad_botforts|Старыя батфорты
+itm_bad_botforts_pl|Старыя батфорты
+itm_norm_botforts|Батфорты
+itm_norm_botforts_pl|Батфорты
+itm_good_botforts|Багатыя батфорты
+itm_good_botforts_pl|Багатыя батфорты
+itm_good_boots_ttr|Багатыя боты
+itm_good_boots_ttr_pl|Багатыя боты
+itm_noob_dubinka|Дубіна
+itm_noob_dubinka_pl|Дубіна
+itm_noob_toporik|Сякерка
+itm_noob_toporik_pl|Сякерка
 itm_m_janissar_hat|Головной убор янычар
 itm_m_janissar_hat_pl|Головной убор янычар
 itm_m_yanichar_forma|Униформа янычар
