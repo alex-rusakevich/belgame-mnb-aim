@@ -170,7 +170,7 @@ def install(c):
 
 
 @task
-def symbols_to_translate(c):
+def stats(c):
     total_symbol_num = 0
     untr_symbol_num = 0
 

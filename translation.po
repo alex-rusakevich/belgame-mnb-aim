@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: mr.alexander.rusakevich@gmail.com\n"
 "POT-Creation-Date: 2026-05-27 16:28\n"
-"PO-Revision-Date: 2026-05-28 22:15+0300\n"
+"PO-Revision-Date: 2026-05-29 14:26+0300\n"
 "Last-Translator: Alexander Rusakevich <mr.alexander.rusakevich@gmail.com>\n"
 "Language-Team: \n"
 "Language: be\n"
@@ -13,17 +13,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.9\n"
 
-#, fuzzy
 msgid "dlga_start:close_window"
-msgstr "Внимание! Эта строка не отображается. Она предназначена для хранения переменных диалога."
+msgstr "Увага! Гэты радок не адлюстроўваецца. Ён патрэбны для захоўвання зменных дыялогу."
 
-#, fuzzy
 msgid "dlga_member_chat:close_window"
-msgstr "Внимание! Эта строка не отображается. Она предназначена для хранения переменных диалога."
+msgstr "Увага! Гэты радок не адлюстроўваецца. Ён патрэбны для захоўвання зменных дыялогу."
 
-#, fuzzy
 msgid "dlga_event_triggered:close_window"
-msgstr "Внимание! Эта строка не отображается. Она предназначена для хранения переменных диалога."
+msgstr "Увага! Гэты радок не адлюстроўваецца. Ён патрэбны для захоўвання зменных дыялогу."
 
 #, fuzzy
 msgid "dlga_oim_tutorial_mission_dlg_x:oim_tutorial_mission_dlg_1_1"
@@ -49,7 +46,6 @@ msgstr "Большое спасибо, незнакомец. Теперь, я д
 msgid "dlga_oim_tutorial_mission_dlg_5_1:close_window"
 msgstr "Конечно, я хотел бы многое узнать!"
 
-#, fuzzy
 msgid "dlga_ms_extra_officer_dialog_start:ms_extra_officer_element_list"
 msgstr "{s0}^{s5}"
 
@@ -193,7 +189,6 @@ msgstr "{s0}"
 msgid "dlga_ms_element_description_list:ms_element_menu"
 msgstr "Все понятно."
 
-#, fuzzy
 msgid "dlga_ms_already_builded:ms_already_builded_list"
 msgstr "{s1} {s2}"
 
@@ -224,53 +219,42 @@ msgstr "Больше ничему его обучить не сможем!"
 msgid "dlga_ms_npc_variants:ms_nps_variant_descr"
 msgstr "Ну выбирай, какую науку ты хочешь изучить."
 
-#, fuzzy
 msgid "dlga_ms_nps_variant_descr:ms_nps_variant_selected"
-msgstr "Медицина"
+msgstr "Медыцына"
 
-#, fuzzy
 msgid "dlga_ms_nps_variant_descr:ms_nps_variant_selected.1"
-msgstr "Тактика"
+msgstr "Тактыка"
 
-#, fuzzy
 msgid "dlga_ms_nps_variant_descr:ms_nps_variant_selected.2"
-msgstr "Военная подготовка"
+msgstr "Ваенная падрыхтоўка"
 
-#, fuzzy
 msgid "dlga_ms_nps_variant_descr:ms_npc_dialog_start"
 msgstr "Назад"
 
-#, fuzzy
 msgid "dlga_ms_nps_variant_selected:ms_npc_agree_disagree"
-msgstr "Стоимость обучения составит всего {reg0} талеров."
+msgstr "Кошт навучання складзе ўсяго {reg0} талераў."
 
-#, fuzzy
 msgid "dlga_ms_npc_agree_disagree:close_window"
-msgstr "Хорошо, вот деньги."
+msgstr "Добра, вось грошы."
 
-#, fuzzy
 msgid "dlga_ms_npc_agree_disagree:ms_npc_variants"
-msgstr "Как-нибудь в другой раз."
+msgstr "Як-небудзь у іншы раз."
 
-#, fuzzy
 msgid "dlga_ms_extra_adviser:ms_extra_adviser_list"
-msgstr "Ну, к кому пойдем?"
+msgstr "Ну, да каго пойдзем?"
 
 msgid "dlga_ms_extra_adviser_list:ms_view_elements"
 msgstr "{s0}"
 
-#, fuzzy
 msgid "dlga_ms_extra_adviser_list:close_window"
 msgstr "Назад"
 
-#, fuzzy
 msgid "dlga_messenger_dialog_start:centres_list"
-msgstr "Твоя столица захвачена, {господин/госпожа}! Где ты хочешь устроить новую?"
+msgstr "Твая сталіца захоплена, {спадар / спадарыня}! Дзе ты хочаш зрабіць новую?"
 
 msgid "dlga_centres_list:close_window"
 msgstr "{s0}"
 
-#, fuzzy
 msgid "dlga_centres_list:close_window.1"
 msgstr "Назад"
 
@@ -311,9 +295,8 @@ msgstr ""
 "Что же, торговый договор обойдется тебе в 4000 талеров, а доход от его реализации, думаю, будет не меньше 2500 талеров в "
 "месяц... "
 
-#, fuzzy
 msgid "dlga_ambassador_trade_chose:ambassador_start"
-msgstr "Я согласен."
+msgstr "Я згодны."
 
 #, fuzzy
 msgid "dlga_ambassador_trade_chose:ambassador_start.1"
@@ -428,13 +411,11 @@ msgstr ""
 "оружием, вроде палицы или дубинки. Не надо колоть его клинком, понимаешь? Тогда он на некоторое время потеряет сознание, но не "
 "изойдет кровью. Полагаю, у тебя имеется такое оружие..."
 
-#, fuzzy
 msgid "dlga_ramun_have_blunt_weapon:ramun_have_blunt_weapon_yes"
-msgstr "Конечно."
+msgstr "Безумоўна."
 
-#, fuzzy
 msgid "dlga_ramun_have_blunt_weapon:ramun_have_blunt_weapon_no"
-msgstr "Боюсь, что нет."
+msgstr "Баюся, што не."
 
 #, fuzzy
 msgid "dlga_ramun_have_blunt_weapon_yes:ramun_ask_about_capturing_2"
@@ -523,9 +504,8 @@ msgstr "Внимание! Эта строка не отображается."
 msgid "dlga_looters_1:looters_2"
 msgstr "{s4}"
 
-#, fuzzy
 msgid "dlga_looters_2:close_window"
-msgstr "Испугал козла капустой. Придется для начала сразиться с нами."
+msgstr "Напалохаў казла капустай. Прыйдзецца для пачатку пазмагацца з намі."
 
 #, fuzzy
 msgid "dlga_looters_2:close_window.1"
@@ -557,9 +537,8 @@ msgstr "Что же, идите с миром."
 msgid "dlga_start:member_castellan_talk"
 msgstr "Да, {playername}? Чем подсобить?"
 
-#, fuzzy
 msgid "dlga_member_castellan_pretalk:member_castellan_talk"
-msgstr "Что еще?"
+msgstr "Што яшчэ?"
 
 #, fuzzy
 msgid "dlga_member_castellan_talk:member_review_castle_garrison"
@@ -592,17 +571,14 @@ msgstr "А где мы будем ночевать? Ты ведешь с соб�
 msgid "dlga_member_castellan_talk:close_window"
 msgstr "Выйсці..."
 
-#, fuzzy
 msgid "dlga_member_chat:kidnapped_girl_chat_1"
-msgstr "Мы уже приехали?"
+msgstr "Мы ўжо прыехалі?"
 
-#, fuzzy
 msgid "dlga_kidnapped_girl_chat_1:kidnapped_girl_chat_2"
-msgstr "Еще нет."
+msgstr "Яшчэ не."
 
-#, fuzzy
 msgid "dlga_kidnapped_girl_chat_2:close_window"
-msgstr "Скорее бы уже... Я хочу к маменьке с папенькой."
+msgstr "Хутчэй бы ўжо... Я хачу да матулі з татулькай."
 
 #, fuzzy
 msgid "dlga_member_chat:member_lady_1"
@@ -963,7 +939,6 @@ msgstr "Ну что ж... Найди меня, если передумаешь, 
 msgid "dlga_event_triggered:center_captured_lord_advice"
 msgstr "{s1} остался без управления. Интересно, кто же станет его следующим правителем..."
 
-#, fuzzy
 msgid "dlga_center_captured_lord_advice:center_captured_lord_advice_2"
 msgstr "{s11}. {s1}"
 
@@ -1089,9 +1064,8 @@ msgstr "{s5}"
 msgid "dlga_companion_personalitymatch_b:companion_personalitymatch_response"
 msgstr "{s5}"
 
-#, fuzzy
 msgid "dlga_companion_personalitymatch_response:close_window"
-msgstr "Вот и хорошо."
+msgstr "Вось і добра."
 
 msgid "dlga_event_triggered:companion_home_description"
 msgstr "{s5}"
@@ -1250,40 +1224,33 @@ msgstr "{s43}"
 msgid "dlga_defeat_lord_answer:defeat_lord_answer_1"
 msgstr "Теперь ты у меня в плену."
 
-#, fuzzy
 msgid "dlga_defeat_lord_answer_1:oim_potop_volodievsky_shved_dlg"
-msgstr "Я надеюсь на твое милосердие."
+msgstr "Спадзяюся на тваю міласэрнасць."
 
 #, fuzzy
 msgid "dlga_defeat_lord_answer_1:oim_potop_capture_tzar_dlg_captured"
 msgstr "Послушай меня, офицер... "
 
-#, fuzzy
 msgid "dlga_defeat_lord_answer_1:close_window"
-msgstr "Я надеюсь на твое милосердие."
+msgstr "Спадзяюся на тваю міласэрнасць."
 
-#, fuzzy
 msgid "dlga_defeat_lord_answer_1:oim_getman_radzivill_captured"
-msgstr "Я надеюсь на твое милосердие."
+msgstr "Спадзяюся на тваю міласэрнасць."
 
-#, fuzzy
 msgid "dlga_defeat_lord_answer_1:oim_getman_knyaz_boryat_dlg_generik_end"
-msgstr "Я надеюсь на твое милосердие."
+msgstr "Спадзяюся на тваю міласэрнасць."
 
-#, fuzzy
 msgid "dlga_defeat_lord_answer:defeat_lord_answer_2"
-msgstr "Ты славно бился. Я отпускаю тебя."
+msgstr "Ты слаўна біўся. Я адпускаю цябе."
 
 msgid "dlga_defeat_lord_answer_2:close_window"
 msgstr "{s43}"
 
-#, fuzzy
 msgid "dlga_start:party_encounter_lord_hostile_attacker"
 msgstr "{playername}!"
 
-#, fuzzy
 msgid "dlga_start:party_encounter_lord_hostile_attacker.1"
-msgstr "Стойте!"
+msgstr "Стойце!"
 
 msgid "dlga_party_encounter_lord_hostile_attacker:party_encounter_lord_hostile_attacker"
 msgstr "{s42}"
@@ -1295,9 +1262,8 @@ msgstr "{s43}"
 msgid "dlga_party_encounter_lord_hostile_attacker_2:party_encounter_offer_dont_fight"
 msgstr "Нельзя ли как-то избежать этой битвы? У меня нет желания сражаться с тобой."
 
-#, fuzzy
 msgid "dlga_party_encounter_lord_hostile_attacker_2:close_window"
-msgstr "Не атакуйте! Мы сдаемся."
+msgstr "Не атакуйце! Мы здаемся."
 
 #, fuzzy
 msgid "dlga_party_encounter_lord_hostile_attacker_2:close_window.1"
@@ -1529,9 +1495,8 @@ msgstr "Очень приятно, что кто-то ценит мои засл
 msgid "dlga_lord_invite_2:lord_invite_3"
 msgstr "Да. Давай побыстрее покончим с формальностями, {playername}. Ты готов принести мне клятву верности?"
 
-#, fuzzy
 msgid "dlga_lord_invite_3:lord_give_oath_2"
-msgstr "Да, {s65}."
+msgstr "Так, {s65}."
 
 #, fuzzy
 msgid "dlga_lord_invite_3:lord_enter_service_reject"
@@ -1549,17 +1514,14 @@ msgstr "Приятно вновь видеть тебя, {playername}..."
 msgid "dlga_start:lord_start.2"
 msgstr "Рад снова видеть тебя, {playername}..."
 
-#, fuzzy
 msgid "dlga_start:lord_meet_neutral"
-msgstr "Мы знакомы?"
+msgstr "Мы знаёмыя?"
 
-#, fuzzy
 msgid "dlga_lord_meet_neutral:lord_intro"
 msgstr "Я {playername}."
 
-#, fuzzy
 msgid "dlga_lord_meet_neutral:lord_intro.1"
-msgstr "Меня зовут {playername}. К твоим услугам, господин."
+msgstr "Мяне клічуць {playername}. Да тваіх паслуг, спадар."
 
 msgid "dlga_lord_intro:lord_start"
 msgstr "{s11}"
@@ -2156,7 +2118,6 @@ msgstr "Я хочу, чтобы {s4} вновь принял мою присяг
 msgid "dlga_lord_ask_pardon_after_oath_renounced:lord_pretalk"
 msgstr "Боюсь, тут я тебе не помощник, {playername}. Только сам {s4} волен решить, что с тобой делать."
 
-#, fuzzy
 msgid "dlga_lord_ask_pardon_after_oath_renounced:lord_ask_pardon_terms"
 msgstr "{s11}."
 
@@ -2508,13 +2469,11 @@ msgstr "Хорошо. Я так и сделаю."
 msgid "dlga_lord_give_order_answer:lord_pretalk"
 msgstr "Прости, но мне сейчас нужно заняться своими делами."
 
-#, fuzzy
 msgid "dlga_lord_give_order_answer:lord_give_order_answer_2"
 msgstr "."
 
-#, fuzzy
 msgid "dlga_lord_give_order_answer_2:close_window"
-msgstr "Я это сделаю."
+msgstr "Я зраблю гэта."
 
 #, fuzzy
 msgid "dlga_lord_give_order_answer_2:lord_pretalk"
@@ -26863,13 +26822,11 @@ msgstr "В {s2} собрано {reg0} талеров налогов и дост�
 msgid "str_troops_ready"
 msgstr "Завершена подготовка: ^{s4}"
 
-#, fuzzy
 msgid "str_town_lord_allah"
-msgstr "Аллах"
+msgstr "Алах"
 
-#, fuzzy
 msgid "str_town_lord_god"
-msgstr "Господь"
+msgstr "Гасподзь"
 
 #, fuzzy
 msgid "str_oim_give_up_fight"
@@ -26895,9 +26852,8 @@ msgstr "^ И пока не забыл. Сейчас у меня, к сожале
 msgid "str_time_credit"
 msgstr "Осталось {reg1} дней. "
 
-#, fuzzy
 msgid "str_time_credit_zero"
-msgstr "КРЕДИТ ПРОСРОЧЕН!"
+msgstr "КРЭДЫТ ПРАТЭРМІНАВАНЫ!"
 
 #, fuzzy
 msgid "str_credit_report"
@@ -26919,13 +26875,11 @@ msgstr "У вас нет депозитов."
 msgid "str_banks_full_report_str"
 msgstr "Всего: ^{s6} ^{s8}"
 
-#, fuzzy
 msgid "str_name_kingdom_text"
-msgstr "Как будут называть ваше королевство?"
+msgstr "Як будуць называць ваша каралеўства?"
 
-#, fuzzy
 msgid "str_default_kingdom_name"
-msgstr "Королевство {s0}"
+msgstr "Каралеўства {s0}"
 
 #, fuzzy
 msgid "str_cannot_leave_now"
@@ -27226,75 +27180,57 @@ msgstr "Не забудьте перезарядить пистоль. Для э
 msgid "str_oim_training_21_text"
 msgstr "У этого человека очень подозрительный вид. Воспользуйтесь новыми навыками и преподайте ему урок."
 
-#, fuzzy
 msgid "str_forget_it"
 msgstr "Назад"
 
-#, fuzzy
 msgid "str_oim_ms_construct_only_one_instanse_for_player"
 msgstr "заглушка"
 
-#, fuzzy
 msgid "str_oim_ms_construct_party_has_merchant_guild"
 msgstr "заглушка"
 
-#, fuzzy
 msgid "str_oim_ms_construct_party_has_arm_buildings"
 msgstr "заглушка"
 
-#, fuzzy
 msgid "str_oim_ms_construct_party_has_certain_officer"
 msgstr "заглушка"
 
-#, fuzzy
 msgid "str_oim_ms_construct_party_has_certain_officers"
 msgstr "заглушка"
 
-#, fuzzy
 msgid "str_oim_ms_price_log"
 msgstr "заглушка"
 
-#, fuzzy
 msgid "str_oim_ms_construct_time"
 msgstr "заглушка"
 
-#, fuzzy
 msgid "str_oim_mnu_ms_additional_school"
 msgstr "заглушка"
 
-#, fuzzy
 msgid "str_oim_mnu_ms_additional_merchant_guild"
 msgstr "заглушка"
 
-#, fuzzy
 msgid "str_oim_mnu_ms_additional_extra_goods"
 msgstr "заглушка"
 
-#, fuzzy
 msgid "str_oim_mnu_ms_additional_adviser"
 msgstr "заглушка"
 
-#, fuzzy
 msgid "str_oim_mnu_ms_additional_officer"
 msgstr "заглушка"
 
-#, fuzzy
 msgid "str_oim_slot_ms_script_looted"
 msgstr "заглушка"
 
-#, fuzzy
 msgid "str_oim_script_ms_event_raise_taxes"
 msgstr "заглушка"
 
-#, fuzzy
 msgid "str_oim_script_ms_event_change_prosperity"
 msgstr "заглушка"
 
-#, fuzzy
 msgid "str_oim_script_ms_event_raise_taxes_week"
 msgstr "заглушка"
 
-#, fuzzy
 msgid "str_oim_script_ms_event_notification_about_gold_usage"
 msgstr "заглушка"
 
@@ -27472,7 +27408,6 @@ msgstr "Размер отряда для капитанов:"
 msgid "str_captain_merc_ratio"
 msgstr "Пропорция капитан / наемник:"
 
-#, fuzzy
 msgid "str_1_div"
 msgstr "1 / "
 
@@ -27523,13 +27458,11 @@ msgstr "{s1}"
 msgid "str_your_troops_are_dying_because_of_illness"
 msgstr "Ваши солдаты умирают от болезни!"
 
-#, fuzzy
 msgid "str_has_died_because_of_illness"
-msgstr "умирает от {s4}."
+msgstr "памірае ад {s4}."
 
-#, fuzzy
 msgid "str_have_died_because_of_illness"
-msgstr "умирает от {s4}."
+msgstr "памірае ад {s4}."
 
 #, fuzzy
 msgid "str_ccoop_wave_reg1_is_coming_in_reg0_seconds"
@@ -27596,9 +27529,8 @@ msgstr ""
 "ссоры.^Нажав на кнопку \"Отчеты\", вы можете просмотреть доклад о боевом духе вашего отряда и узнать, какие факторы на него "
 "влияют."
 
-#, fuzzy
 msgid "ip_economy"
-msgstr "Экономика"
+msgstr "Эканоміка"
 
 #, fuzzy
 msgid "ip_economy_text"
@@ -27622,9 +27554,8 @@ msgstr ""
 "на благосостояние города, ему нужно поговорить с цеховым мастером этого города. Другие сведения можно узнать у местных жителей, "
 "хотя они не всегда знают то, что не касается их непосредственной сферы деятельности."
 
-#, fuzzy
 msgid "ip_politics"
-msgstr "Политика"
+msgstr "Палітыка"
 
 #, fuzzy
 msgid "ip_politics_text"
@@ -27648,9 +27579,8 @@ msgstr ""
 "требования, то он обычно отказывается от клятвы верности и переходит на другую сторону. Игроки могут воспользоваться "
 "недовольством своих врагов, превратив их в своих союзников."
 
-#, fuzzy
 msgid "ip_military_campaigns"
-msgstr "Военные кампании"
+msgstr "Ваенныя кампаніі"
 
 #, fuzzy
 msgid "ip_military_campaigns_text"
@@ -27846,19 +27776,15 @@ msgstr "Тренировочный топор"
 msgid "itm_practice_axe_pl"
 msgstr "Тренировочный топор"
 
-#, fuzzy
 msgid "itm_arena_axe"
-msgstr "Топор"
+msgstr "Сякера"
 
-#, fuzzy
 msgid "itm_arena_axe_pl"
-msgstr "Топор"
+msgstr "Сякера"
 
-#, fuzzy
 msgid "itm_arena_sword"
 msgstr "Меч"
 
-#, fuzzy
 msgid "itm_arena_sword_pl"
 msgstr "Меч"
 
@@ -27958,45 +27884,35 @@ msgstr "Племенной жеребец"
 msgid "itm_practice_horse_pl"
 msgstr "Племенные жеребцы"
 
-#, fuzzy
 msgid "itm_practice_arrows"
-msgstr "Тренировочные стрелы"
+msgstr "Трэніровачныя стрэлы"
 
-#, fuzzy
 msgid "itm_practice_arrows_pl"
-msgstr "Тренировочные стрелы"
+msgstr "Трэніровачныя стрэлы"
 
-#, fuzzy
 msgid "itm_practice_bolts"
-msgstr "Тренировочные пули"
+msgstr "Трэніровачныя кулі"
 
-#, fuzzy
 msgid "itm_practice_bolts_pl"
-msgstr "Тренировочные пули"
+msgstr "Трэніровачныя кулі"
 
-#, fuzzy
 msgid "itm_practice_arrows_10_amount"
-msgstr "Тренировочные стрелы"
+msgstr "Трэніровачныя стрэлы"
 
-#, fuzzy
 msgid "itm_practice_arrows_10_amount_pl"
-msgstr "Тренировочные стрелы"
+msgstr "Трэніровачныя стрэлы"
 
-#, fuzzy
 msgid "itm_practice_arrows_100_amount"
-msgstr "Тренировочные стрелы"
+msgstr "Трэніровачныя стрэлы"
 
-#, fuzzy
 msgid "itm_practice_arrows_100_amount_pl"
-msgstr "Тренировочные стрелы"
+msgstr "Трэніровачныя стрэлы"
 
-#, fuzzy
 msgid "itm_practice_bolts_9_amount"
-msgstr "Тренировочные пули"
+msgstr "Трэніровачныя кулі"
 
-#, fuzzy
 msgid "itm_practice_bolts_9_amount_pl"
-msgstr "Тренировочные пули"
+msgstr "Трэніровачныя кулі"
 
 #, fuzzy
 msgid "itm_practice_boots"
@@ -28406,341 +28322,257 @@ msgstr "Трактат о хирургии и инструментах' Абу �
 msgid "itm_book_surgery_reference_pl"
 msgstr "Трактат о хирургии и инструментах' Абу аль-Касима"
 
-#, fuzzy
 msgid "itm_spice"
-msgstr "Специи"
+msgstr "Спецыі"
 
-#, fuzzy
 msgid "itm_spice_pl"
-msgstr "Специи"
+msgstr "Спецыі"
 
-#, fuzzy
 msgid "itm_salt"
 msgstr "Соль"
 
-#, fuzzy
 msgid "itm_salt_pl"
 msgstr "Соль"
 
-#, fuzzy
 msgid "itm_oil"
-msgstr "Растительное масло"
+msgstr "Алей"
 
-#, fuzzy
 msgid "itm_oil_pl"
-msgstr "Растительное масло"
+msgstr "Алей"
 
-#, fuzzy
 msgid "itm_pottery"
-msgstr "Глиняная утварь"
+msgstr "Гліняны посуд"
 
-#, fuzzy
 msgid "itm_pottery_pl"
-msgstr "Глиняная утварь"
+msgstr "Гліняны посуд"
 
-#, fuzzy
 msgid "itm_raw_flax"
-msgstr "Тюк льна"
+msgstr "Цюк лёну"
 
-#, fuzzy
 msgid "itm_raw_flax_pl"
-msgstr "Тюки льна"
+msgstr "Цюк лёну"
 
-#, fuzzy
 msgid "itm_linen"
-msgstr "Полотно"
+msgstr "Палатно"
 
-#, fuzzy
 msgid "itm_linen_pl"
-msgstr "Полотна"
+msgstr "Палотны"
 
-#, fuzzy
 msgid "itm_wool"
-msgstr "Шерсть"
+msgstr "Шэрсць"
 
-#, fuzzy
 msgid "itm_wool_pl"
-msgstr "Шерсть"
+msgstr "Шэрсць"
 
-#, fuzzy
 msgid "itm_wool_cloth"
-msgstr "Шерстяная одежда"
+msgstr "Ваўняная вопратка"
 
-#, fuzzy
 msgid "itm_wool_cloth_pl"
-msgstr "Шерстяная одежда"
+msgstr "Ваўняная вопратка"
 
-#, fuzzy
 msgid "itm_raw_silk"
-msgstr "Шелк-сырец"
+msgstr "Шоўк-сырэц"
 
-#, fuzzy
 msgid "itm_raw_silk_pl"
-msgstr "Шелк-сырец"
+msgstr "Шоўк-сырэц"
 
-#, fuzzy
 msgid "itm_raw_dyes"
-msgstr "Краска"
+msgstr "Фарба"
 
-#, fuzzy
 msgid "itm_raw_dyes_pl"
-msgstr "Краска"
+msgstr "Фарба"
 
-#, fuzzy
 msgid "itm_velvet"
-msgstr "Бархат"
+msgstr "Аксаміт"
 
-#, fuzzy
 msgid "itm_velvet_pl"
-msgstr "Бархат"
+msgstr "Аксаміт"
 
-#, fuzzy
 msgid "itm_iron"
-msgstr "Железо"
+msgstr "Жалеза"
 
-#, fuzzy
 msgid "itm_iron_pl"
-msgstr "Железо"
+msgstr "Жалеза"
 
-#, fuzzy
 msgid "itm_tools"
-msgstr "Инструменты"
+msgstr "Інструменты"
 
-#, fuzzy
 msgid "itm_tools_pl"
-msgstr "Инструменты"
+msgstr "Інструменты"
 
-#, fuzzy
 msgid "itm_raw_leather"
 msgstr "Шкуры"
 
-#, fuzzy
 msgid "itm_raw_leather_pl"
 msgstr "Шкуры"
 
-#, fuzzy
 msgid "itm_leatherwork"
-msgstr "Изделия из кожи"
+msgstr "Вырабы са скуры"
 
-#, fuzzy
 msgid "itm_leatherwork_pl"
-msgstr "Изделия из кожи"
+msgstr "Вырабы са скуры"
 
-#, fuzzy
 msgid "itm_raw_date_fruit"
-msgstr "Финики"
+msgstr "Фінікі"
 
-#, fuzzy
 msgid "itm_raw_date_fruit_pl"
-msgstr "Финики"
+msgstr "Фінікі"
 
-#, fuzzy
 msgid "itm_furs"
-msgstr "Меха"
+msgstr "Футра"
 
-#, fuzzy
 msgid "itm_furs_pl"
-msgstr "Меха"
+msgstr "Футра"
 
-#, fuzzy
 msgid "itm_oim_powder"
-msgstr "Порох"
+msgstr "Порах"
 
-#, fuzzy
 msgid "itm_oim_powder_pl"
-msgstr "Порох"
+msgstr "Порах"
 
-#, fuzzy
 msgid "itm_oim_alcohol"
-msgstr "Водка"
+msgstr "Гарэлка"
 
-#, fuzzy
 msgid "itm_oim_alcohol_pl"
-msgstr "Водка"
+msgstr "Гарэлка"
 
-#, fuzzy
 msgid "itm_oim_penka"
-msgstr "Пенька"
+msgstr "Пянька"
 
-#, fuzzy
 msgid "itm_oim_penka_pl"
-msgstr "Пенька"
+msgstr "Пянька"
 
-#, fuzzy
 msgid "itm_oim_tutun"
-msgstr "Тютюн"
+msgstr "Тытунь"
 
-#, fuzzy
 msgid "itm_oim_tutun_pl"
-msgstr "Тютюн"
+msgstr "Тытунь"
 
-#, fuzzy
 msgid "itm_wine"
-msgstr "Вино"
+msgstr "Віно"
 
-#, fuzzy
 msgid "itm_wine_pl"
-msgstr "Вино"
+msgstr "Віно"
 
-#, fuzzy
 msgid "itm_ale"
-msgstr "Пиво"
+msgstr "Піва"
 
-#, fuzzy
 msgid "itm_ale_pl"
-msgstr "Пиво"
+msgstr "Піва"
 
-#, fuzzy
 msgid "itm_smoked_fish"
-msgstr "Копченая рыба"
+msgstr "Вэнджаная рыба"
 
-#, fuzzy
 msgid "itm_smoked_fish_pl"
-msgstr "Копченая рыба"
+msgstr "Вэнджаная рыба"
 
-#, fuzzy
 msgid "itm_cheese"
 msgstr "Сыр"
 
-#, fuzzy
 msgid "itm_cheese_pl"
 msgstr "Сыр"
 
-#, fuzzy
 msgid "itm_honey"
-msgstr "Мед"
+msgstr "Мёд"
 
-#, fuzzy
 msgid "itm_honey_pl"
-msgstr "Мед"
+msgstr "Мёд"
 
-#, fuzzy
 msgid "itm_sausages"
-msgstr "Колбаски"
+msgstr "Каўбаскі"
 
-#, fuzzy
 msgid "itm_sausages_pl"
-msgstr "Колбаски"
+msgstr "Каўбаскі"
 
-#, fuzzy
 msgid "itm_cabbages"
 msgstr "Капуста"
 
-#, fuzzy
 msgid "itm_cabbages_pl"
 msgstr "Капуста"
 
-#, fuzzy
 msgid "itm_dried_meat"
-msgstr "Вяленое мясо"
+msgstr "Вяленае мяса"
 
-#, fuzzy
 msgid "itm_dried_meat_pl"
-msgstr "Вяленое мясо"
+msgstr "Вяленае мяса"
 
-#, fuzzy
 msgid "itm_apples"
-msgstr "Яблоки"
+msgstr "Яблыкі"
 
-#, fuzzy
 msgid "itm_apples_pl"
-msgstr "Яблоки"
+msgstr "Яблыкі"
 
-#, fuzzy
 msgid "itm_raw_grapes"
-msgstr "Виноград"
+msgstr "Вінаград"
 
-#, fuzzy
 msgid "itm_raw_grapes_pl"
-msgstr "Виноград"
+msgstr "Вінаград"
 
-#, fuzzy
 msgid "itm_raw_olives"
-msgstr "Оливки"
+msgstr "Алівы"
 
-#, fuzzy
 msgid "itm_raw_olives_pl"
-msgstr "Оливки"
+msgstr "Алівы"
 
-#, fuzzy
 msgid "itm_grain"
-msgstr "Пшеница"
+msgstr "Пшаніца"
 
-#, fuzzy
 msgid "itm_grain_pl"
-msgstr "Пшеница"
+msgstr "Пшаніца"
 
-#, fuzzy
 msgid "itm_flour"
 msgstr "Мука"
 
-#, fuzzy
 msgid "itm_flour_pl"
 msgstr "Мука"
 
-#, fuzzy
 msgid "itm_cattle_meat"
-msgstr "Говядина"
+msgstr "Ялавічына"
 
-#, fuzzy
 msgid "itm_cattle_meat_pl"
-msgstr "Говядина"
+msgstr "Ялавічына"
 
-#, fuzzy
 msgid "itm_bread"
 msgstr "Хлеб"
 
-#, fuzzy
 msgid "itm_bread_pl"
 msgstr "Хлеб"
 
-#, fuzzy
 msgid "itm_chicken"
-msgstr "Курятина"
+msgstr "Кураціна"
 
-#, fuzzy
 msgid "itm_chicken_pl"
-msgstr "Курятина"
+msgstr "Кураціна"
 
-#, fuzzy
 msgid "itm_pork"
-msgstr "Свинина"
+msgstr "Свініна"
 
-#, fuzzy
 msgid "itm_pork_pl"
-msgstr "Свинина"
+msgstr "Свініна"
 
-#, fuzzy
 msgid "itm_butter"
-msgstr "Масло"
+msgstr "Масла"
 
-#, fuzzy
 msgid "itm_butter_pl"
-msgstr "Масло"
+msgstr "Масла"
 
-#, fuzzy
 msgid "itm_siege_supply"
-msgstr "Припасы"
+msgstr "Прыпасы"
 
-#, fuzzy
 msgid "itm_siege_supply_pl"
-msgstr "Припасы"
+msgstr "Прыпасы"
 
-#, fuzzy
 msgid "itm_quest_wine"
-msgstr "Вино"
+msgstr "Віно"
 
-#, fuzzy
 msgid "itm_quest_wine_pl"
-msgstr "Вино"
+msgstr "Віно"
 
-#, fuzzy
 msgid "itm_quest_ale"
-msgstr "Пиво"
+msgstr "Піва"
 
-#, fuzzy
 msgid "itm_quest_ale_pl"
-msgstr "Пиво"
+msgstr "Піва"
 
 #, fuzzy
 msgid "itm_sumpter_horse"
@@ -34036,77 +33868,59 @@ msgstr "Богатые высокие сапоги"
 msgid "itm_good_boots_k_pl"
 msgstr "Богатые высокие сапоги"
 
-#, fuzzy
 msgid "itm_bad_boots_p"
-msgstr "Старые сапоги"
+msgstr "Старыя боты"
 
-#, fuzzy
 msgid "itm_bad_boots_p_pl"
-msgstr "Старые сапоги"
+msgstr "Старыя боты"
 
-#, fuzzy
 msgid "itm_norm_boots_p"
-msgstr "Сапоги"
+msgstr "Боты"
 
-#, fuzzy
 msgid "itm_norm_boots_p_pl"
-msgstr "Сапоги"
+msgstr "Боты"
 
-#, fuzzy
 msgid "itm_good_boots_p"
-msgstr "Богатые сапоги"
+msgstr "Багатыя боты"
 
-#, fuzzy
 msgid "itm_good_boots_p_pl"
-msgstr "Богатые сапоги"
+msgstr "Багатыя боты"
 
-#, fuzzy
 msgid "itm_bad_botforts"
-msgstr "Старые ботфорты"
+msgstr "Старыя батфорты"
 
-#, fuzzy
 msgid "itm_bad_botforts_pl"
-msgstr "Старые ботфорты"
+msgstr "Старыя батфорты"
 
-#, fuzzy
 msgid "itm_norm_botforts"
-msgstr "Ботфорты"
+msgstr "Батфорты"
 
-#, fuzzy
 msgid "itm_norm_botforts_pl"
-msgstr "Ботфорты"
+msgstr "Батфорты"
 
-#, fuzzy
 msgid "itm_good_botforts"
-msgstr "Богатые ботфорты"
+msgstr "Багатыя батфорты"
 
-#, fuzzy
 msgid "itm_good_botforts_pl"
-msgstr "Богатые ботфорты"
+msgstr "Багатыя батфорты"
 
-#, fuzzy
 msgid "itm_good_boots_ttr"
-msgstr "Богатые сапоги"
+msgstr "Багатыя боты"
 
-#, fuzzy
 msgid "itm_good_boots_ttr_pl"
-msgstr "Богатые сапоги"
+msgstr "Багатыя боты"
 
-#, fuzzy
 msgid "itm_noob_dubinka"
-msgstr "Дубина"
+msgstr "Дубіна"
 
-#, fuzzy
 msgid "itm_noob_dubinka_pl"
-msgstr "Дубина"
+msgstr "Дубіна"
 
-#, fuzzy
 msgid "itm_noob_toporik"
-msgstr "Топорик"
+msgstr "Сякерка"
 
-#, fuzzy
 msgid "itm_noob_toporik_pl"
-msgstr "Топорик"
+msgstr "Сякерка"
 
 #, fuzzy
 msgid "itm_m_janissar_hat"
@@ -34132,11 +33946,9 @@ msgstr "Турецкие туфли"
 msgid "itm_m_janissary_tapki_pl"
 msgstr "Турецкие туфли"
 
-#, fuzzy
 msgid "itm_m_yatagan_bad"
 msgstr "Ятаган"
 
-#, fuzzy
 msgid "itm_m_yatagan_bad_pl"
 msgstr "Ятаган"
 
@@ -34952,29 +34764,23 @@ msgstr "поля боя"
 msgid "p_dhorak_keep"
 msgstr "Крепость Калькари"
 
-#, fuzzy
 msgid "p_training_ground"
-msgstr "Лагерь наемников"
+msgstr "Лагер наёмнікаў"
 
-#, fuzzy
 msgid "p_training_ground_1"
-msgstr "Лагерь наемников"
+msgstr "Лагер наёмнікаў"
 
-#, fuzzy
 msgid "p_training_ground_2"
-msgstr "Лагерь наемников"
+msgstr "Лагер наёмнікаў"
 
-#, fuzzy
 msgid "p_training_ground_3"
-msgstr "Лагерь наемников"
+msgstr "Лагер наёмнікаў"
 
-#, fuzzy
 msgid "p_training_ground_4"
-msgstr "Лагерь наемников"
+msgstr "Лагер наёмнікаў"
 
-#, fuzzy
 msgid "p_training_ground_5"
-msgstr "Лагерь наемников"
+msgstr "Лагер наёмнікаў"
 
 #, fuzzy
 msgid "p_temp_party_3"
@@ -35297,25 +35103,20 @@ msgstr "Торговый обоз"
 msgid "pt_oim_static_object"
 msgstr "Не переводится"
 
-#, fuzzy
 msgid "pt_village_defenders_fac1"
-msgstr "Village Defenders"
+msgstr "Абаронцы вёскі"
 
-#, fuzzy
 msgid "pt_village_defenders_fac2"
-msgstr "Village Defenders"
+msgstr "Абаронцы вёскі"
 
-#, fuzzy
 msgid "pt_village_defenders_fac3"
-msgstr "Village Defenders"
+msgstr "Абаронцы вёскі"
 
-#, fuzzy
 msgid "pt_village_defenders_fac4"
-msgstr "Village Defenders"
+msgstr "Абаронцы вёскі"
 
-#, fuzzy
 msgid "pt_village_defenders_fac5"
-msgstr "Village Defenders"
+msgstr "Абаронцы вёскі"
 
 #, fuzzy
 msgid "qst_deliver_message"
@@ -46209,29 +46010,23 @@ msgstr "Казацкий атаман"
 msgid "trp_mercanary_captain_kozaks_pl"
 msgstr "Казацкие атаманы"
 
-#, fuzzy
 msgid "trp_mercanary_captain_polyak"
-msgstr "Капитан наемников"
+msgstr "Капітан наёмнікаў"
 
-#, fuzzy
 msgid "trp_mercanary_captain_polyak_pl"
-msgstr "Капитан наемников"
+msgstr "Капітан наёмнікаў"
 
-#, fuzzy
 msgid "trp_mercanary_captain_shved"
-msgstr "Капитан наемников"
+msgstr "Капітан наёмнікаў"
 
-#, fuzzy
 msgid "trp_mercanary_captain_shved_pl"
-msgstr "Капитан наемников"
+msgstr "Капітан наёмнікаў"
 
-#, fuzzy
 msgid "trp_mercanary_captain_moskov"
-msgstr "Капитан наемников"
+msgstr "Капітан наёмнікаў"
 
-#, fuzzy
 msgid "trp_mercanary_captain_moskov_pl"
-msgstr "Капитан наемников"
+msgstr "Капітан наёмнікаў"
 
 #, fuzzy
 msgid "trp_tatar_merch_novice_infantry"
