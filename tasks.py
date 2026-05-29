@@ -109,7 +109,11 @@ def po_to_csv(c):
 
 @task(pre=[po_to_csv])
 def install(c):
-    game_folder = os.environ.get("GAME_FOLDER", input("Game folder: "))
+    load_dotenv()
+    game_folder = os.environ.get("GAME_FOLDER")
+
+    if not game_folder:
+        game_folder = input("Game folder: ")
 
     game_settings_folder = (
         Path.home() / "Documents"

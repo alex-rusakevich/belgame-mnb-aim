@@ -12,7 +12,7 @@ ui_enable_vertex_shaders|Тып рэндэрынгу:
 ui_shadow_quality|Якасць ценяў:
 ui_directx_7|DirectX 7
 ui_directx_9|DirectX 9
-ui_show_framerate|Отображение частоты кадров
+ui_show_framerate|Адлюстраванне частоты кадраў
 ui_start_windowed|Аконны рэжым
 ui_trialmode_caption|Актывацыя
 ui_trialmode|"Калі ласка, зарэгіструйце вашу версію ""Mount & Blade. Агнём і мячом. Вялікія бітвы"". Вы знойдзеце унікальны ключ з 16 лічбаў ўнутры скрынкі з гульнёй.
@@ -67,7 +67,7 @@ ui_faq_caption|Пытанні і адказы.
 ui_faq_text|Пытанні? Адказы!
 ui_auto_adjust|Аўтаналадка
 ui_screen_size|Раздзяленне экрана
-ui_antialiasing|Сглаживание:
+ui_antialiasing|Згладжванне:
 ui_use_desktop_resolution|Раздзяленне працоўнага стала
 ui_play|Гуляць
 ui_check_for_new_version|Праверка абнаўленняў
@@ -81,8 +81,8 @@ ui_manual_activation_text3|3) І параметры вашай сістэмы:
 ui_manual_activation_text4|4) На старонцы вы ўбачыце код актывацыі. Увядзіце яго або проста скапіюйце і націсніце ОК.
 ui_activation_code|Код актывацыі:
 ui_force_vsync|Вертыкальная сінхранізацыя
-ui_module_newer_than_application|Выбранный вами модуль требует более новой версии игры.
-ui_module_older_than_application|Выбранный вами модуль требует более старой версии игры.
+ui_module_newer_than_application|Абраны вамі модуль патрабуе больш новай версіі гульні.
+ui_module_older_than_application|Абраны вамі модуль патрабуе больш старой версіі гульні.
 ui_m_low|Нізк.
 ui_m_high|Высок.
 ui_m_ultra_high|Вельмі высок.

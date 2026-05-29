@@ -1,157 +1,157 @@
 p_zendar|Зендар
-p_town_1|Кенигсберг
-p_town_2|Ревель
-p_town_3|Киев
-p_town_4|Вильно
-p_town_5|Сечь
+p_town_1|Кёнігсберг
+p_town_2|Рэвель
+p_town_3|Кіеў
+p_town_4|Вільня
+p_town_5|Сеч
 p_town_6|Варшава
-p_town_7|Львов
-p_town_8|Москва
-p_town_9|Псков
+p_town_7|Львоў
+p_town_8|Масква
+p_town_9|Пскоў
 p_town_10|Азак-кале
-p_town_11|Черкасск
-p_town_12|Рига
-p_town_13|Смоленск
-p_town_14|Бахчисарай
-p_town_15|Чернигов
-p_town_16|Краков
-p_town_17|Аккерман
-p_town_18|Казикермен
-p_castle_1|Крепость Збараж
-p_castle_2|Крепость Гезлев
-p_castle_3|Полоцк
-p_castle_4|Выборг
-p_castle_5|Замок Дзвинск
-p_castle_6|Новгород
-p_castle_7|Крепость Кильбурун
-p_castle_8|Тверь
-p_castle_9|Полтава
-p_castle_10|Крепость Ковно
-p_castle_11|Мядзельский замок
+p_town_11|Чаркаск
+p_town_12|Рыга
+p_town_13|Смаленск
+p_town_14|Бахчысарай
+p_town_15|Чарнігаў
+p_town_16|Кракаў
+p_town_17|Акерман
+p_town_18|Казікермен
+p_castle_1|Крэпасць Збараж
+p_castle_2|Крэпасць Гезлеў
+p_castle_3|Полацк
+p_castle_4|Выбарг
+p_castle_5|Замак Дзвінск
+p_castle_6|Ноўгарад
+p_castle_7|Крэпасць Кільбурун
+p_castle_8|Цвер
+p_castle_9|Палтава
+p_castle_10|Крэпасць Коўна
+p_castle_11|Мядзельскі замак
 p_castle_12|Нарва
 p_castle_13|Слуцк
-p_castle_14|Брацлав
-p_castle_15|Черкассы
+p_castle_14|Брацлаў
+p_castle_15|Чаркасы
 p_castle_16|Корсунь
-p_castle_17|Перекоп
-p_castle_18|Ржевская крепость
+p_castle_17|Перакоп
+p_castle_18|Ржэўская крэпасць
 p_castle_19|Курск
-p_castle_20|Лодзинский замок
-p_castle_21|Переяслав
+p_castle_20|Лодзінскі замак
+p_castle_21|Пераяслаў
 p_castle_22|Кафа
-p_castle_23|Дубенский замок
-p_castle_24|Каменец
-p_castle_25|Люблин
-p_castle_26|Минск
-p_castle_27|Крепость Берестье
-p_castle_28|Крепость Бар
-p_castle_29|Крепость Брянск
-p_castle_30|Крепость Измаил
-p_castle_31|Рязань
-p_castle_32|Алленштейнский замок
-p_castle_33|Крепость Ладыжин
-p_castle_34|Крепость Дорпат
-p_castle_35|Лидский замок
-p_castle_36|Крепость Динабург
+p_castle_23|Дубенскі замак
+p_castle_24|Камянец
+p_castle_25|Люблін
+p_castle_26|Мінск
+p_castle_27|Крэпасць Бярэсце
+p_castle_28|Крэпасць Бар
+p_castle_29|Крэпасць Бранск
+p_castle_30|Крэпасць Ізмаіл
+p_castle_31|Разань
+p_castle_32|Аленштэйнскі замак
+p_castle_33|Крэпасць Ладыжын
+p_castle_34|Крэпасць Дорпат
+p_castle_35|Лідскі замак
+p_castle_36|Крэпасць Дынабург
 p_castle_37|Тула
-p_castle_38|Крепость Каланчак
-p_castle_39|Изюмская крепость
-p_castle_40|Крепость Кызыл-яр
+p_castle_38|Крэпасць Каланчак
+p_castle_39|Ізюмская крэпасць
+p_castle_40|Крэпасць Кызыл-яр
 p_village_1|Плоцк
-p_village_2|Водовице
-p_village_3|Овруч
-p_village_4|Дунаевцы
-p_village_5|Эльблонг
-p_village_6|Видава
+p_village_2|Вадавіцы
+p_village_3|Оўруч
+p_village_4|Дунаеўцы
+p_village_5|Эльблонга
+p_village_6|Відава
 p_village_7|Марксбург
 p_village_8|Везенберг
-p_village_9|Погребище
-p_village_10|Редькино
+p_village_9|Паграбішча
+p_village_10|Рэдзькіна
 p_village_11|Ордаш
-p_village_12|Богуслав
-p_village_13|Стрий
-p_village_14|Сланцы
-p_village_15|Барановичи
+p_village_12|Багуслаў
+p_village_13|Стрый
+p_village_14|Сланец
+p_village_15|Баранавічы
 p_village_16|Таруса
-p_village_17|Кривичи
-p_village_18|Поныри
-p_village_19|Покровское
-p_village_20|Ефремово
-p_village_21|Обоянь
-p_village_22|Льгов
-p_village_23|Магдалиновка
-p_village_24|Синельниково
+p_village_17|Крывічы
+p_village_18|Паныры
+p_village_19|Пакроўскае
+p_village_20|Яфрэмава
+p_village_21|Абаянь
+p_village_22|Льгоў
+p_village_23|Магдалінаўка
+p_village_24|Сінельнікава
 p_village_25|Джанкой
-p_village_26|Сновск
+p_village_26|Сноўск
 p_village_27|Славута
-p_village_28|Сиваш
-p_village_29|Зигвольд
-p_village_30|Салис
-p_village_31|Пильве
-p_village_32|Староновице
-p_village_33|Радзилов
-p_village_34|Молодечно
+p_village_28|Сіваш
+p_village_29|Зігвольд
+p_village_30|Саліс
+p_village_31|Пільвэ
+p_village_32|Старонавіцэ
+p_village_33|Радзілаў
+p_village_34|Маладзечна
 p_village_35|Снечко
-p_village_36|Нидрица
+p_village_36|Нідрыца
 p_village_37|Буджак
-p_village_38|Солечники
-p_village_39|Островец
-p_village_40|Крылив
+p_village_38|Салечнікі
+p_village_39|Астравец
+p_village_40|Крыліў
 p_village_41|Тумнек
-p_village_42|Пологи
-p_village_43|Ак-Мечеть
+p_village_42|Спадзісты
+p_village_43|АК-Мячэць
 p_village_44|Есак
-p_village_45|Инкерман
-p_village_46|Ильинцы
-p_village_47|Золотоноша
-p_village_48|Потоки
+p_village_45|Інкерман
+p_village_46|Ільінцы
+p_village_47|Залатаноша
+p_village_48|Патокі
 p_village_49|Нугай
-p_village_50|Софоново
-p_village_51|Вейбенштейн
-p_village_52|Хорол
-p_village_53|Несвиж
-p_village_54|Ченстохова
-p_village_55|Луга
+p_village_50|Сафонава
+p_village_51|Вейбенштэйн
+p_village_52|Харол
+p_village_53|Нясвіж
+p_village_54|Чэнстахова
+p_village_55|Луг
 p_village_56|Торма
-p_village_57|Бабице
+p_village_57|Бабіцэ
 p_village_58|Ярцы
-p_village_59|Лоев
+p_village_59|Лоеў
 p_village_60|Добруш
 p_village_61|Леал
-p_village_62|Старица
-p_village_63|Остролека
-p_village_64|Кобеляки
+p_village_62|Старыца
+p_village_63|Вастралека
+p_village_64|Кабялякі
 p_village_65|Дубечня
-p_village_66|Замошье
+p_village_66|Замошша
 p_village_67|Рудня
-p_village_68|Лубенец
-p_village_69|Тапиау
-p_village_70|Люботин
-p_village_71|Самбир
-p_village_72|Видзы
-p_village_73|Козелец
-p_village_74|Клин
-p_village_75|Людиново
+p_village_68|Лубянец
+p_village_69|Тапіау
+p_village_70|Любацін
+p_village_71|Самбір
+p_village_72|Відзы
+p_village_73|Казелец
+p_village_74|Клін
+p_village_75|Людзінава
 p_village_76|Чапле
-p_village_77|Поневеж
-p_village_78|Паволоч
-p_village_79|Борисполь
+p_village_77|Панявеж
+p_village_78|Паволач
+p_village_79|Барыспаль
 p_village_80|Вендау
-p_village_81|Шауляй
+p_village_81|Шаўляй
 p_village_82|Тракай
-p_village_83|Лисянка
-p_village_84|Маслов брод
+p_village_83|Лісянка
+p_village_84|Маслаў брод
 p_village_85|Локня
-p_village_86|Валуйки
+p_village_86|Валуйкі
 p_village_87|Плунге
-p_village_88|Килия
-p_village_89|Лещиновка
-p_village_90|Коломак
-p_salt_mine|Соляная шахта
-p_four_ways_inn|"Трактир ""На семи ветрах"
-p_test_scene|тестовая сцена
-p_battlefields|поля боя
-p_dhorak_keep|Крепость Калькари
+p_village_88|Кілія
+p_village_89|Ляшчынаўка
+p_village_90|Каламак
+p_salt_mine|Саляная шахта
+p_four_ways_inn|"Карчму "" на сямі вятрах"
+p_test_scene|тэставая сцэна
+p_battlefields|поля бою
+p_dhorak_keep|Крэпасць Калькары
 p_training_ground|Лагер наёмнікаў
 p_training_ground_1|Лагер наёмнікаў
 p_training_ground_2|Лагер наёмнікаў
@@ -174,5 +174,5 @@ p_bridge_12|12
 p_bridge_13|13
 p_bridge_14|14
 p_bridge_15|15
-p_sea_raider_spawn_point_1|точка появления морского разбойника
-p_sea_raider_spawn_point_2|точка появления морского разбойника
+p_sea_raider_spawn_point_1|кропка з'яўлення марскога разбойніка
+p_sea_raider_spawn_point_2|кропка з'яўлення марскога разбойніка

@@ -1,90 +1,90 @@
-menu_start_game_0|"Добро пожаловать в игру ""Mount and Blade. Огнем и мечом"", путешественник. Прежде чем начать игру, вам нужно создать своего персонажа и выбрать уровень сложности игры."
-mno_start_easy|Легко
-mno_start_normal|Средне
-mno_start_hard|Тяжело
+menu_start_game_0|"Сардэчна запрашаем у гульню "" Mount and Blade. Агнём і мячом"", падарожнік. Перш чым пачаць гульню, вам трэба стварыць свайго персанажа і выбраць ўзровень складанасці гульні."
+mno_start_easy|Лёгка
+mno_start_normal|Сярэдне
+mno_start_hard|Цяжкі
 mno_go_back_dot|Назад
 menu_start_phase_2|{s10}
-mno_get_deal_with|Посмотреть, что происходит.
+mno_get_deal_with|Паглядзець, што адбываецца.
 mno_talk_to_monfore|Працягнуць...
-mno_camp_train_archery|Поупражняться с огнестрельным оружием.
-mno_continue|Продолжить путешествие.
-menu_reports|Известность персонажа: {reg5}^Рейтинг чести: {reg6}^Боевой дух отряда: {reg8}^Максимальная численность отряда: {reg7}^
-mno_view_character_report|Просмотреть данные о персонаже.
-mno_view_party_size_report|Просмотреть данные о численности отряда.
-mno_view_morale_report|Просмотреть данные о боевом духе отряда.
-mno_view_faction_relations_report|Просмотреть данные об отношениях с государствами.
-mno_view_banking_reports|Просмотреть данные о банковских счетах. 
+mno_camp_train_archery|Папрактыкавацца з агнястрэльнай зброяй.
+mno_continue|Працягнуць падарожжа.
+menu_reports|Вядомасць персанажа: {reg5}^рэйтынг гонару: {reg6}^баявы дух атрада: {reg8}^Максімальная колькасць атрада: {reg7}^
+mno_view_character_report|Прагледзець дадзеныя аб персанажа.
+mno_view_party_size_report|Прагледзець дадзеныя аб колькасці атрада.
+mno_view_morale_report|Прагледзець дадзеныя аб баявым духу атрада.
+mno_view_faction_relations_report|Прагледзець дадзеныя аб адносінах з дзяржавамі.
+mno_view_banking_reports|Прагледзець дадзеныя аб банкаўскіх рахунках. 
 mno_resume_travelling|Працягнуць...
-mno_go_back|Вернуться...
-menu_custom_battle_end|Бой окончен. {s1} Ваш отряд убил {reg5} врагов и потерял {reg6} воинов. Вы лично убили в бою {reg7} человек.
-menu_start_game_1|Выберите пол вашего героя.
-mno_start_male_2|Мужской
-mno_start_female|Женский
-menu_start_character_1|Так какого ты роду-племени? Из какой семьи?
-mno_start_noble|Мои отец и мать - благородные дворяне.
-mno_start_merchant|... странствующим торговцем.
-mno_start_guard|... воином-ветераном.
-mno_start_forester|... охотником.
-mno_start_nomad|... степняком-кочевником.
-mno_start_thief|... вором.
-menu_start_character_2|{s10}^^ Вы начали познавать мир, как только научились ходить и говорить. Свои ранние годы вы провели в качестве...
-mno_page|... пажа при дворе вельможи.
-mno_apprentice|... подмастерья ремесленника.
-mno_stockboy|... помощника в магазине.
-mno_urchin|... уличного сорванца.
-mno_nomad|... настоящего дитя степей.
-menu_start_character_3|{s11}^^ В юности ваша жизнь переменилась, как это обычно и бывает. Вы стали...
-mno_squire|... землевладельцем.
-mno_lady|... фрейлиной.
-mno_troubadour|... трубадуром.
-mno_student|... студентом университета.
-mno_peddler|...уличным торговцем-разносчиком.
-mno_craftsman|... кузнецом
-mno_poacher|...шулером.
-menu_start_character_4|{s12}^^ Но вскоре события вынудили вас бросить все и стать искателем приключений. Что же заставило вас принять такое решение?
-mno_revenge|Жажда мести.
-mno_death|Гибель любимого человека.
-mno_wanderlust|Мечта о далеких землях.
-mno_disown|Меня выдворили из собственного дома.
-mno_greed|Стремление к богатству и власти.
-menu_choose_skill|Вы замечаете в отдалении готовых к бою людей.
-mno_begin_adventuring|Посмотреть, что происходит.
+mno_go_back|Вярнуцца...
+menu_custom_battle_end|Бой скончаны. {s1} ваш атрад забіў {reg5} ворагаў і страціў {reg6} воінаў. Вы асабіста забілі ў баі {reg7} чалавек.
+menu_start_game_1|Выберыце падлогу вашага героя.
+mno_start_male_2|Мужчынскі
+mno_start_female|Жаночы
+menu_start_character_1|Дык якога ты роду-племя? З якой сям'і?
+mno_start_noble|Мае бацька і маці-высакародныя дваране.
+mno_start_merchant|... вандроўным гандляром.
+mno_start_guard|... ваяром-ветэранам.
+mno_start_forester|... паляўнічы.
+mno_start_nomad|... стэпняком-качэўнікам.
+mno_start_thief|... злодзей.
+menu_start_character_2|{s10}^ ^ вы пачалі пазнаваць свет, як толькі навучыліся хадзіць і гаварыць. Свае раннія гады вы правялі ў якасці...
+mno_page|... пажа пры двары вяльможы.
+mno_apprentice|... чалядніка рамесніка.
+mno_stockboy|... памочніка ў краме.
+mno_urchin|... вулічнага падшыванца.
+mno_nomad|... Сапраўднага дзіцё стэпаў.
+menu_start_character_3|{s11}^ ^ у юнацтве ваша жыццё змянілася, як гэта звычайна і бывае. Вы сталі...
+mno_squire|... землеўладальнік.
+mno_lady|... фрэйліна.
+mno_troubadour|... трубадур.
+mno_student|... студэнтам універсітэта.
+mno_peddler|...вулічным гандляром-разносчыкам.
+mno_craftsman|... каваль
+mno_poacher|...шулер.
+menu_start_character_4|{s12}^ ^ але неўзабаве падзеі прымусілі вас кінуць усё і стаць авантурыстам. Што ж прымусіла вас прыняць такое рашэнне?
+mno_revenge|Прага помсты.
+mno_death|Смерць каханага чалавека.
+mno_wanderlust|Мара аб далёкіх землях.
+mno_disown|Мяне выдварылі з уласнага дома.
+mno_greed|Імкненне да багацця і ўлады.
+menu_choose_skill|Вы заўважаеце ў аддаленні гатовых да бою людзей.
+mno_begin_adventuring|Паглядзець, што адбываецца.
 menu_past_life_explanation|{s3}
 mno_view_next|{s5}
-menu_auto_return|Это меню автоматически возвращает к ...
+menu_auto_return|Гэта меню аўтаматычна вяртае да ...
 menu_morale_report|{s1}
 menu_faction_orders|{s9}
-mno_faction_orders_next_faction|Выбрать следующее государство.
-mno_faction_orders_defend|Заставить защищать.
-mno_faction_orders_gather|Заставить собирать армию.
-mno_faction_orders_increase_time|Увеличить длительность последней атаки на 24 часа.
-mno_faction_orders_rethink|Заставить передумать.
-mno_faction_orders_rethink_all|Заставить все государства переменить решение.
+mno_faction_orders_next_faction|Выбраць наступную дзяржаву.
+mno_faction_orders_defend|Прымусіць абараняць.
+mno_faction_orders_gather|Прымусіць збіраць войска.
+mno_faction_orders_increase_time|Павялічыць працягласць апошняй атакі на 24 гадзіны.
+mno_faction_orders_rethink|Прымусіць перадумаць.
+mno_faction_orders_rethink_all|Прымусіць усе дзяржавы перамяніць рашэнне.
 menu_character_report|{s9}
 menu_party_size_report|{s1}
 menu_faction_relations_report|{s1}
-menu_camp|Вы разбиваете лагерь. Что вы хотите сделать?
-mno_camp_action_1|Чит: прогуляться вокруг.
-mno_camp_action|Предпринять действие.
-mno_oim_diplomacy_menu|Дипломатия
-mno_wagenburg_action_on|Построить вагенбург.
-mno_wagenburg_action_off|Разобрать вагенбург.
-mno_camp_wait_here|Подождать некоторое время.
-mno_camp_cheat|МЕНЮ ЧИТ-КОДОВ!
-mno_ms_extra_adviser|Послать гонца к помощнику главы.
-menu_camp_cheat|Выберите чит:
-mno_camp_cheat_1|Увеличить известность игрока.
-mno_camp_action_4|Вернуться в меню лагеря...
-menu_camp_action|Выберите действие:
-mno_camp_recruit_prisoners|Завербовать некоторых пленников в свой отряд.
-mno_action_read_book|Выбрать книгу для чтения.
-mno_action_modify_banner|Изменить вид вашего знамени.
-mno_action_retire|Прекратить жизнь искателя приключений.
-menu_camp_recruit_prisoners|Вы предлагаете своим пленникам свободу, если они согласятся присоединиться к вашему отряду. {s18}
-mno_camp_recruit_prisoners_accept|Взять их.
-mno_camp_recruit_prisoners_reject|Отказать им.
-menu_camp_no_prisoners|У вас нет пленников для вербовки.
-menu_camp_action_read_book|Выберите книгу для чтения.
+menu_camp|Вы разбіваеце лагер. Што вы хочаце зрабіць?
+mno_camp_action_1|Чыць: прагуляцца вакол.
+mno_camp_action|Распачаць дзеянне.
+mno_oim_diplomacy_menu|Дыпламатыя
+mno_wagenburg_action_on|Пабудаваць вагенбург.
+mno_wagenburg_action_off|Разабраць вагенбург.
+mno_camp_wait_here|Пачакаць некаторы час.
+mno_camp_cheat|МЕНЮ ЧЫЦЬ-КОДАЎ!
+mno_ms_extra_adviser|Паслаць ганца да памочніка кіраўніка.
+menu_camp_cheat|Выберыце чыць:
+mno_camp_cheat_1|Павялічыць вядомасць гульца.
+mno_camp_action_4|Вярнуцца ў меню лагеры...
+menu_camp_action|Выберыце дзеянне:
+mno_camp_recruit_prisoners|Завербаваць некаторых палонных у свой атрад.
+mno_action_read_book|Выбраць кнігу для чытання.
+mno_action_modify_banner|Змяніць выгляд вашага сцяга.
+mno_action_retire|Спыніць жыццё шукальніка прыгод.
+menu_camp_recruit_prisoners|Вы прапануеце сваім палонным свабоду, калі яны пагодзяцца далучыцца да вашага атраду. {s18}
+mno_camp_recruit_prisoners_accept|Узяць іх.
+mno_camp_recruit_prisoners_reject|Адмовіць ім.
+menu_camp_no_prisoners|У вас няма палонных для вярбоўкі.
+menu_camp_action_read_book|Выберыце кнігу для чытання.
 mno_action_read_book_1|{s1}.
 mno_action_read_book_2|{s1}.
 mno_action_read_book_3|{s1}.
@@ -93,345 +93,345 @@ mno_action_read_book_5|{s1}.
 mno_action_read_book_6|{s1}.
 mno_action_read_book_7|{s1}.
 menu_camp_action_read_book_start|{s1}
-menu_retirement_verify|Сегодня {reg0}-й день ваших приключений. Ваше состояние составляет {reg1} талеров. Вы уверены, что хотите уйти на покой?
-mno_retire_yes|Да
-mno_retire_no|Нет
-menu_end_game|Решение принято: пора прекратить скитания. У вас нет ни сил, ни желания искать новые приключения. Вы продаете оружие и доспехи, распускаете отряд и находите тихое пристанище подальше от войн и неурядиц...
-mno_end_game_bye|Прощайте.
+menu_retirement_verify|Сёння {reg0} - ы дзень вашых прыгод. Ваш стан складае {reg1} талераў. Вы ўпэўненыя, што хочаце сысці на супакой?
+mno_retire_yes|Так
+mno_retire_no|Не
+menu_end_game|Рашэнне прынята: пара спыніць тулянні. У вас няма ні сіл, ні жадання шукаць новыя прыгоды. Вы прадаеце зброю і даспехі, распускаеце атрад і знаходзіце ціхае прыстанак далей ад войнаў і бязладзіцы...
+mno_end_game_bye|Дараваць.
 menu_pay_day|{s1}.
-menu_cattle_herd|Вы натыкаетесь на стадо скота.
-mno_cattle_drive_away|Погнать стадо вперед.
-mno_cattle_stop|Остановить стадо.
-mno_cattle_kill|Забить несколько животных.
+menu_cattle_herd|Вы натыкаецеся на статак жывёлы.
+mno_cattle_drive_away|Пагнаць статак наперад.
+mno_cattle_stop|Спыніць статак.
+mno_cattle_kill|Забіць некалькі жывёл.
 mno_leave|Выйсці...
-menu_cattle_herd_kill|Сколько животных вы хотите забить?
-mno_cattle_kill_1|Одно.
+menu_cattle_herd_kill|Колькі жывёл вы хочаце забіць?
+mno_cattle_kill_1|Адна.
 mno_cattle_kill_2|Два.
-mno_cattle_kill_3|Три.
-mno_cattle_kill_4|Четыре.
-mno_cattle_kill_5|Пять.
-menu_cattle_herd_kill_end|Вы не должны были увидеть этот текст.
-menu_arena_duel_fight|Вы и ваш противник готовитесь к поединку.
-menu_simple_encounter|{s2} У противника {reg11} бойцов, готовых к бою, против ваших {reg10} бойцов. ^{s4}
-mno_encounter_attack|Броситься на врага.
-mno_encounter_attack_wagenburg_mounted|Атаковать конным.
-mno_encounter_attack_wagenburg_unmounted|Атаковать пешим.
-mno_encounter_order_attack|Приказать войскам атаковать без вас.
+mno_cattle_kill_3|Тры.
+mno_cattle_kill_4|Чатыры.
+mno_cattle_kill_5|Пяць.
+menu_cattle_herd_kill_end|Вы не павінны былі ўбачыць гэты тэкст.
+menu_arena_duel_fight|Вы і ваш праціўнік рыхтуецеся да паядынку.
+menu_simple_encounter|{s2} у праціўніка {reg11} байцоў, гатовых да бою, супраць вашых {reg10} байцоў. ^{s4}
+mno_encounter_attack|Кінуцца на ворага.
+mno_encounter_attack_wagenburg_mounted|Атакаваць конным.
+mno_encounter_attack_wagenburg_unmounted|Атакаваць пешым.
+mno_encounter_order_attack|Загадаць войскам атакаваць без вас.
 mno_encounter_leave|Выйсці...
-mno_encounter_retreat|Отступить, оставив несколько солдат прикрывать тылы.
-mno_encounter_surrender|Сдаться.
-menu_encounter_retreat_confirm|Будучи лучшим тактиком в отряде ({reg2} очков тактики), {reg3?вы разрабатываете:{s3} разрабатывает} план, который позволит вам и вашим людям уйти невредимыми, но придется оставить {reg4} воинов, которые задержат врага.
-mno_leave_behind|Пожертвовать этими людьми, чтобы спасти остальных.
-mno_dont_leave_behind|Остаться на поле боя.
-menu_encounter_retreat|Вы отдаете приказ. {reg4} воинов будут сдерживать врага, пока вы отступаете, уводя остальную часть отряда.
-menu_order_attack_begin|Ваши войска готовятся атаковать противника.
-mno_order_attack_begin|Отдать приказ к началу атаки.
-mno_call_back|Отозвать войска.
-menu_order_attack_2|{s4}^^Ваши потери:^ {s8}^^Потери противника:^ {s9}
-mno_order_attack_continue|Приказать своим воинам продолжить атаку.
-mno_order_retreat|Отозвать своих бойцов.
-menu_battle_debrief|{s11}^^Ваши потери:^ {s8}{s10}^^Потери противника:^ {s9}
-menu_total_victory|Вы не должны были увидеть этот текст. {s9}
+mno_encounter_retreat|Адступіць, пакінуўшы некалькі салдат прыкрываць тылы.
+mno_encounter_surrender|Здацца.
+menu_encounter_retreat_confirm|Будучы лепшым тактыкам у атрадзе ({reg2} ачкоў тактыкі), {reg3?вы распрацоўваеце: {s3} распрацоўвае} план, які дазволіць вам і вашым людзям сысці цэлымі, але прыйдзецца пакінуць {reg4} воінаў, якія затрымаюць ворага.
+mno_leave_behind|Ахвяраваць гэтымі людзьмі, каб выратаваць астатніх.
+mno_dont_leave_behind|Застацца на полі бою.
+menu_encounter_retreat|Вы аддаеце загад. {reg4} воінаў будуць стрымліваць ворага, пакуль вы адступаеце, адводзячы астатнюю частку атрада.
+menu_order_attack_begin|Вашы войскі рыхтуюцца атакаваць праціўніка.
+mno_order_attack_begin|Аддаць загад да пачатку атакі.
+mno_call_back|Адклікаць войскі.
+menu_order_attack_2|{s4}^ ^ вашы страты:^ {s8}^ ^ страты суперніка:^ {s9}
+mno_order_attack_continue|Загадаць сваім воінам працягнуць атаку.
+mno_order_retreat|Адклікаць сваіх байцоў.
+menu_battle_debrief|{s11}^ ^ вашы страты:^ {s8}{s10}^ ^ страты праціўніка:^ {s9}
+menu_total_victory|Вы не павінны былі ўбачыць гэты тэкст. {s9}
 menu_enemy_slipped_away|{s17}
-menu_total_defeat|Вы не должны были увидеть этот текст.
+menu_total_defeat|Вы не павінны былі ўбачыць гэты тэкст.
 menu_permanent_damage|{s0}
 mno_s0|{s0}
-menu_pre_join|Вы попадаете на поле боя. Вы видите, как {s2} и {s1} сражаются между собой. Кто получит вашу поддержку?
+menu_pre_join|Вы трапляеце на поле бою. Вы бачыце, як {S2} і {s1} змагаюцца паміж сабой. Хто атрымае вашу падтрымку?
 mno_pre_join_help_attackers|{s2}
 mno_pre_join_help_defenders|{s1}
-mno_pre_join_talk|Поговорить с нападающими.
+mno_pre_join_talk|Пагаварыць з нападнікамі.
 mno_pre_join_leave|Выйсці...
-menu_join_battle|{s2} становятся вашими союзниками. {s1} готовятся атаковать вас. У вас {reg10} готовых к бою воинов, у врага - {reg11}.
-mno_join_attack|Атаковать противника.
-mno_join_order_attack|Приказать войскам атаковать с союзниками, но без вас.
-mno_join_leave|Отступить.
-menu_join_order_attack|{s4}^^Ваши потери:^ {s8}^^Потери союзников:^ {s9}^^Потери противника:^ {s10}
-menu_zendar|Вы въезжаете в город Зендар.
+menu_join_battle|{s2} становяцца вашымі саюзнікамі. {s1} рыхтуюцца атакаваць вас. У вас {reg10} гатовых да бою воінаў, у ворага - {reg11}.
+mno_join_attack|Атакаваць праціўніка.
+mno_join_order_attack|Загадаць войскам атакаваць з саюзнікамі, але без вас.
+mno_join_leave|Адступіць.
+menu_join_order_attack|{s4}^ ^ вашы страты:^ {s8}^ ^ страты саюзнікаў:^ {s9}^ ^ страты праціўніка:^ {s10}
+menu_zendar|Вы ўязджаеце ў горад Зендар.
 mno_zendar_enter| 
-mno_zendar_enter_door|В центр города
+mno_zendar_enter_door|У цэнтр горада
 mno_zendar_tavern| 
-mno_zendar_tavern_door|В кабак
+mno_zendar_tavern_door|У кабак
 mno_zendar_merchant| 
-mno_zendar_merchant_door|В торговую лавку
+mno_zendar_merchant_door|У гандлёвую краму
 mno_zendar_arena| 
-mno_zendar_arena_door|На арену.
+mno_zendar_arena_door|На арэну.
 mno_town_1_leave| 
-menu_salt_mine|Вы входите на соляные копи.
-mno_enter|Войти.
-menu_four_ways_inn|Вы прибываете в кабак Четырех Дорог.
-menu_test_scene|Вы входите на тренировочную площадку.
+menu_salt_mine|Вы ўваходзіце на саляныя капальні.
+mno_enter|Увайсці.
+menu_four_ways_inn|Вы прыбывае ў карчму Чатырох Дарог.
+menu_test_scene|Вы ўваходзіце на трэніровачную пляцоўку.
 menu_battlefields|Выберыце пляцоўку
 mno_enter_f1|Пяцоўка 1
 mno_enter_f2|Пяцоўка 2
 mno_enter_f3|Пяцоўка 3
 mno_enter_f4|Пяцоўка 4
 mno_enter_f5|Пяцоўка 5
-menu_dhorak_keep|Вы въезжаете в крепость Дорак.
-menu_join_siege_outside|{s2} берут в осаду {s1}.
-mno_approach_besiegers|Приблизиться к осадному лагерю.
-mno_pass_through_siege|Прорваться через осадные линии и въехать в {s1}.
-menu_cut_siege_without_fight|Осаждающие позволяют вам беспрепятственно приблизиться к воротам.
-menu_besiegers_camp_with_allies|{s1} в осаде. {s2} атакует город. Вас и ваших людей приветствуют в лагере осаждающих.
-mno_talk_to_siege_commander|Потребовать встречи с командующим.
-mno_join_siege_with_allies|Присоединиться к следующему штурму.
-mno_join_siege_stay_back|Приказать воинам присоединиться к следующему штурму без вас.
-menu_castle_outside|Перед вами {s2}.{s11} {s3} {s4}
-mno_approach_gates|Приблизиться к воротам и поприветствовать стражу.
-mno_town_sneak|Переодеться и попытаться проникнуть в город.
-mno_castle_start_siege|Осадить {reg6?город:крепость}.
-mno_talk_to_pafnutiy_menu|Поговорить с Пафнутием.
-mno_talk_to_borzobogataya|Поговорить с Анусей.
-mno_talk_to_borzobogataya_door|Поговорить с Анусей.
-mno_talk_to_ransom_broker|Поговорить с работорговцем.
-mno_talk_to_pafnutiy_dlg|Поговорить с Пафнутием.
-mno_talk_to_pafnutiy_dlg_door|Поговорить с Пафнутием.
+menu_dhorak_keep|Вы ўязджаеце ў крэпасць Дорак.
+menu_join_siege_outside|{s2} бяруць у аблогу {s1}.
+mno_approach_besiegers|Наблізіцца да аблогавага лагера.
+mno_pass_through_siege|Прарвацца праз абложныя лініі і ўехаць у {s1}.
+menu_cut_siege_without_fight|Абложнікі дазваляюць вам бесперашкодна наблізіцца да брамы.
+menu_besiegers_camp_with_allies|{s1} у аблозе. {s2} атакуе горад. Вас і вашых людзей вітаюць у лагеры абложнікаў.
+mno_talk_to_siege_commander|Запатрабаваць сустрэчы з камандуючым.
+mno_join_siege_with_allies|Далучыцца да наступнага штурму.
+mno_join_siege_stay_back|Загадаць воінам далучыцца да наступнага штурму без вас.
+menu_castle_outside|Перад вамі {s2}.{s11} {s3} {s4}
+mno_approach_gates|Наблізіцца да брамы і павітаць варту.
+mno_town_sneak|Пераапрануцца і паспрабаваць пранікнуць у горад.
+mno_castle_start_siege|Аблажыць {reg6?горад: крэпасць}.
+mno_talk_to_pafnutiy_menu|Пагаварыць з Пафнутием.
+mno_talk_to_borzobogataya|Пагаварыць з Анусей.
+mno_talk_to_borzobogataya_door|Пагаварыць з Анусей.
+mno_talk_to_ransom_broker|Пагаварыць з гандляром рабамі.
+mno_talk_to_pafnutiy_dlg|Пагаварыць з Пафнутием.
+mno_talk_to_pafnutiy_dlg_door|Пагаварыць з Пафнутием.
 mno_castle_leave|Выйсці...
-menu_castle_guard|Вы приближаетесь к воротам. Люди на стенах пристально наблюдают за вами.
-mno_request_shelter|Попросить разрешения въехать в крепость.
-mno_request_meeting_commander|Попросить о встрече.
+menu_castle_guard|Вы набліжаецеся да брамы. Людзі на сценах пільна назіраюць за вамі.
+mno_request_shelter|Папрасіць дазволу ўехаць у крэпасць.
+mno_request_meeting_commander|Папрасіць аб сустрэчы.
 mno_guard_leave|Выйсці...
-menu_castle_entry_granted|Немного погодя стража отворяет ворота и впускает вас внутрь.
-menu_castle_entry_denied|Владелец этой крепости запретил вам входить за его стены. Сержант стражи предупреждает, что его воины будут стрелять, если вам вздумается подойти ближе.
-menu_castle_meeting|С кем бы вы хотели встретиться?
+menu_castle_entry_granted|Трохі пазней варта адчыняе вароты і ўпускае вас ўнутр.
+menu_castle_entry_denied|Уладальнік гэтай крэпасці забараніў вам уваходзіць за яго сцены. Сяржант варты папярэджвае, што яго воіны будуць страляць, калі вам захочацца падысці бліжэй.
+menu_castle_meeting|З кім бы вы хацелі сустрэцца?
 mno_guard_meet_s5|{s5}
 mno_forget_it|Назад
-menu_castle_meeting_selected|Вашу просьбу о встрече передают по инстанциям, и наконец во внутренний двор выходит {s6}, чтобы поговорить с вами.
-menu_castle_besiege|Вы осаждаете {s1}. {s2} {s3}
-mno_build_ladders|Приготовить лестницы для штурма стен.
-mno_siege_request_meeting|Вызвать на встречу командующего обороной.
-mno_town_diversiya|Отравить воду в городе.
-mno_town_vorvatsya|Попробовать ворваться в город.
-mno_build_podkop|Взорвать стену миной.
-mno_castle_lead_attack|Повести воинов на штурм.
-mno_castle_lead_attack_podkop|Начать штурм.
-mno_attack_stay_back|Приказать бойцам атаковать без вас.
-mno_build_siege_tower|Построить осадную башню.
-mno_cheat_castle_lead_attack|ЧИТ: Мгновенное снаряжение войска.
+menu_castle_meeting_selected|Вашу просьбу аб сустрэчы перадаюць па інстанцыях, і нарэшце ва ўнутраны двор выходзіць {s6}, каб пагаварыць з вамі.
+menu_castle_besiege|Вы абложваеце {s1}. {s2} {s3}
+mno_build_ladders|Прыгатаваць лесвіцы для штурму сцен.
+mno_siege_request_meeting|Выклікаць на сустрэчу камандуючага абаронай.
+mno_town_diversiya|Атруціць ваду ў горадзе.
+mno_town_vorvatsya|Паспрабаваць ўварвацца ў горад.
+mno_build_podkop|Падарваць сцяну мінай.
+mno_castle_lead_attack|Аповесці воінаў на штурм.
+mno_castle_lead_attack_podkop|Пачаць штурм.
+mno_attack_stay_back|Загадаць байцам атакаваць без вас.
+mno_build_siege_tower|Пабудаваць аблогавую вежу.
+mno_cheat_castle_lead_attack|Чыць: імгненнае рыштунак войскі.
 mno_wait_24_hours|Пачакаць да заўтра.
-mno_lift_siege|Снять осаду.
-menu_siege_attack_meets_sally|Защитники делают вылазку и начинают контратаку.
+mno_lift_siege|Зняць аблогу.
+menu_siege_attack_meets_sally|Абаронцы робяць вылазку і пачынаюць контратаку.
 menu_castle_besiege_inner_battle|{s1}
-menu_construct_ladders|Согласно вашим подсчетам, на изготовление штурмовых лестниц потребуется около {reg4} часов.
-mno_build_ladders_cont|Изготовить штурмовые лестницы.
-mno_go_back_assault|Рассмотреть другие варианты штурма.
-menu_construct_siege_tower|Будучи лучшим инженером в отряде ({reg2} очков инженерии), {reg3?вы подсчитываете:{s3} подсчитывает}, что на строительство осадной башни потребуется около {reg4} часов.
+menu_construct_ladders|Паводле вашых падлікаў, на выраб штурмавых усходаў спатрэбіцца каля {reg4} гадзін.
+mno_build_ladders_cont|Вырабіць штурмавыя лесвіцы.
+mno_go_back_assault|Разгледзець іншыя варыянты штурму.
+menu_construct_siege_tower|Будучы лепшым інжынерам у атрадзе ({reg2} ачкоў інжынерыі), {reg3?вы падлічваеце:{s3} падлічвае}, што на будаўніцтва аблогавай вежы спатрэбіцца каля {reg4} гадзін.
 mno_build_siege_tower_cont|Пачаць будаўніцтва.
-menu_castle_attack_walls_simulate|{s4}^^Ваши потери:^ {s8}^^Потери противника:^ {s9}
-menu_castle_attack_walls_with_allies_simulate|{s4}^^Ваши потери:^ {s8}^^Потери союзников:^ {s9}^^Потери противника:^ {s10}
-menu_castle_taken_by_friends|Здесь не на что смотреть.
-menu_castle_taken|{s3} пал под натиском ваших войск, и вы теперь полностью контролируете {reg2?город:крепость}.{reg1? Ничто не мешает вам завладеть им.:}
-menu_castle_taken_2|{s3} пали под натиском ваших войск, и вы теперь полностью контролируете это место. Ваш отряд празднует победу.
-mno_castle_taken_claim|Потребовать {s3} в качестве вознаграждения.
+menu_castle_attack_walls_simulate|{s4}^ ^ вашы страты:^ {s8}^ ^ страты суперніка:^ {s9}
+menu_castle_attack_walls_with_allies_simulate|{s4}^ ^ вашы страты:^ {s8}^ ^ страты саюзнікаў:^ {s9}^ ^ страты праціўніка:^ {s10}
+menu_castle_taken_by_friends|Тут няма на што глядзець.
+menu_castle_taken|{s3} упаў пад націскам вашых войскаў,і вы зараз цалкам кантралюеце {reg2?горад: крэпасць}.{reg1? Нішто не перашкаджае вам завалодаць ім.:}
+menu_castle_taken_2|{s3} ўпалі пад націскам вашых войскаў, і вы зараз цалкам кантралюеце гэтае месца. Ваш атрад святкуе перамогу.
+mno_castle_taken_claim|Патрабаваць {S3} у якасці ўзнагароджання.
 mno_castle_taken_no_claim|Працягнуць...
-mno_castle_taken_oim|Оставить {s3} себе.
-menu_requested_castle_granted_to_player|Вы получили сообщение от {s3}.^^{reg4?Она приняла:Он принял} решение даровать вам {s12}{reg3? и прилегающую деревню {s4}:}, вместе с сопутствующим доходом и титулами, чтобы вы владели этим уделом от {reg4?ее:его} имени до тех пор, пока держите клятву верности.
-menu_requested_castle_granted_to_another|Вы получили сообщение от {s3}.^^'Нас в высшей степени порадовали известия о твоей доблести при захвате крепости {s2}. Твоя победа наполнила счастьем наши сердца. Я помню, ты просил меня даровать тебе владение, но это благодеяние, боюсь, я не могу тебе оказать, поскольку ты и так владеешь многими землями в моем государстве. Вместо этого я посылаю тебе {reg6} талеров для покрытия издержек твоей военной кампании. А {s2} я отдам {s5}'.
-mno_accept_decision|Согласиться с этим решением.
-mno_leave_faction|С вами обошлись не по чести! Вы больше не обязаны служить этому правителю!
-menu_leave_faction|Отречение от клятвы верности - тяжкий проступок. Ваш повелитель может вынести вам суровый приговор и конфисковать все ваши земли и владения. Однако, если вы вернете их по доброй воле, возможно, он не станет преследовать вас за предательство.
-mno_leave_faction_give_back|Отречься от клятвы и отказаться от своих владений.
-mno_leave_faction_hold|Отречься от клятвы и сохранить свои земли и владения, включая {s2}.
-mno_leave_faction_cancel|Сохранить верность правителю и согласиться с его решением.
-menu_give_center_to_player|Ваш повелитель хочет наградить вас! {s1} шлет письмо, что хочет даровать вам {s2} в награду за верную службу, увеличив тем самым ваши владения. Каков будет ваш ответ?
-mno_give_center_to_player_accept|Принять предложение.
-mno_give_center_to_player_reject|Отказаться. {s2} вам не нужны.
-menu_give_center_to_player_2|На короткой церемонии было официально объявлено, что {s2}{reg3? вместе с деревней {s4}:} теперь является вашей собственностью. Вы будете получать доходы с земли и собирать налоги с этих владений, набирать рекрутов и управлять этими землями, как сочтете нужным. Однако ожидается, что вы будете защищать свои владения, не допустите ущерба своим подданным, а также будете следить за соблюдением законности и порядка.
-menu_oath_fulfilled|По контракту с {s1} вы должны были служить ему определенный период времени. Срок действия контракта истек. Что вы намерены делать?
-mno_renew_oath|Продлить контракт с {s1} еще на один месяц.
-mno_dont_renew_oath|Освободиться от этих обязательств.
-menu_siege_started_defender|{s1} начинают штурм стен {s2}. У вас {reg10} бойцов, готовых к бою, против {reg11} бойцов противника. Ваше решение?
-mno_siege_defender_join_battle|Вступить в битву.
-mno_siege_defender_troops_join_battle|Приказать своим людям вступить в сражение без вас.
-menu_siege_join_defense|{s4}^^Ваши потери:^ {s8}^^Потери союзников:^ {s9}^^Потери противника:^ {s10}
-menu_enter_your_own_castle|Ваше приближение замечают стражи крепости. Они приветствуют вас и открывают ворота {своему господину/своей госпоже}.
+mno_castle_taken_oim|Пакінуць {s3} сабе.
+menu_requested_castle_granted_to_player|Вы атрымалі паведамленне ад {S3}.^^{reg4?Яна прыняла: ён прыняў} рашэнне дараваць вам {s12}{reg3? і прылеглую вёску {s4}:}, разам з спадарожным прыбыткам і тытуламі, каб вы валодалі гэтым надзелам ад {reg4?яе: яго імя, пакуль захоўваеце клятву вернасці.
+menu_requested_castle_granted_to_another|Вы атрымалі паведамленне ад {S3}.^ ^ 'Нас у вышэйшай ступені парадавалі весткі аб тваёй доблесці пры захопе крэпасці {s2}. Твая перамога напоўніла шчасцем нашы сэрцы. Я памятаю, ты прасіў мяне дараваць табе валоданне, але гэта дабрадзейства, баюся, я не магу табе аказаць, паколькі ты і так валодаеш многімі землямі ў маёй дзяржаве. Замест гэтага я пасылаю табе {reg6} талераў для пакрыцця выдаткаў тваёй ваеннай кампаніі. А {s2} Я аддам {s5}'.
+mno_accept_decision|Пагадзіцца з гэтым рашэннем.
+mno_leave_faction|З вамі абышліся не па гонару! Вы больш не абавязаны служыць гэтаму кіраўніку!
+menu_leave_faction|Адрачэнне ад клятвы вернасці-цяжкая правіна. Ваш Уладар можа вынесці вам суровы прысуд і канфіскаваць усе вашыя землі і ўладанні. Аднак, калі вы вернеце іх па добрай волі, магчыма, ён не стане пераследваць вас за здраду.
+mno_leave_faction_give_back|Адрачыся ад клятвы і адмовіцца ад сваіх уладанняў.
+mno_leave_faction_hold|Адрачыся ад клятвы і захаваць свае землі і ўладанні, уключаючы {s2}.
+mno_leave_faction_cancel|Захаваць вернасць кіраўніку і пагадзіцца з яго рашэннем.
+menu_give_center_to_player|Ваш Уладар хоча ўзнагародзіць вас! {s1} шле ліст, што хоча дараваць вам {s2} ва ўзнагароду за верную службу, павялічыўшы тым самым вашыя валодання. Які будзе ваш адказ?
+mno_give_center_to_player_accept|Прыняць прапанову.
+mno_give_center_to_player_reject|Адмовіцца. {s2} вам не патрэбныя.
+menu_give_center_to_player_2|На кароткай цырымоніі было афіцыйна абвешчана, што {s2}{reg3? разам з вёскай {S4}:} зараз з'яўляецца вашай уласнасцю. Вы будзеце атрымліваць даходы з зямлі і збіраць падаткі з гэтых уладанняў, набіраць рэкрутаў і кіраваць гэтымі землямі, як палічыце патрэбным. Аднак чакаецца, што вы будзеце абараняць свае ўладанні, не дапусціце шкоды сваім падданым, а таксама будзеце сачыць за выкананнем законнасці і парадку.
+menu_oath_fulfilled|Па кантракце з {s1} вы павінны былі служыць яму пэўны перыяд часу. Тэрмін дзеяння кантракту скончыўся. Што вы маеце намер рабіць?
+mno_renew_oath|Падоўжыць кантракт з {s1} яшчэ на адзін месяц.
+mno_dont_renew_oath|Вызваліцца ад гэтых абавязацельстваў.
+menu_siege_started_defender|{s1} пачынаюць штурм сцен {s2}. У вас {reg10} байцоў, гатовых да бою, супраць {reg11} байцоў праціўніка. Ваша рашэнне?
+mno_siege_defender_join_battle|Ўступіць у бітву.
+mno_siege_defender_troops_join_battle|Загадаць сваім людзям ўступіць у бітву без вас.
+menu_siege_join_defense|{s4}^ ^ вашы страты:^ {s8}^ ^ страты саюзнікаў:^ {s9}^ ^ страты праціўніка:^ {s10}
+menu_enter_your_own_castle|Ваша набліжэнне заўважаюць вартавыя крэпасці. Яны вітаюць вас і адкрываюць вароты {свайму гаспадару / сваёй спадарыні}.
 menu_village|{s10}{s11}{s6}{s7}{s20}{s21}
-mno_village_manage|Управление деревней.
-mno_village_ms|Поговорить со старостой.
-mno_additional_menu_ms|Пройти к центру деревни...
-mno_recruit_volunteers|Набрать добровольцев.
-mno_village_center|Направиться к центру деревни.
-mno_village_center_door|Дорога к центру деревни.
-mno_village_buy_food|Купить у крестьян припасы.
-mno_village_attack_bandits|Атаковать разбойников.
-mno_village_wait|Подождать некоторое время.
-mno_collect_taxes_qst|{reg5?Продолжить собирать налоги:Собрать налоги}, причитающиеся {s1}.
-mno_train_peasants_against_bandits_qst|Обучить крестьян.
-mno_village_hostile_action|Предпринять враждебные действия.
-mno_oim_potop_sneak_into_village|Пойти к конюшням.
-mno_village_center_nesvz|Пройти к гробнице
-mno_village_center_nesvz_door|Пройти к гробнице
-mno_talk_to_yavangelik|Поговорить с Евангеликом.
-mno_talk_to_yavangelik_door|Поговорить с Евангеликом.
+mno_village_manage|Кіраванне вёскай.
+mno_village_ms|Пагаварыць са старастам.
+mno_additional_menu_ms|Прайсці да цэнтра вёскі...
+mno_recruit_volunteers|Набраць добраахвотнікаў.
+mno_village_center|Накіравацца да цэнтра вёскі.
+mno_village_center_door|Дарога да цэнтра вёскі.
+mno_village_buy_food|Купіць у сялян харчы.
+mno_village_attack_bandits|Атакаваць разбойнікаў.
+mno_village_wait|Пачакаць некаторы час.
+mno_collect_taxes_qst|{reg5?Працягнуць збіраць падаткі: сабраць падаткі}, належныя {s1}.
+mno_train_peasants_against_bandits_qst|Навучыць сялян.
+mno_village_hostile_action|Распачаць варожыя дзеянні.
+mno_oim_potop_sneak_into_village|Пайсці да стайняў.
+mno_village_center_nesvz|Прайсці да грабніцы
+mno_village_center_nesvz_door|Прайсці да грабніцы
+mno_talk_to_yavangelik|Пагаварыць з Евангелікам.
+mno_talk_to_yavangelik_door|Пагаварыць з Евангелікам.
 mno_village_leave|Выйсці...
-menu_village_hostile_action|Что вы хотите предпринять?
-mno_village_take_food|Заставить крестьян отдать вам припасы.
-mno_village_steal_cattle|Похитить скот.
-mno_village_loot|Разграбить и сжечь эту деревню.
+menu_village_hostile_action|Што вы хочаце зрабіць?
+mno_village_take_food|Прымусіць сялян аддаць вам харчы.
+mno_village_steal_cattle|Выкрасці жывёлу.
+mno_village_loot|Разрабаваць і спаліць гэтую вёску.
 menu_recruit_volunteers|{s18}
-mno_recruit_them|Нанять их за {reg6} талеров.
-menu_village_hunt_down_fugitive_defeated|Сильный удар сбивает вас с ног, перед глазами все кружится и меркнет. Придя в себя, вы понимаете, что вас сильно избили, но ваши раны не смертельны.
+mno_recruit_them|Наняць іх за {reg6} талераў.
+menu_village_hunt_down_fugitive_defeated|Моцны ўдар збівае вас з ног, перад вачыма ўсё кружыцца і цьмянее. Прыйшоўшы ў сябе, вы разумееце, што вас моцна збілі, але вашы раны не смяротныя.
 menu_village_infest_bandits_result|{s9}
-menu_village_infestation_removed|Вы и ваши воины прогнали разбойников из деревни. Люди сложат легенды об этой выдающейся победе. Жители теперь в безопасности. У них не осталось почти ничего ценного, но они рады предложить вам все, что смогут собрать.
-mno_village_bandits_defeated_accept|Принять подношение как должное.
-mno_village_bandits_defeated_cont|Отказаться, заметив, что им все это нужно куда больше, чем вам.
-menu_center_manage|{s19}^{reg6?^^Сейчас вы строите {s7}. Время выполнения работ: {reg8} дней{reg9?:}.:}
-mno_center_build_manor|Построить поместье.
-mno_center_build_fish_pond|Построить мельницу.
-mno_center_build_watch_tower|Построить сторожевую башню.
-mno_center_build_school|Построить школу.
-mno_center_build_messenger_post|Построить почтовую станцию.
-mno_center_build_prisoner_tower|Построить тюрьму.
-menu_center_improve|{s19} Будучи лучшим инженером в отряде ({reg2} очков инженерии), {reg3?вы подсчитываете:{s3} прикидывает} стоимость постройки. {s4} обойдется вам в {reg5} талеров, а строительство займет {reg6} дней.
-mno_improve_cont|Начать строительство.
-mno_improve_not_enough_gold|У меня недостаточно денег
+menu_village_infestation_removed|Вы і вашы воіны прагналі разбойнікаў з вёскі. Людзі складуць легенды аб гэтай выдатнай перамозе. Жыхары цяпер у бяспецы. У іх не засталося амаль нічога каштоўнага, але яны рады прапанаваць вам усё, што змогуць сабраць.
+mno_village_bandits_defeated_accept|Прыняць дары як належнае.
+mno_village_bandits_defeated_cont|Адмовіцца, заўважыўшы, што ім усё гэта трэба куды больш, чым вам.
+menu_center_manage|{s19}^{reg6?^ ^ Зараз вы будуеце {s7}. Час выканання работ: {reg8} дзён{reg9?:}.:}
+mno_center_build_manor|Пабудаваць маёнтак.
+mno_center_build_fish_pond|Пабудаваць млын.
+mno_center_build_watch_tower|Пабудаваць вартавую вежу.
+mno_center_build_school|Пабудаваць школу.
+mno_center_build_messenger_post|Пабудаваць паштовую станцыю.
+mno_center_build_prisoner_tower|Пабудаваць турму.
+menu_center_improve|{s19} будучы лепшым інжынерам у атрадзе ({reg2} ачкоў інжынерыі), {reg3?вы падлічваеце:{s3} прыкідвае} кошт пабудовы. {s4} абыйдзецца вам у {reg5} талераў, а будаўніцтва зойме {reg6} дзён.
+mno_improve_cont|Пачаць будаўніцтва.
+mno_improve_not_enough_gold|У мяне недастаткова грошай
 menu_town_bandits_failed|{s4} {s5}
-menu_town_bandits_succeeded|Разбойники падают перед вами один за другим, как колосья под серпом. Вскоре вы остаетесь в одиночестве, а большинство нападавших - либо без сознания, либо при смерти, либо уже мертвы. Обыскав тела, вы обнаружили кошель, который когда-то, должно быть, принадлежал одной из жертв этих мерзавцев. А может быть, в этом кошеле им передали плату за ваше убийство?
-menu_village_steal_cattle_confirm|Будучи самым умелым грабителем в отряде ({reg2} очков мародера), {reg3?вы подсчитываете:{s1} подсчитывает}, что вы можете похитить из деревни не более {reg4} голов скота.
-mno_village_steal_cattle_confirm|Совершить кражу
+menu_town_bandits_succeeded|Разбойнікі падаюць перад вамі адзін за адным, як Каласы пад сярпом. Неўзабаве вы застаяцеся ў адзіноце, а большасць тых, хто нападаў - альбо без прытомнасці, альбо пры смерці, альбо ўжо мёртвыя. Абшукаўшы цела, вы выявілі кашэль, які калісьці, павінна быць, належаў адной з ахвяр гэтых мярзотнікаў. А можа быць, у гэтым кашалі ім перадалі плату за ваша забойства?
+menu_village_steal_cattle_confirm|Будучы самым ўмелым рабаўніком у атрадзе ({reg2} ачкоў марадзёра), {reg3?вы падлічваеце:{s1} падлічвае}, што вы можаце выкрасці з вёскі не больш {reg4} галоў жывёлы.
+mno_village_steal_cattle_confirm|Здзейсніць крадзеж
 menu_village_steal_cattle|{s1}
-menu_village_take_food_confirm|Будет непросто угрозами и посулами заставить крестьян отдать их драгоценные припасы. Вы прикидываете, что вам потребуется на это как минимум час.
-mno_village_take_food_confirm|Начать грабеж.
-menu_village_take_food|Крестьяне нехотя выносят все, что у них есть.
-mno_take_supplies|Взять припасы.
-mno_let_them_keep_it|Позволить им сохранить припасы.
-menu_village_start_attack|Кое-кто из разгневанных жителей деревни хватается за вилы и готовится дать вам отпор. Похоже, вас ждет бой.
-mno_village_raid_attack|Начать битву.
-mno_village_raid_leave|Оставить в покое эту деревню.
-menu_village_loot_no_resist|Жителей деревни мало, они напуганы и разбегаются, едва завидев вас. Деревня теперь в вашей власти.
-menu_village_loot_complete|По вашему приказу воины опустошают деревню, захватывая все мало-мальски ценное, а затем поджигают дома. Из найденных денег и ценностей вы берете себе долю в размере {reg1} талеров.
-menu_village_loot_defeat|Сражаясь смело и решительно, деревенские жители смогли организовать серьезное сопротивление и отбросить ваши силы.
-menu_village_loot_continue|Продолжить разграбление деревни?
+menu_village_take_food_confirm|Будзе няпроста пагрозамі і абяцанкамі прымусіць сялян аддаць іх каштоўныя харчы. Вы прыкідваеце, што вам спатрэбіцца на гэта як мінімум гадзіну.
+mno_village_take_food_confirm|Пачаць рабаванне.
+menu_village_take_food|Сяляне неахвотна выносяць усё, што ў іх ёсць.
+mno_take_supplies|Ўзяць харчы.
+mno_let_them_keep_it|Дазволіць ім захаваць харчы.
+menu_village_start_attack|Сёй-той з разгневаных жыхароў вёскі хапаецца за вілы і рыхтуецца даць вам адпор. Падобна на тое, Вас чакае бой.
+mno_village_raid_attack|Пачаць бітву.
+mno_village_raid_leave|Пакінуць у спакоі гэтую вёску.
+menu_village_loot_no_resist|Жыхароў вёскі мала, яны напалоханыя і разбягаюцца, ледзь згледзеўшы вас. Вёска цяпер у вашай улады.
+menu_village_loot_complete|Па вашым загадзе воіны спусташаюць вёску, захопліваючы ўсё хоць трохі каштоўнае, а затым падпальваюць дома. Са знойдзеных грошай і каштоўнасцяў вы бераце сабе долю ў памеры {reg1} талераў.
+menu_village_loot_defeat|Змагаючыся смела і рашуча, вясковыя жыхары змаглі арганізаваць сур'ёзны супраціў і адкінуць вашыя сілы.
+menu_village_loot_continue|Працягнуць разрабаваньне вёскі?
 mno_disembark_yes|Так
 mno_disembark_no|Не
-menu_close|Ничего.
-menu_center_tax|Вы получаете земельную ренту и налоги с этого владения в размере {reg1} талеров.
+menu_close|Нічога.
+menu_center_tax|Вы атрымліваеце зямельную рэнту і падаткі з гэтага валодання ў памеры {reg1} талераў.
 menu_town|{s10}{s11}{s12}{s13} {s20} {s21}
-mno_castle_castle|Пройти в зал правителя.
-mno_castle_castle_door|В зал правителя
-mno_join_tournament|Принять участие в турнире.
-mno_town_castle|Направиться в крепость.
-mno_town_castle_door|В зал правителя
-mno_town_center|Прогуляться по улицам.
-mno_town_center_door|В центр города
-mno_town_tavern|Посетить кабак.
-mno_town_tavern_door|Вход в кабак
-mno_town_merchant|Поговорить с торговцем.
-mno_town_merchant_door|Вход в магазин
-mno_town_arena|Войти на арену.
-mno_town_arena_door|Вход на арену.
-mno_town_dungeon_door|Вход в тюрьму
-mno_castle_inspect|Прогуляться по внутреннему двору.
-mno_castle_inspect_door|Во внутренний двор крепости
-mno_trade_with_merchants|Отправиться на рыночную площадь.
-mno_town_ms|Поговорить с городским главой.
-mno_additional_menu_town_ms|Пройти к центру города...
-mno_diplomatic_center|Пройти в дипломатический центр.
-mno_walled_center_manage|Управлять {reg0?этим городом:этой крепостью}.
-mno_castle_station_troops|Расположить здесь гарнизон...
-mno_castle_wait|Подождать здесь некоторое время{s1}.
-mno_go_to_the_garem|Пробраться в гарем
-mno_town_alley|ЧИТ: Направиться к переулку.
-mno_castle_tavern|Посетить кабак.
-mno_castle_tavern_door|Посетить кабак.
-mno_castle_trade_with_merchants|Пройти на рыночную площадь.
-mno_zdat_tatarina|Сдать Татарина.
-mno_zdat_tatarina_door|Сдать Татарина.
+mno_castle_castle|Прайсці ў залу кіраўніка.
+mno_castle_castle_door|У залу кіраўніка
+mno_join_tournament|Прыняць удзел у турніры.
+mno_town_castle|Накіравацца ў крэпасць.
+mno_town_castle_door|У залу кіраўніка
+mno_town_center|Прагуляцца па вуліцах.
+mno_town_center_door|У цэнтр горада
+mno_town_tavern|Наведаць кабак.
+mno_town_tavern_door|Уваход у кабак
+mno_town_merchant|Пагаварыць з гандляром.
+mno_town_merchant_door|Уваход у краму
+mno_town_arena|Увайсці на арэну.
+mno_town_arena_door|Уваход на арэну.
+mno_town_dungeon_door|Уваход у турму
+mno_castle_inspect|Прагуляцца па ўнутраным двары.
+mno_castle_inspect_door|Ва ўнутраны двор крэпасці
+mno_trade_with_merchants|Адправіцца на рынкавую плошчу.
+mno_town_ms|Пагаварыць з гарадскім кіраўніком.
+mno_additional_menu_town_ms|Прайсці да цэнтра горада...
+mno_diplomatic_center|Прайсці ў дыпламатычны цэнтр.
+mno_walled_center_manage|Кіраваць {reg0?гэтым горадам: гэтай крэпасцю}.
+mno_castle_station_troops|Размясціць тут гарнізон...
+mno_castle_wait|Пачакаць тут некаторы час{s1}.
+mno_go_to_the_garem|Прабрацца ў гарэм
+mno_town_alley|Чыць: накіравацца да завулка.
+mno_castle_tavern|Наведаць кабак.
+mno_castle_tavern_door|Наведаць кабак.
+mno_castle_trade_with_merchants|Прайсці на рынкавую плошчу.
+mno_zdat_tatarina|Здаць Татарына.
+mno_zdat_tatarina_door|Здаць Татарына.
 mno_town_leave|Выйсці...
-mno_town_leave_door|Покинуть местность.
-mno_cheat_town_start_siege|ЧИТ! Осадить {reg6?город:замок}...
-mno_center_reports|ЧИТ! Показать отчеты.
-mno_sail_from_port|Отплыть из порта.
-menu_town_tournament_lost|Вы выбыли из состязаний.
-menu_town_tournament_won|Вы выиграли турнир {s3}! Вас переполняет гордость, когда толпа скандирует ваше имя. Кроме чести, славы и известности вы заработали приз в размере {reg9} талеров. {s8}
-menu_town_tournament_won_by_another|Став единственным бойцом, не изведавшим поражения, {s1} выигрывает этот турнир, и {reg3?ей:ему} достается вся слава.
-menu_town_tournament|{s1}Вы участвуете в {reg0} круге турнира, осталось {reg1} участников. В следующем круге будет {reg2} команды с {reg3}{reg4?.:.} бойцами в каждой.
-mno_tournament_view_participants|Просмотреть список участников.
-mno_tournament_bet|Поставить на себя.
-mno_tournament_join_next_fight|Сражаться в следующем раунде.
-mno_leave_tournament|Отказаться от турнира.
-menu_tournament_withdraw_verify|Вы уверены, что хотите покинуть турнир?
-mno_tournament_withdraw_yes|Да, это бессмысленная затея.
-mno_tournament_withdraw_no|Нет, пока остается надежда на победу!
-menu_tournament_bet|Ставки против вас: {reg5} к {reg6}.{reg1? Вы уже поставили {reg1} талеров на себя. Если вы одержите победу, то получите {reg2} талеров.:} Сколько вы хотите поставить?
+mno_town_leave_door|Пакінуць мясцовасць.
+mno_cheat_town_start_siege|Чыць! Аблажыць {reg6?горад: замак}...
+mno_center_reports|Чыць! Паказаць справаздачы.
+mno_sail_from_port|Адплыць з порта.
+menu_town_tournament_lost|Вы выбылі з спаборніцтваў.
+menu_town_tournament_won|Вы выйгралі турнір {S3}! Вас перапаўняе гонар, калі натоўп скандуе ваша імя. Акрамя гонару, славы і вядомасці вы зарабілі прыз у памеры {reg9} талераў. {s8}
+menu_town_tournament_won_by_another|Стаўшы адзіным байцом, не зведаў паразы, {s1} выйграе гэты турнір, і {reg3?ёй: яму дастаецца ўся слава.
+menu_town_tournament|{s1}вы ўдзельнічаеце ў {reg0} крузе турніру, засталося {reg1} удзельнікаў. У наступным крузе будзе {reg2} каманды з {reg3}{reg4?.:.} байцамі ў кожнай.
+mno_tournament_view_participants|Прагледзець спіс удзельнікаў.
+mno_tournament_bet|Паставіць на сябе.
+mno_tournament_join_next_fight|Змагацца ў наступным раўндзе.
+mno_leave_tournament|Адмовіцца ад турніру.
+menu_tournament_withdraw_verify|Хочаце пакінуць турнір?
+mno_tournament_withdraw_yes|Так, гэта бессэнсоўная задума.
+mno_tournament_withdraw_no|Не, пакуль застаецца надзея на перамогу!
+menu_tournament_bet|Стаўкі супраць вас: {reg5} да {reg6}.{reg1? Вы ўжо паставілі {reg1} талераў на сябе. Калі вы атрымаеце перамогу, то атрымаеце {reg2} талераў.:} Колькі вы хочаце паставіць?
 mno_bet_100_denars|100 талераў
 mno_bet_50_denars|50 талераў
 mno_bet_20_denars|20 талераў
 mno_bet_10_denars|10 талераў
 mno_bet_5_denars|5 талераў
-menu_tournament_bet_confirm|Если вы поставите {reg1} талеров, то получите {reg2} талеров в случае победы в турнире. Вы согласны?
-mno_tournament_bet_accept|Да.
-mno_tournament_bet_cancel|Нет.
-menu_tournament_participants|Вы просите у одного из глашатаев список участников турнира. Вот их имена:^{s11}
-menu_collect_taxes|Будучи лучшим торговцем в отряде ({reg2} очков торговли), {reg3?вы ожидаете:{s1} ожидает}, что сбор налогов с этого владения займет не более {reg4} дней.
-mno_start_collecting|Начать сбор.
-mno_collect_later|Отложить на потом.
-menu_collect_taxes_complete|Вы собрали {reg3} талеров налогов. Доставьте эти деньги {s19}.
-menu_collect_taxes_rebels_killed|Благодаря вашим решительным действиям бунт был успешно подавлен. Само собой, теперь недовольные дважды подумают, прежде чем восставать против вас.
-menu_collect_taxes_failed|Вам удалось собрать в {s3} лишь {reg3} талеров налогов до того, как поднялся бунт. {s1} будет недоволен, но лучше хоть немного серебра, чем вообще ничего...
-menu_collect_taxes_revolt_warning|Жители {s3} в ярости от ваших требований и зовут вас не иначе как грабителем. Они могут восстать против вас, если вы продолжите на них давить.
-mno_continue_collecting_taxes|Проигнорировать и продолжить.
-mno_halve_taxes|Снизить сумму налога вдвое. ({s1} будет недоволен).
-menu_collect_taxes_revolt|Вас прерывают прямо во время сбора налогов в {s3}. Толпа разъяренных {reg9?крестьян:горожан} приближается к вам, размахивая факелами и потрясая оружием. Похоже, они собрались сражаться с вами!
-menu_train_peasants_against_bandits|Будучи лучшим учителем в отряде ({reg2} очков обучения), {reg3?вы оцениваете:{s1} оценивает}, что начальная подготовка крестьян займет около {reg4} часов.
-mno_make_preparation|Обучить их.
-mno_train_later|Отложить на потом.
-menu_train_peasants_against_bandits_ready|Вы обучаете крестьян основам солдатской службы, дисциплины и повиновения. Вы считаете, что {reg0} из них хорошо {reg1?усвоили:усвоил} урок и {reg1?готовы:готов} к бою.
-mno_peasant_start_practice|Начать тренировочный бой.
+menu_tournament_bet_confirm|Калі вы паставіце {reg1} талераў, то атрымаеце {reg2} талераў у выпадку перамогі ў турніры. Вы згодныя?
+mno_tournament_bet_accept|Так.
+mno_tournament_bet_cancel|Не.
+menu_tournament_participants|Вы просіце ў аднаго з вяшчальнікаў спіс удзельнікаў турніру. Вось іх імёны: ^ {s11}
+menu_collect_taxes|Будучы лепшым гандляром у атрадзе ({reg2} ачкоў гандлю), {reg3?вы чакаеце: {s1} чакае}, што збор падаткаў з гэтага валодання зойме не больш {reg4} дзён.
+mno_start_collecting|Пачаць збор.
+mno_collect_later|Адкласці на потым.
+menu_collect_taxes_complete|Вы сабралі {reg3} талераў падаткаў. Дастаўце гэтыя грошы {s19}.
+menu_collect_taxes_rebels_killed|Дзякуючы вашым рашучым дзеянням бунт быў паспяхова падаўлены. Само сабой, цяпер незадаволеныя двойчы падумаюць, перш чым паўставаць супраць вас.
+menu_collect_taxes_failed|Вам удалося сабраць у {s3} толькі {reg3} талераў падаткаў да таго, як падняўся бунт. {s1} будзе незадаволены, але лепш хоць трохі срэбра, чым наогул нічога...
+menu_collect_taxes_revolt_warning|Жыхары {s3} у лютасьці ад вашых патрабаванняў і клічуць вас не інакш як рабаўніком. Яны могуць паўстаць супраць вас, калі вы працягнеце на іх ціснуць.
+mno_continue_collecting_taxes|Праігнараваць і працягнуць.
+mno_halve_taxes|Знізіць суму падатку ўдвая. ({s1} будзе незадаволены).
+menu_collect_taxes_revolt|Вас перарываюць прама падчас збору падаткаў у {s3}. Натоўп раз'юшаных {reg9?сялян: гараджан} набліжаецца да вас, размахваючы паходнямі і трасучы зброяй. Падобна на тое, яны сабраліся змагацца з вамі!
+menu_train_peasants_against_bandits|Будучы лепшым настаўнікам у атрадзе ({reg2} ачкоў навучання), {reg3?вы ацэньваеце: {s1} ацэньвае}, што пачатковая падрыхтоўка сялян зойме каля {reg4} гадзін.
+mno_make_preparation|Навучыць іх.
+mno_train_later|Адкласці на потым.
+menu_train_peasants_against_bandits_ready|Вы навучаеце сялян асновам салдацкай службы, дысцыпліны і падпарадкавання. Вы лічыце, што {reg0} з іх добра {reg1?засвоілі: засвоіў} ўрок і {reg1?гатовыя: гатовы} да бою.
+mno_peasant_start_practice|Пачаць трэніровачны бой.
 menu_train_peasants_against_bandits_training_result|{s0}
-menu_train_peasants_against_bandits_attack|Пока вы занимались с ополченцами, из деревни с криками прибежал человек. На горизонте заметили бандитов, которые быстро скачут в сторону {s3}. Староста деревни умоляет, чтобы вы выступили против бандитов с только что обученными ополченцами.
-mno_peasants_against_bandits_attack_resist|Приготовиться к бою!
+menu_train_peasants_against_bandits_attack|Пакуль вы займаліся з апалчэнцамі, з вёскі з крыкамі прыбег чалавек. На гарызонце заўважылі бандытаў, якія хутка скачуць у бок {s3}. Стараста вёскі моліць, каб вы выступілі супраць бандытаў з толькі што навучанымі апалчэнцамі.
+mno_peasants_against_bandits_attack_resist|Рыхтуйцеся да бою!
 menu_train_peasants_against_bandits_attack_result|{s9}
-menu_train_peasants_against_bandits_success|Разбойники повержены! Немногие оставшиеся в живых бегут со всех ног в ужасе перед крестьянами и их новым защитником. У жителей деревни осталось немного ценного, но они предлагают вам скудные дары в знак благодарности.
-menu_disembark|Хотите высадиться здесь?
-menu_ship_reembark|Хотите взойти на борт?
-mno_reembark_yes|Да.
-mno_reembark_no|Нет.
-menu_center_reports|Название города: {s1}^Доход от земельной ренты: reg1} талеров^Доход от сборов и пошлин: {reg2} талеров^Припасов: на {reg3} дней
-mno_to_price_and_productions|Показать производимые товары и цены.
-menu_price_and_production|Перечень производимых товаров:^{s1}^^Цены:^{s2}
-menu_town_trade|Вы направляетесь к рыночной площади.
-mno_assess_prices|Узнать здешние цены.
-mno_trade_with_arms_merchant|Поговорить с торговцем оружием.
-mno_trade_with_armor_merchant|Поговорить с торговцем доспехами.
-mno_trade_with_horse_merchant|Поговорить с торговцем лошадьми.
-mno_trade_with_goods_merchant|Поговорить с торговцем разным товаром.
+menu_train_peasants_against_bandits_success|Разбойнікі пераможаны! Нешматлікія тыя, што засталіся ў жывых бягуць з усіх ног у жаху перад сялянамі і іх новым абаронцам. У жыхароў вёскі засталося крыху каштоўнага, але яны прапануюць вам бедныя дары ў знак падзякі.
+menu_disembark|Хочаце высадзіцца тут?
+menu_ship_reembark|Хочаце ўзысці на борт?
+mno_reembark_yes|Так.
+mno_reembark_no|Не.
+menu_center_reports|Назва горада: {s1}^даход ад зямельнай рэнты: reg1} талераў^даход ад збораў і пошлін: {reg2} талераў^харчоў: на {reg3} дзён
+mno_to_price_and_productions|Паказаць вырабляюцца тавары і кошты.
+menu_price_and_production|Пералік тавараў, якія вырабляюцца:^{s1}^ ^ кошты:^{s2}
+menu_town_trade|Вы накіроўваецеся да рынкавай плошчы.
+mno_assess_prices|Даведацца Тутэйшыя кошты.
+mno_trade_with_arms_merchant|Пагаварыць з гандляром зброяй.
+mno_trade_with_armor_merchant|Пагаварыць з гандляром даспехамі.
+mno_trade_with_horse_merchant|Пагаварыць з гандляром коньмі.
+mno_trade_with_goods_merchant|Пагаварыць з гандляром розным таварам.
 mno_back_to_town_menu|Назад
-menu_town_trade_assessment_begin|Вы прислушиваетесь к разговорам о здешних ценах в надежде заключить наиболее выгодную сделку.
-menu_town_trade_assessment|Будучи лучшим торговцем в отряде ({reg2} очков торговли), {reg3?вы просчитываете:{s1} просчитывает}, какими товарами будет выгоднее всего торговать. {s2}
-menu_sneak_into_town_suceeded|Замаскировавшись под бедного паломника, вы обманываете стражу и входите в город.
-menu_sneak_into_town_caught|Когда вы пытаетесь проникнуть внутрь, один из стражников узнает вас и поднимает тревогу! Вам нужно бежать обратно через ворота, пока на вас не набросилась вся городская стража!
-mno_sneak_caught_fight|Попробуем прорваться силой!
-mno_sneak_caught_surrender|Сдаться.
-menu_sneak_into_town_caught_dispersed_guards|Вы обманываете стражу и заметаете следы, прежде чем сбежать, окончательно оторвавшись от преследователей в лабиринте улиц.
-menu_sneak_into_town_caught_ran_away|Вы проходите обратно через ворота и быстро отступаете к холмам, в безопасное место.
-menu_enemy_offer_ransom_for_prisoner|{s2} заплатит вам {reg12} талеров, если вы отпустите {s1}.
-mno_ransom_accept|Принять предложение.
-mno_ransom_reject|Отклонить предложение.
-menu_training_ground|Вы въезжаете в лагерь наемников... Здесь вы можете нанять людей в отряд и вооружить своих солдат.
-mno_camp_trainer|Поговорить с тренером.
-mno_camp_merch|Разыскать капитана наемников.
-mno_camp_train_melee|Ближний бой
-mno_camp_train_mounted|Верховая тренировка
-mno_go_to_track|Чит: перейти на дорожку.
-mno_go_to_range|Чит: перейти к дальнему.
-menu_training_ground_selection_details_melee_1|Со сколькими противниками вы будете сражаться?
-mno_camp_train_melee_num_men_1|С одним
-mno_camp_train_melee_num_men_2|С двумя
-mno_camp_train_melee_num_men_3|С тремя
-mno_camp_train_melee_num_men_4|С четырьмя
-menu_training_ground_selection_details_melee_2|Выбрать противника #{reg1}:
-mno_training_ground_selection_details_melee_random|Случайный выбор
-menu_training_ground_selection_details_mounted|С каким оружием вы хотели бы поупражняться?
-mno_camp_train_mounted_details_1|Одноручное оружие
-mno_camp_train_mounted_details_2|Древковое оружие
-mno_camp_train_mounted_details_3|Лук
-mno_camp_train_mounted_details_4|Метательное оружие
-menu_training_ground_selection_details_ranged_1|C каким оружием дальнего боя вы хотите поупражняться?
-mno_camp_train_ranged_weapon_bow|Лук и стрелы
+menu_town_trade_assessment_begin|Вы прыслухоўваецеся да размоў аб тутэйшых цэнах у надзеі заключыць найбольш выгадную здзелку.
+menu_town_trade_assessment|Будучы лепшым гандляром у атрадзе ({reg2} ачкоў гандлю), {reg3?вы пралічваеце:{s1} пралічвае}, якімі таварамі будзе больш выгадна гандляваць. {s2}
+menu_sneak_into_town_suceeded|Замаскіраваўшыся пад беднага паломніка, вы падманваеце варту і ўваходзіце ў горад.
+menu_sneak_into_town_caught|Калі вы спрабуеце пракрасціся ўнутр, адзін з ахоўнікаў пазнае вас і падымае трывогу! Вам трэба бегчы назад праз вароты, пакуль на вас не накінулася ўся гарадская варта!
+mno_sneak_caught_fight|Паспрабуем прарвацца сілай!
+mno_sneak_caught_surrender|Здацца.
+menu_sneak_into_town_caught_dispersed_guards|Вы падманваеце варту і заўважаеце сляды, перш чым збегчы, канчаткова адарваўшыся ад праследавацеляў у лабірынце вуліц.
+menu_sneak_into_town_caught_ran_away|Вы праходзіце назад праз вароты і хутка адступаеце да ўзгорках, у бяспечнае месца.
+menu_enemy_offer_ransom_for_prisoner|{s2} заплаціць вам {reg12} талераў, калі вы адпусціце {s1}.
+mno_ransom_accept|Прыняць прапанову.
+mno_ransom_reject|Адхіліць прапанову.
+menu_training_ground|Вы ўязджаеце ў лагер наймітаў... Тут вы можаце наняць людзей у атрад і узброіць сваіх салдат.
+mno_camp_trainer|Пагаварыць з трэнерам.
+mno_camp_merch|Адшукаць капітана наймітаў.
+mno_camp_train_melee|Блізкі бой
+mno_camp_train_mounted|Верхавая трэніроўка
+mno_go_to_track|Чыць: перайсці на дарожку.
+mno_go_to_range|Чыць: перайсці да далёкага.
+menu_training_ground_selection_details_melee_1|З колькімі супернікамі вы будзеце змагацца?
+mno_camp_train_melee_num_men_1|З адным
+mno_camp_train_melee_num_men_2|З двума
+mno_camp_train_melee_num_men_3|З трыма
+mno_camp_train_melee_num_men_4|З чатырма
+menu_training_ground_selection_details_melee_2|Выбраць суперніка # {reg1}:
+mno_training_ground_selection_details_melee_random|Выпадковы выбар
+menu_training_ground_selection_details_mounted|З якой зброяй вы хацелі б папрактыкавацца?
+mno_camp_train_mounted_details_1|Одноручные зброю
+mno_camp_train_mounted_details_2|Дрэўкавая зброя
+mno_camp_train_mounted_details_3|Цыбуля
+mno_camp_train_mounted_details_4|Кідальная зброя
+menu_training_ground_selection_details_ranged_1|З якой зброяй далёкага бою вы хочаце папрактыкавацца?
+mno_camp_train_ranged_weapon_bow|Лук і стрэлы
 mno_camp_train_ranged_weapon_crossbow|Арбалет
 mno_camp_train_ranged_weapon_mushket|Мушкет
-mno_camp_train_ranged_weapon_thrown|Метательные ножи
-menu_training_ground_selection_details_ranged_2|C какого расстояния вы хотите вести стрельбу?
+mno_camp_train_ranged_weapon_thrown|Кідальныя нажы
+menu_training_ground_selection_details_ranged_2|З якога адлегласці вы хочаце весці стральбу?
 mno_camp_train_ranged_details_1|10 шагоў
 mno_camp_train_ranged_details_2|20 шагоў
 mno_camp_train_ranged_details_3|30 шагоў
@@ -442,120 +442,120 @@ mno_camp_train_ranged_details_7|70 шагоў
 menu_training_ground_description|{s0}
 mno_s2_dot|{s2}...
 menu_training_ground_training_result|{s7}{s2}
-menu_marshall_selection_candidate_ask|В {s23} скоро пройдут выборы нового маршала. Некоторые вельможи предложили вас в качестве претендента.
-mno_marshall_candidate_accept|Выставить свою кандидатуру на выборах.
-mno_marshall_candidate_reject|Отказаться, так как в настоящее время вы слишком заняты.
-menu_captivity_avoid_wilderness|Внезапно у вас темнеет в глазах. Много часов спустя вы приходите в себя и понимаете, что до сих пор лежите там, где упали. Ваши враги, должно быть, сочли вас мертвым и оставили лежать на поле боя. Впрочем, ни одна из ваших ран не смертельна, и ходить вы можете, хотя чувствуете себя ужасно. Вы поднимаетесь на ноги и пытаетесь найти остальных выживших из отряда.
+menu_marshall_selection_candidate_ask|У {s23} хутка пройдуць выбары новага маршала. Некаторыя вяльможы прапанавалі вас у якасці прэтэндэнта.
+mno_marshall_candidate_accept|Выставіць сваю кандыдатуру на выбарах.
+mno_marshall_candidate_reject|Адмовіцца, так як у цяперашні час вы занадта занятыя.
+menu_captivity_avoid_wilderness|Раптам у вас цямнее ў вачах. Шмат гадзін праз вы прыходзіце ў сябе і разумееце, што да гэтага часу ляжыце там, дзе ўпалі. Вашы ворагі, павінна быць, палічылі вас мёртвым і пакінулі ляжаць на поле бою. Зрэшты, ні адна з вашых ран не смяротная, і хадзіць вы можаце, хоць адчуваеце сябе жудасна. Вы паднімаецеся на ногі і спрабуеце знайсці астатніх тых, хто выжыў з атрада.
 menu_captivity_start_wilderness|Запаўняльнік
 menu_captivity_start_wilderness_surrender|Запаўняльнік
-menu_captivity_start_wilderness_defeat|Вы попадаете в плен.
+menu_captivity_start_wilderness_defeat|Вы трапляеце ў палон.
 menu_captivity_start_castle_surrender|Запаўняльнік
 menu_captivity_start_castle_defeat|Запаўняльнік
-menu_captivity_start_under_siege_defeat|Вы попадаете в плен.
-menu_captivity_wilderness_taken_prisoner|Вы попадаете в плен.
+menu_captivity_start_under_siege_defeat|Вы трапляеце ў палон.
+menu_captivity_wilderness_taken_prisoner|Вы трапляеце ў палон.
 menu_captivity_wilderness_check|Запаўняльнік
-menu_captivity_end_wilderness_escape|После долгих и тяжких дней заключения вы сбегаете из плена!
-menu_captivity_castle_taken_prisoner|Стража окружает вас и отбирает оружие. С проклятиями и обвинениями они бросают вас в темницу, где вам придется коротать печальные дни заточения.
-menu_captivity_rescue_lord_taken_prisoner|Вы не раскрываете себя, пока возможно. Стражники вне себя от ярости, они жестоко избивают вас, прежде чем снова бросить в камеру бог знает на сколько...
+menu_captivity_end_wilderness_escape|Пасля доўгіх і цяжкіх дзён зняволення вы збягаеце з палону!
+menu_captivity_castle_taken_prisoner|Ахоўнік акружае вас і адбірае зброю. З праклёнамі і абвінавачваннямі яны кідаюць вас у вязніцу, дзе вам прыйдзецца бавіць сумныя дні зняволення.
+menu_captivity_rescue_lord_taken_prisoner|Вы не раскрываеце сябе, пакуль магчыма. Стражнікі па-за сябе ад лютасьці, яны жорстка збіваюць вас, перш чым зноў кінуць у камеру бог ведае на колькі...
 menu_captivity_castle_check|Запаўняльнік
-menu_captivity_end_exchanged_with_prisoner|После долгих дней заключения вас наконец освобождают: ваши тюремщики обменяли вас на другого пленника.
-menu_captivity_end_propose_ransom|Вы проводите долгие часы во влажном сумраке подземелья... Кажется, вы пробыли тут целую вечность. Внезапно один из ваших пленителей входит в камеру с предложением: он готов освободить вас за {reg5} талеров из ваших тайных сбережений. Вы решаете...
-mno_captivity_end_ransom_accept|Принять предложение.
-mno_captivity_end_ransom_deny|Отказаться и подождать другого шанса спастись.
-menu_captivity_castle_remain|Дни идут своей чередой в вашей мрачной камере. Вы держитесь как можете, терпите частые побои, видите, как от недоедания ваше тело становится все более немощным...
-menu_kingdom_army_quest_report_to_army|{s8} прислал сообщение с просьбой присоединиться к его военной кампании. Вы должны привести с собой минимум {reg13} воинов. Если у вас нет такого войска, вы должны срочно набрать людей.
-menu_kingdom_army_quest_messenger|{s8} прислал сообщение, что хочет поговорить с вами об одной проблеме, которая должна быть решена. Он просит вас прибыть к нему безотлагательно.
-menu_kingdom_army_quest_join_siege_order|{s8} прислал сообщение с просьбой присоединиться к осаде {s9} и готовиться к полномасштабному штурму. Ваши войска обязаны взять {s9} любой ценой.
-menu_kingdom_army_follow_failed|Вы не подчинились приказу и не последовали за {s8}. В гневе он выгнал вас из армии и предостерег, что подобные действия не забываются.
-menu_invite_player_to_faction_without_center|Вы получили предложение поступить на службу!^^ {s8} из {s9} прислал к вам вестника с персональным приглашением. Вам оказана честь стать подданным {правителя/правительницы} {s9}, а взамен {s8} просит вас принести клятву верности и сражаться в его военных походах. Впрочем, ни земли, ни титулов он не предлагает. Отказ может быть воспринят как оскорбление...
-mno_faction_accept|Принять
-mno_faction_reject|Отклонить
-menu_invite_player_to_faction|Вы получили предложение поступить на службу!^^ {s8} из {s9} прислал к вам вестника с персональным приглашением. Вам оказана честь стать подданным {правителя/правительницы} {s9}, а взамен {s8} просит вас принести клятву верности и сражаться в его военных походах. За верную службу вам во владение предлагается {s2}. Отказ от такого предложения может быть воспринят как оскорбление...
-menu_invite_player_to_faction_accepted|Чтобы поступить на службу к {s3}, нужно поклясться ему в верности. Найдите его и принесите клятву лично. {s5}
-menu_question_peace_offer|Вам предложен мир.^^{s1} предлагает вам заключить мирное соглашение. Каков будет ваш ответ?
-mno_peace_offer_accept|Принять
-mno_peace_offer_reject|Отклонить
-menu_notification_player_faction_active|Теперь вы владеете землей и не связаны ни с одним государством: вы военачальник без повелителя и самостоятельный землевладелец. Наслаждайтесь свободой, но помните, что каждый правитель сделает все возможное, чтобы избавиться от вас. Жизнь без защиты и покровительства может оказаться чрезвычайно трудной.
-menu_notification_player_faction_deactive|Вы больше не владеете землями.
-menu_notification_center_under_siege|{s2} из {s3} осадил {s1}!
-menu_notification_village_raided|Враги разорили владение^^{s2} из {s3} разграбил {s1}!
-menu_notification_village_raid_started|На вашу деревню напали!^^{s2} из {s3} разоряет {s1}!
-menu_notification_one_faction_left|Вся Восточная Европа покорена одним государством.^^{s1} нанесли поражение всем соперникам и стало единственным государством.
-menu_notification_oath_renounced_faction_defeated|Ваше прежнее государство потерпело поражение.^^Вы выиграли сражение против {s1}! На этом завершается ваша борьба, начавшаяся в тот момент, когда вы отреклись от клятвы, данной ему.
-menu_notification_center_lost|Потеря владения.^^{s2} захватили {s1}.
-menu_notification_troop_left_players_faction|Предательство!^^{s1} покинул {s2} и объединился с {s3}.
-menu_notification_troop_joined_players_faction|Хорошие новости!^^{s1} покинул {s2} и объединился с {s3}.
-menu_notification_war_declared|Объявление войны.^^{s1} объявили войну {s2}!
-menu_notification_peace_declared|Мирное соглашение.^^{s1} и {s2} согласились заключить мир!
-menu_notification_faction_defeated|Государство уничтожено.^^{s1} больше не существует!
-menu_notification_rebels_switched_to_faction|Успешный бунт^^ Ваш мятеж окончился победой! Теперь ваше государство - единственный претендент на титул {s11}, а {s12} - единственный законный правитель.
-menu_kill_local_merchant_begin|Вы замечаете свою жертву и начинаете преследование. Ничего не подозревая, человек сворачивает за угол. У вас появляется отличная возможность для нападения.
+menu_captivity_end_exchanged_with_prisoner|Пасля доўгіх дзён зняволення вас нарэшце вызваляюць: вашы турэмшчыкі абмянялі вас на іншага палоннага.
+menu_captivity_end_propose_ransom|Вы праводзіце доўгія гадзіны ў вільготным змроку падзямелля... Здаецца, Вы прабылі тут цэлую вечнасць. Раптам адзін з вашых палонных ўваходзіць у камеру з прапановай: ён гатовы вызваліць вас за {reg5} талераў з вашых таемных зберажэнняў. Вы вырашаеце...
+mno_captivity_end_ransom_accept|Прыняць прапанову.
+mno_captivity_end_ransom_deny|Адмовіцца і пачакаць іншага шанцу выратавацца.
+menu_captivity_castle_remain|Дні ідуць сваёй чарадой у вашай змрочнай камеры. Вы трымаецеся як можаце, церпіце частыя пабоі, бачыце, як ад недаядання ваша цела становіцца ўсё больш нямоглым...
+menu_kingdom_army_quest_report_to_army|{s8} даслаў паведамленне з просьбай далучыцца да яго ваеннай кампаніі. Вы павінны прывесці з сабой мінімум {reg13} воінаў. Калі ў вас няма такога войска, вы павінны тэрмінова набраць людзей.
+menu_kingdom_army_quest_messenger|{s8} даслаў паведамленне, што хоча пагаварыць з вамі пра адну праблему, якая павінна быць вырашана. Ён просіць вас прыбыць да яго неадкладна.
+menu_kingdom_army_quest_join_siege_order|{s8} даслаў паведамленне з просьбай далучыцца да аблогі {s9} і рыхтавацца да поўнамаштабнага штурму. Вашы войскі абавязаны ўзяць {s9} любой цаной.
+menu_kingdom_army_follow_failed|Вы не падпарадкаваліся загаду і не рушылі ўслед за {s8}. У гневе ён выгнаў вас з войска і перасцярог, што падобныя дзеянні не забываюцца.
+menu_invite_player_to_faction_without_center|Вы атрымалі прапанову паступіць на службу!^ ^ {s8} з {s9} даслаў да вас весніка з персанальным запрашэннем. Вам аказаны гонар стаць падданым {кіраўніка / кіраўніцы} {s9}, а наўзамен {s8} просіць вас прынесці клятву вернасці і змагацца ў яго ваенных паходах. Зрэшты, ні зямлі, ні тытулаў ён не прапаноўвае. Адмова можа быць успрыняты як абраза...
+mno_faction_accept|Прыняць
+mno_faction_reject|Адхіліць
+menu_invite_player_to_faction|Вы атрымалі прапанову паступіць на службу!^ ^ {s8} з {s9} даслаў да вас весніка з персанальным запрашэннем. Вам аказаны гонар стаць падданым {кіраўніка / кіраўніцы} {s9}, а наўзамен {s8} просіць вас прынесці клятву вернасці і змагацца ў яго ваенных паходах. За верную службу вам у валоданьне прапануецца {s2}. Адмова ад такой прапановы можа быць успрыняты як абраза...
+menu_invite_player_to_faction_accepted|Каб паступіць на службу да {s3}, трэба паклясціся яму ў вернасці. Знайдзіце яго і прынясіце прысягу асабіста. {s5}
+menu_question_peace_offer|Вам прапанаваны свет.^ ^ {s1} прапануе вам заключыць мірнае пагадненне. Які будзе ваш адказ?
+mno_peace_offer_accept|Прыняць
+mno_peace_offer_reject|Адхіліць
+menu_notification_player_faction_active|Цяпер вы валодаеце зямлёй і не звязаныя ні з адной дзяржавай: вы военачальнік без Уладара і самастойны землеўладальнік. Атрымлівайце асалоду ад свабодай, але памятайце, што кожны кіраўнік зробіць усё магчымае, каб пазбавіцца ад вас. Жыццё без абароны і заступніцтва можа апынуцца надзвычай цяжкай.
+menu_notification_player_faction_deactive|Вы больш не валодаеце землямі.
+menu_notification_center_under_siege|{s2} з {s3} аблажыў {s1}!
+menu_notification_village_raided|Ворагі разбурылі валоданне^ ^ {s2} з {s3} разрабаваў {s1}!
+menu_notification_village_raid_started|На вашу вёску напалі!^ ^ {s2} з {s3} руйнуе {s1}!
+menu_notification_one_faction_left|Уся Усходняя Еўропа заваяваная адной дзяржавай.^ ^ {s1} нанеслі паразу ўсім супернікам і стала адзінай дзяржавай.
+menu_notification_oath_renounced_faction_defeated|Ваша ранейшая дзяржава пацярпела паразу.^ ^ Вы выйгралі бітву супраць {S1}! На гэтым завяршаецца ваша барацьба, якая пачалася ў той момант, калі вы адракліся ад клятвы, дадзенай яму.
+menu_notification_center_lost|Страта валодання.^ ^ {s2} захапілі {s1}.
+menu_notification_troop_left_players_faction|Здрада!^ ^ {s1} пакінуў {s2} і аб'яднаўся з {s3}.
+menu_notification_troop_joined_players_faction|Добрыя навіны!^ ^ {s1} пакінуў {s2} і аб'яднаўся з {s3}.
+menu_notification_war_declared|Абвяшчэнне вайны.^ ^ {s1} абвясцілі вайну {s2}!
+menu_notification_peace_declared|Мірнае пагадненне.^ ^ {s1} і {s2} пагадзіліся заключыць мір!
+menu_notification_faction_defeated|Дзяржава знішчана.^ ^ {s1} больш не існуе!
+menu_notification_rebels_switched_to_faction|Паспяховы бунт^ ^ ваш мяцеж скончыўся перамогай! Цяпер ваша дзяржава-адзіны прэтэндэнт на тытул {s11}, а {s12} - адзіны законны кіраўнік.
+menu_kill_local_merchant_begin|Вы заўважаеце сваю ахвяру і пачынаеце пераслед. Нічога не падазраючы, чалавек згортвае за кут. У вас з'яўляецца выдатная магчымасць для нападу.
 menu_auto_return_to_map|Запаўняльнік
 menu_monfor_talk|Сардэчна запрашаем, шукальнік прыгод, у Mount & Blade. Перш чым вы зможаце пачаць гуляць у гульню, вам неабходна стварыць персанажа. Для пачатку абярыце пол вашага персанажа.
 mno_start_male|Мужчынскі
-menu_oim_training_ground_selection_details_ranged|C какого расстояния вы хотите вести стрельбу?
+menu_oim_training_ground_selection_details_ranged|З якога адлегласці вы хочаце весці стральбу?
 menu_oim_training_ground_description|{s0}
 menu_oim_training_ground_training_result|{s7}{s2}
-mno_hvatit|Прекратить тренировку...
-menu_oim_defeated_by_monk|Вы потерпели поражение в драке с ксендзом, и он приказал стражникам бросить вас в тюрьму.
-menu_oim_monk_is_killed|Вам удалось одолеть ксендза в драке и забрать икону. Пора убираться из города.
-menu_oim_tatarin_brought_to_perekop|Вы прибыли в Перекоп.
+mno_hvatit|Спыніць трэніроўку...
+menu_oim_defeated_by_monk|Вы пацярпелі паразу ў бойцы з ксяндзом, і ён загадаў стражнікам кінуць вас у турму.
+menu_oim_monk_is_killed|Вам удалося адолець ксяндза ў бойцы і забраць абраз. Пара прыбірацца з горада.
+menu_oim_tatarin_brought_to_perekop|Вы прыбылі ў Перакоп.
 menu_oim_talk_to_tatarin|{s2}
-mno_talk_to_tatarin|Поговорить с татарином.
+mno_talk_to_tatarin|Пагаварыць з татарынам.
 menu_oim_fight_sem_samuraev|{s2}
-mno_defend_village_|Приготовиться к бою...
+mno_defend_village_|Падрыхтавацца да бою...
 menu_oim_sem_sameraev_battle_result|{s2}
 menu_oim_talk_to_bandits_horse|{s2}
 menu_oim_bandits_battle_for_horse_result|{s2}
 menu_oim_invest_menu|{s2}
-mno_zabrat_dengi|Забрать деньги...
-mno_do_not_take_|Отказаться от этой идеи.
+mno_zabrat_dengi|Забраць грошы...
+mno_do_not_take_|Адмовіцца ад гэтай ідэі.
 menu_oim_auto_talk_menu|{s2}
-menu_oim_potop_defend_church|Вы прибыли вовремя - шведы еще не успели разграбить монастырь. Самое время повторить для них уроки Кирхгольма!
+menu_oim_potop_defend_church|Вы прыбылі своечасова - шведы яшчэ не паспелі разрабаваць манастыр. Самы час паўтарыць для іх ўрокі Кірхгольма!
 menu_oim_potop_defend_church_result|{s2}
 menu_oim_auto_message_menu|{s2}
 menu_oim_potop_romeo_fight|{s2}
-menu_capitan_vid|Вы спрашиваете солдат в лагере, где найти главного, и они указывают вам на своего капитана.
-mno_merch_tatar|Поговорить с капитаном татарских наемников.
-mno_merch_kozak|Поговорить с капитаном казацких наемников.
-mno_merch_polyak|Поговорить с капитаном польских наемников.
-mno_merch_shved|Поговорить с капитаном шведских наемников.
-mno_merch_moskov|Поговорить с капитаном московских наемников.
+menu_capitan_vid|Вы пытаецеся салдат у лагеры, дзе знайсці галоўнага, і яны паказваюць вам на свайго капітана.
+mno_merch_tatar|Пагаварыць з капітанам татарскіх наймітаў.
+mno_merch_kozak|Пагаварыць з капітанам казацкіх наймітаў.
+mno_merch_polyak|Пагаварыць з капітанам польскіх наймітаў.
+mno_merch_shved|Пагаварыць з капітанам шведскіх наймітаў.
+mno_merch_moskov|Пагаварыць з капітанам маскоўскіх наймітаў.
 mno_Back_1|Выйсці...
 menu_oim_potop_kshetuskiy|{s2}
 mno_sneak_in|Працягнуць...
-menu_podkup_neg|Не успел ваш парламентер войти в ворота с белым флагом, как вы услышали выстрел, а вслед за тем увидели тело вашего посланника висящим на стене. ^^Боевой дух вашего отряда понизился. 
+menu_podkup_neg|Не паспеў ваш парламентар увайсці ў вароты з белым сцягам, як вы пачулі стрэл, а ўслед за тым ўбачылі цела вашага пасланца вісіць на сцяне. ^ ^ Баявы дух вашага атрада панізіўся. 
 mno_Back_2|Працягнуць...
-menu_podkup_ataka|Вам удалось подкупить одного из защитников крепости. Он открыл ворота: теперь можно начинать резню в городе. 
+menu_podkup_ataka|Вам удалося падкупіць аднаго з абаронцаў крэпасці. Ён адкрыў вароты: зараз можна пачынаць разню ў горадзе. 
 mno_Cont|Працягнуць...
-menu_udral_otravil|Вам удалось проникнуть в город и отравить колодец с водой. 
+menu_udral_otravil|Вам удалося пракрасціся ў горад і атруціць калодзеж з вадой. 
 mno_Cont1|Працягнуць...
-menu_vzvesili|Неудача! Вас заметили и схватили!
+menu_vzvesili|Няўдача! Вас заўважылі і схапілі!
 mno_Cont2|Працягнуць...
-menu_udral_neotravil|Вас заметили, но вам удалось сбежать.
+menu_udral_neotravil|Вас заўважылі, але Вам удалося збегчы.
 mno_Cont3|Працягнуць...
-menu_neudral_otravil|Вас заметили, но вы успели отравить воду. Теперь вам придется прорываться сквозь ряды защитников. 
+menu_neudral_otravil|Вас заўважылі, але вы паспелі атруціць ваду. Зараз вам прыйдзецца прарывацца скрозь шэрагі абаронцаў. 
 mno_Cont4|Працягнуць...
-menu_neudral_neotravil|Вас заметили, и вы не успели отравить воду. Теперь вам придется прорываться сквозь ряды защитников.
-menu_sneak_into_town_caught_dispersed_guards_t|Вам удалось пробиться сквозь ряды стражников и выйти из города.
-menu_sneak_into_town_caught_ran_away_t|Вам удалось скрыться в лабиринте улиц и выбраться из города.
-menu_vorvatsya_uspeh|Вы смогли пробраться в город, но часть вашей армии осталась за стенами. Вам нужно уничтожить не менее {reg0}% защитников, прежде чем вы сможете открыть ворота. 
-menu_vorvatsya_proval|Вам не удалось пробраться в город. Более того, ваш передовой отряд ({s50}) был вырезан защитниками города, а в вашем основном отряде понизился боевой дух. 
-menu_podkop_uspih|Вы подсчитали, что вам понадобится не менее {reg4} часов, чтобы заложить мину.
-mno_build_podkop_min|Начать инженерные работы.
-menu_podkop_neg|Вам не удалось заложить мину. Скорее всего, у вас недостаточно знаний о подобных работах.
-menu_podkop_uspih_walls|Стены этого города слишком прочны для того, чтобы разрушить их миной. 
-menu_podkop_uspih_uspih|Мина взорвалась, разрушив часть стены...
-mno_go_next|Начать штурм!
-menu_podkop_uspih_neg|Стены этого города слишком прочны для того, чтобы разрушить их миной. 
+menu_neudral_neotravil|Вас заўважылі, і вы не паспелі атруціць ваду. Зараз вам прыйдзецца прарывацца скрозь шэрагі абаронцаў.
+menu_sneak_into_town_caught_dispersed_guards_t|Вам удалося прабіцца скрозь шэрагі стражнікаў і выйсці з горада.
+menu_sneak_into_town_caught_ran_away_t|Вам удалося схавацца ў лабірынце вуліц і выбрацца з горада.
+menu_vorvatsya_uspeh|Вы змаглі прабрацца ў горад, але частка вашай арміі засталася за сценамі. Вам трэба знішчыць не менш {reg0} % абаронцаў, перш чым вы зможаце адкрыць вароты. 
+menu_vorvatsya_proval|Вам не ўдалося прабрацца ў горад. Больш за тое, ваш перадавы атрад ({S50}) быў выразаны абаронцамі горада, а ў вашым асноўным атрадзе панізіўся баявы дух. 
+menu_podkop_uspih|Вы падлічылі, што вам спатрэбіцца не менш {reg4} гадзін, каб закласці міну.
+mno_build_podkop_min|Пачаць інжынерныя працы.
+menu_podkop_neg|Вам не ўдалося закласці міну. Напэўна, у вас недастаткова ведаў аб падобных працах.
+menu_podkop_uspih_walls|Сцены гэтага горада занадта трывалыя, каб разбурыць іх мінай. 
+menu_podkop_uspih_uspih|Міна выбухнула, разбурыўшы частку сцяны...
+mno_go_next|Пачаць штурм!
+menu_podkop_uspih_neg|Сцены гэтага горада занадта трывалыя, каб разбурыць іх мінай. 
 menu_oim_last_game_menu|{s2}
-menu_oim_getman_defend_village|Вы прибыли вовремя: бандиты еще не успели разорить деревню. Они заметили вас и готовятся атаковать.
+menu_oim_getman_defend_village|Вы прыбылі своечасова: бандыты яшчэ не паспелі спустошыць вёску. Яны заўважылі вас і рыхтуюцца атакаваць.
 menu_oim_getman_defend_village_result|{s2}
-menu_oim_getman_defend_village_result2|Не успел старик договорить, как один из раненых бандитов выстрелил. Увы, пуля нашла свою цель... Старик уже не сможет вам ничего рассказать.
-menu_oim_getman_letter_text|Дьяку тайного приказа лично в руки. ^^Исполняя твое поручение, я прознал, что гробницы Ольговичей из Киева похитил литовский князь Януш Радзивилл. Поговаривают, будто он перевез их в свою родовую усыпальницу. Прочее пока неведомо. Ясно одно: Радзивилл - еретик-протестант, ради короны на голове он пойдет даже на чернокнижие. Однако за всем этим явно стоит трезвый расчет. ^Отправляю это послание с надежным лазутчиком, да хранит его Господь, а сам отправлюсь в Ригу, где в архивах ордена тамплиеров, по моим сведениям, находится разгадка тайны Черного Гетмана...
+menu_oim_getman_defend_village_result2|Не паспеў Стары дагаварыць, як адзін з параненых бандытаў стрэліў. Нажаль, Куля знайшла сваю мэту... Стары ўжо не зможа вам нічога расказаць.
+menu_oim_getman_letter_text|Дзяку тайнага загаду асабіста ў рукі. Выконваючы тваё даручэнне, я даведаўся, што грабніцы Ольгавічаў з Кіева выкраў літоўскі князь Януш Радзівіл. Пагаворваюць, быццам ён перавёз іх у сваю радавую пахавальню. Іншае пакуль невядома. Ясна адно: Радзівіл-ерэтык-пратэстант, дзеля кароны на галаве ён пойдзе нават на чарнакніжжа. Аднак за ўсім гэтым відавочна стаіць цвярозы разлік. Адпраўляю гэтае пасланне з надзейным лазутчыкам, хай захоўвае яго Гасподзь, а сам адпраўлюся ў Рыгу, дзе ў архівах ордэна тампліераў, па маіх звестках, знаходзіцца разгадка таямніцы Чорнага Гетмана...
 menu_oim_getman_tamplier_archives|{s2}
 menu_oim_potop_fight_with_king_result|{s3}
-menu_oim_cheats_and_solving_quests_menu|Не используется
+menu_oim_cheats_and_solving_quests_menu|Не выкарыстоўваецца
 mno_money_menu|Чыт на грошы
 mno_exp_menu|Чыт на вопыт
 mno_exp_renown|Чыт на славу
@@ -578,55 +578,55 @@ menu_oim_korono_vitovta|{s3}
 menu_oim_dmitriy_captured|{s3}
 mno_edit_slot_town_walls_destroyed_door|edit slot town walls destroyed
 menu_oim_dmitriy_alevtina_hanum|{s3}
-mno_oim_walk_the_streets|Выйти из гарема и пройти в город.
+mno_oim_walk_the_streets|Выйсці з гарэма і прайсці ў горад.
 menu_oim_barabash_order_mc|{s3}
 menu_oim_getman_barabash_rebelion|{s3}
 menu_oim_getman_casus_beli_barabash|{s3}
 menu_oim_getman_casus_beli_barabash_war|{s3}
-menu_oim_tavern_simple_fight|Вы вызвали на кулачный бой посетителя кабака. Противник готов и ждет вас.
+menu_oim_tavern_simple_fight|Вы выклікалі на кулачны бой наведвальніка шынка. Праціўнік гатовы і чакае вас.
 menu_oim_tavern_simple_fight_result|{s2}
-menu_oim_duel_fight|Неудачная шутка привела к драке. Самое время припомнить уроки фехтования, чтобы дать достойный отпор противнику.
+menu_oim_duel_fight|Няўдалы жарт прывёў да бойкі. Самы час узгадаць урокі фехтавання, каб даць годны адпор суперніку.
 menu_oim_tavern_duel_fight_result|{s2}
-menu_oim_tavern_ranged_fight|Вы собираетесь состязаться в меткости. Чтобы победить, нужно сбить как можно больше целей.
+menu_oim_tavern_ranged_fight|Вы збіраецеся спаборнічаць у трапнасці. Каб перамагчы, трэба збіць як мага больш мэтаў.
 menu_oim_ranged_duel_tavern_result|{s2}
-menu_oim_drunken_prison|Последний кубок вина был явно лишним, и вы впали в хмельное забытье. Очнулись вы в темной камере городской тюрьмы.
-menu_oim_drunken_wound|Вы очнулись неизвестно где, побитый и без кошеля на поясе. Вы с трудом припоминаете, за что был поднят последний бокал...
-menu_oim_alcoholic|Вы стали слишком ярым завсегдатаем кабаков. Не проходит и дня, чтобы вы не осушили бокал-другой. Правда, после этого куда-то пропадают деньги и былая сила в руках...
+menu_oim_drunken_prison|Апошні кубак віна быў відавочна лішнім, і вы запалі ў хмельнае забыццё. Ачуліся вы ў цёмнай камеры гарадской турмы.
+menu_oim_drunken_wound|Вы ачуліся невядома дзе, пабіты і без кошаля на поясе. Вы з цяжкасцю ўзгадваеце, за што быў узняты апошні келіх...
+menu_oim_alcoholic|Вы сталі занадта заўзятым заўсёднікам шынкоў. Не праходзіць і дня, каб вы не асушылі келіх-другі. Праўда, пасля гэтага кудысьці знікаюць грошы і былая сіла ў руках...
 menu_oim_rich_visitor|{s2}
-mno_attack|Преследовать горожанина.
+mno_attack|Пераследваць гараджаніна.
 menu_oim_rich_visitor_result|{s2}
 menu_captured_enemy_menu|{s17}
-mno_continue_kill|Казнить пленников.
-mno_continue_spawn|Отпустить пленников.
+mno_continue_kill|Пакараць смерцю палонных.
+mno_continue_spawn|Адпусціць палонных.
 menu_capture_prisoners_as_guards|{s17}
-mno_continue_guards|Зачислить в гарнизон.
-mno_continue_spawn_prisoners|Отпустить.
-menu_charge_with_bunt|"Скверные настроения в отряде переросли в бунт. Дезертиры требуют либо вашей крови, либо золота за ""труды"". "
+mno_continue_guards|Залічыць у гарнізон.
+mno_continue_spawn_prisoners|Адпусьціць.
+menu_charge_with_bunt|"Кепскія настроі ў атрадзе перараслі ў бунт. Дэзерціры патрабуюць альбо вашай крыві, альбо золата за""працы"". "
 mno_continue_bunt|Працягнуць...
-menu_illness_warning|{s0} Знающие люди говорят, что хорошее питание должно помочь. Возможно, {s1} или {s2} смогут вылечить солдат. Впрочем, хороший отдых в кабаке тоже не повредит.
-menu_illness_end|Благодаря хорошему отдыху и пище солдаты вашего отряда вылечились от {s0}.
-menu_warn_taverna_morale|Ваши солдаты ропщут из-за того, что вы морите их голодом. Они устали от постоянных маршей и переходов. Недовольство в вашем отряде ширится. ^^Бывалые бойцы иногда намекают вам, что не прочь провести денек другой в ближайшем кабаке...
-menu_oim_dmitriy_razin_warn|Ширятся слухи, что атаман Стенька Разин снова поднял восстание. Теперь уже против вас. 
+menu_illness_warning|{s0} дасведчаныя людзі кажуць, што добрае харчаванне павінна дапамагчы. Магчыма, {s1} або {s2} змогуць вылечыць салдат. Зрэшты, добры адпачынак у карчме таксама не пашкодзіць.
+menu_illness_end|Дзякуючы добраму адпачынку і ежы салдаты вашага атрада вылечыліся ад {s0}.
+menu_warn_taverna_morale|Вашы салдаты наракаюць, бо вы марыце іх голадам. Яны стаміліся ад пастаянных маршаў і пераходаў. Незадаволенасць у вашым атрадзе шырыцца. ^ ^ Бывалыя байцы часам намякаюць вам, што не супраць правесці дзянёк іншы ў найбліжэйшай карчме...
+menu_oim_dmitriy_razin_warn|Шырацца чуткі, што атаман Сценька Разін зноў падняў паўстанне. Цяпер ужо супраць вас. 
 menu_oim_razin_asking_for_marshal|{s2}
-menu_oim_dmitry_elected|Вы сумели убедить бояр поддержать вас на выборах. В результате вы были избраны царем.
-menu_oim_dmitry_election_failed|Вы так и не сумели склонить бояр на свою сторону. Боярская дума избрала Разина царем. 
+menu_oim_dmitry_elected|Вы здолелі пераканаць баяраў падтрымаць вас на выбарах. У выніку вы былі абраныя царом.
+menu_oim_dmitry_election_failed|Вы так і не здолелі схіліць баяраў на свой бок. Баярская дума абрала Разіна царом. 
 menu_simle_text_message|{s2}
-menu_oim_diplomacy_window|С каким государством вы хотите начать войну?
+menu_oim_diplomacy_window|З якой дзяржавай вы хочаце пачаць вайну?
 mno_fac_1_continue|{s2}
 mno_fac_2_continue|{s2}
 mno_fac_3_continue|{s2}
 mno_fac_4_continue|{s2}
 mno_fac_5_continue|{s2}
-menu_submit_war|Вы действительно хотите начать войну с {s2}? 
-mno_submit_war|Да
-mno_reject|Нет
+menu_submit_war|Вы сапраўды хочаце пачаць вайну з {S2}? 
+mno_submit_war|Так
+mno_reject|Не
 menu_oim_auto_talk_menu2|none
 menu_oim_auto_message_menu2|{s2}
-menu_notification_about_gold_usage_after_construct|В {s1} {s51}.
-menu_notification_about_gold_usage_30_day|В {s1} {s51}.
-menu_notification_party_under_siege_with_defence|Во время осады {s2} из {s3} в ловушках потерял: {s50}.
-menu_notification_village_element_leave_service|{s2} из {s1} покинул службу.
-menu_notification_extra_good_ready|В {s1} было произведено {s2}. Заберите свой заказ.
+menu_notification_about_gold_usage_after_construct|У {s1} {s51}.
+menu_notification_about_gold_usage_30_day|У {s1} {s51}.
+menu_notification_party_under_siege_with_defence|Падчас аблогі {s2} з {s3} у пастках страціў: {s50}.
+menu_notification_village_element_leave_service|{s2} з {s1} пакінуў службу.
+menu_notification_extra_good_ready|У {s1} было выраблена {s2}. Забярыце свой заказ.
 menu_ms_additional_menu|{s0}
 mno_ms_add_1|{s1}.
 mno_ms_add_2|{s1}.
@@ -640,13 +640,13 @@ mno_ms_add_9|{s1}.
 mno_ms_add_10|{s1}.
 mno_ms_back|Назад
 menu_ms_additional_school|{s2}
-mno_ms_see_npc_list|Посмотреть список спутников.
-menu_ms_additional_merchant_guild|Выберите, что вы хотите сделать.
-mno_ms_guild_deposit|Положить деньги в рост под {reg0}% ежемесячно. 
-mno_ms_guild_credit|Взять кредит под {reg0}% сроком на месяц. 
-mno_ms_guild_deposit_out|Забрать депозит ({reg0} талеров)
-mno_ms_guild_credit_out|Погасить кредит ({reg0} талеров)
-menu_ms_guild_get_value|Выберите сумму {s0}. Сейчас сумма {s0} равна: {reg5}.
+mno_ms_see_npc_list|Паглядзець спіс спадарожнікаў.
+menu_ms_additional_merchant_guild|Выберыце, што вы хочаце зрабіць.
+mno_ms_guild_deposit|Пакласці грошы ў рост пад {reg0} % штомесяц. 
+mno_ms_guild_credit|Ўзяць крэдыт пад {reg0} % тэрмінам на месяц. 
+mno_ms_guild_deposit_out|Забраць дэпазіт ({reg0} талераў)
+mno_ms_guild_credit_out|Пагасіць крэдыт ({reg0} талераў)
+menu_ms_guild_get_value|Выберыце суму {s0}. Цяпер сума {s0} роўная: {reg5}.
 mno_ms_guild_500_minus|-500 талераў
 mno_ms_guild_500_plus|+500 талераў
 mno_ms_guild_1000_minus|-1000 талераў
@@ -655,33 +655,33 @@ mno_ms_guild_1500_minus|-1500 талераў
 mno_ms_guild_1500_plus|+1500 талераў
 mno_ms_guild_2000_minus|-2000 талераў
 mno_ms_guild_2000_plus|+2000 талераў
-mno_ms_continue|Провести сделку
-menu_ms_guild_get_out|Вы действительно хотите совершить эту сделку?
-mno_ms_guild_break|Да
-mno_ms_guild_back|Нет
-menu_ms_guild_not_enough_money|У вас для этого недостаточно денег!
-menu_ms_credit_fight|Вы не вернули вовремя кредит, поэтому банкиры решили выбить его из вас силой.
+mno_ms_continue|Правесці здзелку
+menu_ms_guild_get_out|Вы сапраўды хочаце зрабіць гэтую здзелку?
+mno_ms_guild_break|Так
+mno_ms_guild_back|Не
+menu_ms_guild_not_enough_money|У вас для гэтага недастаткова грошай!
+menu_ms_credit_fight|Вы не вярнулі своечасова крэдыт, таму банкіры вырашылі выбіць яго з вас сілай.
 mno_ms_credit_fight_continue|Працягнуць
 menu_ms_additional_extra_goods|{s0}
 mno_ms_extra_goods_next|Працягнуць
 menu_ms_additional_adviser|{s0}
 mno_ms_extra_adviser_continue|Працягнуць
-menu_notification_change_diplomatic_capital|Теперь послов всегда можно будет найти в {s1}.
+menu_notification_change_diplomatic_capital|Цяпер паслоў заўсёды можна будзе знайсці ў {s1}.
 menu_messenger_for_capital|{s0}
-menu_select_ambassador|Выберите посла:
+menu_select_ambassador|Выберыце пасла:
 mno_ambassador_fac1|{s0}
 mno_ambassador_fac2|{s0}
 mno_ambassador_fac3|{s0}
 mno_ambassador_fac4|{s0}
 mno_ambassador_fac5|{s0}
 mno_back|Назад
-menu_ms_additional_officer|Здесь вы можете поговорить с начальником гарнизона и нанять войско.
-mno_ms_additional_officer_next|Поговорить с начальником гарнизона.
-menu_oim_caravan_delivered|Весь товар каравана продан. После тщательного подсчета всех расходов, вы насчитали {reg1} талеров выручки.
+menu_ms_additional_officer|Тут вы можаце пагаварыць з начальнікам гарнізона і наняць войска.
+mno_ms_additional_officer_next|Пагаварыць з начальнікам гарнізона.
+menu_oim_caravan_delivered|Увесь тавар каравана прададзены. Пасля стараннага падліку ўсіх выдаткаў, вы налічылі {reg1} талераў выручкі.
 menu_notification_simple_str|{s2}
 menu_notification_tax_collected|{s2}
 menu_banks_report|{s2}
-menu_notification_about_gold_usage_7_day|В {s1} {s51}.
+menu_notification_about_gold_usage_7_day|У {s1} {s51}.
 menu_meeting_with_thieves|{s1}
-menu_oim_rich_visitor_meal|Потратив 25 талеров на сытный обед, вы решаете отдохнуть.
-mno_start_resting|Отдохнуть.
+menu_oim_rich_visitor_meal|Выдаткаваўшы 25 талераў на сытны абед, вы вырашаеце адпачыць.
+mno_start_resting|Адпачыць.

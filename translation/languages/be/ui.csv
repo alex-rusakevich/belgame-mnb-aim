@@ -1,498 +1,498 @@
-﻿ui_music_volume|Громкость музыки:
-ui_sound_volume|Громкость звука:
-ui_mouse_sensitivity|Чувствительность мыши:
-ui_invert_mouse_y_axis|Инвертирование мыши
+﻿ui_music_volume|Гучнасць музыкі:
+ui_sound_volume|Гучнасць гуку:
+ui_mouse_sensitivity|Адчувальнасць мышы:
+ui_invert_mouse_y_axis|Інвертавання мышы
 ui_enabled|Укл.
 ui_disabled|Выкл.
-ui_damage_to_player|Урон игроку:
-ui_reduced_to_1_over_4_easiest|Снижен до 1/4 (легче всего)
-ui_reduced_to_1_over_2_easy|Снижен до 1/2 (легко)
-ui_damage_to_friends|Урон друзьям:
-ui_reduced_to_1_over_2_easiest|Снижен до 1/2 (легче всего)
-ui_reduced_to_3_over_4_easy|Снижен до 3/4 (легко)
-ui_normal|Нормальный
-ui_combat_ai|Качество ИИ в бою:
-ui_combat_speed|Темп боя:
-ui_good|Сильн.
-ui_average_caps|Средн.
-ui_poor|Слаб.
-ui_faster|Высок.
-ui_slower|Низк.
-ui_control_block_direction|Направление блока:
-ui_automatic_recommended|Автоматически (рекомендуется)
-ui_manual_easy|Вручную (сложно)
-ui_manual_hard|Вручную (легко)
-ui_by_mouse_movement|По движению мыши
-ui_control_attack_direction|Направление атаки:
-ui_lance_control|Прицеливание копьем:
-ui_by_relative_enemy_position|По позиции врага
-ui_by_inverse_mouse_movement|По обратному движению мыши
-ui_battle_size|Размер битвы:
-ui_show_attack_direction|Показ направления атаки
-ui_show_targeting_reticule|Прицел
-ui_show_names_of_friendly_troops|Стяги дружественных отрядов
-ui_report_damage|Сообщения об уроне
-ui_report_shot_difficulty|Сообщения о сложности выстрела
-ui_difficulty_rating_percentage|Уровень сложности = %d%%
-ui_controls|Управление
-ui_video_options|Графика
-ui_done|Готово
-ui_factions|Державы
-ui_item_itemname|Предмет - %s
-ui_prop_propname|Мелочи - %s
-ui_unknown_unknownname|Неизвестно - %s
-ui_entry_point_entrypointname|Точка вхождения %d
+ui_damage_to_player|Страты гульцу:
+ui_reduced_to_1_over_4_easiest|Паніжаны да 1/4 (лягчэй за ўсё)
+ui_reduced_to_1_over_2_easy|Паніжаны да 1/2 (лёгка)
+ui_damage_to_friends|Страты сябрам:
+ui_reduced_to_1_over_2_easiest|Паніжаны да 1/2 (лягчэй за ўсё)
+ui_reduced_to_3_over_4_easy|Зніжаны да 3/4 (лёгка)
+ui_normal|Нармальны
+ui_combat_ai|Якасць ІІ ў баі:
+ui_combat_speed|Тэмп бою:
+ui_good|Сілн.
+ui_average_caps|Сярэдн.
+ui_poor|Слабы.
+ui_faster|Высокі.
+ui_slower|Нізкі.
+ui_control_block_direction|Кірунак блока:
+ui_automatic_recommended|Аўтаматычна (рэкамендуецца)
+ui_manual_easy|Ўручную (складана)
+ui_manual_hard|Ўручную (лёгка)
+ui_by_mouse_movement|Па руху мышы
+ui_control_attack_direction|Кірунак атакі:
+ui_lance_control|Прыцэльвання дзідай:
+ui_by_relative_enemy_position|Па пазіцыі ворага
+ui_by_inverse_mouse_movement|Па зваротным руху мышы
+ui_battle_size|Памер бітвы:
+ui_show_attack_direction|Паказ напрамкі атакі
+ui_show_targeting_reticule|Прыцэл
+ui_show_names_of_friendly_troops|Сцяг дружалюбных атрадаў
+ui_report_damage|Паведамленні пра ўрон
+ui_report_shot_difficulty|Паведамленні аб складанасці стрэлу
+ui_difficulty_rating_percentage|Узровень складанасці = % d%%
+ui_controls|Кіраванне
+ui_video_options|Графіка
+ui_done|Гатовы
+ui_factions|Дзяржава
+ui_item_itemname|Прадмет - %s
+ui_prop_propname|Дробязі - %s
+ui_unknown_unknownname|Невядома - %s
+ui_entry_point_entrypointname|Кропка ўваходжання %d
 ui_passage_menu_item_passagename|Passage (menu item %d)
-ui_plant_plantname|Растение - %s
-ui_export_file_for_character_playername_already_exists_overwrite_it|Экспортируемый файл с персонажем %s уже существует. Заменить его?
-ui_yes|Да
-ui_no|Нет
-ui_set_save_file_name|Введите имя для сохранения:
-ui_enter_new_name|Введите новое имя:
-ui_export_character|Экспортировать персонажа
-ui_import_character|Импортировать персонажа
-ui_character_playername_exported_successfully|Персонаж %s успешно экспортирован.
-ui_character_playername_imported_successfully|Персонаж %s успешно импортирован.
-ui_unable_to_open_import_file|Невозможно открыть импортируемый файл.
-ui_are_you_sure_you_want_to_import_the_character|Вы точно хотите импортировать персонажа?
-ui_unable_to_find_character_import_file|Невозможно найти файл импорта персонажа.
-ui_mount_and_blade_is_running_in_trial_mode_please_buy_the_game_for_importing_a_character|У вас установлена пробная версия игры Mount&Blade. Для того чтобы импортировать персонажа, вам нужно купить полную версию.
-ui_change_skin|Лицо
-ui_change_hair|Волосы
-ui_change_hair_color|Цвет волос
-ui_change_beard|Борода
-ui_tutorial|Обучение
-ui_tutorial_face_generator|Настройте внешность своего персонажа при помощи кнопок и бегунков. Чтобы повернуть голову, щелкните по ней и передвиньте мышь.
+ui_plant_plantname|Расліна - %s
+ui_export_file_for_character_playername_already_exists_overwrite_it|Экспартаваны файл з персанажам %s ўжо існуе. Замяніць яго?
+ui_yes|Так
+ui_no|Не
+ui_set_save_file_name|Увядзіце імя для захавання:
+ui_enter_new_name|Увядзіце новае імя:
+ui_export_character|Экспартаваць персанажа
+ui_import_character|Імпартаваць персанажа
+ui_character_playername_exported_successfully|Персанаж % s паспяхова экспартаваны.
+ui_character_playername_imported_successfully|Персанаж % s паспяхова імпартаваны.
+ui_unable_to_open_import_file|Немагчыма адкрыць імпартаваны файл.
+ui_are_you_sure_you_want_to_import_the_character|Вы сапраўды хочаце імпартаваць персанажа?
+ui_unable_to_find_character_import_file|Немагчыма знайсці файл імпарту персанажа.
+ui_mount_and_blade_is_running_in_trial_mode_please_buy_the_game_for_importing_a_character|У вас ўстаноўлена пробная версія гульні Mount & Blade. Для таго каб імпартаваць персанажа, вам трэба купіць поўную версію.
+ui_change_skin|Асоба
+ui_change_hair|Валасы
+ui_change_hair_color|Колер валасоў
+ui_change_beard|Барада
+ui_tutorial|Навучанне
+ui_tutorial_face_generator|Наладзьце знешнасць свайго персанажа пры дапамозе кнопак і бегункоў. Каб павярнуць галаву, пстрыкніце па ёй і перасуньце мыш.
 ui_restore|Загрузка
-ui_cancel|Отмена
-ui_delete|Удаление
-ui_confirm_delete_game|Вы точно хотите удалить эту игру?
-ui_error_removing_file|Ошибка при удалении файла...
-ui_day_datedisplay|День %d (%d:%d%d)
-ui_reset_changes|Сброс
-ui_weapon_proficiencies|Умения
-ui_skills|Навыки
-ui_attributes|Характеристики
-ui_enter_name_here|*Введите имя героя*
-ui_edit_face|Щелкните, чтобы изменить лицо
-ui_statistics|Статистика
-ui_next|Далее
+ui_cancel|Адмена
+ui_delete|Выдаленне
+ui_confirm_delete_game|Вы сапраўды хочаце выдаліць гэтую гульню?
+ui_error_removing_file|Памылка пры выдаленні файла...
+ui_day_datedisplay|Дзень % d (%d: % d%d)
+ui_reset_changes|Скід
+ui_weapon_proficiencies|Уменне
+ui_skills|Навык
+ui_attributes|Характарыстыкі
+ui_enter_name_here|* Увядзіце імя героя*
+ui_edit_face|Націсніце, каб змяніць твар
+ui_statistics|Статыстыка
+ui_next|Далей
 ui_prev|Назад
-ui_learn|Учить
-ui_question_saving_policy|Как будет проходить сохранение в игре?
-ui_saving_policy_realistic|Сохранение только при выходе!
-ui_saving_policy_nonrealistic|Сохранение в произвольный момент.
-ui_tutorial_character_generation|Теперь введите свое имя и распределите очки характеристик, навыков и оружия. Чтобы узнать, как тот или иной параметр повлияет на вашего персонажа, просто наведите курсор на любое название на экране.
-ui_str|СИЛ
-ui_agi|ЛОВ
-ui_int|ИНТ
+ui_learn|Вучыць
+ui_question_saving_policy|Як будзе праходзіць захаванне ў гульні?
+ui_saving_policy_realistic|Захаванне толькі пры выхадзе!
+ui_saving_policy_nonrealistic|Захаванне ў адвольны момант.
+ui_tutorial_character_generation|Цяпер увядзіце сваё імя і размяркуеце акуляры характарыстык, навыкаў і зброі. Каб даведацца, як той ці іншы параметр паўплывае на вашага персанажа, проста навядзіце курсор на любую назву на экране.
+ui_str|СІЛА
+ui_agi|ЛОЎЛЯ
+ui_int|Інт
 ui_cha|ХАР
-ui_at_learning_limit|(Достигнут предел)
-ui_not_enough_skill_points_to_learn|(Недостаточно очков для изучения)
-ui_strength|силы
-ui_agility|ловкости
-ui_intelligence|интеллекта
-ui_charisma|харизмы
-ui_not_enough_attributetype_to_learn_this_skill|(Недостаточно %s для изучения этого умения)
-ui_explanation_one_handed_weapon|Позволяет более эффективно использовать одноручные мечи, топоры и дробящее оружие.
-ui_explanation_two_handed_weapon|Позволяет более эффективно использовать двуручные мечи, большие топоры и палицы.
-ui_explanation_polearm|Позволяет более эффективно использовать древковое оружие, а именно копья, пики, посохи и пр.
-ui_explanation_archery|Позволяет более эффективно использовать луки.
-ui_explanation_crossbow|Позволяет более эффективно использовать огнестрельное оружие.
-ui_explanation_throwing|Позволяет более эффективно использовать гранаты.
-ui_explanation_firearms|Позволяет более эффективно использовать ружья и мушкеты.
-ui_explanation_strength|Сила: с каждым новым уровнем силы вы получаете 1 пункт здоровья. Следующие навыки не могут быть выше 1/3 от показателя силы: железная кожа, мощный удар, мощный бросок и мощный выстрел.
-ui_explanation_agility|Ловкость: с каждым новым уровнем ловкости вы получаете 5 очков оружия, а скорость его применения слегка возрастает. Следующие навыки не могут быть выше 1/3 от показателя ловкости: владение щитом, атлетика, владение оружием, верховая езда, верховая стрельба из лука и сбор трофеев.
-ui_explanation_intelligence|Интеллект: с каждым новым уровнем интеллекта вы получаете одно очко навыка. Следующие навыки не могут быть выше 1/3 от показателя интеллекта: обучение, слежение, тактика, прокладывание курса, зоркость, логистика, перевязка ран, хирургия, первая помощь, инженерия, убеждение.
-ui_explanation_charisma|Харизма: с каждым новым уровнем харизмы у вас появляется еще одно место в отряде. Следующие навыки не могут быть выше 1/3 от показателя харизмы: лидерство, содержание пленных, торговля.
-ui_level|Уровень: %d
-ui_xp|Опыт: %d
-ui_next_level_at|Следующий уровень: %d
-ui_health_player|Здоровье: %d/%d
-ui_health|Здоровье: %d
-ui_attribute_points|Очки характеристик: %d
-ui_skill_points|Очки навыков: %d
-ui_weapon_points|Очки оружия: %d
-ui_mission_losses_none| нет.
-ui_mission_losses_wounded|ранено:
-ui_mission_losses_killed|убито:
-ui_party_losses|%s: %d ранено - %d убито из %d.
-ui_casualties_sustained|Потери:
-ui_advantage_change|Изменение преимущества: %c%d 
-ui_overall_battle_casualties|Всего в бою потеряно:
-ui_advantage_outnumbered|Вражеских сил намного больше.
-ui_advantage_major_disadvantage|У врага огромное преимущество.
-ui_advantage_slight_disadvantage|У врага небольшое преимущество.
-ui_advantage_balanced|Силы равны.
-ui_advantage_fair_advantage|У вас преимущество в бою.
-ui_advantage_greatly_favored|У вас все шансы выиграть бой.
-ui_tactical_advantage|Тактическое преимущество: %d (%s)
-ui_order_group|Приказать отряду:
-ui_question_save_changes|Вы произвели некоторые изменения. Хотите сохранить их?
-ui_yes_save|Да, сохранить.
-ui_no_discard_changes|Нет, не сохранять.
-ui_everyone_control|Все!
-ui_everyone_around_control|Ближайшие солдаты!
-ui_others_control|Остальные!
-ui_question_give_up_fight|Хотите сдаться?
-ui_give_up|Сдаться
-ui_keep_fighting|Продолжать бой
-ui_question_leave_area|Покинуть местность
-ui_cant_retreat_there_are_enemies_nearby|Отступать нельзя. Рядом враги!
-ui_question_retreat_battle|Уйти с поля боя?
-ui_retreated_battle|Pi[%s] R-[потерпел;;а;о;и] поражение.
-ui_retreat|Отступить
-ui_talk|Поговорить
+ui_at_learning_limit|(Дасягнуты мяжа)
+ui_not_enough_skill_points_to_learn|(Недастаткова ачкоў для вывучэння)
+ui_strength|сілы
+ui_agility|спрыт
+ui_intelligence|інтэлект
+ui_charisma|харызма
+ui_not_enough_attributetype_to_learn_this_skill|(Недастаткова % s для вывучэння гэтага ўмення)
+ui_explanation_one_handed_weapon|Дазваляе больш эфектыўна выкарыстоўваць одноручные мячы, сякеры і дробящее зброю.
+ui_explanation_two_handed_weapon|Дазваляе больш эфектыўна выкарыстоўваць двухручныя мячы, вялікія сякеры і булачкі.
+ui_explanation_polearm|Дазваляе больш эфектыўна выкарыстоўваць древковое зброю, а менавіта дзіды, пікі, кіі і пр.
+ui_explanation_archery|Дазваляе больш эфектыўна выкарыстоўваць лукі.
+ui_explanation_crossbow|Дазваляе больш эфектыўна выкарыстоўваць агнястрэльную зброю.
+ui_explanation_throwing|Дазваляе больш эфектыўна выкарыстоўваць гранаты.
+ui_explanation_firearms|Дазваляе больш эфектыўна выкарыстоўваць стрэльбы і мушкеты.
+ui_explanation_strength|Сіла: з кожным новым узроўнем сілы вы атрымліваеце 1 пункт здароўя. Наступныя навыкі не могуць быць вышэй 1/3 ад паказчыка сілы: жалезная скура, магутны ўдар, магутны кідок і магутны стрэл.
+ui_explanation_agility|Спрыт: з кожным новым узроўнем спрыту вы атрымліваеце 5 ачкоў зброі, а хуткасць яго прымянення злёгку ўзрастае. Наступныя навыкі не могуць быць вышэй за 1/3 ад паказчыка спрыту: валоданне шчытом, Атлетыка, валоданне зброяй, верхавая язда, Верхавая стральба з лука і Збор трафеяў.
+ui_explanation_intelligence|Інтэлект: з кожным новым узроўнем інтэлекту вы атрымліваеце адно ачко навыку. Наступныя навыкі не могуць быць вышэй 1/3 ад паказчыка інтэлекту: навучанне, сачэнне, тактыка, пракладанне курсу, зоркасць, лагістыка, перавязка ран, хірургія, першая дапамога, інжынерыя, перакананне.
+ui_explanation_charisma|Харызма: з кожным новым узроўнем харызмы ў вас з'яўляецца яшчэ адно месца ў атрадзе. Наступныя навыкі не могуць быць вышэй 1/3 ад паказчыка харызмы: лідэрства, змест палонных, гандаль.
+ui_level|Узровень: %d
+ui_xp|Вопыт: %d
+ui_next_level_at|Наступны ўзровень: %d
+ui_health_player|Здароўе: % d / %d
+ui_health|Здароўе: % d
+ui_attribute_points|Акуляры характарыстык: %d
+ui_skill_points|Акуляры навыкаў: %d
+ui_weapon_points|Акуляры зброі: %d
+ui_mission_losses_none| Не.
+ui_mission_losses_wounded|паранены:
+ui_mission_losses_killed|забіты:
+ui_party_losses|%s: % d паранена -% d забіта з % D.
+ui_casualties_sustained|Страты:
+ui_advantage_change|Змена перавагі: % c % d 
+ui_overall_battle_casualties|Усяго ў баі страчана:
+ui_advantage_outnumbered|Варожых сіл нашмат больш.
+ui_advantage_major_disadvantage|У ворага велізарная перавага.
+ui_advantage_slight_disadvantage|У ворага невялікая перавага.
+ui_advantage_balanced|Сілы роўныя.
+ui_advantage_fair_advantage|У вас перавага ў баі.
+ui_advantage_greatly_favored|У вас усе шанцы выйграць бой.
+ui_tactical_advantage|Тактычнае перавага: % d (%s)
+ui_order_group|Загадаць атраду:
+ui_question_save_changes|Вы зрабілі некаторыя змены. Хочаце захаваць іх?
+ui_yes_save|Так, захаваць.
+ui_no_discard_changes|Не, не захоўваць.
+ui_everyone_control|Усё!
+ui_everyone_around_control|Бліжэйшыя салдаты!
+ui_others_control|Астатнія!
+ui_question_give_up_fight|Хочаце здацца?
+ui_give_up|Здацца
+ui_keep_fighting|Працягваць бой
+ui_question_leave_area|Пакінуць мясцовасць
+ui_cant_retreat_there_are_enemies_nearby|Адступаць нельга. Побач ворагі!
+ui_question_retreat_battle|Сысці з поля бою?
+ui_retreated_battle|Pi [%s] R-[пацярпеў;; а; аб; і] паразу.
+ui_retreat|Адступіць
+ui_talk|Пагаварыць
 ui_duel|Дуэль
-ui_mount|Сесть верхом
-ui_riding_skill_not_adequate_to_mount|(Вы пока не можете ездить на этой лошади)
-ui_dismount|Спешиться
-ui_exit|Выйти
-ui_door_to|Дверь в
-ui_open|Открыть
-ui_equip|Использовать
+ui_mount|Сесці верхам
+ui_riding_skill_not_adequate_to_mount|(Вы пакуль не можаце ездзіць на гэтай коні)
+ui_dismount|Спешыцца
+ui_exit|Выйсці
+ui_door_to|Дзверы ў
+ui_open|Адкрыць
+ui_equip|Выкарыстоўваць
 ui_baggage|Багаж
-ui_access_inventory|Открыть
-ui_chest|Сундук
-ui_passage|Проход
-ui_go|Идти
-ui_retreat_battle|Прекратить бой
-ui_leave_area|Покинуть местность
-ui_reports|Отчеты
-ui_camp|Лагерь
-ui_terrain|Территория
-ui_quests|Задания
-ui_inventory|Имущество
-ui_character|Персонаж
-ui_party|Отряд
-ui_paused|Пауза
-ui_click_left_button_to_cancel_wait|Ожидание... (для возвращения щелкните левой кнопкой мыши)
-ui_midnight|Полночь
-ui_late_night|Глубокая ночь
-ui_dawn|Рассвет
-ui_early_morning|Раннее утро
-ui_morning|Утро
-ui_noon|Полдень
-ui_afternoon|День
-ui_late_afternoon|Закат
-ui_dusk|Сумерки
-ui_evening|Вечер
-ui_level_limit_reached|Достигнут предел уровня!
-ui_explanation_level_limit|В пробной версии игры Mount&Blade нельзя достичь уровня больше 8. Мы надеемся, что вам понравилась игра и что вы намерены купить лицензию. Приобрести лицензию через интернет и активировать полную версию игры очень просто, это займет всего минуту. После этого вы сможете продолжить игру с того места, на котором закончили. А сейчас Mount&Blade сохранит все ваши достижения и закроется.
-ui_time_limit_reached|Время вышло!
-ui_explanation_time_limit|В пробную версию игры Mount&Blade можно играть только 30 игровых дней. Мы надеемся, что вам понравилась игра и что вы намерены купить лицензию. Приобрести лицензию через Интернет и активировать полную версию игры очень просто, это займет всего минуту. После этого вы сможете продолжить игру с того места, на котором закончили. А сейчас Mount&Blade сохранит все ваши достижения и закроется.
-ui_target_lost|Цель потеряна
-ui_waiting|В ожидании 
-ui_travelling_to|В пути. Пункт назначения: 
-ui_following|В погоне. Цель: 
-ui_accompanying|В эскорте. Под эскортом: 
-ui_running_from|В бегстве. Преследователь: 
-ui_patrolling|В патруле 
-ui_patrolling_around|В патруле у поселения 
-ui_holding|На привале 
-ui_travelling|В путешествии 
-ui_fighting_against|В бою. Противник: 
-ui_speed_equals|Скорость = %2.1f
-ui_defenders|Гарнизон:
-ui_prisoners|Пленные:
-ui_1_hour|1 час
+ui_access_inventory|Адкрыць
+ui_chest|Куфар
+ui_passage|Праход
+ui_go|Ісьці
+ui_retreat_battle|Спыніць бой
+ui_leave_area|Пакінуць мясцовасць
+ui_reports|Справаздача
+ui_camp|Лагер
+ui_terrain|Тэрыторыя
+ui_quests|Заданне
+ui_inventory|Маёмасць
+ui_character|Персанаж
+ui_party|Атрад
+ui_paused|Паўза
+ui_click_left_button_to_cancel_wait|Чаканне... (для вяртання пстрыкніце левай кнопкай мышы)
+ui_midnight|Поўнач
+ui_late_night|Глыбокая ноч
+ui_dawn|Світанне
+ui_early_morning|Ранняе раніца
+ui_morning|Раніца
+ui_noon|Паўдня
+ui_afternoon|Дзень
+ui_late_afternoon|Заход
+ui_dusk|Змярканне
+ui_evening|Вечар
+ui_level_limit_reached|Дасягнуты мяжа ўзроўню!
+ui_explanation_level_limit|У пробнай версіі гульні Mount & Blade нельга дасягнуць узроўню больш 8. Мы спадзяемся, што вам спадабалася гульня і што вы маюць намер купіць ліцэнзію. Набыць ліцэнзію праз Інтэрнэт і актываваць поўную версію гульні вельмі проста, гэта зойме ўсяго хвіліну. Пасля гэтага вы зможаце працягнуць гульню з таго месца, на якім скончылі. А зараз Mount&Blade захавае ўсе вашы дасягненні і зачыніцца.
+ui_time_limit_reached|Час выйшаў!
+ui_explanation_time_limit|У пробную версію гульні Mount & Blade можна гуляць толькі 30 гульнявых дзён. Мы спадзяемся, што вам спадабалася гульня і што вы маюць намер купіць ліцэнзію. Набыць ліцэнзію праз Інтэрнэт і актываваць поўную версію гульні вельмі проста, гэта зойме ўсяго хвіліну. Пасля гэтага вы зможаце працягнуць гульню з таго месца, на якім скончылі. А зараз Mount&Blade захавае ўсе вашы дасягненні і зачыніцца.
+ui_target_lost|Мэта страчана
+ui_waiting|У чаканні 
+ui_travelling_to|У дарозе. Пункт прызначэння: 
+ui_following|У пагоні. Мэта: 
+ui_accompanying|У эскорце. Пад эскортам: 
+ui_running_from|Ва ўцёках. Праследавацель: 
+ui_patrolling|У патрулі 
+ui_patrolling_around|У патрулі ля паселішча 
+ui_holding|На прывале 
+ui_travelling|У падарожжы 
+ui_fighting_against|У баі. Праціўнік: 
+ui_speed_equals|Хуткасць = %2.1 f
+ui_defenders|Гарнізон:
+ui_prisoners|Палонны:
+ui_1_hour|1 гадзіна
 ui_n_hours|%d ч.
 ui_between_hours|%d - %d ч.
-ui_combatants|Сражающихся: %d
-ui_party_size|Размер отряда: %d
-ui_party_size_between|Размер отряда: %d - %d
-ui_merchant|Торговец
-ui_return|Готово
-ui_no_cost|Оплата не требуется
-ui_rename|Переназвать
-ui_use|Использовать
-ui_destroy|Разрушить
-ui_destructible_target|Разрушаемая цель
-ui_tutorial_inventory|Это экран торговли. Для того, чтобы быстро продать что-либо, зажмите клавишу Ctrl и щелкните по нужному предмету.
-ui_head_armor|Защита головы: %d
-ui_body_armor|Защита тела: %d
-ui_leg_armor|Защита ног: %d
-ui_encumbrance|Вес: %2.1f
-ui_you_dont_have_value|Необходимо: %s.
-ui_merchant_cant_afford_value|%s: я не могу позволить себе потратить %s. У меня есть только %s.
-ui_merchant_pay_whatever|Ладно, заплати, сколько есть.
-ui_merchant_think_of_something_else|Хм-м. Тогда не надо.
-ui_dumping_value_items|%d предметов будет потеряно. Продолжить?
-ui_dumping_value_item|Один предмет исчезнет навсегда. Продолжить?
-ui_question_slaughter_food_and_eat|Забить %s на мясо?
-ui_money_value|Деньги: %s
-ui_dump|Выбросить
-ui_outfit|Одежда
-ui_arms|Оружие
-ui_horse|Лошадь
+ui_combatants|Якія змагаюцца: %d
+ui_party_size|Памер атрада: %d
+ui_party_size_between|Памер атрада: % d - %d
+ui_merchant|Гандляр
+ui_return|Гатовы
+ui_no_cost|Аплата не патрабуецца
+ui_rename|Пераназваць
+ui_use|Выкарыстоўваць
+ui_destroy|Разбурыць
+ui_destructible_target|Разбураеце мэта
+ui_tutorial_inventory|Гэта экран гандлю. Для таго каб хутка прадаць што-небудзь, зацісніце клавішу Ctrl і пстрыкніце па патрэбным прадмеце.
+ui_head_armor|Абарона галавы: %d
+ui_body_armor|Абарона цела: % d
+ui_leg_armor|Абарона ног: % d
+ui_encumbrance|Вага: %2.1 f
+ui_you_dont_have_value|Неабходна: %s.
+ui_merchant_cant_afford_value|%s: я не магу дазволіць сабе выдаткаваць %s. у мяне ёсць толькі %s.
+ui_merchant_pay_whatever|Добра, заплаці, колькі ёсць.
+ui_merchant_think_of_something_else|Хм-м. тады не трэба.
+ui_dumping_value_items|% d прадметаў будзе страчана. Працягнуць?
+ui_dumping_value_item|Адзін прадмет знікне назаўжды. Працягнуць?
+ui_question_slaughter_food_and_eat|Забіць % s на мяса?
+ui_money_value|Грошы: % s
+ui_dump|Выкінуць
+ui_outfit|Адзенне
+ui_arms|Зброя
+ui_horse|Конь
 ui_food|Ежа
-ui_reclaim_your_sold_goods|Выкупите проданные товары, прежде чем покупать это!
-ui_return_your_bought_goods|Верните купленные товары, прежде чем покупать это!
-ui_polearm_no_shield|Древковое (двуручное)
-ui_polearm|Древковое
-ui_two_handed|Двуручное
-ui_two_handed_one_handed|Двуручное/Одноручное
-ui_one_handed|Одноручное
-ui_return_price|Цена возврата: %d
-ui_sell_price|Цена продажи: %d
-ui_reclaim_price|Цена возврата: %d
-ui_buying_price|Цена покупки: %d
-ui_default_item|Базовый предмет
-ui_buying_price_free|Цена покупки: бесплатно
-ui_weight|Вес: %2.1f
-ui_plus_value_to_head_armor|+%d к защите головы
-ui_plus_value_to_body_armor|+%d к защите тела
-ui_plus_value_to_leg_armor|+%d к защите ног
-ui_swing|Рубящий удар: %d%s
-ui_damage|Повреждение: %d%s
-ui_thrust|Колющий удар: %d%s
-ui_accuracy|Точность: %d
-ui_speed_rating|Скорость: %d
-ui_value_to_damage|%c%d к урону
-ui_value_to_morale|+%1.1f к боевому духу отряда
-ui_resistance|Сопротивление: %d
-ui_size|Размер: %d
-ui_weapon_reach|Зона действия оружия: %d
-ui_armor|Броня: %d
-ui_speed|Скорость: %d
-ui_maneuver|Маневренность: %d
-ui_charge|Нападение: %d
-ui_hit_points|Здоровье: %d/%d
-ui_requires_value_difficulty|Требуется навык %s - %d очков
-ui_bonus_against_shields|Преимущество против щитов
-ui_cant_be_used_to_block|Нельзя использовать для блокировки
-ui_troop_cant_use_item|%s: Я не могу это использовать!
-ui_notification_riding_skill_not_enough|Ваш навык верховой езды не позволяет ездить на этой лошади.
-ui_notification_requirements_not_met|Ваши навыки или характеристики не позволяют вам пользоваться этим оружием.
-ui_notification_payment_value|Вам нужно заплатить %s.
-ui_notification_payment_receive_value|Вы получите %s.
-ui_one_handed_weapons|Одноручное оружие
-ui_two_handed_weapons|Двуручное оружие
-ui_polearms|Древковое оружие
-ui_archery|Луки
-ui_crossbows|Огнестрельное оружие
-ui_throwing|Метательное оружие
-ui_firearms|Зажигательное оружие
-ui_reset|Сбросить
-ui_release_one|Выпустить
-ui_move_up|Вверх
-ui_move_down| Вниз 
-ui_upgrade_one|Повысить
-ui_party_skills|Умения отряда
-ui_morale|Боевой дух: %s
-ui_terrible|Крайне низк.
-ui_very_low|Очень низк.
-ui_low|Низк.
-ui_below_average|Ниже среднего
-ui_average|Средн.
-ui_above_average|Выше среднего
-ui_high|Высок.
-ui_very_high|Очень высок.
-ui_excellent|Превосходный
-ui_starving|Умирает от голода! %d%%
-ui_weekly_cost_value|Недельная плата: %s
-ui_company|Отряд: %d / %d
-ui_prisoners_equal_value|Пленные: %d / %d
-ui_choose_prisoners|Выбрать пленных
-ui_choose_companions|Выбрать спутников
-ui_rescued_prisoners|Спасенные пленники
-ui_captured_enemies|Захваченные враги
-ui_disband|Распустить
-ui_take_prisoner|Взять пленного
-ui_take_back|Забрать назад
-ui_give|Перевести
-ui_take|Взять в отряд
-ui_sell|Продать
-ui_hire|Нанять
-ui_notification_cant_hire|(Недостаточно денег для найма)
+ui_reclaim_your_sold_goods|Выкупіце прададзеныя тавары, перш чым купляць гэта!
+ui_return_your_bought_goods|Вярніце набытыя тавары, перш чым купляць гэта!
+ui_polearm_no_shield|Дрэўкавае (двухручнае)
+ui_polearm|Дрэўкавае
+ui_two_handed|Двухручны
+ui_two_handed_one_handed|Двухручны / Одноручные
+ui_one_handed|Аднаручнае
+ui_return_price|Кошт вяртання: %d
+ui_sell_price|Цана продажу: %d
+ui_reclaim_price|Кошт вяртання: %d
+ui_buying_price|Кошт пакупкі: %d
+ui_default_item|Базавы прадмет
+ui_buying_price_free|Кошт пакупкі: бясплатна
+ui_weight|Вага: %2.1 f
+ui_plus_value_to_head_armor|+ %d да абароны галавы
+ui_plus_value_to_body_armor|+ % d да абароны цела
+ui_plus_value_to_leg_armor|+ %d да абароны ног
+ui_swing|Секчы ўдар: % d % s
+ui_damage|Пашкоджанне: % d % s
+ui_thrust|Колючы ўдар: % d % s
+ui_accuracy|Дакладнасць: % d
+ui_speed_rating|Хуткасць: %d
+ui_value_to_damage|% c % d да страт
+ui_value_to_morale|+ %1.1 f да баявога духу атрада
+ui_resistance|Супраціў: % d
+ui_size|Памер: %d
+ui_weapon_reach|Зона дзеяння зброі: %d
+ui_armor|Браня: %d
+ui_speed|Хуткасць: %d
+ui_maneuver|Манеўранасць: %d
+ui_charge|Напад: %d
+ui_hit_points|Здароўе: % d / %d
+ui_requires_value_difficulty|Патрабуецца навык % s - %d ачкоў
+ui_bonus_against_shields|Перавага супраць шчытоў
+ui_cant_be_used_to_block|Нельга выкарыстоўваць для блакавання
+ui_troop_cant_use_item|% s: я не магу гэта выкарыстоўваць!
+ui_notification_riding_skill_not_enough|Ваш навык верхавой язды не дазваляе ездзіць на гэтай коні.
+ui_notification_requirements_not_met|Вашы навыкі або характарыстыкі не дазваляюць вам карыстацца гэтай зброяй.
+ui_notification_payment_value|Вам трэба заплаціць %s.
+ui_notification_payment_receive_value|Вы атрымаеце %s.
+ui_one_handed_weapons|Одноручные зброю
+ui_two_handed_weapons|Двухручная зброя
+ui_polearms|Дрэўкавая зброя
+ui_archery|Лука
+ui_crossbows|Агнястрэльная зброя
+ui_throwing|Кідальная зброя
+ui_firearms|Запальная зброя
+ui_reset|Скінуць
+ui_release_one|Выпусціць
+ui_move_up|Уверх
+ui_move_down| Уніз 
+ui_upgrade_one|Павысіць
+ui_party_skills|Уменні атрада
+ui_morale|Баявы дух: % s
+ui_terrible|Вельмі нізкі.
+ui_very_low|Вельмі нізкі.
+ui_low|Нізкі.
+ui_below_average|Ніжэй сярэдняга
+ui_average|Сярэдн.
+ui_above_average|Вышэй за сярэдні
+ui_high|Высокі.
+ui_very_high|Вельмі высокі.
+ui_excellent|Цудоўны
+ui_starving|Памірае ад голаду! %d%%
+ui_weekly_cost_value|Тыднёвая плата: %s
+ui_company|Атрад: %d / %d
+ui_prisoners_equal_value|Палонныя: %d / %d
+ui_choose_prisoners|Выбраць палонных
+ui_choose_companions|Выбраць спадарожнікаў
+ui_rescued_prisoners|Выратаваныя палонныя
+ui_captured_enemies|Захопленыя ворагі
+ui_disband|Распусціць
+ui_take_prisoner|Узяць палоннага
+ui_take_back|Забраць назад
+ui_give|Перавесці
+ui_take|Узяць у атрад
+ui_sell|Прадаць
+ui_hire|Наняць
+ui_notification_cant_hire|(Недастаткова грошай для найму)
 ui_uncapture|Адпусціць
 ui_capture|Захапіць
-ui_party_capcity_reached|(Отряд укомплектован)
-ui_all| все
-ui_joining_cost_weekly_wage|Цена вступления: %d, недельная плата: %d
-ui_weekly_wage|Недельная плата: %d
-ui_price|Цена: %d
-ui_number_ready_to_upgrade|Можно повысить %d воинов
-ui_upgrade_to_value| Повысить до %s
-ui_notification_no_slot_for_upgrade|Нет ячейки для повышения до %s.
-ui_shield_broken|Щит сломан.
-ui_shield_cracked|Щит треснул.
-ui_shield_deformed|Щит деформирован.
-ui_you_hit_a_friendly_troop|Вы напали на дружеский отряд!
-ui_hit_shield_on_back|Удар по щиту на спине!
-ui_delivered_couched_lance_damage|Нанесено повреждение копьем!
-ui_received_couched_lance_damage|Получен урон от удара копьем!
-ui_speed_bonus_plus|Модификатор скорости: +%d%%
-ui_speed_bonus|Модификатор скорости: %d%%
-ui_cant_reload_this_weapon_on_horseback|Это оружие нельзя перезаряжать, сидя верхом.
-ui_no_more_bolts|Пули закончились.
-ui_you_are_not_carrying_any_bolts|У вас с собой нет пуль.
-ui_no_more_arrows|Стрелы закончились.
-ui_you_are_not_carrying_any_arrows|У вас с собой нет стрел.
-ui_head_shot|Выстрел в голову!
-ui_delivered_number_damage|Нанесено %d урона.
-ui_delivered_number_damage_to_horse|Нанесено %d урона коню.
-ui_horse_charged_for_number_damage|Конь нанес %d урона.
-ui_received_number_damage|Получено %d урона.
-ui_horse_received_number_damage|Конь получил %d урона.
-ui_value_killed_teammate|%s убивает своего!
-ui_horse_fell_dead|Конь пал...
-ui_horse_crippled|Конь охрамел...
-ui_shot_difficulty|Сложность выстрела: %2.1f
-ui_you_have_improved_your_proficiency_in_value_to_number|%s: ваше мастерство увеличивается до %d.
-ui_your_proficiency_in_value_has_improved_by_number_to_number|%s: ваше мастерство увеличивается на +%d до %d.
-ui_value_killed_by_value|%s погибает, после того как %s наносит удар.
-ui_value_fell_dead|%s падает замертво.
-ui_value_knocked_unconscious_by_value|%s падает без сознания, после того как %s наносит удар.
-ui_value_fell_unconscious|%s падает без сознания.
-ui_troop_routed|%s захвачен в плен.
-ui_troop_panicked|%s в панике.
-ui_troop_fled|%s бежит с поля боя.
-ui_you_got_number_experience|Вы получили %d опыта.
-ui_you_have_advanced_to_level_number|Вы достигаете уровня %d.
-ui_value_has_advanced_to_level_number|%s достигает уровня %d.
-ui_you_got_value|Вы получаете %s.
-ui_new_quest_taken|Новое задание: %s
-ui_quest_completed_value|Задание выполнено: %s
-ui_quest_succeeded_value|Задание успешно выполнено: %s
-ui_quest_failed_value|Задание не выполнено: %s
-ui_quest_concluded_value|Задание окончено: %s
-ui_quest_cancelled_value|Задание отменено: %s
-ui_lost_value| (Потеряно: %s)
-ui_items_lost| (Предметов потеряно:
-ui_party_has_nothing_to_eat|Отряду нечего есть!
-ui_days_training_is_complete|Дневное обучение завершено...
-ui_total_experience_gained_through_training_number|За время обучения получено %d опыта.
-ui_some_soldiers_are_ready_to_upgrade|Часть ваших солдат достойна повышения.
-ui_number_of_companions_exceeds_leadership_limit|Ваш навык лидерства слишком мал для такого числа спутников.
-ui_number_of_prisoners_exceeds_prisoner_management_limit|Ваш навык содержания пленных слишком мал для такого числа заключенных.
-ui_party_morale_is_low|Боевой дух отряда низок!
+ui_party_capcity_reached|(Атрад укамплектаваны)
+ui_all| усе
+ui_joining_cost_weekly_wage|Кошт ўступлення: % d, тыднёвая плата: % d
+ui_weekly_wage|Тыднёвая плата: %d
+ui_price|Кошт: %d
+ui_number_ready_to_upgrade|Можна павысіць % d воінаў
+ui_upgrade_to_value| Павысіць да % s
+ui_notification_no_slot_for_upgrade|Няма ячэйкі для павышэння да % s.
+ui_shield_broken|Шчыт зламаны.
+ui_shield_cracked|Шчыт трэснуў.
+ui_shield_deformed|Шчыт дэфармаваны.
+ui_you_hit_a_friendly_troop|Вы напалі на Сяброўскі атрад!
+ui_hit_shield_on_back|Удар па шчыце на спіне!
+ui_delivered_couched_lance_damage|Нанесена пашкоджанне дзідай!
+ui_received_couched_lance_damage|Атрыманы страты ад удару дзідай!
+ui_speed_bonus_plus|Мадыфікатар хуткасці: + % d%%
+ui_speed_bonus|Мадыфікатар хуткасці: %d%%
+ui_cant_reload_this_weapon_on_horseback|Гэта зброя нельга перазараджваць, седзячы верхам.
+ui_no_more_bolts|Кулі скончыліся.
+ui_you_are_not_carrying_any_bolts|У вас з сабой няма куль.
+ui_no_more_arrows|Стрэлы скончыліся.
+ui_you_are_not_carrying_any_arrows|У вас з сабой няма стрэл.
+ui_head_shot|Стрэл у галаву!
+ui_delivered_number_damage|Нанесена %d страт.
+ui_delivered_number_damage_to_horse|Нанесена %d страт каню.
+ui_horse_charged_for_number_damage|Конь нанёс %d страт.
+ui_received_number_damage|Атрымана % d страт.
+ui_horse_received_number_damage|Конь атрымаў %d страт.
+ui_value_killed_teammate|% s забівае свайго!
+ui_horse_fell_dead|Конь упаў...
+ui_horse_crippled|Конь ахрамеў...
+ui_shot_difficulty|Складанасць стрэлу: %2.1 f
+ui_you_have_improved_your_proficiency_in_value_to_number|% s: ваша майстэрства павялічваецца да % d.
+ui_your_proficiency_in_value_has_improved_by_number_to_number|% s: ваша майстэрства павялічваецца на + % d Да % d.
+ui_value_killed_by_value|%s гіне, пасля таго як % s наносіць удар.
+ui_value_fell_dead|%s падае як нежывы.
+ui_value_knocked_unconscious_by_value|% s падае без прытомнасці, пасля таго як %s наносіць удар.
+ui_value_fell_unconscious|% s падае без прытомнасці.
+ui_troop_routed|%s захоплены ў палон.
+ui_troop_panicked|%s ў паніцы.
+ui_troop_fled|%s бяжыць з поля бою.
+ui_you_got_number_experience|Вы атрымалі % D вопыту.
+ui_you_have_advanced_to_level_number|Вы дасягаеце ўзроўню % d.
+ui_value_has_advanced_to_level_number|% s дасягае ўзроўню % d.
+ui_you_got_value|Вы атрымліваеце %s.
+ui_new_quest_taken|Новае заданне: %s
+ui_quest_completed_value|Заданне выканана: %s
+ui_quest_succeeded_value|Заданне паспяхова выканана: %s
+ui_quest_failed_value|Заданне не выканана: %s
+ui_quest_concluded_value|Заданне скончана: %s
+ui_quest_cancelled_value|Заданне адменена: %s
+ui_lost_value| (Страчана: %s)
+ui_items_lost| (Прадметаў страчана:
+ui_party_has_nothing_to_eat|Атраду няма чаго есці!
+ui_days_training_is_complete|Дзённае навучанне завершана...
+ui_total_experience_gained_through_training_number|За час навучання атрымана % D вопыту.
+ui_some_soldiers_are_ready_to_upgrade|Частка вашых салдат вартая павышэння.
+ui_number_of_companions_exceeds_leadership_limit|Ваш навык лідэрства занадта малы для такога ліку спадарожнікаў.
+ui_number_of_prisoners_exceeds_prisoner_management_limit|Ваш навык ўтрымання палонных занадта малы для такой колькасці зняволеных.
+ui_party_morale_is_low|Баявы дух атрада нізкі!
 ui_and_one_space| і
-ui_has_deserted_the_party| покидает отряд.
-ui_have_deserted_the_party| покидают отряд.
-ui_weekly_report|Еженедельный отчет
-ui_shared_number_experience_within_party|Вы разделили %d опыта с отрядом.
-ui_got_item_value|Получен предмет: %s.
-ui_game_saved_successfully|Игра успешно сохранена.
-ui_autosaving|Автосохранение...
-ui_quick_saving|Быстрое сохранение...
-ui_cant_quick_save|В бою быстрое сохранение недоступно...
-ui_screenshot_taken_to_value|Скриншот сохранен в %s.
-ui_screenshot_failed|Нельзя сохранить скриншот.
-ui_value_joined_your_party|%s присоединяется к вашему отряду.
-ui_value_joined_party_as_prisoner|%s присоединяется к отряду в качестве пленника.
-ui_value_has_joined_party|%s присоединяется к отряду.
-ui_value_has_been_taken_prisoner|Захвачен пленник: %s.
-ui_value_left_the_party|%s покидает отряд.
-ui_number_values_left_the_party|%d %s покидают отряд.
-ui_number_value_left_the_party|%d %s покидает отряд.
-ui_your_relations_with_value_has_improved_from_number_to_number|Ваши отношения с %s улучшились с %d до %d.
-ui_your_relations_with_value_has_deteriorated_from_number_to_number|Ваши отношения с %s ухудшились с %d до %d.
-ui_you_lost_value|Вы отдали %s.
-ui_lost_item_value|Потеряны вещи: %s.
-ui_got_number_value|Получено: %d %s.
-ui_lost_number_value|Потеряно: %d %s.
-ui_set_default_keys|По умолчанию
-ui_undo_changes|Сброс
-ui_press_a_key|Нажмите клавишу
-ui_return_to_game|Вернуться к игре
+ui_has_deserted_the_party| пакідае атрад.
+ui_have_deserted_the_party| пакідаюць атрад.
+ui_weekly_report|Штотыднёвы справаздачу
+ui_shared_number_experience_within_party|Вы падзялілі % D вопыту з атрадам.
+ui_got_item_value|Атрыманы прадмет: %s.
+ui_game_saved_successfully|Гульня паспяхова захавана.
+ui_autosaving|Аўтазахаванне...
+ui_quick_saving|Хуткае захаванне...
+ui_cant_quick_save|У баі Хуткае захаванне недаступна...
+ui_screenshot_taken_to_value|Скрыншот захаваны ў % s.
+ui_screenshot_failed|Нельга захаваць скрыншот.
+ui_value_joined_your_party|%s далучаецца да вашага атраду.
+ui_value_joined_party_as_prisoner|%s далучаецца да атрада ў якасці палоннага.
+ui_value_has_joined_party|%s далучаецца да атрада.
+ui_value_has_been_taken_prisoner|Захоплены палонны: %s.
+ui_value_left_the_party|% s пакідае атрад.
+ui_number_values_left_the_party|% d % s пакідаюць атрад.
+ui_number_value_left_the_party|% d % s пакідае атрад.
+ui_your_relations_with_value_has_improved_from_number_to_number|Вашы адносіны з % s палепшыліся з % d Да % d.
+ui_your_relations_with_value_has_deteriorated_from_number_to_number|Вашы адносіны з % s пагоршыліся з % d Да % d.
+ui_you_lost_value|Вы аддалі %s.
+ui_lost_item_value|Страчаныя рэчы: % s.
+ui_got_number_value|Атрымана: % d % s.
+ui_lost_number_value|Страчана: % d % s.
+ui_set_default_keys|Безумоўна
+ui_undo_changes|Скід
+ui_press_a_key|Націсніце клавішу
+ui_return_to_game|Вярнуцца да гульні
 ui_options|Налады
-ui_save_and_exit|Сохранение и выход
-ui_save|Сохранение
-ui_save_as|Сохранить как
-ui_quit_without_saving|Выход без сохранения
-ui_empty_slot|Пустая ячейка
-ui_game_saved|Игра сохранена...
-ui_confirm_overwrite|Сохраненная игра %s будет переписана. Продолжить?
-ui_dynamic_lighting|Динамическое освещение
-ui_character_shadows|Тени персонажей
-ui_grass_density|Плотность травы:
-ui_environment_shadows|Тени окружающих объектов
-ui_realistic_shadows_on_plants|Реалистичные тени на растениях:
-ui_particle_systems|Системы частиц
-ui_gamma|Гамма монитора:
-ui_character_detail|Уровень детализации героя:
-ui_character_shadow_detail|Уровень детализации тени героя:
-ui_blood_stains|Отображение крови:
+ui_save_and_exit|Захаванне і выхад
+ui_save|Захаванне
+ui_save_as|Захаваць як
+ui_quit_without_saving|Выхад без захавання
+ui_empty_slot|Пустая вочка
+ui_game_saved|Гульня захавана...
+ui_confirm_overwrite|Захаваная гульня %s будзе перапісана. Працягнуць?
+ui_dynamic_lighting|Дынамічнае асвятленне
+ui_character_shadows|Цені персанажаў
+ui_grass_density|Шчыльнасць травы:
+ui_environment_shadows|Цені навакольных аб'ектаў
+ui_realistic_shadows_on_plants|Рэалістычныя цені на раслінах:
+ui_particle_systems|Сістэма часціц
+ui_gamma|Гама манітора:
+ui_character_detail|Узровень дэталізацыі героя:
+ui_character_shadow_detail|Узровень дэталізацыі цені героя:
+ui_blood_stains|Адлюстраванне крыві:
 ui_on|Укл.
 ui_off|Выкл.
-ui_near_player_only|Только около игрока
-ui_default|По умолчанию
-ui_3d_grass|Трехмерная трава:
-ui_number_of_ragdolls|Количество Ragdoll-моделей:
-ui_number_of_corpses|Количество трупов на экране:
-ui_unlimited|Неограничено
-ui_anisotropic_filtering|Анизотропная фильтрация
-ui_fast_water_reflection|Быстрые отражения на воде
-ui_maximum_framerate|Макс. частота кадров:
-ui_show_framerate|Отображение частоты кадров
-ui_estimated_performance|Примерная производительность: %d%%
-ui_change_graphics_settings_explanation|Некоторые произведенные вами изменения вступят в силу только после перехода в новую местность.
-ui_start_tutorial|Обучение
+ui_near_player_only|Толькі каля гульца
+ui_default|Безумоўна
+ui_3d_grass|Трохмерная трава:
+ui_number_of_ragdolls|Колькасць Ragdoll-мадэляў:
+ui_number_of_corpses|Колькасць трупаў на экране:
+ui_unlimited|Неабмежаваны
+ui_anisotropic_filtering|Анізатропнае фільтраванне
+ui_fast_water_reflection|Хуткія адлюстравання на вадзе
+ui_maximum_framerate|Макс. частата кадраў:
+ui_show_framerate|Адлюстраванне частоты кадраў
+ui_estimated_performance|Прыкладная прадукцыйнасць: %d%%
+ui_change_graphics_settings_explanation|Некаторыя вырабленыя вамі змены ўступяць у сілу толькі пасля пераходу ў новую мясцовасць.
+ui_start_tutorial|Навучанне
 ui_start_a_new_game|Новая гульня
 ui_restore_a_saved_game|Загрузіць гульню
 ui_exit_to_windows|Выхад у Windows
 ui_credits|Аўтары
 ui_version_value|Версія: %s
-ui_active_quests|Текущие задания
-ui_finished_quests|Законченные задания
-ui_given_on_date|Выдано: %s
-ui_days_since_given|Дней с получения задания: %d
-ui_quest_progression_number|Выполнение задания: %d%%
-ui_too_many_quests|Слишком много заданий
-ui_ok|Далее
-ui_move_forward|Вперёд
+ui_active_quests|Бягучыя заданні
+ui_finished_quests|Скончаныя заданні
+ui_given_on_date|Выдадзена: % s
+ui_days_since_given|Дзён з атрымання задання: %d
+ui_quest_progression_number|Выкананне задання: %d%%
+ui_too_many_quests|Занадта шмат заданняў
+ui_ok|Далей
+ui_move_forward|Наперад
 ui_move_backward|Назад
-ui_move_left|Влево
-ui_move_right|Вправо
-ui_action|Действие
-ui_jump|Прыжок
+ui_move_left|Налева
+ui_move_right|Направа
+ui_action|Дзеянне
+ui_jump|Скачок
 ui_attack|Атака
 ui_parry_then_attack|Контратака
-ui_defend|Защита
-ui_kick|Пинок
+ui_defend|Абарона
+ui_kick|Штурхель
 ui_equip_weapon_1|Прадмет 1
 ui_equip_weapon_2|Прадмет 2
 ui_equip_weapon_3|Прадмет 3
 ui_equip_weapon_4|Прадмет 4
-ui_equip_next_weapon|Следующее оружие
-ui_equip_next_shield|Следующий щит
-ui_sheath_weapon|Оружие в ножны
-ui_character_window|Окно персонажа
-ui_inventory_window|Окно имущества
-ui_party_window|Окно отряда
-ui_quests_window|Окно заданий
-ui_game_log_window|Окно летописи
-ui_leave_location_retreat|К карте/отступление
-ui_zoom|Приближение
-ui_view_outfit|Осмотр персонажа
-ui_toggle_first_person_view|Вид от первого лица
-ui_view_orders|Список приказов
-ui_quick_save|Быстрое сохранение
-ui_no_key_assigned|Клавиша не назначена
-ui_new_enemies_have_arrived|Прибыли новые враги.
-ui_reinforcements_have_arrived|Подкрепление прибыло.
-ui_report_casualties|Сообщения о потерях
-ui_report_experience|Сообщения о полученном опыте
-ui_current_level_value|Текущий уровень: %d
-ui_base_attribute_value|Базовая характеристика: %s
-ui_battle_controls|Управление битвой
-ui_map_controls|Управление картой
-ui_general_controls|Общее управление
-ui_zoom_in|Масштаб больше
-ui_zoom_out|Масштаб меньше
-ui_wait|Стоянка
-ui_take_screenshot|Скриншот
-ui_randomize|Случайно
-ui_hint|Подсказка
-ui_press_left_mouse_button_to_continue|Чтобы продолжить, щелкните левой кнопкой мыши...
-ui_loot|Добыча
+ui_equip_next_weapon|Наступнае зброю
+ui_equip_next_shield|Наступны шчыт
+ui_sheath_weapon|Зброю ў ножны
+ui_character_window|Акно персанажа
+ui_inventory_window|Акно маёмасці
+ui_party_window|Акно атрада
+ui_quests_window|Акно заданняў
+ui_game_log_window|Акно летапісу
+ui_leave_location_retreat|Да мапы / адступленне
+ui_zoom|Набліжэнне
+ui_view_outfit|Агляд персанажа
+ui_toggle_first_person_view|Выгляд ад першай асобы
+ui_view_orders|Спіс загадаў
+ui_quick_save|Хуткае захаванне
+ui_no_key_assigned|Клавіша не прызначаная
+ui_new_enemies_have_arrived|Прыбылі новыя ворагі.
+ui_reinforcements_have_arrived|Падмацаванне прыбыло.
+ui_report_casualties|Паведамленні пра страты
+ui_report_experience|Паведамленні аб атрыманым вопыце
+ui_current_level_value|Бягучы ўзровень: %d
+ui_base_attribute_value|Базавая характарыстыка: % s
+ui_battle_controls|Кіраванне бітвай
+ui_map_controls|Кіраванне картай
+ui_general_controls|Агульнае кіраванне
+ui_zoom_in|Маштаб больш
+ui_zoom_out|Маштаб менш
+ui_wait|Стаянка
+ui_take_screenshot|Скрыншот
+ui_randomize|Выпадкова
+ui_hint|Падказка
+ui_press_left_mouse_button_to_continue|Каб працягнуць, пстрыкніце левай кнопкай мышы...
+ui_loot|Здабыча
 ui_cut_short|р
 ui_pierce_short|к
 ui_blunt_short|д
-ui_battle|Битва
-ui_siege|Осада
-ui_troops|Отряды:
+ui_battle|Бітва
+ui_siege|Аблога
+ui_troops|Атрад:
 ui_loading_module_info_file|Загрузка інфармацыі аб модулі...
 ui_processing_ini_file|Апрацоўка INI-файла...
 ui_loading_music|Загрузка музыкі...
@@ -500,239 +500,239 @@ ui_loading_data|Загрузка дадзеных...
 ui_loading_setting_data|Загрузка налад...
 ui_loading_textures|Загрузка тэкстур...
 ui_finished|Гатова
-ui_creating_game|Создание игры...
-ui_loading_savegame_file|Загрузка сохраненной игры...
-ui_loading_map_file|Загрузка файла с картой...
-ui_initializing_map|Инициализация карты...
-ui_launching_game|Запуск игры...
-ui_capital_battle|БИТВА
-ui_capital_versus|-ПРОТИВ-
-ui_tracks|Следы
-ui_battleground|Поле боя
+ui_creating_game|Стварэнне гульні...
+ui_loading_savegame_file|Загрузка захаванай гульні...
+ui_loading_map_file|Загрузка файла з картай...
+ui_initializing_map|Ініцыялізацыя карты...
+ui_launching_game|Запуск гульні...
+ui_capital_battle|БІТВА
+ui_capital_versus|-СУПРАЦЬ-
+ui_tracks|След
+ui_battleground|Поле бою
 ui_order_1|Строй 1
 ui_order_2|Строй 2
 ui_order_3|Строй 3
 ui_order_4|Строй 4
 ui_order_5|Строй 5
 ui_order_6|Строй 6
-ui_order_button_hold_this_position|Держать позицию
+ui_order_button_hold_this_position|Трымаць пазіцыю
 ui_order_button_follow_me|За мной
-ui_order_button_charge|В атаку
-ui_order_button_stand_ground|Не отступать
-ui_order_button_retreat|Отступить
-ui_order_button_advance|Вперед на 10 шагов
-ui_order_button_fall_back|Назад на 10 шагов
-ui_order_button_spread_out|Рассыпаться
-ui_order_button_stand_closer|Сомкнуть ряды
-ui_order_button_mount_horses|По седлам
-ui_order_button_dismount|Спешиться
-ui_order_button_hold_fire|Не стрелять
-ui_order_button_fire_at_will|Стрелять без приказа
-ui_order_button_use_blunt_weapons|Только дробящее оружие
-ui_order_button_use_any_weapon|Любое оружие
-ui_order_button_movement_orders|Приказы на движение
-ui_order_button_formation_orders|Приказы о построении
-ui_order_button_fire_orders|Приказы о стрельбе
+ui_order_button_charge|У атаку
+ui_order_button_stand_ground|Не адступаць
+ui_order_button_retreat|Адступіць
+ui_order_button_advance|Наперад на 10 крокаў
+ui_order_button_fall_back|Назад на 10 крокаў
+ui_order_button_spread_out|Рассыпацца
+ui_order_button_stand_closer|Стуліць шэрагі
+ui_order_button_mount_horses|Па сёдлах
+ui_order_button_dismount|Спешыцца
+ui_order_button_hold_fire|Не страляць
+ui_order_button_fire_at_will|Страляць без загаду
+ui_order_button_use_blunt_weapons|Толькі драбільна зброю
+ui_order_button_use_any_weapon|Любая зброя
+ui_order_button_movement_orders|Загады на рух
+ui_order_button_formation_orders|Загады аб пабудове
+ui_order_button_fire_orders|Загады аб стральбе
 ui_follow_me_e_|%s, за мной!
-ui_charge_e_|%s, в атаку!!!
-ui_stand_ground_e_|%s, не отступать!
-ui_retreat_e_|%s, отходим!
-ui_mount_horses_e_|%s, сесть верхом!
-ui_dismount_e_|%s, спешиться!
-ui_advance_e_|%s, вперед на 10 шагов!
-ui_fall_back_e_|%s, назад на 10 шагов!
-ui_stand_closer_e_|%s, встать ближе!
+ui_charge_e_|% s, у атаку!!!
+ui_stand_ground_e_|% s, не адступаць!
+ui_retreat_e_|%s, адыходзім!
+ui_mount_horses_e_|%s, сесці верхам!
+ui_dismount_e_|% s, спешыцца!
+ui_advance_e_|% s, наперад на 10 крокаў!
+ui_fall_back_e_|% s, назад на 10 крокаў!
+ui_stand_closer_e_|% s, ўстаць бліжэй!
 ui_spread_out_e_|%s, врассыпную!
-ui_use_blunt_weapons_e_|%s, использовать только дробящее оружие!
-ui_use_any_weapon_e_|%s, использовать любое оружие!
-ui_hold_fire_e_|%s, прекратить огонь!
-ui_fire_at_will_e_|%s, огонь без приказа!
-ui_hold_this_position_e_|%s, держать позицию!
-ui_infantry|Пехота
-ui_archers|Стрелки
-ui_cavalry|Кавалерия
-ui_companions|Спутники
-ui_everyone_hear_me|Слушайте меня все!
-ui_everyone|Отряд
-ui_everyone_around_me|Все, кто рядом
-ui_str_hear_me|%s, слушай меня!
-ui_str_and_str|%s и %s
+ui_use_blunt_weapons_e_|% s, выкарыстоўваць толькі дробящее зброю!
+ui_use_any_weapon_e_|% s, выкарыстоўваць любую зброю!
+ui_hold_fire_e_|% s, спыніць агонь!
+ui_fire_at_will_e_|% s, агонь без загаду!
+ui_hold_this_position_e_|% s, трымаць пазіцыю!
+ui_infantry|Пяхота
+ui_archers|Стрэлка
+ui_cavalry|Кавалерыя
+ui_companions|Спадарожнік
+ui_everyone_hear_me|Слухайце мяне ўсё!
+ui_everyone|Атрад
+ui_everyone_around_me|Усе, хто побач
+ui_str_hear_me|% s, слухай мяне!
+ui_str_and_str|% S і % s
 ui_str_comma_str|%s, %s
-ui_need_to_learn_prisoner_management|Для того чтобы брать пленных, вам сначала нужно научиться их содержать.
+ui_need_to_learn_prisoner_management|Для таго каб браць палонных, вам спачатку трэба навучыцца іх утрымліваць.
 ui_game_log|Летапіс
-ui_recent_messages|Сообщения
+ui_recent_messages|Паведамленне
 ui_custom_battle|Хуткі бой
 ui_player|Гулец
-ui_value_denars|%d талеров
+ui_value_denars|% d талераў
 ui_back|Назад
 ui_forward|Уперад
-ui_display_on_map|Показать на карте
-ui_info_pages|Суть игры
-ui_troops2|Персонажи
-ui_locations|Местности
-ui_click_button_to_view_note|Щелкните по имени или названию, чтобы прочитать заметку.
-ui_this_page_contains_no_information|На этой странице нет информации
-ui_other_pages_that_link_here|См. также: 
-ui_report_is_value_days_old| (Сведения получены %d дня назад.)
-ui_report_is_current| (Сведения получены сегодня).
+ui_display_on_map|Паказаць на карце
+ui_info_pages|Сутнасць гульні
+ui_troops2|Персанаж
+ui_locations|Мясцовасьць
+ui_click_button_to_view_note|Пстрыкніце па імені або назве, каб прачытаць нататку.
+ui_this_page_contains_no_information|На гэтай старонцы няма інфармацыі
+ui_other_pages_that_link_here|Глядзіце таксама: 
+ui_report_is_value_days_old| (Звесткі атрыманы %d дня таму.)
+ui_report_is_current| (Звесткі атрыманы сёння).
 ui_button_party_member_healthy_total|%s (%d/%d)
 ui_button_party_member_total|%s (%d)
-ui_button_party_member_hero_percentage_wounded|%s (%d%% - ранение)
+ui_button_party_member_hero_percentage_wounded|% s (%d % % - раненне)
 ui_button_party_member_hero_percentage|%s (%d%%)
 ui_percentage_value|%d%%
-ui_full|Высокое качество
-ui_quick|Низкое качество
+ui_full|Высокая якасць
+ui_quick|Нізкая якасць
 ui_none|Не
-ui_change|Изменить
-ui_how_to_change|Как это изменить?
-ui_change_directx_explanation|"Вы можете выбрать DirectX 7 или DirectX 9, нажав кнопку ""Настройки"" в меню запуска, которое открывается при первом запуске игры."
-ui_dropping_picking_up|Брошено: %s. Поднято: %s.
-ui_dropping|Выброшено: %s.
-ui_picking_up|Поднято: %s.
-ui_unable_to_take|Это невозможно поднять.
-ui_age|Возраст
-ui_cannot_be_used_on_horseback|Нельзя использовать верхом
-ui_enable_vertex_shaders2|Тип рендеринга:
-ui_screen_size2|Разрешение экрана:
-ui_use_desktop_resolution2|Как у рабочего стола
-ui_shadow_quality2|Качество теней:
-ui_m_low2|Низкое
-ui_m_high2|Высокое
-ui_m_ultra_high2|Очень высокое
+ui_change|Змяніць
+ui_how_to_change|Як гэта змяніць?
+ui_change_directx_explanation|"Вы можаце выбраць DirectX 7 або DirectX 9, націснуўшы кнопку ""Настройкі"" у меню запуску, якое адкрываецца пры першым запуску гульні."
+ui_dropping_picking_up|Кінута: % s. паднята: % s.
+ui_dropping|Выкінута: % s.
+ui_picking_up|Паднята: % s.
+ui_unable_to_take|Гэта немагчыма падняць.
+ui_age|Узрост
+ui_cannot_be_used_on_horseback|Нельга выкарыстоўваць верхам
+ui_enable_vertex_shaders2|Тып рэндэрынгу:
+ui_screen_size2|Дазвол экрана:
+ui_use_desktop_resolution2|Як у працоўнага стала
+ui_shadow_quality2|Якасць ценяў:
+ui_m_low2|Нізкі
+ui_m_high2|Высокае
+ui_m_ultra_high2|Вельмі высокае
 ui_off2|Выкл.
-ui_group_header|Класс войск
-ui_group_rename|Переименовать группу
-ui_group_1|Пехота
-ui_group_2|Стрелки
-ui_group_3|Конница
+ui_group_header|Клас войскаў
+ui_group_rename|Перайменаваць групу
+ui_group_1|Пяхота
+ui_group_2|Стрэлка
+ui_group_3|Конніца
 ui_group_4|Без назвы 1
 ui_group_5|Без назвы 2
 ui_group_6|Без назвы 3
 ui_group_7|Без назвы 4
 ui_group_8|Без назвы 5
 ui_group_9|Без назвы 6
-ui_group_close|Закрыть
-ui_party_b_group_information|%s относится к группе %s
-ui_thrown_or_s|Метательное / %s
-ui_ranged_damage|Стрелковое: %d%s
-ui_overall_quality|Общее качество:
-ui_shader_quality|Качество шейдеров:
-ui_flora_lod_detail|Качество деревьев:
-ui_flora_degrade_distance|Расстояние снижения качества деревьев:
-ui_antialiasing|Сглаживание:
-ui_use_depth_effects|Эффекты глубины
-ui_hdr_mode|Режим HDR:
-ui_autoexpore|Автоэкспозиция
-ui_choose_profile|Выбрать профиль
-ui_create|Создать
-ui_edit|Редактировать
-ui_join_game|Присоединиться к игре
-ui_host_game|Создать игру
-ui_custom|Пользовательск.
-ui_medium|Средн.
-ui_male|Мужчина
-ui_female|Женщина
-ui_gender|Пол игрока:
-ui_edit_profile|Редактировать профиль
-ui_new_profile|Новый профиль
-ui_enter_username|Имя игрока:
-ui_invalid_username|"В имени пользователя можно использовать только буквы латинского алфавита, цифры и символ ""_""."
-ui_confirmation|Вы уверены?
+ui_group_close|Зачыніць
+ui_party_b_group_information|% s ставіцца да групы % s
+ui_thrown_or_s|Кідальнае / %s
+ui_ranged_damage|Стралковая: % d % s
+ui_overall_quality|Агульнае якасць:
+ui_shader_quality|Якасць шэйдараў:
+ui_flora_lod_detail|Якасць дрэў:
+ui_flora_degrade_distance|Адлегласць зніжэння якасці дрэў:
+ui_antialiasing|Згладжванне:
+ui_use_depth_effects|Эфекты глыбіні
+ui_hdr_mode|Рэжым HDR:
+ui_autoexpore|Аўтаэкспазіцыя
+ui_choose_profile|Выбраць профіль
+ui_create|Стварыць
+ui_edit|Рэдагаваць
+ui_join_game|Далучыцца да гульні
+ui_host_game|Стварыць гульню
+ui_custom|Карыстальск.
+ui_medium|Сярэдн.
+ui_male|Мужчына
+ui_female|Жанчына
+ui_gender|Пол гульца:
+ui_edit_profile|Рэдагаваць профіль
+ui_new_profile|Новы профіль
+ui_enter_username|Імя гульца:
+ui_invalid_username|"У імя карыстальніка можна выкарыстоўваць толькі літары лацінскага алфавіту, лічбы і сімвал ""_""."
+ui_confirmation|Вы ўпэўненыя?
 ui_multiplayer|Сеткавая гульня
 ui_server_name|Сервер
 ui_module_name|Модуль
-ui_game_type|Тип игры
+ui_game_type|Тып гульні
 ui_map_name|Карта
-ui_ping|Пинг
-ui_dedicated|Выделенный
-ui_number_of_players|Игроки
+ui_ping|Пінг
+ui_dedicated|Выдзелены
+ui_number_of_players|Гулец
 ui_password_protected|Пароль
-ui_connect|Подключение
-ui_local_area_network|Локальная сеть
-ui_internet|Интернет
-ui_favorites|Любимые
-ui_source|Источник:
+ui_connect|Падключэнне
+ui_local_area_network|Лакальная сетка
+ui_internet|Інтэрнэт
+ui_favorites|Любімы
+ui_source|Крыніца:
 ui_server_password|Пароль сервера:
-ui_refresh|Обновление
-ui_start_search|Поиск
-ui_add_to_favorites|Добавить в список любимых
-ui_remove_from_favorites|Удалить из списка любимых
-ui_use_speedtree|Технология Speedtree
-ui_use_instancing|Технология дублирования геометрии (ускоряет графику)
-ui_error|Ошибка
-ui_error_server_full|Сервер полон.
-ui_error_server_full_for_non_private|Сервер полон игроков без личных паролей.
-ui_error_server_password_incorrect|Неправильный пароль.
-ui_error_incorrect_serial|Неправильный серийный номер.
-ui_error_incorrect_authorization_key|Неправильный ключ авторизации.
-ui_error_banned_from_server|Вы заблокированы на этом сервере.
-ui_error_username_taken|Профиль с таким именем уже используется другим игроком.
-ui_error_authentication_failed|Ошибка авторизации.
-ui_unable_to_connect_to_server|Ошибка подключения к серверу.
-ui_connection_to_server_is_lost|Потеря соединения с сервером.
-ui_kicked_from_server|Сервер не пускает.
-ui_switch_to_module_question|На этом сервере запущен модуль, отличающийся от вашего. Хотите, чтобы игра Mount&Blade переключилась на этой модуль?
-ui_download_module_question|На этом сервере запущен модуль, не установленный на вашем компьютере. Хотите зайти на сайт загружаемых файлов и скачать данный модуль?
-ui_download_mb_new_version_question|На этом сервере запущена более новая версия (%d.%d%d%d) игры Mount&Blade. На вашем компьютере сейчас установлена игра версии %d.%d%d%d. Хотите зайти на сайт TaleWorlds и скачать недостающие файлы?
-ui_download_mb_old_version_question|На этом сервере запущена более старая версия (%d.%d%d%d) игры Mount&Blade. На вашем компьютере сейчас установлена игра версии %d.%d%d%d.
-ui_download_module_new_version_question|На этом сервере запущена более новая версия (%d.%d%d%d) текущего модуля игры. На вашем компьютере сейчас установлен модуль версии %d.%d%d%d. Хотите зайти на сайт загружаемых файлов и скачать данный модуль?
-ui_download_module_old_version_question|На этом сервере запущена более старая версия (%d.%d%d%d) текущего модуля игры. На вашем компьютере сейчас установлен модуль версии %d.%d%d%d.
-ui_authenticating_with_steam|Идет авторизация через Steam...
-ui_validating_serial_number|Проверка серийного номера...
-ui_scanning_lan|Сканирование локальной сети...
-ui_retrieving_servers|Получение списка серверов...
-ui_shield_size2|Размер: %dx%d
-ui_click_to_view_notes|Щелкните для просмотра примечаний
-ui_retrieving_server_infos|Получение информации от серверов (%d)...
-ui_connecting_to_server|Подключение к серверу...
-ui_requesting_to_join_the_game|Запрос на присоединение к игре...
+ui_refresh|Абнаўленне
+ui_start_search|Пошук
+ui_add_to_favorites|Дадаць у спіс любімых
+ui_remove_from_favorites|Выдаліць са спісу любімых
+ui_use_speedtree|Тэхналогія Speedtree
+ui_use_instancing|Тэхналогія дублявання геаметрыі (паскарае графіку)
+ui_error|Памылка
+ui_error_server_full|Сервер поўны.
+ui_error_server_full_for_non_private|Сервер поўны гульцоў без асабістых пароляў.
+ui_error_server_password_incorrect|Няправільны пароль.
+ui_error_incorrect_serial|Няправільны серыйны нумар.
+ui_error_incorrect_authorization_key|Няправільны ключ аўтарызацыі.
+ui_error_banned_from_server|Вы заблакаваныя на гэтым серверы.
+ui_error_username_taken|Профіль з такім імем ужо выкарыстоўваецца іншым гульцом.
+ui_error_authentication_failed|Памылка аўтарызацыі.
+ui_unable_to_connect_to_server|Памылка падлучэння да сервера.
+ui_connection_to_server_is_lost|Страта злучэння з серверам.
+ui_kicked_from_server|Сервер не пускае.
+ui_switch_to_module_question|На гэтым серверы запушчаны модуль, які адрозніваецца ад вашага. Хочаце, каб гульня Mount & Blade пераключылася на гэтай модуль?
+ui_download_module_question|На гэтым серверы запушчаны модуль, не ўстаноўлены на вашым кампутары. Хочаце зайсці на сайт загружаных файлаў і спампаваць дадзены модуль?
+ui_download_mb_new_version_question|На гэтым серверы запушчана больш новая версія (%d.%d%d%d) гульні Mount&Blade. На вашым кампутары цяпер ўстаноўлена гульня версіі %d.%d % d%d. хочаце зайсці на сайт TaleWorlds і спампаваць адсутнічаюць файлы?
+ui_download_mb_old_version_question|На гэтым серверы запушчана больш старая версія (%d.%d%d%d) гульні Mount&Blade. На вашым кампутары цяпер ўстаноўлена гульня версіі %d. % d % d % d.
+ui_download_module_new_version_question|На гэтым серверы запушчана больш новая версія (%d.%d%d % d) бягучага модуля гульні. На вашым кампутары цяпер усталяваны модуль версіі %d.%d % d%d. хочаце зайсці на сайт загружаных файлаў і спампаваць дадзены модуль?
+ui_download_module_old_version_question|На гэтым серверы запушчана больш старая версія (%d.%d%d % d) бягучага модуля гульні. На вашым кампутары цяпер усталяваны модуль версіі %d. % d % d % d.
+ui_authenticating_with_steam|Ідзе аўтарызацыя праз Steam...
+ui_validating_serial_number|Праверка серыйнага нумара...
+ui_scanning_lan|Сканаванне лакальнай сеткі...
+ui_retrieving_servers|Атрыманне спісу сервераў...
+ui_shield_size2|Памер: % dx % d
+ui_click_to_view_notes|Пстрыкніце для прагляду заўваг
+ui_retrieving_server_infos|Атрыманне інфармацыі ад сервераў (%d)...
+ui_connecting_to_server|Падключэнне да сервера...
+ui_requesting_to_join_the_game|Запыт на далучэнне да гульні...
 ui_loading|Загрузка...
-ui_group_value_control|Группа %d!
-ui_drop_weapon|Оружие на землю
-ui_multiplayer_message_all|Сообщение всем
-ui_multiplayer_message_team|Сообщение команде
-ui_command_line|Командная строка
-ui_use_ranged_weapon_as_melee|Бить прикладом
-ui_send_message_all|Сообщение всем
-ui_send_message_team|Сообщение команде
-ui_select|Выбор
-ui_context_menu|Контекстное меню
-ui_round_starts_in_value_seconds|Игра начнется через %d секунд...
-ui_watching_value|Ведущий: %s
-ui_capital_spec|ЗРИТ
+ui_group_value_control|Група % d!
+ui_drop_weapon|Зброю на зямлю
+ui_multiplayer_message_all|Паведамленне ўсім
+ui_multiplayer_message_team|Паведамленне камандзе
+ui_command_line|Камандны радок
+ui_use_ranged_weapon_as_melee|Біць прыкладам
+ui_send_message_all|Паведамленне ўсім
+ui_send_message_team|Паведамленне камандзе
+ui_select|Выбар
+ui_context_menu|Кантэкстнае меню
+ui_round_starts_in_value_seconds|Гульня пачнецца праз % d секунд...
+ui_watching_value|⚇ Карыстальнік: %s
+ui_capital_spec|СПЕЦЬ
 ui_capital_dead|ТРУП
-ui_instancing_error1|Не удается зафиксировать буфер образцов (размер: %d), кодирование образцов отключено (код ошибки: %d)
+ui_instancing_error1|Не ўдаецца зафіксаваць буфер узораў (Памер: % d), кадаванне узораў адключана (код памылкі: % d)
 ui_instancing_error2|Could not fit instanced objects, Disabled mesh-instancing
-ui_by_keyboard|Клавишами передвижения
-ui_combat_speed_slowest|Мин.
-ui_combat_speed_slower|Низк.
-ui_combat_speed_normal|Средн.
-ui_combat_speed_faster|Быстр.
+ui_by_keyboard|Клавішамі перамяшчэння
+ui_combat_speed_slowest|Міна.
+ui_combat_speed_slower|Нізкі.
+ui_combat_speed_normal|Сярэдн.
+ui_combat_speed_faster|Хуткі.
 ui_combat_speed_fastest|Макс.
-ui_module_newer_than_application|Выбранный вами модуль требует более новой версии игры.
-ui_module_older_than_application|Выбранный вами модуль требует более старой версии игры.
-ui_unbalanced|Нет баланса
-ui_can_crush_through_blocks|Можно пробивать блоки
-ui_turn_camera_with_horse|Камера от первого лица - поворот за лошадью
-ui_widescreen_mode_on|Вкл. многоэкранного режима
-ui_widescreen_mode_off|Выкл. многоэкранного режима
-ui_notification_cant_upgrade|(Не удается повысить - недостаточно денег)
+ui_module_newer_than_application|Абраны вамі модуль патрабуе больш новай версіі гульні.
+ui_module_older_than_application|Абраны вамі модуль патрабуе больш старой версіі гульні.
+ui_unbalanced|Няма балансу
+ui_can_crush_through_blocks|Можна прабіваць блокі
+ui_turn_camera_with_horse|Камера ад першай асобы-паварот за канём
+ui_widescreen_mode_on|ВКЛ. шматэкраннага рэжыму
+ui_widescreen_mode_off|Выкл. шматэкраннага рэжыму
+ui_notification_cant_upgrade|(Не ўдаецца павысіць - недастаткова грошай)
 ui_turn_never|Ніколі
-ui_turn_ranged_only|Только оружие дальнего боя
-ui_turn_melee_only|Только оружие ближнего боя
+ui_turn_ranged_only|Толькі зброя далёкага бою
+ui_turn_melee_only|Толькі зброя блізкага бою
 ui_turn_always|Заўсёды
-ui_general_options|Общие настройки
-ui_vac_enabled|Режим Valve Anti Cheat включен
-ui_campaign_ai|ИИ кампании:
-ui_downloading_map|Идет загрузка карты (%d Кб)
-ui_download_completed|Загрузка завершена.
-ui_server_filter|Фильтр сервера
-ui_has_players|Есть игроки
-ui_is_not_full|Есть места
+ui_general_options|Агульныя налады
+ui_vac_enabled|Рэжым Valve Anti Cheat уключаны
+ui_campaign_ai|ІІ кампаніі:
+ui_downloading_map|Ідзе загрузка карты (%d Кб)
+ui_download_completed|Загрузка завершана.
+ui_server_filter|Фільтр сервера
+ui_has_players|Ёсць гульцы
+ui_is_not_full|Ёсць месцы
 ui_is_password_free|Без пароля
-ui_native_only|Только для местных
-ui_ping_limit|Лимит пинга
-ui_filter_info|%d игр и %d игроков отфильтровано
+ui_native_only|Толькі для мясцовых
+ui_ping_limit|Ліміт Пінга
+ui_filter_info|% d гульняў і % D гульцоў адфільтравана
 ui_is_version_compatible|Сумяшчальна з версіяй
 ui_ttnet_account|Уліковы запіс Ttnet
 ui_username|Імя карыстальніка
@@ -742,36 +742,36 @@ ui_validating_account|Праверка ўліковага запісу...
 ui_plase_enter_your_serial_key|Калі ласка, увядзіце ваш серыйны нумар.
 ui_texture_detail2|Дэталізацыя тэкстур:
 ui_antialiasing2|Згладжванне:
-ui_cut|Режущее
-ui_pierce|Колющее
-ui_blunt|Тупое
-ui_use_melee_weapons_e_|Использовать оружие ближнего боя!
-ui_use_ranged_weapons_e_|Использовать оружие дальнего боя!
-ui_order_button_use_melee_weapons|Использовать оружие ближнего боя
-ui_order_button_use_ranged_weapons|Использовать оружие дальнего боя
-ui_order_button_weapon_usage_orders|Приказы по использованию оружия
-ui_fire_at_my_command_e_|Стрелять по моей команде!
-ui_fire_now_e_|Огонь!
-ui_order_button_fire_at_my_command|Стрелять по моей команде
-ui_order_button_fire_now|Огонь
-ui_order_form_1_row|Сформировать 1 ряд
-ui_order_form_2_row|Сформировать 2 ряда
-ui_order_form_3_row|Сформировать 3 ряда
-ui_order_form_4_row|Сформировать 4 ряда
-ui_order_form_5_row|Сформировать 5 рядов
-ui_form_1_row_e_|Сформировать 1 ряд!
-ui_form_2_row_e_|Сформировать 2 ряда!
-ui_form_3_row_e_|Сформировать 3 ряда!
-ui_form_4_row_e_|Сформировать 4 ряда!
-ui_form_5_row_e_|Сформировать 5 рядов!
-ui_order_7|Выбрать приказ 7
-ui_order_8|Выбрать приказ 8
-ui_all_fire_now_e_|Всем, огонь!
-ui_left_fire_now_e_|Левый фланг, огонь!
-ui_middle_fire_now_e_|Центральная группа, огонь!
-ui_right_fire_now_e_|Правый фланг, огонь!
-ui_order_button_all_fire_now|Всем, огонь
-ui_order_button_left_fire_now|Левый фланг, огонь
-ui_order_button_middle_fire_now|Центральная группа, огонь
-ui_order_button_right_fire_now|Правый фланг, огонь
-ui_crouch|Присесть
+ui_cut|Рэжучы
+ui_pierce|Колючае
+ui_blunt|Тупы
+ui_use_melee_weapons_e_|Выкарыстоўваць зброю блізкага бою!
+ui_use_ranged_weapons_e_|Выкарыстоўваць зброю далёкага бою!
+ui_order_button_use_melee_weapons|Выкарыстоўваць зброю блізкага бою
+ui_order_button_use_ranged_weapons|Выкарыстоўваць зброю далёкага бою
+ui_order_button_weapon_usage_orders|Загады па выкарыстанні зброі
+ui_fire_at_my_command_e_|Страляць па маёй камандзе!
+ui_fire_now_e_|Агонь!
+ui_order_button_fire_at_my_command|Страляць па маёй камандзе
+ui_order_button_fire_now|Агонь
+ui_order_form_1_row|Сфармаваць 1 шэраг
+ui_order_form_2_row|Сфармаваць 2 шэрагу
+ui_order_form_3_row|Сфармаваць 3 шэрагу
+ui_order_form_4_row|Сфармаваць 4 шэрагу
+ui_order_form_5_row|Сфармаваць 5 шэрагаў
+ui_form_1_row_e_|Сфармаваць 1 шэраг!
+ui_form_2_row_e_|Сфармаваць 2 шэрагу!
+ui_form_3_row_e_|Сфармаваць 3 шэрагу!
+ui_form_4_row_e_|Сфармаваць 4 шэрагу!
+ui_form_5_row_e_|Сфармаваць 5 шэрагаў!
+ui_order_7|Выбраць загад 7
+ui_order_8|Выбраць загад 8
+ui_all_fire_now_e_|Усім, агонь!
+ui_left_fire_now_e_|Левы фланг, агонь!
+ui_middle_fire_now_e_|Цэнтральная група, агонь!
+ui_right_fire_now_e_|Правы фланг, агонь!
+ui_order_button_all_fire_now|Усім, агонь
+ui_order_button_left_fire_now|Левы фланг, агонь
+ui_order_button_middle_fire_now|Цэнтральная група, агонь
+ui_order_button_right_fire_now|Правы фланг, агонь
+ui_crouch|Прысесьці
