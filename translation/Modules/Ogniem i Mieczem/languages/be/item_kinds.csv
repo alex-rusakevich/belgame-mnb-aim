@@ -1346,22 +1346,22 @@ itm_t_uber_musket|Батарэйны мушкет
 itm_t_uber_musket_pl|Батарэйныя мушкеты
 itm_t_uber_musket_melee|Батарэйны мушкет
 itm_t_uber_musket_melee_pl|Батарэйныя мушкеты
-itm_m_dwustwol_karabin|Двуствольный карабін
-itm_m_dwustwol_karabin_pl|Двуствольные карабіны
+itm_m_dwustwol_karabin|Двухствольны карабін
+itm_m_dwustwol_karabin_pl|Двухствольныя карабіны
 itm_m_dwustwol_karabin_melee|Карабін
 itm_m_dwustwol_karabin_melee_pl|Карабін
-itm_m_dwustwol_pistol|Двуствольный пістоль
-itm_m_dwustwol_pistol_pl|Двуствольные пістолі
+itm_m_dwustwol_pistol|Двухствольны пістоль
+itm_m_dwustwol_pistol_pl|Двухствольныя пістолі
 itm_m_dwustwol_pistol_melee|не павінна перакладаецца
 itm_m_dwustwol_pistol_melee_pl|не павінна перакладаецца
 itm_bad_luk|Паляўнічы лук
 itm_bad_luk_pl|Паляўнічыя лукі
-itm_norm_luk|Цыбуля
-itm_norm_luk_pl|Лука
+itm_norm_luk|Лук
+itm_norm_luk_pl|Лукі
 itm_gud_luk|Магутны лук
 itm_gud_luk_pl|Магутныя лукі
-itm_uber_luk|Складовай лук
-itm_uber_luk_pl|Складовыя лукі
+itm_uber_luk|Састаўны лук
+itm_uber_luk_pl|Састаўныя лукі
 itm_bad_shield|Тонкі шчыт
 itm_bad_shield_pl|Тонкія шчыты
 itm_norm_shield|Шчыт
@@ -1370,8 +1370,8 @@ itm_good_shield|Тоўсты шчыт
 itm_good_shield_pl|Тоўстыя шчыты
 itm_stal_shield|Жалезны шчыт
 itm_stal_shield_pl|Жалезныя шчыты
-itm_uber_shield|Сталёвы шчыт
-itm_uber_shield_pl|Сталёвыя шчыты
+itm_uber_shield|Стальны шчыт
+itm_uber_shield_pl|Стальныя шчыты
 itm_bad_shpaga|Іржавая шпага
 itm_bad_shpaga_pl|Іржавыя шпагі
 itm_norm_shpaga|Шпага
@@ -1414,10 +1414,10 @@ itm_good_k_shablya|Багатая казацкая шабля
 itm_good_k_shablya_pl|Багатыя казацкія шаблі
 itm_bad_toporik|Сякерка
 itm_bad_toporik_pl|Сякерка
-itm_good_toporik|Багаты сякерка
+itm_good_toporik|Багатая сякерка
 itm_good_toporik_pl|Багатыя сякеркі
-itm_bad_chekan|Чаканка
-itm_bad_chekan_pl|Чаканка
+itm_bad_chekan|Чакан
+itm_bad_chekan_pl|Чаканы
 itm_good_chekan|Багаты чакан
 itm_good_chekan_pl|Багатыя чаканы
 itm_bad_bulava|Булава
@@ -1425,13 +1425,13 @@ itm_bad_bulava_pl|Булава
 itm_good_bulava|Багатая булава
 itm_good_bulava_pl|Багатыя булавы
 itm_bad_berdish|Бярдыш
-itm_bad_berdish_pl|Бярдыш
-itm_good_berdish|Збалансаванасць бердыш
-itm_good_berdish_pl|Збалансаванасць бердышы
-itm_m_sovnya|Саўня
-itm_m_sovnya_pl|Саўні
+itm_bad_berdish_pl|Бердышы
+itm_good_berdish|Збалансаваны бярдыш
+itm_good_berdish_pl|Збалансаваныя бердышы
+itm_m_sovnya|Соўня
+itm_m_sovnya_pl|Соўні
 itm_m_alebarda|Алебарда
-itm_m_alebarda_pl|Алебарда
+itm_m_alebarda_pl|Алебарды
 itm_m_twohand_sword|Двухручны меч
 itm_m_twohand_sword_pl|Двухручныя мячы
 itm_m_kleymor|Клеймор
@@ -1440,12 +1440,12 @@ itm_bad_pike|Старая піка
 itm_bad_pike_pl|Старыя пікі
 itm_norm_pika|Піка
 itm_norm_pika_pl|Пікі
-itm_good_pike_m|Збалансаванасць піка
-itm_good_pike_m_pl|Збалансаванасць пікі
-itm_bad_spear|Старое дзіда 
-itm_bad_spear_pl|Старыя дзіды
-itm_good_spear|Дзіда
-itm_good_spear_pl|Дзіда
+itm_good_pike_m|Збалансаваная піка
+itm_good_pike_m_pl|Збалансаваныя пікі
+itm_bad_spear|Старое кап'ё
+itm_bad_spear_pl|Старыя коп'і
+itm_good_spear|Кап'ё
+itm_good_spear_pl|Коп'і
 itm_bad_lance|Старая ланса
 itm_bad_lance_pl|Старыя лансы
 itm_norm_lance|Ланса
@@ -1458,16 +1458,16 @@ itm_m_mosk_pehota_forma|Стралецкі мундзір
 itm_m_mosk_pehota_forma_pl|Стралецкія мундзіры
 itm_m_mosk_strelok_forma|Стралецкі мундзір
 itm_m_mosk_strelok_forma_pl|Стралецкія мундзіры
-itm_m_mosk_kava_forma|Сермяга
+itm_m_mosk_kava_forma|Сярмяга
 itm_m_mosk_kava_forma_pl|Сярмягі
 itm_m_mosk_bad_armor|Тэгіляй
 itm_m_mosk_bad_armor_pl|Тэгіляі
-itm_m_mosk_light_armor|Кароткі бахтерец
-itm_m_mosk_light_armor_pl|Кароткія бахтерцы
-itm_m_mosk_norm_armor|Бахтэрэц
-itm_m_mosk_norm_armor_pl|Бахтэрцы
-itm_m_mosk_good_armor|Зерцало
-itm_m_mosk_good_armor_pl|Зерцало
+itm_m_mosk_light_armor|Кароткі бахцярэц
+itm_m_mosk_light_armor_pl|Кароткія бахцярцы
+itm_m_mosk_norm_armor|Бахцярэц
+itm_m_mosk_norm_armor_pl|Бахцярцы
+itm_m_mosk_good_armor|Зярцала
+itm_m_mosk_good_armor_pl|Зярцалы
 itm_m_mosk_notsogood_armor|Брыганціна
 itm_m_mosk_notsogood_armor_pl|Брыганціна
 itm_m_pol_pehota_forma|Уніформа пікінера
@@ -1476,14 +1476,14 @@ itm_m_pol_strelok_forma|Мушкецёры
 itm_m_pol_strelok_forma_pl|Уніформа мушкецёраў
 itm_m_pol_kava_forma|Уніформа драгуна
 itm_m_pol_kava_forma_pl|Уніформа драгуна
-itm_m_pol_light_armor|Ўзмоцненая куртка
-itm_m_pol_light_armor_pl|Ўзмоцненыя курткі
+itm_m_pol_light_armor|Узмоцненая куртка
+itm_m_pol_light_armor_pl|Узмоцненыя курткі
 itm_m_pol_norm_armor|Кальчуга
-itm_m_pol_norm_armor_pl|Кальчуга
+itm_m_pol_norm_armor_pl|Кальчугі
 itm_m_pol_good_k_armor|Панцыр
-itm_m_pol_good_k_armor_pl|Панцыр
+itm_m_pol_good_k_armor_pl|Панцыры
 itm_m_pol_good_p_armor|Кіраса
-itm_m_pol_good_p_armor_pl|Кіраса
+itm_m_pol_good_p_armor_pl|Кірасы
 itm_m_pol_uber_p_armor|Латы
 itm_m_pol_uber_p_armor_pl|Латы
 itm_m_pol_uber_k_armor|Гусарскі даспех са шкурай
@@ -1494,7 +1494,7 @@ itm_m_ukr_strelok_forma|Жупан
 itm_m_ukr_strelok_forma_pl|Жупан
 itm_m_ukr_kava_forma|Жупан
 itm_m_ukr_kava_forma_pl|Жупан
-itm_m_ukr_bad_armor|Ўзмоцнены жупан
+itm_m_ukr_bad_armor|Узмоцнены жупан
 itm_m_ukr_bad_armor_pl|Узмоцненыя жупаны
 itm_m_ukr_light_armor|Жупан з падбівам
 itm_m_ukr_light_armor_pl|Жупаны з падбівам

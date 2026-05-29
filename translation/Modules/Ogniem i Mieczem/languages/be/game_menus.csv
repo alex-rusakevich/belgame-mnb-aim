@@ -64,7 +64,7 @@ menu_character_report|{s9}
 menu_party_size_report|{s1}
 menu_faction_relations_report|{s1}
 menu_camp|Вы разбіваеце лагер. Што вы хочаце зрабіць?
-mno_camp_action_1|Чыць: прагуляцца вакол.
+mno_camp_action_1|ЧЫТ: прагуляцца вакол.
 mno_camp_action|Распачаць дзеянне.
 mno_oim_diplomacy_menu|Дыпламатыя
 mno_wagenburg_action_on|Пабудаваць вагенбург.
@@ -206,7 +206,7 @@ mno_castle_lead_attack|Аповесці воінаў на штурм.
 mno_castle_lead_attack_podkop|Пачаць штурм.
 mno_attack_stay_back|Загадаць байцам атакаваць без вас.
 mno_build_siege_tower|Пабудаваць аблогавую вежу.
-mno_cheat_castle_lead_attack|Чыць: імгненнае рыштунак войскі.
+mno_cheat_castle_lead_attack|ЧЫТ: імгненная падрыхтоўка войск.
 mno_wait_24_hours|Пачакаць да заўтра.
 mno_lift_siege|Зняць аблогу.
 menu_siege_attack_meets_sally|Абаронцы робяць вылазку і пачынаюць контратаку.
@@ -330,7 +330,7 @@ mno_walled_center_manage|Кіраваць {reg0?гэтым горадам: гэ�
 mno_castle_station_troops|Размясціць тут гарнізон...
 mno_castle_wait|Пачакаць тут некаторы час{s1}.
 mno_go_to_the_garem|Прабрацца ў гарэм
-mno_town_alley|Чыць: накіравацца да завулка.
+mno_town_alley|ЧЫТ: накіравацца да завулка.
 mno_castle_tavern|Наведаць кабак.
 mno_castle_tavern_door|Наведаць кабак.
 mno_castle_trade_with_merchants|Прайсці на рынкавую плошчу.
@@ -338,7 +338,7 @@ mno_zdat_tatarina|Здаць Татарына.
 mno_zdat_tatarina_door|Здаць Татарына.
 mno_town_leave|Выйсці...
 mno_town_leave_door|Пакінуць мясцовасць.
-mno_cheat_town_start_siege|Чыць! Аблажыць {reg6?горад: замак}...
+mno_cheat_town_start_siege|ЧЫТ! Аблажыць {reg6?горад: замак}...
 mno_center_reports|Чыць! Паказаць справаздачы.
 mno_sail_from_port|Адплыць з порта.
 menu_town_tournament_lost|Вы выбылі з спаборніцтваў.
@@ -412,8 +412,8 @@ mno_camp_trainer|Пагаварыць з трэнерам.
 mno_camp_merch|Адшукаць капітана наймітаў.
 mno_camp_train_melee|Блізкі бой
 mno_camp_train_mounted|Верхавая трэніроўка
-mno_go_to_track|Чыць: перайсці на дарожку.
-mno_go_to_range|Чыць: перайсці да далёкага.
+mno_go_to_track|ЧЫТ: перайсці на дарожку.
+mno_go_to_range|ЧЫТ: перайсці да далёкага.
 menu_training_ground_selection_details_melee_1|З колькімі супернікамі вы будзеце змагацца?
 mno_camp_train_melee_num_men_1|З адным
 mno_camp_train_melee_num_men_2|З двума
@@ -539,7 +539,7 @@ mno_Cont4|Працягнуць...
 menu_neudral_neotravil|Вас заўважылі, і вы не паспелі атруціць ваду. Зараз вам прыйдзецца прарывацца скрозь шэрагі абаронцаў.
 menu_sneak_into_town_caught_dispersed_guards_t|Вам удалося прабіцца скрозь шэрагі стражнікаў і выйсці з горада.
 menu_sneak_into_town_caught_ran_away_t|Вам удалося схавацца ў лабірынце вуліц і выбрацца з горада.
-menu_vorvatsya_uspeh|Вы змаглі прабрацца ў горад, але частка вашай арміі засталася за сценамі. Вам трэба знішчыць не менш {reg0} % абаронцаў, перш чым вы зможаце адкрыць вароты. 
+menu_vorvatsya_uspeh|Вы змаглі прабрацца ў горад, але частка вашай арміі засталася за сценамі. Вам трэба знішчыць не менш {reg0}% абаронцаў, перш чым вы зможаце адкрыць вароты. 
 menu_vorvatsya_proval|Вам не ўдалося прабрацца ў горад. Больш за тое, ваш перадавы атрад ({S50}) быў выразаны абаронцамі горада, а ў вашым асноўным атрадзе панізіўся баявы дух. 
 menu_podkop_uspih|Вы падлічылі, што вам спатрэбіцца не менш {reg4} гадзін, каб закласці міну.
 mno_build_podkop_min|Пачаць інжынерныя працы.
@@ -642,8 +642,8 @@ mno_ms_back|Назад
 menu_ms_additional_school|{s2}
 mno_ms_see_npc_list|Паглядзець спіс спадарожнікаў.
 menu_ms_additional_merchant_guild|Выберыце, што вы хочаце зрабіць.
-mno_ms_guild_deposit|Пакласці грошы ў рост пад {reg0} % штомесяц. 
-mno_ms_guild_credit|Ўзяць крэдыт пад {reg0} % тэрмінам на месяц. 
+mno_ms_guild_deposit|Пакласці грошы ў рост пад {reg0}% штомесяц. 
+mno_ms_guild_credit|Ўзяць крэдыт пад {reg0}% тэрмінам на месяц. 
 mno_ms_guild_deposit_out|Забраць дэпазіт ({reg0} талераў)
 mno_ms_guild_credit_out|Пагасіць крэдыт ({reg0} талераў)
 menu_ms_guild_get_value|Выберыце суму {s0}. Цяпер сума {s0} роўная: {reg5}.

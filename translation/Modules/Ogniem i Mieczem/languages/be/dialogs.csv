@@ -654,8 +654,8 @@ dlga_liege_defends_claim_2:liege_defends_claim_3|Добра. Я задаволю
 dlga_liege_defends_claim_3:liege_defends_claim_4|{s48}
 dlga_liege_defends_claim_4:lord_talk|{s48}
 dlga_lord_talk:lord_join_rebellion_suggest|{s12} - законны кіраўнік {s14}. Далучайцеся да нашага паходу супраць самазванца {S15}!
-dlga_lord_talk:lord_join_rebellion_suggest_cheat|Чыць: далучыць да нас сілай.
-dlga_party_encounter_lord_hostile_attacker_2:lord_join_rebellion_suggest_cheat|Чыць: далучыць да нас сілай.
+dlga_lord_talk:lord_join_rebellion_suggest_cheat|ЧЫТ: далучыць да нас сілай.
+dlga_party_encounter_lord_hostile_attacker_2:lord_join_rebellion_suggest_cheat|ЧЫТ: далучыць да нас сілай.
 dlga_party_encounter_lord_hostile_attacker_2:lord_join_rebellion_suggest|{s12} - ваш законны кіраўнік. Далучайцеся да нашага паходу супраць самазванца {S15}!
 dlga_lord_join_rebellion_suggest:party_encounter_lord_hostile_attacker_2|У мяне няма часу цырымоніцца з такімі, як ты. Абараняйся!
 dlga_lord_join_rebellion_suggest:lord_start|У мяне няма часу цырымоніцца з такімі, як ты.
@@ -681,7 +681,7 @@ dlga_lord_join_rebellion_suggest_5:lord_join_rebellion_ask_for_order|{s43}
 dlga_lord_join_rebellion_suggest_5:party_encounter_lord_hostile_attacker_2|{s43}
 dlga_lord_join_rebellion_suggest_5:lord_talk|{s43}
 dlga_lord_join_rebellion_ask_for_order:lord_give_order|Добра. Які ж план? Што ты хочаш ад мяне?
-dlga_lord_talk:lord_suggest_action_ask|Чыць: я хачу прапанаваць цэлы шэраг дзеянняў.
+dlga_lord_talk:lord_suggest_action_ask|ЧЫТ: я хачу прапанаваць цэлы шэраг дзеянняў.
 dlga_lord_tell_objective:lord_pretalk|Што я раблю? Сам-то як думаеш? Сяджу ў вязніцы і чакаю вызвалення!
 dlga_lord_tell_objective:lord_pretalk.1|У сапраўдны момант я нікім не камандую.
 dlga_lord_tell_objective:lord_pretalk.2|Мы адпачываем у {s1}.
@@ -798,7 +798,7 @@ dlga_lord_mission_failed:lord_pretalk|{s43}
 dlga_lord_suggest_action_ask:lord_suggest_action|Што ты прапануеш?
 dlga_lord_suggest_action:lord_suggest_join_faction|Я хачу стаць падданым тваёй дзяржавы.
 dlga_lord_suggest_join_faction:lord_give_oath_5|Добра.
-dlga_lord_suggest_action:lord_suggest_learn_party_id|Чыць: я хачу даведацца ID атрада, якім вы камандавалі.
+dlga_lord_suggest_action:lord_suggest_learn_party_id|ЧЫТ: я хачу даведацца ID атрада, якім вы камандавалі.
 dlga_lord_suggest_learn_party_id:lord_pretalk|Гэта {reg0}.
 dlga_lord_suggest_action:lord_suggest_become_marshall|Я хачу камандаваць войскамі гэтай дзяржавы.
 dlga_lord_suggest_become_marshall:lord_pretalk|Добра.

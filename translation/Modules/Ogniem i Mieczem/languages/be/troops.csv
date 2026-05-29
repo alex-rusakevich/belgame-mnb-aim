@@ -53,7 +53,7 @@ trp_townsman_pl|Апалчэнец
 trp_watchman|Наёмны алебардыст
 trp_watchman_pl|Наёмныя алебардысты
 trp_caravan_guard|Наёмны вершнік
-trp_caravan_guard_pl|Наёмныя коннікі
+trp_caravan_guard_pl|Наёмныя вершнікі
 trp_mercenary_swordsman|Наёмны стралок
 trp_mercenary_swordsman_pl|Наёмныя стрэлкі
 trp_hired_blade|Наёмны пікінер
@@ -323,7 +323,7 @@ trp_sea_raider_pl|Бандыт
 trp_steppe_bandit|Татарскі налётчык
 trp_steppe_bandit_pl|Татарскія налётчыкі
 trp_black_khergit_horseman|Чорны кергіцкі вершнік
-trp_black_khergit_horseman_pl|Чорныя кергитские коннікі
+trp_black_khergit_horseman_pl|Чорныя кергитские вершнікі
 trp_manhunter|Стралец тайнага загаду
 trp_manhunter_pl|Стральцы тайнага загаду
 trp_slave_driver|Наглядчык
@@ -1720,18 +1720,18 @@ trp_village_89_elder|Стараста вёскі
 trp_village_89_elder_pl|Стараста вёскі 1
 trp_village_90_elder|Стараста вёскі
 trp_village_90_elder_pl|Стараста вёскі 1
-trp_merchants_end|Заканчэнне спісу гандляроў
-trp_merchants_end_pl|Заканчэнне спісу гандляроў
-trp_temp_array_a|часовае пабудова а
-trp_temp_array_a_pl|часовае пабудова а
-trp_temp_array_b|часовае пабудова b
-trp_temp_array_b_pl|часовае пабудова b
-trp_temp_array_c|часовае пабудова c
-trp_temp_array_c_pl|часовае пабудова c
-trp_stack_selection_amounts|выбар колькасці ў чарцы
-trp_stack_selection_amounts_pl|выбар колькасці ў чарцы
-trp_stack_selection_ids|ids абранай чаркі
-trp_stack_selection_ids_pl|ids абранай чаркі
+trp_merchants_end|Канец спісу гандляроў
+trp_merchants_end_pl|Канец спісу гандляроў
+trp_temp_array_a|часовая пабудова а
+trp_temp_array_a_pl|часовая пабудова а
+trp_temp_array_b|часовая пабудова b
+trp_temp_array_b_pl|часовая пабудова b
+trp_temp_array_c|часовая пабудова c
+trp_temp_array_c_pl|часовая пабудова c
+trp_stack_selection_amounts|выбар колькасці ў стопцы
+trp_stack_selection_amounts_pl|выбар колькасці ў стопцы
+trp_stack_selection_ids|ids абранай стопкі
+trp_stack_selection_ids_pl|ids абранай стопкі
 trp_notification_menu_types|тыпы меню апавяшчэнняў
 trp_notification_menu_types_pl|тыпы меню апавяшчэнняў
 trp_notification_menu_var1|меню апавяшчэнняў вар1
@@ -1759,7 +1759,7 @@ trp_oim_tatarin_zolotarenko_pl|Татарын
 trp_oim_polish_lord|Шведскі афіцэр
 trp_oim_zagloba_qst|Ануфрый Заглоба
 trp_oim_old_man_qst|Стары
-trp_oim_killer_qst|Шляхціч
+trp_oim_killer_qst|Шляхціц
 trp_oim_getman_pafnutiy|Пафнуцій
 trp_oim_dmitriy_yevangelik|Герасім Евангелік
 trp_volhv|Вяшчун
@@ -1788,8 +1788,8 @@ trp_oim_rich_visitor|Багаты гараджанін
 trp_oim_rich_visitor_pl|Багатыя гараджане
 trp_spy_partner|Непрыкметны гараджанін
 trp_spy_partner_pl|Непрыкметныя гараджане
-trp_mercanary_captain_tatars|Капітан наймітаў
-trp_mercanary_captain_tatars_pl|Капітан наймітаў
+trp_mercanary_captain_tatars|Капітан наёмнікаў
+trp_mercanary_captain_tatars_pl|Капітан наёмнікаў
 trp_mercanary_captain_kozaks|Казацкі атаман
 trp_mercanary_captain_kozaks_pl|Казацкія атаманы
 trp_mercanary_captain_polyak|Капітан наёмнікаў
@@ -1815,13 +1815,13 @@ trp_tatar_merch_veteran_archer_pl|Татарскія найміты-стрэлк
 trp_tatar_merch_champion_archer|Татарскі найміт-стралок (эліта)
 trp_tatar_merch_champion_archer_pl|Татарскія найміты-стрэлкі (эліта)
 trp_tatar_merch_novice_horse|Татарскі найміт-вершнік (рэкрут)
-trp_tatar_merch_novice_horse_pl|Татарскія найміты-коннікі (рэкруты)
+trp_tatar_merch_novice_horse_pl|Татарскія найміты-вершнікі (рэкруты)
 trp_tatar_merch_regular_horse|Татарскі найміт-вершнік (дасведчаны)
-trp_tatar_merch_regular_horse_pl|Татарскія найміты-коннікі (вопытныя)
+trp_tatar_merch_regular_horse_pl|Татарскія найміты-вершнікі (вопытныя)
 trp_tatar_merch_veteran_horse|Татарскі найміт-вершнік (ветэран)
-trp_tatar_merch_veteran_horse_pl|Татарскія найміты-коннікі (ветэраны)
+trp_tatar_merch_veteran_horse_pl|Татарскія найміты-вершнікі (ветэраны)
 trp_tatar_merch_champion_horse|Татарскі найміт-вершнік (эліта)
-trp_tatar_merch_champion_horse_pl|Татарскія найміты-коннікі (эліта)
+trp_tatar_merch_champion_horse_pl|Татарскія найміты-вершнікі (эліта)
 trp_kazak_merch_novice_infantry|Казацкі найміт-пяхотнік (рэкрут)
 trp_kazak_merch_novice_infantry_pl|Казацкія найміты-пяхотнікі (рэкруты)
 trp_kazak_merch_regular_infantry|Казацкі найміт-пяхотнік (дасведчаны)
@@ -1839,13 +1839,13 @@ trp_kazak_merch_veteran_archer_pl|Казацкія найміты-стралкі
 trp_kazak_merch_champion_archer|Казацкі найміт-стралок (эліта)
 trp_kazak_merch_champion_archer_pl|Казацкія найміты-стрэлкі (эліта)
 trp_kazak_merch_novice_horse|Казацкі найміт-вершнік (рэкрут)
-trp_kazak_merch_novice_horse_pl|Казацкія найміты-коннікі (рэкруты)
+trp_kazak_merch_novice_horse_pl|Казацкія найміты-вершнікі (рэкруты)
 trp_kazak_merch_regular_horse|Казацкі найміт-вершнік (дасведчаны)
-trp_kazak_merch_regular_horse_pl|Казацкія найміты-коннікі (вопытныя)
+trp_kazak_merch_regular_horse_pl|Казацкія найміты-вершнікі (вопытныя)
 trp_kazak_merch_veteran_horse|Казацкі найміт-вершнік (ветэран)
-trp_kazak_merch_veteran_horse_pl|Казацкія найміты-коннікі (ветэраны)
+trp_kazak_merch_veteran_horse_pl|Казацкія найміты-вершнікі (ветэраны)
 trp_kazak_merch_champion_horse|Казацкі найміт-вершнік (эліта)
-trp_kazak_merch_champion_horse_pl|Казацкія найміты-коннікі (эліта)
+trp_kazak_merch_champion_horse_pl|Казацкія найміты-вершнікі (эліта)
 trp_polyak_merch_novice_infantry|Польскі найміт-пяхотнік (рэкрут)
 trp_polyak_merch_novice_infantry_pl|Польскія найміты-пяхотнікі (рэкруты)
 trp_polyak_merch_regular_infantry|Польскі найміт-пяхотнік (дасведчаны)
@@ -1863,13 +1863,13 @@ trp_polyak_merch_veteran_archer_pl|Польскія найміты-стралк�
 trp_polyak_merch_champion_archer|Польскі найміт-стралок (эліта)
 trp_polyak_merch_champion_archer_pl|Польскія найміты-стрэлкі (эліта)
 trp_polyak_merch_novice_horse|Польскі найміт-вершнік (рэкрут)
-trp_polyak_merch_novice_horse_pl|Польскія найміты-коннікі (рэкруты)
+trp_polyak_merch_novice_horse_pl|Польскія найміты-вершнікі (рэкруты)
 trp_polyak_merch_regular_horse|Польскі найміт-вершнік (дасведчаны)
-trp_polyak_merch_regular_horse_pl|Польскія найміты-коннікі (вопытныя)
+trp_polyak_merch_regular_horse_pl|Польскія найміты-вершнікі (вопытныя)
 trp_polyak_merch_veteran_horse|Польскі найміт-вершнік (ветэран)
-trp_polyak_merch_veteran_horse_pl|Польскія найміты-коннікі (ветэраны)
+trp_polyak_merch_veteran_horse_pl|Польскія найміты-вершнікі (ветэраны)
 trp_polyak_merch_champion_horse|Польскі найміт-вершнік (эліта)
-trp_polyak_merch_champion_horse_pl|Польскія найміты-коннікі (эліта)
+trp_polyak_merch_champion_horse_pl|Польскія найміты-вершнікі (эліта)
 trp_shved_merch_novice_infantry|Еўрапейскі найміт-пяхотнік (рэкрут)
 trp_shved_merch_novice_infantry_pl|Еўрапейскія найміты-пяхотнікі (рэкруты)
 trp_shved_merch_regular_infantry|Еўрапейскі найміт-пяхотнік (дасведчаны)
@@ -1887,13 +1887,13 @@ trp_shved_merch_veteran_archer_pl|Еўрапейскія найміты-стрэ
 trp_shved_merch_champion_archer|Еўрапейскі найміт-стралок (эліта)
 trp_shved_merch_champion_archer_pl|Еўрапейскія найміты-стрэлкі (эліта)
 trp_shved_merch_novice_horse|Еўрапейскі найміт-вершнік (рэкрут)
-trp_shved_merch_novice_horse_pl|Еўрапейскія найміты-коннікі (рэкруты)
+trp_shved_merch_novice_horse_pl|Еўрапейскія найміты-вершнікі (рэкруты)
 trp_shved_merch_regular_horse|Еўрапейскі найміт-вершнік (дасведчаны)
-trp_shved_merch_regular_horse_pl|Еўрапейскія найміты-коннікі (вопытныя)
+trp_shved_merch_regular_horse_pl|Еўрапейскія найміты-вершнікі (вопытныя)
 trp_shved_merch_veteran_horse|Еўрапейскі найміт-вершнік (ветэран)
-trp_shved_merch_veteran_horse_pl|Еўрапейскія найміты-коннікі (ветэраны)
+trp_shved_merch_veteran_horse_pl|Еўрапейскія найміты-вершнікі (ветэраны)
 trp_shved_merch_champion_horse|Еўрапейскі найміт-вершнік (эліта)
-trp_shved_merch_champion_horse_pl|Еўрапейскія найміты-коннікі (эліта)
+trp_shved_merch_champion_horse_pl|Еўрапейскія найміты-вершнікі (эліта)
 trp_moskov_merch_novice_infantry|Маскоўскі найміт-пяхотнік (рэкрут)
 trp_moskov_merch_novice_infantry_pl|Маскоўскія найміты-пехацінцы (рэкруты)
 trp_moskov_merch_regular_infantry|Маскоўскі найміт-пяхотнік (дасведчаны)
@@ -1911,13 +1911,13 @@ trp_moskov_merch_veteran_archer_pl|Маскоўскія найміты-стрэ�
 trp_moskov_merch_champion_archer|Маскоўскі найміт-стралок (эліта)
 trp_moskov_merch_champion_archer_pl|Маскоўскія найміты-стрэлкі (эліта)
 trp_moskov_merch_novice_horse|Маскоўскі найміт-вершнік (рэкрут)
-trp_moskov_merch_novice_horse_pl|Маскоўскія найміты-коннікі (рэкруты)
+trp_moskov_merch_novice_horse_pl|Маскоўскія найміты-вершнікі (рэкруты)
 trp_moskov_merch_regular_horse|Маскоўскі найміт-вершнік (дасведчаны)
-trp_moskov_merch_regular_horse_pl|Маскоўскія найміты-коннікі (вопытныя)
+trp_moskov_merch_regular_horse_pl|Маскоўскія найміты-вершнікі (вопытныя)
 trp_moskov_merch_veteran_horse|Маскоўскі найміт-вершнік (ветэран)
-trp_moskov_merch_veteran_horse_pl|Маскоўскія найміты-коннікі (ветэраны)
+trp_moskov_merch_veteran_horse_pl|Маскоўскія найміты-вершнікі (ветэраны)
 trp_moskov_merch_champion_horse|Маскоўскі найміт-вершнік (эліта)
-trp_moskov_merch_champion_horse_pl|Маскоўскія найміты-коннікі (эліта)
+trp_moskov_merch_champion_horse_pl|Маскоўскія найміты-вершнікі (эліта)
 trp_castle_tavernkeeper|Гаспадар карчмы
 trp_castle_tavernkeeper_pl|Гаспадар карчмы
 trp_town_upgrade_armourer|Збройнік
@@ -1932,8 +1932,8 @@ trp_moskov_ambassador|Пасол Маскоўскага царства
 trp_moskov_ambassador_pl|Пасол Маскоўскага царства
 trp_tatar_ambassador|Пасол Крымскага ханства
 trp_tatar_ambassador_pl|Пасол Крымскага ханства
-trp_shved_ambassador|Пасол шведскага Каралеўства
-trp_shved_ambassador_pl|Пасол шведскага Каралеўства
+trp_shved_ambassador|Пасол Шведскага каралеўства
+trp_shved_ambassador_pl|Пасол Шведскага каралеўства
 trp_kozak_ambassador|Пасол запарожскіх казакоў
 trp_kozak_ambassador_pl|Пасол запарожскіх казакоў
 trp_ms_player_officer_elements|Не перакладаецца
@@ -1972,70 +1972,70 @@ trp_castle_cmd_ukr|Сотнік
 trp_castle_cmd_ukr_pl|Сотнік
 trp_swadian_crossbowman_multiplayer_ai|Польскі мушкецёр
 trp_swadian_crossbowman_multiplayer_ai_pl|Польскія мушкецёры
-trp_swadian_infantry_multiplayer_ai|Польскі пяхотнік
+trp_swadian_infantry_multiplayer_ai|Польскі пехацінец
 trp_swadian_infantry_multiplayer_ai_pl|Польская пяхота
 trp_swadian_man_at_arms_multiplayer_ai|Польскі кавалерыст
 trp_swadian_man_at_arms_multiplayer_ai_pl|Польская кавалерыя
 trp_vaegir_archer_multiplayer_ai|Рускі стралок
-trp_vaegir_archer_multiplayer_ai_pl|Рускія стрэлкі
-trp_vaegir_spearman_multiplayer_ai|Руская пяхотнік
+trp_vaegir_archer_multiplayer_ai_pl|Рускія стралкі
+trp_vaegir_spearman_multiplayer_ai|Руская пехацінец
 trp_vaegir_spearman_multiplayer_ai_pl|Руская пяхота
 trp_vaegir_horseman_multiplayer_ai|Рускі вершнік
-trp_vaegir_horseman_multiplayer_ai_pl|Рускія коннікі
-trp_khergit_dismounted_lancer_multiplayer_ai|Татарскі пяхотнік
+trp_vaegir_horseman_multiplayer_ai_pl|Рускія вершнікі
+trp_khergit_dismounted_lancer_multiplayer_ai|Татарскі пехацінец
 trp_khergit_dismounted_lancer_multiplayer_ai_pl|Татарская пяхота
-trp_khergit_veteran_horse_archer_multiplayer_ai|Татарскі Конны стралок
+trp_khergit_veteran_horse_archer_multiplayer_ai|Татарскі конны стралок
 trp_khergit_veteran_horse_archer_multiplayer_ai_pl|Татарская стралковая кавалерыя
 trp_khergit_lancer_multiplayer_ai|Татарскі вершнік
-trp_khergit_lancer_multiplayer_ai_pl|Татарскія коннікі
-trp_nord_veteran_multiplayer_ai|Шведскі пяхотнік
+trp_khergit_lancer_multiplayer_ai_pl|Татарскія вершнікі
+trp_nord_veteran_multiplayer_ai|Шведскі пехацінец
 trp_nord_veteran_multiplayer_ai_pl|Шведская пяхота
 trp_nord_scout_multiplayer_ai|Шведскі кавалерыст
 trp_nord_scout_multiplayer_ai_pl|Шведская кавалерыя
 trp_nord_archer_multiplayer_ai|Шведскі мушкецёр
 trp_nord_archer_multiplayer_ai_pl|Шведскія мушкецёры
 trp_rhodok_veteran_crossbowman_multiplayer_ai|Украінскі стралок
-trp_rhodok_veteran_crossbowman_multiplayer_ai_pl|Украінскія стрэлкі
-trp_rhodok_veteran_spearman_multiplayer_ai|Украінскі пяхотнік
+trp_rhodok_veteran_crossbowman_multiplayer_ai_pl|Украінскія стралкі
+trp_rhodok_veteran_spearman_multiplayer_ai|Украінскі пехацінец
 trp_rhodok_veteran_spearman_multiplayer_ai_pl|Украінская пяхота
 trp_rhodok_scout_multiplayer_ai|Украінскі вершнік
-trp_rhodok_scout_multiplayer_ai_pl|Украінскія коннікі
-trp_sarranid_infantry_multiplayer_ai|Саранідскі пяхотнік
-trp_sarranid_infantry_multiplayer_ai_pl|Саранідскія пяхотнікі
+trp_rhodok_scout_multiplayer_ai_pl|Украінскія вершнікі
+trp_sarranid_infantry_multiplayer_ai|Саранідскі пехацінец
+trp_sarranid_infantry_multiplayer_ai_pl|Саранідская пяхота
 trp_sarranid_archer_multiplayer_ai|Саранідскі лучнік
-trp_sarranid_archer_multiplayer_ai_pl|Саранідскія Лучнікі
+trp_sarranid_archer_multiplayer_ai_pl|Саранідскія лучнікі
 trp_sarranid_horseman_multiplayer_ai|Саранідскі вершнік
-trp_sarranid_horseman_multiplayer_ai_pl|Саранідскія коннікі
+trp_sarranid_horseman_multiplayer_ai_pl|Саранідскія вершнікі
 trp_swadian_crossbowman_multiplayer|Мушкецёр
-trp_swadian_crossbowman_multiplayer_pl|Мушкецёр
-trp_swadian_infantry_multiplayer|Пяхотнік
+trp_swadian_crossbowman_multiplayer_pl|Мушкецёры
+trp_swadian_infantry_multiplayer|Пехацінец
 trp_swadian_infantry_multiplayer_pl|Пяхота
 trp_swadian_man_at_arms_multiplayer|Кавалерыст
 trp_swadian_man_at_arms_multiplayer_pl|Кавалерыя
 trp_vaegir_archer_multiplayer|Стралец
 trp_vaegir_archer_multiplayer_pl|Стралец
-trp_vaegir_spearman_multiplayer|Пяхотнік
+trp_vaegir_spearman_multiplayer|Пехацінец
 trp_vaegir_spearman_multiplayer_pl|Пяхота
 trp_vaegir_horseman_multiplayer|Кавалерыст
 trp_vaegir_horseman_multiplayer_pl|Кавалерыя
-trp_khergit_veteran_footman_multiplayer|Татарскі пяхотнік
-trp_khergit_veteran_footman_multiplayer_pl|Татарскі пяхотнік
+trp_khergit_veteran_footman_multiplayer|Татарскі пехацінец
+trp_khergit_veteran_footman_multiplayer_pl|Татарскі пехацінец
 trp_khergit_veteran_horse_archer_multiplayer|Конны лучнік
-trp_khergit_veteran_horse_archer_multiplayer_pl|Конныя Лучнікі
+trp_khergit_veteran_horse_archer_multiplayer_pl|Конныя лучнікі
 trp_khergit_lancer_multiplayer|Улан
 trp_khergit_lancer_multiplayer_pl|Уланы
 trp_nord_archer_multiplayer|Мушкецёр
-trp_nord_archer_multiplayer_pl|Мушкецёр
-trp_nord_veteran_multiplayer|Пяхотнік
+trp_nord_archer_multiplayer_pl|Мушкецёры
+trp_nord_veteran_multiplayer|Пехацінец
 trp_nord_veteran_multiplayer_pl|Пяхота
 trp_nord_scout_multiplayer|Кавалерыст
 trp_nord_scout_multiplayer_pl|Кавалерыя
-trp_rhodok_veteran_crossbowman_multiplayer|Пяхотнік
+trp_rhodok_veteran_crossbowman_multiplayer|Пехацінец
 trp_rhodok_veteran_crossbowman_multiplayer_pl|Пяхота
 trp_rhodok_sergeant_multiplayer|Стралок
-trp_rhodok_sergeant_multiplayer_pl|Стрэлка
+trp_rhodok_sergeant_multiplayer_pl|Стралкі
 trp_rhodok_horseman_multiplayer|Вершнік
-trp_rhodok_horseman_multiplayer_pl|Вершнік
+trp_rhodok_horseman_multiplayer_pl|Вершнікі
 trp_mp_swadian_militia|Копейщик апалчэння
 trp_mp_swadian_militia_pl|Апалчэнне копейщиков
 trp_mp_swadian_footman|Пікінер-рэкрут
@@ -2400,7 +2400,7 @@ trp_coop_moscovite_watchmen_pl|Маскоўскія дазорцы
 trp_coop_dragoons|Драгун
 trp_coop_dragoons_pl|Драгун
 trp_coop_cossack_wildriders|Казацкі вершнік
-trp_coop_cossack_wildriders_pl|Казацкія коннікі
+trp_coop_cossack_wildriders_pl|Казацкія вершнікі
 trp_coop_crimean_horse_archers|Крымскі Конны лучнік
 trp_coop_crimean_horse_archers_pl|Крымскія Конныя Лучнікі
 trp_coop_winged_hussars|Крылаты гусар
