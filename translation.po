@@ -28405,7 +28405,7 @@ msgid ""
 "Вы смогли пробраться в город, но часть вашей армии осталась за стенами. Вам нужно уничтожить не менее {reg0}% защитников, прежде чем вы сможете открыть "
 "ворота. "
 msgstr ""
-"Вы змаглі прабрацца ў горад, але частка вашай арміі засталася за сценамі. Вам трэба знішчыць не менш {reg0} % абаронцаў, перш чым вы зможаце адкрыць "
+"Вы змаглі прабрацца ў горад, але частка вашай арміі засталася за сценамі. Вам трэба знішчыць не менш {reg0}% абаронцаў, перш чым вы зможаце адкрыць "
 "вароты. "
 
 # <English>You failed to sneak into the city. Worse yet, your vanguard ({s50})
@@ -29026,13 +29026,13 @@ msgstr "Выберыце, што вы хочаце зрабіць."
 #, fuzzy
 msgctxt "mno_ms_guild_deposit"
 msgid "Положить деньги в рост под {reg0}% ежемесячно. "
-msgstr "Пакласці грошы ў рост пад {reg0} % штомесяц. "
+msgstr "Пакласці грошы ў рост пад {reg0}% штомесяц. "
 
 # <English>Take a loan for one month with {reg0}%.</English>
 #, fuzzy
 msgctxt "mno_ms_guild_credit"
 msgid "Взять кредит под {reg0}% сроком на месяц. "
-msgstr "Ўзяць крэдыт пад {reg0} % тэрмінам на месяц. "
+msgstr "Ўзяць крэдыт пад {reg0}% тэрмінам на месяц. "
 
 # <English>Take back the deposit ({reg0} thaler)</English>
 #, fuzzy
@@ -56220,13 +56220,13 @@ msgstr "Наравісты %s"
 #, fuzzy
 msgctxt "imod_timid"
 msgid "Робкий %s"
-msgstr "Нясмелы % s"
+msgstr "Нясмелы %s"
 
 # <English>Meek %s</English>
 #, fuzzy
 msgctxt "imod_meek"
 msgid "Кроткий %s"
-msgstr "Лагодны % s"
+msgstr "Лагодны %s"
 
 # <English>Spirited %s</English>
 #, fuzzy
@@ -56244,13 +56244,13 @@ msgstr "Пародзісты %s"
 #, fuzzy
 msgctxt "imod_fresh"
 msgid "Свежая %s"
-msgstr "Свежая % s"
+msgstr "Свежая %s"
 
 # <English>Day-old %s</English>
 #, fuzzy
 msgctxt "imod_day_old"
 msgid "Несвежая %s"
-msgstr "Нясвежая % s"
+msgstr "Нясвежая %s"
 
 # <English>Two-day-old %s</English>
 #, fuzzy
@@ -56268,7 +56268,7 @@ msgstr "Тухлая %s"
 #, fuzzy
 msgctxt "imod_rotten"
 msgid "Гнилая %s"
-msgstr "Гнілая % s"
+msgstr "Гнілая %s"
 
 # <English>Large Bag of %s</English>
 #, fuzzy
@@ -64461,7 +64461,7 @@ msgstr "Гандаль"
 #, fuzzy
 msgctxt "skl_trade_desc"
 msgid "С каждым новым уровнем этого навыка торговые наценки уменьшаются на 5%% (навык отряда)."
-msgstr "З кожным новым узроўнем гэтага навыку гандлёвыя нацэнкі памяншаюцца на 5% % (навык атрада)."
+msgstr "З кожным новым узроўнем гэтага навыку гандлёвыя нацэнкі памяншаюцца на 5%% (навык атрада)."
 
 # <English>Leadership</English>
 #, fuzzy
@@ -64491,7 +64491,7 @@ msgstr "Змест палонных"
 #, fuzzy
 msgctxt "skl_prisoner_management_desc"
 msgid "С каждым новым уровнем этого навыка максимальное число пленных, которых вы можете захватить, увеличивается на %d."
-msgstr "З кожным новым узроўнем гэтага навыку максімальны лік палонных, якіх вы можаце захапіць, павялічваецца на % d."
+msgstr "З кожным новым узроўнем гэтага навыку максімальны лік палонных, якіх вы можаце захапіць, павялічваецца на %d."
 
 # <English>Persuasion</English>
 #, fuzzy
@@ -64530,7 +64530,7 @@ msgstr "Першая дапамога"
 #, fuzzy
 msgctxt "skl_first_aid_desc"
 msgid "Каждый новый уровень этого навыка восстанавливает у героев 5%% здоровья, потерянного при выполнении задания (навык отряда)."
-msgstr "Кожны новы ўзровень гэтага навыку аднаўляе ў Герояў 5% % здароўя, страчанага пры выкананні задання (навык атрада)."
+msgstr "Кожны новы ўзровень гэтага навыку аднаўляе ў Герояў 5%% здароўя, страчанага пры выкананні задання (навык атрада)."
 
 # <English>Surgery</English>
 #, fuzzy
@@ -64543,7 +64543,7 @@ msgstr "Хірургія"
 #, fuzzy
 msgctxt "skl_surgery_desc"
 msgid "С каждым новым уровнем этого навыка каждый член отряда получает 4%% шанс выжить при получении смертельного ранения (навык отряда)."
-msgstr "З кожным новым узроўнем гэтага навыку кожны член атрада атрымлівае 4% % шанец выжыць пры атрыманні смяротнага раненні (навык атрада)."
+msgstr "З кожным новым узроўнем гэтага навыку кожны член атрада атрымлівае 4%% шанец выжыць пры атрыманні смяротнага раненні (навык атрада)."
 
 # <English>Wound Treatment</English>
 #, fuzzy
@@ -64556,7 +64556,7 @@ msgstr "Перавязка ран"
 #, fuzzy
 msgctxt "skl_wound_treatment_desc"
 msgid "С каждым новым уровнем этого навыка скорость излечения отряда возрастает на 20%% (навык отряда)."
-msgstr "З кожным новым узроўнем гэтага навыку хуткасць лячэння атрада ўзрастае на 20% % (навык атрада)."
+msgstr "З кожным новым узроўнем гэтага навыку хуткасць лячэння атрада ўзрастае на 20%% (навык атрада)."
 
 # <English>Inventory Management</English>
 #, fuzzy
@@ -64594,7 +64594,7 @@ msgstr "Пошук шляху"
 #, fuzzy
 msgctxt "skl_pathfinding_desc"
 msgid "С каждым новым уровнем этого навыка скорость передвижения отряда по карте увеличивается на 3%% (навык отряда)."
-msgstr "З кожным новым узроўнем гэтага навыку хуткасць перамяшчэння атрада па карце павялічваецца на 3% % (навык атрада)."
+msgstr "З кожным новым узроўнем гэтага навыку хуткасць перамяшчэння атрада па карце павялічваецца на 3%% (навык атрада)."
 
 # <English>Tactics</English>
 #, fuzzy
@@ -64650,7 +64650,7 @@ msgstr "Збор трафеяў"
 #, fuzzy
 msgctxt "skl_looting_desc"
 msgid "С каждым новым уровнем этого навыка количество получаемой добычи будет увеличиваться на 10%% (навык отряда)."
-msgstr "З кожным новым узроўнем гэтага навыку колькасць атрыманай здабычы будзе павялічвацца на 10% % (навык атрада)."
+msgstr "З кожным новым узроўнем гэтага навыку колькасць атрыманай здабычы будзе павялічвацца на 10%% (навык атрада)."
 
 # <English>Shooting from Horseback</English>
 #, fuzzy
@@ -78532,7 +78532,7 @@ msgstr "Паведамленні аб складанасці стрэлу"
 #, fuzzy
 msgctxt "ui_difficulty_rating_percentage"
 msgid "Уровень сложности = %d%%"
-msgstr "Узровень складанасці = % d%%"
+msgstr "Узровень складанасці = %d%%"
 
 # <English>Controls</English>
 #, fuzzy
@@ -78641,13 +78641,13 @@ msgstr "Імпартаваць персанажа"
 #, fuzzy
 msgctxt "ui_character_playername_exported_successfully"
 msgid "Персонаж %s успешно экспортирован."
-msgstr "Персанаж % s паспяхова экспартаваны."
+msgstr "Персанаж %s паспяхова экспартаваны."
 
 # <English>Character %s imported successfully.</English>
 #, fuzzy
 msgctxt "ui_character_playername_imported_successfully"
 msgid "Персонаж %s успешно импортирован."
-msgstr "Персанаж % s паспяхова імпартаваны."
+msgstr "Персанаж %s паспяхова імпартаваны."
 
 # <English>Unable to open import file.</English>
 #, fuzzy
@@ -78745,7 +78745,7 @@ msgstr "Памылка пры выдаленні файла..."
 #, fuzzy
 msgctxt "ui_day_datedisplay"
 msgid "День %d (%d:%d%d)"
-msgstr "Дзень % d (%d: % d%d)"
+msgstr "Дзень %d (%d:%d%d)"
 
 # <English>Reset Changes</English>
 #, fuzzy
@@ -79103,7 +79103,7 @@ msgstr "У вас усе шанцы выйграць бой."
 #, fuzzy
 msgctxt "ui_tactical_advantage"
 msgid "Тактическое преимущество: %d (%s)"
-msgstr "Тактычнае перавага: % d (%s)"
+msgstr "Тактычнае перавага: %d (%s)"
 
 # <English>Order group:</English>
 #, fuzzy
@@ -79188,7 +79188,7 @@ msgstr "Сысці з поля бою?"
 #, fuzzy
 msgctxt "ui_retreated_battle"
 msgid "Pi[%s] R-[потерпел;;а;о;и] поражение."
-msgstr "Pi [%s] R-[пацярпеў;; а; аб; і] паразу."
+msgstr "Pi[%s] R-[пацярпеў;;а;аб; і] паразу."
 
 # <English>Retreat</English>
 #, fuzzy
@@ -79522,7 +79522,7 @@ msgstr "У баі. Праціўнік: "
 #, fuzzy
 msgctxt "ui_speed_equals"
 msgid "Скорость = %2.1f"
-msgstr "Хуткасць = %2.1 f"
+msgstr "Хуткасць = %2.1f"
 
 # <English>Garrison:</English>
 msgctxt "ui_defenders"
@@ -79653,7 +79653,7 @@ msgstr "Хм-м. тады не трэба."
 #, fuzzy
 msgctxt "ui_dumping_value_items"
 msgid "%d предметов будет потеряно. Продолжить?"
-msgstr "% d прадметаў будзе страчана. Працягнуць?"
+msgstr "%d прадметаў будзе страчана. Працягнуць?"
 
 # <English>One item will be permanently lost, are you sure?</English>
 #, fuzzy
@@ -79778,19 +79778,19 @@ msgstr "Кошт пакупкі: бясплатна"
 #, fuzzy
 msgctxt "ui_weight"
 msgid "Вес: %2.1f"
-msgstr "Вага: %2.1 f"
+msgstr "Вага: %2.1f"
 
 # <English>+%d to head armor</English>
 #, fuzzy
 msgctxt "ui_plus_value_to_head_armor"
 msgid "+%d к защите головы"
-msgstr "+ %d да абароны галавы"
+msgstr "+%d да абароны галавы"
 
 # <English>+%d to body armor</English>
 #, fuzzy
 msgctxt "ui_plus_value_to_body_armor"
 msgid "+%d к защите тела"
-msgstr "+ % d да абароны цела"
+msgstr "+%d да абароны цела"
 
 # <English>+%d to leg armor</English>
 #, fuzzy
@@ -79802,25 +79802,25 @@ msgstr "+ %d да абароны ног"
 #, fuzzy
 msgctxt "ui_swing"
 msgid "Рубящий удар: %d%s"
-msgstr "Секчы ўдар: % d % s"
+msgstr "Секчы ўдар: %d%s"
 
 # <English>Damage: %d%s</English>
 #, fuzzy
 msgctxt "ui_damage"
 msgid "Повреждение: %d%s"
-msgstr "Пашкоджанне: % d % s"
+msgstr "Пашкоджанне: %d%s"
 
 # <English>Thrust: %d%s</English>
 #, fuzzy
 msgctxt "ui_thrust"
 msgid "Колющий удар: %d%s"
-msgstr "Колючы ўдар: % d % s"
+msgstr "Колючы ўдар: %d%s"
 
 # <English>Accuracy: %d</English>
 #, fuzzy
 msgctxt "ui_accuracy"
 msgid "Точность: %d"
-msgstr "Дакладнасць: % d"
+msgstr "Дакладнасць: %d"
 
 # <English>Speed rating: %d</English>
 #, fuzzy
@@ -79832,19 +79832,19 @@ msgstr "Хуткасць: %d"
 #, fuzzy
 msgctxt "ui_value_to_damage"
 msgid "%c%d к урону"
-msgstr "% c % d да страт"
+msgstr "%c%d да страт"
 
 # <English>+%1.1f to party morale</English>
 #, fuzzy
 msgctxt "ui_value_to_morale"
 msgid "+%1.1f к боевому духу отряда"
-msgstr "+ %1.1 f да баявога духу атрада"
+msgstr "+ %1.1f да баявога духу атрада"
 
 # <English>Resistance: %d</English>
 #, fuzzy
 msgctxt "ui_resistance"
 msgid "Сопротивление: %d"
-msgstr "Супраціў: % d"
+msgstr "Супраціў: %d"
 
 # <English>Size: %d</English>
 #, fuzzy
@@ -79886,13 +79886,13 @@ msgstr "Напад: %d"
 #, fuzzy
 msgctxt "ui_hit_points"
 msgid "Здоровье: %d/%d"
-msgstr "Здароўе: % d / %d"
+msgstr "Здароўе: %d/%d"
 
 # <English>Requires %s: %d</English>
 #, fuzzy
 msgctxt "ui_requires_value_difficulty"
 msgid "Требуется навык %s - %d очков"
-msgstr "Патрабуецца навык % s - %d ачкоў"
+msgstr "Патрабуецца навык %s - %d ачкоў"
 
 # <English>Bonus against shields</English>
 #, fuzzy
@@ -79910,7 +79910,7 @@ msgstr "Нельга выкарыстоўваць для блакавання"
 #, fuzzy
 msgctxt "ui_troop_cant_use_item"
 msgid "%s: Я не могу это использовать!"
-msgstr "% s: я не магу гэта выкарыстоўваць!"
+msgstr "%s: я не магу гэта выкарыстоўваць!"
 
 # <English>Your riding skill is not high enough to mount this horse.</English>
 #, fuzzy
@@ -80019,7 +80019,7 @@ msgstr "Уменні атрада"
 #, fuzzy
 msgctxt "ui_morale"
 msgid "Боевой дух: %s"
-msgstr "Баявы дух: % s"
+msgstr "Баявы дух: %s"
 
 # <English>Terrible</English>
 #, fuzzy
@@ -80194,7 +80194,7 @@ msgstr " усе"
 #, fuzzy
 msgctxt "ui_joining_cost_weekly_wage"
 msgid "Цена вступления: %d, недельная плата: %d"
-msgstr "Кошт ўступлення: % d, тыднёвая плата: % d"
+msgstr "Кошт ўступлення: %d, тыднёвая плата: %d"
 
 # <English>Weekly wages: %d</English>
 msgctxt "ui_weekly_wage"
@@ -80210,19 +80210,19 @@ msgstr "Кошт: %d"
 #, fuzzy
 msgctxt "ui_number_ready_to_upgrade"
 msgid "Можно повысить %d воинов"
-msgstr "Можна павысіць % d воінаў"
+msgstr "Можна павысіць %d воінаў"
 
 # <English> Upgrade to %s</English>
 #, fuzzy
 msgctxt "ui_upgrade_to_value"
 msgid " Повысить до %s"
-msgstr " Павысіць да % s"
+msgstr " Павысіць да %s"
 
 # <English>No slot for upgrading to %s!</English>
 #, fuzzy
 msgctxt "ui_notification_no_slot_for_upgrade"
 msgid "Нет ячейки для повышения до %s."
-msgstr "Няма ячэйкі для павышэння да % s."
+msgstr "Няма ячэйкі для павышэння да %s."
 
 # <English>Shield broken.</English>
 msgctxt "ui_shield_broken"
@@ -80327,7 +80327,7 @@ msgstr "Конь нанёс %d страт."
 #, fuzzy
 msgctxt "ui_received_number_damage"
 msgid "Получено %d урона."
-msgstr "Атрымана % d страт."
+msgstr "Атрымана %d страт."
 
 # <English>Horse received %d damage.</English>
 #, fuzzy
@@ -80339,7 +80339,7 @@ msgstr "Конь атрымаў %d страт."
 #, fuzzy
 msgctxt "ui_value_killed_teammate"
 msgid "%s убивает своего!"
-msgstr "% s забівае свайго!"
+msgstr "%s забівае свайго!"
 
 # <English>Horse fell dead...</English>
 msgctxt "ui_horse_fell_dead"
@@ -80356,36 +80356,36 @@ msgstr "Конь ахрамеў..."
 #, fuzzy
 msgctxt "ui_shot_difficulty"
 msgid "Сложность выстрела: %2.1f"
-msgstr "Складанасць стрэлу: %2.1 f"
+msgstr "Складанасць стрэлу: %2.1f"
 
 # <English>You have improved your proficiency in %s to %d.</English>
 #, fuzzy
 msgctxt "ui_you_have_improved_your_proficiency_in_value_to_number"
 msgid "%s: ваше мастерство увеличивается до %d."
-msgstr "% s: ваша майстэрства павялічваецца да % d."
+msgstr "%s: ваша майстэрства павялічваецца да %d."
 
 # <English>Your proficiency in %s has improved by +%d to %d.</English>
 #, fuzzy
 msgctxt "ui_your_proficiency_in_value_has_improved_by_number_to_number"
 msgid "%s: ваше мастерство увеличивается на +%d до %d."
-msgstr "% s: ваша майстэрства павялічваецца на + % d Да % d."
+msgstr "%s: ваша майстэрства павялічваецца на + %d Да %d."
 
 # <English>%s killed by %s.</English>
 #, fuzzy
 msgctxt "ui_value_killed_by_value"
 msgid "%s погибает, после того как %s наносит удар."
-msgstr "%s гіне, пасля таго як % s наносіць удар."
+msgstr "%s гіне, пасля таго як %s наносіць удар."
 
 # <English>%s fell dead.</English>
 msgctxt "ui_value_fell_dead"
 msgid "%s падает замертво."
-msgstr "%s памер."
+msgstr "%s памёр."
 
 # <English>%s knocked unconscious by %s.</English>
 #, fuzzy
 msgctxt "ui_value_knocked_unconscious_by_value"
 msgid "%s падает без сознания, после того как %s наносит удар."
-msgstr "% s падае без прытомнасці, пасля таго як %s наносіць удар."
+msgstr "%s падае без прытомнасці, пасля таго як %s наносіць удар."
 
 # <English>%s fell unconscious.</English>
 msgctxt "ui_value_fell_unconscious"
@@ -80414,19 +80414,19 @@ msgstr "%s бяжыць з поля бою."
 #, fuzzy
 msgctxt "ui_you_got_number_experience"
 msgid "Вы получили %d опыта."
-msgstr "Вы атрымалі % D вопыту."
+msgstr "Вы атрымалі %d вопыту."
 
 # <English>You have advanced to level %d.</English>
 #, fuzzy
 msgctxt "ui_you_have_advanced_to_level_number"
 msgid "Вы достигаете уровня %d."
-msgstr "Вы дасягаеце ўзроўню % d."
+msgstr "Вы дасягаеце ўзроўню %d."
 
 # <English>%s has advanced to level %d.</English>
 #, fuzzy
 msgctxt "ui_value_has_advanced_to_level_number"
 msgid "%s достигает уровня %d."
-msgstr "% s дасягае ўзроўню % d."
+msgstr "%s дасягае ўзроўню %d."
 
 # <English>You got %s.</English>
 msgctxt "ui_you_got_value"
@@ -80597,15 +80597,15 @@ msgctxt "ui_value_left_the_party"
 msgid "%s покидает отряд."
 msgstr "%s пакідае атрад."
 
-# <English>%d %s(s) left the party.</English>
+# <English>%d%s(s) left the party.</English>
 msgctxt "ui_number_values_left_the_party"
-msgid "%d %s покидают отряд."
-msgstr "%d %s пакідаюць атрад."
+msgid "%d%s покидают отряд."
+msgstr "%d%s пакідаюць атрад."
 
-# <English>%d %s left the party.</English>
+# <English>%d%s left the party.</English>
 msgctxt "ui_number_value_left_the_party"
-msgid "%d %s покидает отряд."
-msgstr "%d %s пакідае атрад."
+msgid "%d%s покидает отряд."
+msgstr "%d%s пакідае атрад."
 
 # <English>Your relations with %s has improved from %d to %d.</English>
 msgctxt "ui_your_relations_with_value_has_improved_from_number_to_number"
@@ -80625,17 +80625,17 @@ msgstr "Вы аддалі %s."
 # <English>Lost item: %s.</English>
 msgctxt "ui_lost_item_value"
 msgid "Потеряны вещи: %s."
-msgstr "Страчаныя рэчы: % s."
+msgstr "Страчаныя рэчы: %s."
 
 # <English>Got: %d of %s</English>
 msgctxt "ui_got_number_value"
-msgid "Получено: %d %s."
-msgstr "Атрымана: % d % s."
+msgid "Получено: %d%s."
+msgstr "Атрымана: %d%s."
 
 # <English>Lost: %d of %s</English>
 msgctxt "ui_lost_number_value"
-msgid "Потеряно: %d %s."
-msgstr "Страчана: % d % s."
+msgid "Потеряно: %d%s."
+msgstr "Страчана: %d%s."
 
 # <English>Set default keys</English>
 #, fuzzy
@@ -80879,7 +80879,7 @@ msgstr "Скончаныя заданні"
 #, fuzzy
 msgctxt "ui_given_on_date"
 msgid "Выдано: %s"
-msgstr "Выдадзена: % s"
+msgstr "Выдадзена: %s"
 
 # <English>Days since given: %d</English>
 #, fuzzy
@@ -81109,7 +81109,7 @@ msgstr "Бягучы ўзровень: %d"
 #, fuzzy
 msgctxt "ui_base_attribute_value"
 msgid "Базовая характеристика: %s"
-msgstr "Базавая характарыстыка: % s"
+msgstr "Базавая характарыстыка: %s"
 
 # <English>Battle Controls</English>
 #, fuzzy
@@ -81450,13 +81450,13 @@ msgstr "%s, за мной!"
 #, fuzzy
 msgctxt "ui_charge_e_"
 msgid "%s, в атаку!!!"
-msgstr "% s, у атаку!!!"
+msgstr "%s, у атаку!!!"
 
 # <English>%s, stand your ground!</English>
 #, fuzzy
 msgctxt "ui_stand_ground_e_"
 msgid "%s, не отступать!"
-msgstr "% s, не адступаць!"
+msgstr "%s, не адступаць!"
 
 # <English>%s, retreat!</English>
 #, fuzzy
@@ -81474,25 +81474,25 @@ msgstr "%s, сесці верхам!"
 #, fuzzy
 msgctxt "ui_dismount_e_"
 msgid "%s, спешиться!"
-msgstr "% s, спешыцца!"
+msgstr "%s, спешыцца!"
 
 # <English>%s, advance ten paces!</English>
 #, fuzzy
 msgctxt "ui_advance_e_"
 msgid "%s, вперед на 10 шагов!"
-msgstr "% s, наперад на 10 крокаў!"
+msgstr "%s, наперад на 10 крокаў!"
 
 # <English>%s, fall back ten paces!</English>
 #, fuzzy
 msgctxt "ui_fall_back_e_"
 msgid "%s, назад на 10 шагов!"
-msgstr "% s, назад на 10 крокаў!"
+msgstr "%s, назад на 10 крокаў!"
 
 # <English>%s, stand closer!</English>
 #, fuzzy
 msgctxt "ui_stand_closer_e_"
 msgid "%s, встать ближе!"
-msgstr "% s, ўстаць бліжэй!"
+msgstr "%s, ўстаць бліжэй!"
 
 # <English>%s, spread out!</English>
 #, fuzzy
@@ -81504,31 +81504,31 @@ msgstr "%s, врассыпную!"
 #, fuzzy
 msgctxt "ui_use_blunt_weapons_e_"
 msgid "%s, использовать только дробящее оружие!"
-msgstr "% s, выкарыстоўваць толькі дробящее зброю!"
+msgstr "%s, выкарыстоўваць толькі дробящее зброю!"
 
 # <English>%s, choose your weapons freely!</English>
 #, fuzzy
 msgctxt "ui_use_any_weapon_e_"
 msgid "%s, использовать любое оружие!"
-msgstr "% s, выкарыстоўваць любую зброю!"
+msgstr "%s, выкарыстоўваць любую зброю!"
 
 # <English>%s, hold your fire!</English>
 #, fuzzy
 msgctxt "ui_hold_fire_e_"
 msgid "%s, прекратить огонь!"
-msgstr "% s, спыніць агонь!"
+msgstr "%s, спыніць агонь!"
 
 # <English>%s, fire at will!</English>
 #, fuzzy
 msgctxt "ui_fire_at_will_e_"
 msgid "%s, огонь без приказа!"
-msgstr "% s, агонь без загаду!"
+msgstr "%s, агонь без загаду!"
 
 # <English>%s, hold this position!</English>
 #, fuzzy
 msgctxt "ui_hold_this_position_e_"
 msgid "%s, держать позицию!"
-msgstr "% s, трымаць пазіцыю!"
+msgstr "%s, трымаць пазіцыю!"
 
 # <English>Infantry</English>
 #, fuzzy
@@ -81576,13 +81576,13 @@ msgstr "Усе, хто побач"
 #, fuzzy
 msgctxt "ui_str_hear_me"
 msgid "%s, слушай меня!"
-msgstr "% s, слухай мяне!"
+msgstr "%s, слухай мяне!"
 
 # <English>%s and %s</English>
 #, fuzzy
 msgctxt "ui_str_and_str"
 msgid "%s и %s"
-msgstr "% S і % s"
+msgstr "%s і %s"
 
 # <English>%s, %s</English>
 msgctxt "ui_str_comma_str"
@@ -81621,7 +81621,7 @@ msgstr "Гулец"
 #, fuzzy
 msgctxt "ui_value_denars"
 msgid "%d талеров"
-msgstr "% d талераў"
+msgstr "%d талераў"
 
 # <English>Back</English>
 msgctxt "ui_back"
@@ -81703,7 +81703,7 @@ msgstr "%s (%d)"
 #, fuzzy
 msgctxt "ui_button_party_member_hero_percentage_wounded"
 msgid "%s (%d%% - ранение)"
-msgstr "% s (%d % % - раненне)"
+msgstr "%s (%d%% - раненне)"
 
 # <English>%s (%d%%)</English>
 #, fuzzy
@@ -81758,19 +81758,19 @@ msgstr "Вы можаце выбраць DirectX 7 або DirectX 9, націс�
 #, fuzzy
 msgctxt "ui_dropping_picking_up"
 msgid "Брошено: %s. Поднято: %s."
-msgstr "Кінута: % s. паднята: % s."
+msgstr "Кінута: %s. паднята: %s."
 
 # <English>Dropping %s.</English>
 #, fuzzy
 msgctxt "ui_dropping"
 msgid "Выброшено: %s."
-msgstr "Выкінута: % s."
+msgstr "Выкінута: %s."
 
 # <English>Picking up %s.</English>
 #, fuzzy
 msgctxt "ui_picking_up"
 msgid "Поднято: %s."
-msgstr "Паднята: % s."
+msgstr "Паднята: %s."
 
 # <English>Unable to take that.</English>
 #, fuzzy
@@ -81903,7 +81903,7 @@ msgstr "Зачыніць"
 #, fuzzy
 msgctxt "ui_party_b_group_information"
 msgid "%s относится к группе %s"
-msgstr "% s ставіцца да групы % s"
+msgstr "%s ставіцца да групы %s"
 
 # <English>Thrown / %s</English>
 #, fuzzy
@@ -81915,7 +81915,7 @@ msgstr "Кідальнае / %s"
 #, fuzzy
 msgctxt "ui_ranged_damage"
 msgid "Стрелковое: %d%s"
-msgstr "Стралковая: % d % s"
+msgstr "Стралковая: %d%s"
 
 # <English>Overall Quality</English>
 #, fuzzy
@@ -82245,7 +82245,7 @@ msgid ""
 "На этом сервере запущена более новая версия (%d.%d%d%d) игры Mount&Blade. На вашем компьютере сейчас установлена игра версии %d.%d%d%d. Хотите зайти на "
 "сайт TaleWorlds и скачать недостающие файлы?"
 msgstr ""
-"На гэтым серверы запушчана больш новая версія (%d.%d%d%d) гульні Mount&Blade. На вашым кампутары цяпер ўстаноўлена гульня версіі %d.%d % d%d. хочаце "
+"На гэтым серверы запушчана больш новая версія (%d.%d%d%d) гульні Mount&Blade. На вашым кампутары цяпер ўстаноўлена гульня версіі %d.%d %d%d. хочаце "
 "зайсці на сайт TaleWorlds і спампаваць адсутнічаюць файлы?"
 
 # <English>This server is running an older version of With Fire and Sword
@@ -82253,7 +82253,7 @@ msgstr ""
 #, fuzzy
 msgctxt "ui_download_mb_old_version_question"
 msgid "На этом сервере запущена более старая версия (%d.%d%d%d) игры Mount&Blade. На вашем компьютере сейчас установлена игра версии %d.%d%d%d."
-msgstr "На гэтым серверы запушчана больш старая версія (%d.%d%d%d) гульні Mount&Blade. На вашым кампутары цяпер ўстаноўлена гульня версіі %d. % d % d % d."
+msgstr "На гэтым серверы запушчана больш старая версія (%d.%d%d%d) гульні Mount&Blade. На вашым кампутары цяпер ўстаноўлена гульня версіі %d. %d %d %d."
 
 # <English>This server is running a newer version of With Fire and Sword
 # (%d.%d%d%d) than the one you are currently running (%d.%d%d%d). Would you
@@ -82264,7 +82264,7 @@ msgid ""
 "На этом сервере запущена более новая версия (%d.%d%d%d) текущего модуля игры. На вашем компьютере сейчас установлен модуль версии %d.%d%d%d. Хотите зайти "
 "на сайт загружаемых файлов и скачать данный модуль?"
 msgstr ""
-"На гэтым серверы запушчана больш новая версія (%d.%d%d % d) бягучага модуля гульні. На вашым кампутары цяпер усталяваны модуль версіі %d.%d % d%d. хочаце "
+"На гэтым серверы запушчана больш новая версія (%d.%d%d%d) бягучага модуля гульні. На вашым кампутары цяпер усталяваны модуль версіі %d.%d%d%d. хочаце "
 "зайсці на сайт загружаных файлаў і спампаваць дадзены модуль?"
 
 # <English>This server is running an older version of the current module
@@ -82273,7 +82273,7 @@ msgstr ""
 msgctxt "ui_download_module_old_version_question"
 msgid "На этом сервере запущена более старая версия (%d.%d%d%d) текущего модуля игры. На вашем компьютере сейчас установлен модуль версии %d.%d%d%d."
 msgstr ""
-"На гэтым серверы запушчана больш старая версія (%d.%d%d % d) бягучага модуля гульні. На вашым кампутары цяпер усталяваны модуль версіі %d. % d % d % d."
+"На гэтым серверы запушчана больш старая версія (%d.%d%d%d) бягучага модуля гульні. На вашым кампутары цяпер усталяваны модуль версіі %d.%d%d%d."
 
 # <English>Authenticating with Steam...</English>
 msgctxt "ui_authenticating_with_steam"
@@ -82400,7 +82400,7 @@ msgstr "ТРУП"
 #, fuzzy
 msgctxt "ui_instancing_error1"
 msgid "Не удается зафиксировать буфер образцов (размер: %d), кодирование образцов отключено (код ошибки: %d)"
-msgstr "Не ўдаецца зафіксаваць буфер узораў (Памер: % d), кадаванне узораў адключана (код памылкі: % d)"
+msgstr "Не ўдаецца зафіксаваць буфер узораў (Памер: %d), кадаванне узораў адключана (код памылкі: %d)"
 
 # <English>Could not fit instanced objects, Disabled mesh-instancing</English>
 #, fuzzy
